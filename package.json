@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "description": "Méthode 90 — L'allemand en 90 leçons et en 90 jours (Alphonse Jenny)",
   "scripts": {
-    "dev": "astro dev",
-    "start": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "check": "astro check",
-    "astro": "astro"
+    "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
+    "start": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
+    "build": "ASTRO_TELEMETRY_DISABLED=1 astro build",
+    "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
+    "check": "ASTRO_TELEMETRY_DISABLED=1 astro check",
+    "astro": "ASTRO_TELEMETRY_DISABLED=1 astro"
   },
   "dependencies": {
     "astro": "^5.7.0",

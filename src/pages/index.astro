@@ -14,7 +14,7 @@ import Modals from '@components/Modals.astro';
   <Header />
 
   <!-- Conteneur Principal -->
-  <div class="max-w-7xl mx-auto flex min-h-[calc(100vh-4.375rem)] relative">
+  <div class="max-w-7xl mx-auto flex min-h-[calc(100vh-4.25rem)] relative">
     <Sidebar />
 
     <!-- Zone Principale de Contenu de la Leçon -->
@@ -27,18 +27,18 @@ import Modals from '@components/Modals.astro';
       <ArenaTab />
 
       <!-- Navigation Bas de Page entre Leçons -->
-      <div class="mt-8 pt-6 border-t border-gray-200 flex items-center justify-between gap-4">
+      <div class="mt-8 pt-6 border-t border-stone-300 flex items-center justify-between gap-4">
         <button
           id="prev-lesson-btn"
           type="button"
-          class="px-4 py-2.5 rounded-xl bg-white border border-gray-200 hover:bg-gray-50 text-xs sm:text-sm font-semibold text-gray-700 transition disabled:opacity-40 disabled:cursor-not-allowed cursor-pointer"
+          class="px-4 py-2.5 bg-white border border-stone-300 hover:bg-stone-100 text-xs sm:text-sm font-semibold text-stone-700 transition disabled:opacity-40 disabled:cursor-not-allowed cursor-pointer"
         >
           ← Leçon précédente
         </button>
         <button
           id="next-lesson-btn"
           type="button"
-          class="px-4 py-2.5 rounded-xl bg-white border border-gray-200 hover:bg-gray-50 text-xs sm:text-sm font-semibold text-gray-700 transition disabled:opacity-40 disabled:cursor-not-allowed cursor-pointer"
+          class="px-4 py-2.5 bg-white border border-stone-300 hover:bg-stone-100 text-xs sm:text-sm font-semibold text-stone-700 transition disabled:opacity-40 disabled:cursor-not-allowed cursor-pointer"
         >
           Leçon suivante →
         </button>

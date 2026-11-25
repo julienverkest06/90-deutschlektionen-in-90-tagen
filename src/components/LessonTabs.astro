@@ -1,33 +1,32 @@
 ---
 ---
 
-<div class="flex p-1 bg-gray-200/70 rounded-2xl mb-6 gap-1">
+<div class="grid grid-cols-3 border border-stone-300 bg-stone-100 mb-6 divide-x divide-stone-300">
   <button
     id="tab-btn-text"
     data-tab="text"
     type="button"
-    class="flex-1 py-2.5 px-3 rounded-xl text-xs sm:text-sm font-bold transition flex items-center justify-center gap-2 bg-white text-de-black shadow-xs cursor-pointer"
+    class="py-3 px-3 text-xs sm:text-sm font-bold transition flex items-center justify-center gap-2 bg-white text-de-black border-b-2 border-b-de-red cursor-pointer"
   >
-    <span>📖</span>
+    <span class="text-de-red" aria-hidden="true">§</span>
     <span>1. Texte & Audio</span>
   </button>
   <button
     id="tab-btn-vocab"
     data-tab="vocab"
     type="button"
-    class="flex-1 py-2.5 px-3 rounded-xl text-xs sm:text-sm font-bold transition flex items-center justify-center gap-2 text-gray-600 hover:text-de-black cursor-pointer"
+    class="py-3 px-3 text-xs sm:text-sm font-semibold transition flex items-center justify-center gap-2 text-stone-600 hover:text-de-black hover:bg-stone-50 border-b-2 border-b-transparent cursor-pointer"
   >
-    <span>🗂️</span>
+    <span aria-hidden="true">¶</span>
     <span>2. Vocabulaire & Grammaire</span>
   </button>
   <button
     id="tab-btn-arena"
     data-tab="arena"
     type="button"
-    class="flex-1 py-2.5 px-3 rounded-xl text-xs sm:text-sm font-bold transition flex items-center justify-center gap-2 text-gray-600 hover:text-de-black relative cursor-pointer"
+    class="py-3 px-3 text-xs sm:text-sm font-semibold transition flex items-center justify-center gap-2 text-stone-600 hover:text-de-black hover:bg-stone-50 border-b-2 border-b-transparent cursor-pointer"
   >
-    <span>⚔️</span>
+    <span aria-hidden="true">❖</span>
     <span>3. Arène d'Exercices</span>
-    <span class="w-2 h-2 rounded-full bg-de-red animate-ping"></span>
   </button>
 </div>

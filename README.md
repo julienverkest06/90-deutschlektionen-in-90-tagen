@@ -44,3 +44,12 @@ npm run dev
 ## Ajouter une nouvelle leçon authentique
 
 Il suffit d'ajouter un fichier JSON dans `src/data/lessons/` (par exemple `02.json` en respectant l'interface `Lesson` de `src/data/types.ts`). Vite le charge automatiquement via `import.meta.glob`.
+
+## Déploiement GitHub Pages
+
+Un workflow GitHub Actions (`.github/workflows/deploy.yml`) vérifie les types, compile le site statique et déploie automatiquement sur GitHub Pages à chaque push sur `main`.
+
+1. Dans le dépôt GitHub, ouvrir **Settings → Pages**.
+2. Sous **Build and deployment → Source**, choisir **GitHub Actions**.
+3. Le site sera publié sur `https://julienverkest06.github.io/90-deutschlektionen-in-90-tagen/`.
+

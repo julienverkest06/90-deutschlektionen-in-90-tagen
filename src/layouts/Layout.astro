@@ -10,6 +10,8 @@ const {
   title = "Méthode 90 — L'allemand en 90 leçons et en 90 jours",
   description = "Méthode interactive d'apprentissage de l'allemand en 90 leçons d'Alphonse Jenny : textes juxtalinéaires, audio, vocabulaire, grammaire et exercices gamifiés.",
 } = Astro.props;
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
 <!DOCTYPE html>
@@ -18,7 +20,7 @@ const {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
     <title>{title}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -27,9 +29,9 @@ const {
       rel="stylesheet"
     />
   </head>
-  <body class="bg-de-cream text-de-black font-sans antialiased selection:bg-de-gold selection:text-de-black overflow-x-hidden">
-    <!-- Bandeau tricolore allemand ultra-fin en haut de l'écran -->
-    <div class="fixed top-0 left-0 right-0 z-50 flex h-1.5" aria-hidden="true">
+  <body class="bg-de-cream text-de-black font-sans antialiased selection:bg-de-gold-light selection:text-de-black overflow-x-hidden">
+    <!-- Filet tricolore éditorial discret en haut de l'écran -->
+    <div class="fixed top-0 left-0 right-0 z-50 flex h-1" aria-hidden="true">
       <div class="w-1/3 bg-de-black"></div>
       <div class="w-1/3 bg-de-red"></div>
       <div class="w-1/3 bg-de-gold"></div>

@@ -2,27 +2,27 @@
 ---
 
 <section id="tab-content-arena" class="hidden animate-pop">
-  <div id="arena-container" class="bg-white rounded-2xl border border-gray-200 p-5 sm:p-8 shadow-sm relative overflow-hidden">
+  <div id="arena-container" class="bg-white border border-stone-300 p-5 sm:p-8 relative overflow-hidden">
     <!-- Barre de statut de la session de jeu -->
-    <div class="flex flex-wrap items-center justify-between gap-3 pb-4 mb-6 border-b border-gray-100">
+    <div class="flex flex-wrap items-center justify-between gap-3 pb-4 mb-6 border-b border-stone-200">
       <div class="flex items-center gap-3 flex-1 min-w-[200px]">
-        <span id="arena-q-counter" class="text-xs font-extrabold text-de-black whitespace-nowrap">
+        <span id="arena-q-counter" class="text-xs font-bold uppercase tracking-wider text-de-black whitespace-nowrap tabular-nums">
           Question 1 / 5
         </span>
-        <div class="flex-1 h-2.5 bg-gray-100 rounded-full overflow-hidden">
+        <div class="flex-1 h-1.5 bg-stone-200 overflow-hidden">
           <div
             id="arena-progress-bar"
-            class="h-full bg-de-red transition-all duration-300 rounded-full"
+            class="h-full bg-de-red transition-all duration-300"
             style="width: 20%"
           ></div>
         </div>
       </div>
 
       <div class="flex items-center gap-2">
-        <div id="arena-combo-badge" class="hidden px-2.5 py-1 rounded-full bg-de-gold text-de-black text-xs font-extrabold animate-bounce">
-          🔥 Combo x2
+        <div id="arena-combo-badge" class="hidden px-2.5 py-1 border border-de-gold bg-de-gold-light text-de-black text-xs font-bold">
+          ✶ Combo ×2
         </div>
-        <span id="arena-session-xp" class="px-2.5 py-1 rounded-lg bg-gray-100 text-de-black text-xs font-bold">
+        <span id="arena-session-xp" class="px-2.5 py-1 bg-de-cream border border-stone-200 text-de-black text-xs font-bold tabular-nums">
           +0 XP
         </span>
       </div>

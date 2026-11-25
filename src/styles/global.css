@@ -4,52 +4,47 @@
   --font-sans: 'Inter', sans-serif;
   --font-serif: 'Newsreader', serif;
 
-  --color-de-black: #111827;
-  --color-de-red: #DD0000;
-  --color-de-red-dark: #B90000;
-  --color-de-gold: #FFCE00;
-  --color-de-gold-light: #FFFBEB;
-  --color-de-cream: #FAFAFA;
+  /* Palette éditoriale sobre (encre, papier, carmin sourd, laiton patiné) */
+  --color-de-black: #18181B;
+  --color-de-red: #8C1D18;
+  --color-de-red-dark: #6E1511;
+  --color-de-gold: #A6842D;
+  --color-de-gold-light: #F5F2E8;
+  --color-de-cream: #F7F6F2;
   --color-de-paper: #FFFFFF;
 }
 
-/* Animations personnalisées pour la gamification et les transitions */
+/* Animations sobres pour la gamification et les transitions */
 @keyframes shake {
   0%, 100% { transform: translateX(0); }
-  20%, 60% { transform: translateX(-6px); }
-  40%, 80% { transform: translateX(6px); }
+  20%, 60% { transform: translateX(-5px); }
+  40%, 80% { transform: translateX(5px); }
 }
 
 .animate-shake {
-  animation: shake 0.4s cubic-bezier(.36, .07, .19, .97) both;
+  animation: shake 0.35s cubic-bezier(.36, .07, .19, .97) both;
 }
 
 @keyframes popIn {
-  0% { transform: scale(0.92); opacity: 0; }
-  100% { transform: scale(1); opacity: 1; }
+  0% { transform: translateY(4px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
 }
 
 .animate-pop {
-  animation: popIn 0.25s ease-out forwards;
+  animation: popIn 0.2s ease-out forwards;
 }
 
 @keyframes floatUp {
-  0% { transform: translateY(0) scale(1); opacity: 1; }
-  100% { transform: translateY(-28px) scale(1.15); opacity: 0; }
+  0% { transform: translateY(0); opacity: 1; }
+  100% { transform: translateY(-24px); opacity: 0; }
 }
 
 .animate-xp {
-  animation: floatUp 1s ease-out forwards;
+  animation: floatUp 0.9s ease-out forwards;
 }
 
-/* Effet de carte retournable pour les flashcards */
-.perspective-1000 { perspective: 1000px; }
-.transform-style-3d { transform-style: preserve-3d; }
-.backface-hidden { backface-visibility: hidden; }
-.rotate-y-180 { transform: rotateY(180deg); }
-
-/* Barre de défilement sobre */
+/* Barre de défilement sobre et angulaire */
 ::-webkit-scrollbar { width: 6px; height: 6px; }
-::-webkit-scrollbar-track { background: #F3F4F6; }
-::-webkit-scrollbar-thumb { background: #D1D5DB; border-radius: 9999px; }
-::-webkit-scrollbar-thumb:hover { background: #9CA3AF; }
+::-webkit-scrollbar-track { background: #F1EFEA; }
+::-webkit-scrollbar-thumb { background: #C8C4BC; }
+::-webkit-scrollbar-thumb:hover { background: #8E8A82; }

@@ -27,10 +27,10 @@ function animateXpGain(amount: number): void {
   if (!anchor) return;
   const el = document.createElement('div');
   el.className =
-    'animate-xp text-xs font-extrabold text-de-red bg-de-gold px-2 py-0.5 rounded-full shadow-xs whitespace-nowrap';
+    'animate-xp text-xs font-bold text-de-cream bg-de-black border border-de-gold px-2 py-0.5 whitespace-nowrap';
   el.textContent = `+${amount} XP`;
   anchor.appendChild(el);
-  window.setTimeout(() => el.remove(), 1000);
+  window.setTimeout(() => el.remove(), 900);
 }
 
 function renderHeaderStats(): void {
@@ -80,9 +80,9 @@ function setSeriesFilter(series: SeriesFilter): void {
     const btn = document.getElementById(`filter-${key}`);
     if (!btn) return;
     if (key === series) {
-      btn.className = 'py-1.5 rounded-lg bg-de-black text-white transition cursor-pointer';
+      btn.className = 'py-2 bg-de-black text-white transition cursor-pointer';
     } else {
-      btn.className = 'py-1.5 rounded-lg text-gray-600 hover:bg-gray-100 transition cursor-pointer';
+      btn.className = 'py-2 text-stone-600 hover:bg-stone-100 transition cursor-pointer';
     }
   });
   renderSidebar();
@@ -105,12 +105,12 @@ function renderSidebar(): void {
   if (modeBtn) {
     if (state.freeMode) {
       modeBtn.className =
-        'px-2 py-1 rounded-lg font-semibold border border-emerald-200 bg-emerald-50 text-emerald-800 transition flex items-center gap-1 cursor-pointer';
-      modeBtn.innerHTML = '<span>🔓</span><span>Accès libre</span>';
+        'px-2 py-1 font-semibold border border-stone-300 bg-white text-de-black hover:bg-stone-100 transition flex items-center gap-1.5 cursor-pointer';
+      modeBtn.innerHTML = '<span aria-hidden="true">◇</span><span>Accès libre</span>';
     } else {
       modeBtn.className =
-        'px-2 py-1 rounded-lg font-semibold border border-amber-200 bg-amber-50 text-amber-800 transition flex items-center gap-1 cursor-pointer';
-      modeBtn.innerHTML = '<span>🔒</span><span>Parcours guidé</span>';
+        'px-2 py-1 font-semibold border border-de-gold bg-de-gold-light text-de-black transition flex items-center gap-1.5 cursor-pointer';
+      modeBtn.innerHTML = '<span aria-hidden="true">◈</span><span>Parcours guidé</span>';
     }
   }
 
@@ -136,7 +136,7 @@ function renderSidebar(): void {
       currentSeriesHeader = series;
       const header = document.createElement('div');
       header.className =
-        'px-2.5 pt-3 pb-1 text-[10px] font-extrabold uppercase tracking-wider text-gray-400';
+        'px-2.5 pt-3 pb-1 text-[10px] font-bold uppercase tracking-widest text-stone-400 border-b border-stone-100 mb-1';
       header.textContent = SERIES_SIDEBAR_NAMES[series];
       list.appendChild(header);
     }
@@ -155,44 +155,44 @@ function renderSidebar(): void {
     });
 
     let baseClasses =
-      'w-full text-left px-3 py-2.5 rounded-xl transition flex items-center justify-between gap-2 border ';
+      'w-full text-left px-3 py-2.5 transition flex items-center justify-between gap-2 border-l-2 ';
     if (isActive) {
-      baseClasses += 'bg-de-black text-white border-de-black shadow-xs';
+      baseClasses += 'bg-de-black text-de-cream border-l-de-red';
     } else if (!unlocked) {
-      baseClasses += 'bg-gray-50/60 text-gray-400 border-transparent cursor-not-allowed';
+      baseClasses += 'bg-stone-50/70 text-stone-400 border-l-transparent cursor-not-allowed';
     } else {
-      baseClasses += 'bg-white hover:bg-gray-50 text-de-black border-transparent hover:border-gray-200 cursor-pointer';
+      baseClasses += 'bg-white hover:bg-de-cream text-de-black border-l-transparent hover:border-l-stone-400 cursor-pointer';
     }
     item.className = baseClasses;
 
     const badgeColor = id.includes('bis')
       ? isActive
         ? 'bg-de-gold text-de-black'
-        : 'bg-amber-100 text-amber-900'
+        : 'bg-de-gold-light border border-de-gold/40 text-de-black'
       : isActive
         ? 'bg-de-red text-white'
-        : 'bg-gray-100 text-gray-700';
+        : 'bg-stone-100 border border-stone-200 text-stone-700';
 
     const statusHtml = !unlocked
-      ? '<span>🔒</span>'
+      ? '<span class="text-stone-400" title="Verrouillée">⊗</span>'
       : stars > 0
-        ? `<span class="text-amber-400">${'★'.repeat(stars)}</span>`
+        ? `<span class="text-de-gold">${'★'.repeat(stars)}</span>`
         : isAuthentic
-          ? '<span class="w-1.5 h-1.5 rounded-full bg-de-red" title="Leçon intégrale"></span>'
+          ? '<span class="w-1.5 h-1.5 bg-de-red inline-block" title="Leçon intégrale"></span>'
           : '';
 
     item.innerHTML = `
       <div class="flex items-center gap-2.5 min-w-0">
-        <span class="px-2 py-0.5 rounded-md text-[11px] font-extrabold shrink-0 ${badgeColor}">${id}</span>
+        <span class="px-2 py-0.5 text-[11px] font-bold shrink-0 tabular-nums ${badgeColor}">${id}</span>
         <div class="truncate">
-          <div class="text-xs font-bold truncate"></div>
-          <div class="text-[11px] truncate ${isActive ? 'text-gray-300' : 'text-gray-500'}"></div>
+          <div class="text-xs font-semibold truncate"></div>
+          <div class="text-[11px] truncate ${isActive ? 'text-stone-300' : 'text-stone-500'}"></div>
         </div>
       </div>
       <div class="shrink-0 flex items-center gap-1 text-xs">${statusHtml}</div>
     `;
 
-    const titleDeEl = item.querySelector('.text-xs.font-bold');
+    const titleDeEl = item.querySelector('.text-xs.font-semibold');
     const titleFrEl = item.querySelector('.text-\\[11px\\].truncate');
     if (titleDeEl) titleDeEl.textContent = meta.de;
     if (titleFrEl) titleFrEl.textContent = meta.fr;
@@ -209,7 +209,7 @@ function renderLessonText(lesson: Lesson): void {
   lesson.paragraphs.forEach((p, idx) => {
     const card = document.createElement('div');
     card.className =
-      'p-4 rounded-xl bg-gray-50/80 hover:bg-amber-50/40 border border-gray-100 hover:border-amber-200/70 transition group';
+      'p-4 bg-de-cream/70 hover:bg-de-gold-light/60 border border-stone-200 hover:border-stone-400 transition group';
 
     const topRow = document.createElement('div');
     topRow.className = 'flex items-start justify-between gap-3';
@@ -219,7 +219,7 @@ function renderLessonText(lesson: Lesson): void {
 
     const numBadge = document.createElement('span');
     numBadge.className =
-      'w-6 h-6 rounded-full bg-de-black text-white text-xs font-bold flex items-center justify-center shrink-0 mt-0.5';
+      'w-6 h-6 bg-de-black text-de-cream text-xs font-bold flex items-center justify-center shrink-0 mt-0.5 tabular-nums';
     numBadge.textContent = String(idx + 1);
 
     const deText = document.createElement('p');
@@ -232,15 +232,15 @@ function renderLessonText(lesson: Lesson): void {
     const speakBtn = document.createElement('button');
     speakBtn.type = 'button';
     speakBtn.className =
-      'p-2 rounded-lg bg-white border border-gray-200 hover:border-de-black text-de-black shrink-0 transition shadow-2xs cursor-pointer';
+      'px-2.5 py-1.5 bg-white border border-stone-300 hover:border-de-black hover:bg-de-black hover:text-de-cream text-de-black text-sm shrink-0 transition cursor-pointer';
     speakBtn.title = 'Écouter en allemand';
-    speakBtn.textContent = '🔊';
+    speakBtn.textContent = '♪';
     speakBtn.addEventListener('click', () => speakGerman(p.de));
 
     topRow.append(textCol, speakBtn);
 
     const frText = document.createElement('p');
-    frText.className = `fr-translation mt-2.5 pl-9 text-xs sm:text-sm text-gray-600 leading-relaxed${state.showFrench ? '' : ' hidden'}`;
+    frText.className = `fr-translation mt-2.5 pl-9 text-xs sm:text-sm text-stone-600 leading-relaxed${state.showFrench ? '' : ' hidden'}`;
     frText.textContent = p.fr;
 
     card.append(topRow, frText);
@@ -274,21 +274,21 @@ function renderVocabAndGrammar(lesson: Lesson): void {
     lesson.vocab.forEach((v) => {
       const card = document.createElement('div');
       card.className =
-        'cursor-pointer p-4 rounded-xl border border-gray-200 bg-white hover:border-de-black transition shadow-2xs flex flex-col justify-between min-h-[104px] select-none';
+        'cursor-pointer p-4 border border-stone-300 bg-white hover:border-de-black transition flex flex-col justify-between min-h-[108px] select-none';
 
       const header = document.createElement('div');
       header.className = 'flex items-center justify-between gap-2';
 
       const info = document.createElement('span');
       info.className =
-        'text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-gray-100 text-gray-600';
+        'text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 border border-stone-200 bg-de-cream text-stone-600';
       info.textContent = v.info;
 
       const speakBtn = document.createElement('button');
       speakBtn.type = 'button';
-      speakBtn.className = 'p-1.5 rounded-lg hover:bg-gray-100 text-xs cursor-pointer';
+      speakBtn.className = 'px-2 py-1 border border-stone-200 hover:border-de-black text-xs transition cursor-pointer';
       speakBtn.title = 'Prononcer';
-      speakBtn.textContent = '🔊';
+      speakBtn.textContent = '♪';
       speakBtn.addEventListener('click', (e) => {
         e.stopPropagation();
         speakGerman(v.de.split('(')[0].trim());
@@ -300,22 +300,23 @@ function renderVocabAndGrammar(lesson: Lesson): void {
       body.className = 'mt-2';
 
       const deEl = document.createElement('p');
-      deEl.className = 'v-de font-bold text-sm sm:text-base';
+      deEl.className = 'v-de font-serif font-bold text-base';
       deEl.textContent = v.de;
 
       const frEl = document.createElement('p');
-      frEl.className = 'v-fr hidden font-semibold text-sm sm:text-base text-de-gold';
+      frEl.className = 'v-fr hidden font-semibold text-sm sm:text-base text-de-gold-light';
       frEl.textContent = v.fr;
 
       body.append(deEl, frEl);
 
       const hint = document.createElement('span');
-      hint.className = 'text-[10px] text-gray-400 mt-1';
+      hint.className = 'text-[10px] text-stone-400 mt-2 uppercase tracking-wider';
       hint.textContent = 'Cliquer pour retourner';
 
       card.addEventListener('click', () => {
         card.classList.toggle('bg-de-black');
-        card.classList.toggle('text-white');
+        card.classList.toggle('text-de-cream');
+        card.classList.toggle('border-de-black');
         frEl.classList.toggle('hidden');
         deEl.classList.toggle('hidden');
       });
@@ -330,12 +331,12 @@ function renderVocabAndGrammar(lesson: Lesson): void {
     grammarContainer.innerHTML = lesson.grammar
       .map(
         (g) => `
-        <div class="p-4 rounded-xl bg-gray-50 border border-gray-200/80">
+        <div class="p-4 bg-de-cream/70 border border-stone-200 border-l-2 border-l-de-red">
           <h4 class="font-bold text-de-black mb-1.5 flex items-center gap-2">
-            <span class="w-2 h-2 rounded-full bg-de-red"></span>
+            <span class="w-1.5 h-1.5 bg-de-red inline-block"></span>
             <span>${g.title}</span>
           </h4>
-          <p class="text-gray-700 leading-relaxed">${g.body}</p>
+          <p class="text-stone-700 leading-relaxed">${g.body}</p>
         </div>
       `,
       )
@@ -351,11 +352,11 @@ function switchTab(tabName: TabName): void {
     if (!btn || !content) return;
     if (t === tabName) {
       btn.className =
-        'flex-1 py-2.5 px-3 rounded-xl text-xs sm:text-sm font-bold transition flex items-center justify-center gap-2 bg-white text-de-black shadow-xs relative cursor-pointer';
+        'py-3 px-3 text-xs sm:text-sm font-bold transition flex items-center justify-center gap-2 bg-white text-de-black border-b-2 border-b-de-red cursor-pointer';
       content.classList.remove('hidden');
     } else {
       btn.className =
-        'flex-1 py-2.5 px-3 rounded-xl text-xs sm:text-sm font-bold transition flex items-center justify-center gap-2 text-gray-600 hover:text-de-black relative cursor-pointer';
+        'py-3 px-3 text-xs sm:text-sm font-semibold transition flex items-center justify-center gap-2 text-stone-600 hover:text-de-black hover:bg-stone-50 border-b-2 border-b-transparent cursor-pointer';
       content.classList.add('hidden');
     }
   });
@@ -413,7 +414,7 @@ function selectLesson(id: string): void {
     starsDisplay.innerHTML = [1, 2, 3]
       .map(
         (s) =>
-          `<span class="${s <= stars ? 'text-amber-400' : 'text-gray-200'} text-lg">★</span>`,
+          `<span class="${s <= stars ? 'text-de-gold' : 'text-stone-300'} text-base">${s <= stars ? '★' : '☆'}</span>`,
       )
       .join('');
   }
@@ -446,12 +447,12 @@ function openBadgesModal(): void {
     grid.innerHTML = BADGES_CATALOG.map((b) => {
       const unlocked = state.unlockedBadges.includes(b.id);
       return `
-        <div class="p-3.5 rounded-xl border ${unlocked ? 'border-de-gold bg-amber-50/50' : 'border-gray-200 bg-gray-50 opacity-60'} flex items-start gap-3">
-          <div class="text-2xl ${unlocked ? '' : 'grayscale'}">${b.icon}</div>
+        <div class="p-3.5 border ${unlocked ? 'border-de-gold bg-de-gold-light' : 'border-stone-200 bg-stone-50 opacity-55'} flex items-start gap-3">
+          <div class="text-2xl leading-none ${unlocked ? 'text-de-black' : 'text-stone-400'}">${b.icon}</div>
           <div>
-            <div class="text-xs font-extrabold text-de-black">${b.title}</div>
-            <p class="text-[11px] text-gray-600 mt-0.5">${b.desc}</p>
-            <span class="inline-block mt-1.5 text-[10px] font-bold px-2 py-0.5 rounded ${unlocked ? 'bg-de-gold text-de-black' : 'bg-gray-200 text-gray-500'}">
+            <div class="text-xs font-bold text-de-black">${b.title}</div>
+            <p class="text-[11px] text-stone-600 mt-0.5">${b.desc}</p>
+            <span class="inline-block mt-2 text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 border ${unlocked ? 'border-de-black bg-de-black text-de-cream' : 'border-stone-300 bg-white text-stone-500'}">
               ${unlocked ? 'Débloqué' : 'Verrouillé'}
             </span>
           </div>
@@ -491,14 +492,14 @@ function confirmResetProgress(): void {
     const cancelBtn = document.createElement('button');
     cancelBtn.type = 'button';
     cancelBtn.className =
-      'px-4 py-2 rounded-xl border border-gray-200 text-xs font-bold text-gray-700 hover:bg-gray-50 cursor-pointer';
+      'px-4 py-2 border border-stone-300 text-xs font-bold text-stone-700 hover:bg-stone-100 cursor-pointer';
     cancelBtn.textContent = 'Annuler';
     cancelBtn.addEventListener('click', closeCustomDialog);
 
     const confirmBtn = document.createElement('button');
     confirmBtn.type = 'button';
     confirmBtn.className =
-      'px-4 py-2 rounded-xl bg-de-red text-white text-xs font-bold hover:bg-de-red-dark cursor-pointer';
+      'px-4 py-2 bg-de-red text-white text-xs font-bold hover:bg-de-red-dark cursor-pointer';
     confirmBtn.textContent = 'Tout effacer';
     confirmBtn.addEventListener('click', () => {
       resetState();
@@ -528,7 +529,7 @@ function bindEvents(): void {
   document.querySelectorAll<HTMLButtonElement>('[data-series-filter]').forEach((btn) => {
     btn.addEventListener('click', () => {
       const raw = btn.dataset.seriesFilter;
-      const filter: SeriesFilter = raw === '1' || raw === '2' || raw === '3' ? Number(raw) as 1 | 2 | 3 : 'all';
+      const filter: SeriesFilter = raw === '1' || raw === '2' || raw === '3' ? (Number(raw) as 1 | 2 | 3) : 'all';
       setSeriesFilter(filter);
     });
   });

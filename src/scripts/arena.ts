@@ -72,7 +72,7 @@ export class ArenaController {
     if (comboBadge) {
       if (uiState.combo >= 2) {
         comboBadge.classList.remove('hidden');
-        comboBadge.textContent = `🔥 Combo x${uiState.combo}`;
+        comboBadge.textContent = `✶ Combo ×${uiState.combo}`;
       } else {
         comboBadge.classList.add('hidden');
       }
@@ -88,24 +88,24 @@ export class ArenaController {
     stage.innerHTML = `
       <div class="animate-pop">
         <div class="flex items-start justify-between gap-3">
-          <span class="inline-block px-2.5 py-1 rounded-lg bg-red-50 text-de-red text-[11px] font-extrabold uppercase tracking-wider">
+          <span class="inline-block px-2.5 py-1 border border-de-red/30 bg-[#FAF3F2] text-de-red text-[11px] font-bold uppercase tracking-widest">
             ${typeLabel}
           </span>
-          <button id="hint-btn" type="button" class="text-xs font-semibold text-amber-800 bg-amber-50 hover:bg-amber-100 border border-amber-200 px-3 py-1.5 rounded-xl transition flex items-center gap-1.5 cursor-pointer">
-            <span>💡</span>
+          <button id="hint-btn" type="button" class="text-xs font-semibold text-de-black bg-de-gold-light hover:bg-stone-200/70 border border-stone-300 px-3 py-1.5 transition flex items-center gap-1.5 cursor-pointer">
+            <span class="text-de-gold" aria-hidden="true">✧</span>
             <span>Indice grammatical (-5 XP)</span>
           </button>
         </div>
 
-        <h4 class="text-base sm:text-lg font-bold text-de-black mt-3 leading-snug">${escapeHtml(q.prompt)}</h4>
+        <h4 class="font-serif text-lg sm:text-xl font-bold text-de-black mt-4 leading-snug">${escapeHtml(q.prompt)}</h4>
 
-        <div id="hint-box" class="hidden mt-3 p-3 rounded-xl bg-amber-50 border border-amber-200 text-xs text-amber-950 font-medium">
-          💡 <strong>Rappel :</strong> ${escapeHtml(q.hint)}
+        <div id="hint-box" class="hidden mt-3 p-3 border border-stone-300 border-l-2 border-l-de-gold bg-de-gold-light text-xs text-stone-800 font-medium">
+          <span class="text-de-gold mr-1" aria-hidden="true">✧</span><strong>Rappel :</strong> ${escapeHtml(q.hint)}
         </div>
 
         <div id="arena-interaction-slot"></div>
 
-        <div id="feedback-banner" class="hidden mt-6 p-4 rounded-xl border-2"></div>
+        <div id="feedback-banner" class="hidden mt-6 p-4 border"></div>
       </div>
     `;
 
@@ -132,9 +132,9 @@ export class ArenaController {
       btn.type = 'button';
       btn.dataset.option = opt;
       btn.className =
-        'choice-opt text-left p-4 rounded-xl border-2 border-gray-200 hover:border-de-black bg-white hover:bg-gray-50 font-semibold text-sm sm:text-base transition flex items-center gap-3 cursor-pointer';
+        'choice-opt text-left p-4 border border-stone-300 hover:border-de-black bg-white hover:bg-de-cream font-semibold text-sm sm:text-base transition flex items-center gap-3 cursor-pointer';
       btn.innerHTML = `
-        <span class="w-7 h-7 rounded-lg bg-gray-100 text-gray-700 text-xs font-extrabold flex items-center justify-center shrink-0">${String.fromCharCode(65 + idx)}</span>
+        <span class="w-7 h-7 border border-stone-300 bg-de-cream text-stone-700 text-xs font-bold flex items-center justify-center shrink-0">${String.fromCharCode(65 + idx)}</span>
         <span>${escapeHtml(opt)}</span>
       `;
       btn.addEventListener('click', () => this.submitChoiceAnswer(btn, opt, q));
@@ -151,7 +151,7 @@ export class ArenaController {
     const charBar = document.createElement('div');
     charBar.className = 'flex flex-wrap gap-1.5 mb-2';
     const label = document.createElement('span');
-    label.className = 'text-[11px] text-gray-500 self-center mr-1';
+    label.className = 'text-[11px] text-stone-500 self-center mr-1';
     label.textContent = 'Caractères spéciaux :';
     charBar.appendChild(label);
 
@@ -159,7 +159,7 @@ export class ArenaController {
       const btn = document.createElement('button');
       btn.type = 'button';
       btn.className =
-        'px-2.5 py-1 rounded-lg bg-gray-100 hover:bg-gray-200 text-xs font-bold text-de-black transition cursor-pointer';
+        'px-2.5 py-1 border border-stone-300 bg-de-cream hover:bg-stone-200 text-xs font-bold text-de-black transition cursor-pointer';
       btn.textContent = ch;
       btn.addEventListener('click', () => this.insertSpecialChar(ch));
       charBar.appendChild(btn);
@@ -173,7 +173,7 @@ export class ArenaController {
     input.id = 'fill-input';
     input.placeholder = 'Tapez votre réponse ici...';
     input.className =
-      'flex-1 px-4 py-3 rounded-xl border-2 border-gray-200 focus:border-de-black focus:outline-none text-base font-semibold';
+      'flex-1 px-4 py-3 border border-stone-400 focus:border-de-black focus:outline-none text-base font-medium bg-white';
     input.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') this.submitFillAnswer(q);
     });
@@ -182,7 +182,7 @@ export class ArenaController {
     submitBtn.type = 'button';
     submitBtn.id = 'submit-fill-btn';
     submitBtn.className =
-      'px-6 py-3 rounded-xl bg-de-black hover:bg-gray-800 text-white font-bold text-sm transition cursor-pointer';
+      'px-6 py-3 bg-de-black hover:bg-stone-800 text-de-cream font-semibold text-sm transition cursor-pointer';
     submitBtn.textContent = 'Valider';
     submitBtn.addEventListener('click', () => this.submitFillAnswer(q));
 
@@ -200,9 +200,9 @@ export class ArenaController {
     const dropzone = document.createElement('div');
     dropzone.id = 'order-dropzone';
     dropzone.className =
-      'min-h-[56px] p-3 rounded-xl bg-gray-50 border-2 border-dashed border-gray-300 flex flex-wrap gap-2 items-center';
+      'min-h-[56px] p-3 bg-de-cream border border-dashed border-stone-400 flex flex-wrap gap-2 items-center';
     dropzone.innerHTML =
-      '<span class="text-xs text-gray-400 italic">Cliquez sur les mots ci-dessous dans le bon ordre...</span>';
+      '<span class="text-xs text-stone-400 italic">Cliquez sur les mots ci-dessous dans le bon ordre...</span>';
 
     const wordbank = document.createElement('div');
     wordbank.id = 'order-wordbank';
@@ -212,7 +212,7 @@ export class ArenaController {
       const btn = document.createElement('button');
       btn.type = 'button';
       btn.className =
-        'px-3.5 py-2 rounded-xl bg-white border-2 border-gray-200 hover:border-de-black font-bold text-sm text-de-black shadow-2xs transition cursor-pointer';
+        'px-3.5 py-2 bg-white border border-stone-300 hover:border-de-black font-semibold text-sm text-de-black transition cursor-pointer';
       btn.textContent = word;
       btn.addEventListener('click', () => this.toggleOrderWord(btn, tokenId, word));
       wordbank.appendChild(btn);
@@ -225,7 +225,7 @@ export class ArenaController {
     submitBtn.type = 'button';
     submitBtn.id = 'submit-order-btn';
     submitBtn.className =
-      'px-6 py-2.5 rounded-xl bg-de-black hover:bg-gray-800 text-white font-bold text-sm transition cursor-pointer';
+      'px-6 py-2.5 bg-de-black hover:bg-stone-800 text-de-cream font-semibold text-sm transition cursor-pointer';
     submitBtn.textContent = "Vérifier l'ordre";
     submitBtn.addEventListener('click', () => this.submitOrderAnswer(q));
 
@@ -268,10 +268,13 @@ export class ArenaController {
 
     if (uiState.selectedOrderWords.length === 0) {
       dropzone.innerHTML =
-        '<span class="text-xs text-gray-400 italic">Cliquez sur les mots ci-dessous dans le bon ordre...</span>';
+        '<span class="text-xs text-stone-400 italic">Cliquez sur les mots ci-dessous dans le bon ordre...</span>';
     } else {
       dropzone.innerHTML = uiState.selectedOrderWords
-        .map((item) => `<span class="px-3 py-1.5 rounded-lg bg-de-black text-white font-bold text-sm">${escapeHtml(item.word)}</span>`)
+        .map(
+          (item) =>
+            `<span class="px-3 py-1.5 bg-de-black text-de-cream font-semibold text-sm">${escapeHtml(item.word)}</span>`,
+        )
         .join('');
     }
   }
@@ -287,12 +290,12 @@ export class ArenaController {
     document.querySelectorAll<HTMLButtonElement>('.choice-opt').forEach((b) => {
       b.disabled = true;
       if (b.dataset.option === q.answer) {
-        b.classList.add('border-emerald-500', 'bg-emerald-50');
+        b.classList.add('border-[#2D5A43]', 'bg-[#F2F6F4]');
       }
     });
 
     if (!isCorrect) {
-      btn.classList.add('border-de-red', 'bg-red-50', 'animate-shake');
+      btn.classList.add('border-de-red', 'bg-[#FAF3F2]', 'animate-shake');
     }
 
     this.handleResult(isCorrect, q);
@@ -308,7 +311,7 @@ export class ArenaController {
     const submitBtn = document.getElementById('submit-fill-btn') as HTMLButtonElement | null;
     if (submitBtn) submitBtn.disabled = true;
 
-    inp.classList.add(isCorrect ? 'border-emerald-500' : 'border-de-red');
+    inp.classList.add(isCorrect ? 'border-[#2D5A43]' : 'border-de-red');
     if (!isCorrect) inp.classList.add('animate-shake');
 
     this.handleResult(isCorrect, q);
@@ -349,17 +352,17 @@ export class ArenaController {
       }
 
       banner.className =
-        'mt-6 p-4 rounded-xl border-2 border-emerald-500 bg-emerald-50 text-emerald-950 animate-pop';
+        'mt-6 p-4 border border-[#2D5A43] border-l-2 bg-[#F2F6F4] text-[#1A3829] animate-pop';
       banner.innerHTML = `
         <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
           <div>
-            <div class="font-extrabold text-sm flex items-center gap-2">
-              <span>✅ Ausgezeichnet ! (+${earned} XP)</span>
-              ${uiState.combo >= 2 ? `<span class="px-2 py-0.5 rounded-full bg-de-gold text-de-black text-[11px]">Combo x${uiState.combo}</span>` : ''}
+            <div class="font-bold text-sm flex items-center gap-2">
+              <span>✓ Ausgezeichnet ! (+${earned} XP)</span>
+              ${uiState.combo >= 2 ? `<span class="px-2 py-0.5 border border-de-gold bg-de-gold-light text-de-black text-[11px]">✶ Combo ×${uiState.combo}</span>` : ''}
             </div>
-            <p class="text-xs sm:text-sm mt-1 text-emerald-900">${escapeHtml(q.explanation)}</p>
+            <p class="text-xs sm:text-sm mt-1 text-[#234836]">${escapeHtml(q.explanation)}</p>
           </div>
-          <button id="arena-next-btn" type="button" class="px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs sm:text-sm shrink-0 transition cursor-pointer">
+          <button id="arena-next-btn" type="button" class="px-5 py-2.5 bg-[#2D5A43] hover:bg-[#224533] text-white font-semibold text-xs sm:text-sm shrink-0 transition cursor-pointer">
             Continuer →
           </button>
         </div>
@@ -371,15 +374,15 @@ export class ArenaController {
       state.hearts = Math.max(1, state.hearts - 1);
 
       banner.className =
-        'mt-6 p-4 rounded-xl border-2 border-de-red bg-red-50 text-red-950 animate-pop';
+        'mt-6 p-4 border border-de-red border-l-2 bg-[#FAF3F2] text-de-black animate-pop';
       banner.innerHTML = `
         <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
           <div>
-            <div class="font-extrabold text-sm">❌ Pas tout à fait...</div>
+            <div class="font-bold text-sm text-de-red">✕ Pas tout à fait...</div>
             <p class="text-xs sm:text-sm mt-1"><strong>Réponse attendue :</strong> ${escapeHtml(q.answer)}</p>
-            <p class="text-xs text-red-800 mt-0.5">${escapeHtml(q.explanation)}</p>
+            <p class="text-xs text-stone-700 mt-0.5">${escapeHtml(q.explanation)}</p>
           </div>
-          <button id="arena-next-btn" type="button" class="px-5 py-2.5 rounded-xl bg-de-red hover:bg-de-red-dark text-white font-bold text-xs sm:text-sm shrink-0 transition cursor-pointer">
+          <button id="arena-next-btn" type="button" class="px-5 py-2.5 bg-de-red hover:bg-de-red-dark text-white font-semibold text-xs sm:text-sm shrink-0 transition cursor-pointer">
             Question suivante →
           </button>
         </div>
@@ -429,42 +432,42 @@ export class ArenaController {
 
     stage.innerHTML = `
       <div class="text-center py-6 space-y-5 animate-pop">
-        <div class="inline-flex items-center justify-center gap-2 text-4xl sm:text-5xl">
+        <div class="inline-flex items-center justify-center gap-2 text-3xl sm:text-4xl">
           ${[1, 2, 3]
             .map(
               (s) =>
-                `<span class="${s <= stars ? 'text-amber-400 drop-shadow-xs' : 'text-gray-200'}">★</span>`,
+                `<span class="${s <= stars ? 'text-de-gold' : 'text-stone-300'}">${s <= stars ? '★' : '☆'}</span>`,
             )
             .join('')}
         </div>
 
         <div>
           <h3 class="font-serif text-2xl sm:text-3xl font-bold text-de-black">Leçon ${escapeHtml(lesson.id)} maîtrisée !</h3>
-          <p class="text-sm text-gray-600 mt-1">${escapeHtml(lesson.proverbDe)} — <em>${escapeHtml(lesson.proverbFr)}</em></p>
+          <p class="text-sm text-stone-600 mt-1">${escapeHtml(lesson.proverbDe)} — <em>${escapeHtml(lesson.proverbFr)}</em></p>
         </div>
 
         <div class="grid grid-cols-3 gap-3 max-w-md mx-auto">
-          <div class="p-3 rounded-xl bg-gray-50 border border-gray-200">
-            <div class="text-[11px] font-semibold text-gray-500">XP gagnés</div>
-            <div class="text-lg font-extrabold text-de-red">+${uiState.sessionXp}</div>
+          <div class="p-3 bg-de-cream border border-stone-300">
+            <div class="text-[11px] font-semibold uppercase tracking-wider text-stone-500">XP gagnés</div>
+            <div class="text-lg font-extrabold text-de-red tabular-nums">+${uiState.sessionXp}</div>
           </div>
-          <div class="p-3 rounded-xl bg-gray-50 border border-gray-200">
-            <div class="text-[11px] font-semibold text-gray-500">Meilleur Combo</div>
-            <div class="text-lg font-extrabold text-de-black">x${Math.max(1, uiState.maxCombo)}</div>
+          <div class="p-3 bg-de-cream border border-stone-300">
+            <div class="text-[11px] font-semibold uppercase tracking-wider text-stone-500">Meilleur Combo</div>
+            <div class="text-lg font-extrabold text-de-black tabular-nums">×${Math.max(1, uiState.maxCombo)}</div>
           </div>
-          <div class="p-3 rounded-xl bg-gray-50 border border-gray-200">
-            <div class="text-[11px] font-semibold text-gray-500">Précision</div>
-            <div class="text-lg font-extrabold text-emerald-700">${accuracy}%</div>
+          <div class="p-3 bg-de-cream border border-stone-300">
+            <div class="text-[11px] font-semibold uppercase tracking-wider text-stone-500">Précision</div>
+            <div class="text-lg font-extrabold text-[#2D5A43] tabular-nums">${accuracy}%</div>
           </div>
         </div>
 
         <div class="flex flex-wrap items-center justify-center gap-3 pt-3">
-          <button id="arena-replay-btn" type="button" class="px-5 py-3 rounded-xl border border-gray-300 hover:bg-gray-50 font-bold text-sm text-de-black transition cursor-pointer">
-            ↻ Rejouer les exercices
+          <button id="arena-replay-btn" type="button" class="px-5 py-3 border border-stone-400 hover:bg-stone-100 font-semibold text-sm text-de-black transition cursor-pointer">
+            ↺ Rejouer les exercices
           </button>
           ${
             nextId
-              ? `<button id="arena-next-lesson-btn" type="button" class="px-6 py-3 rounded-xl bg-de-black hover:bg-gray-800 text-white font-bold text-sm transition shadow-sm cursor-pointer">
+              ? `<button id="arena-next-lesson-btn" type="button" class="px-6 py-3 bg-de-black hover:bg-stone-800 text-de-cream font-semibold text-sm transition cursor-pointer">
                   Passer à la Leçon ${escapeHtml(nextId)} →
                 </button>`
               : ''
