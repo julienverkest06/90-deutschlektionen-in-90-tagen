@@ -1,0 +1,108 @@
+{
+  "id": "17",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Ein Gewitter",
+  "titleFr": "Un orage",
+  "proverbDe": "Auf Regen folgt Sonnenschein.",
+  "proverbFr": "Après la pluie, le beau temps.",
+  "paragraphs": [
+    {
+      "de": "Das Wetter ist nicht immer angenehm hier. Gestern hatten wir ein heftiges Gewitter. Es standen graue Wolken am Himmel. Es blitzte und es donnerte. Ein starker Regen fiel auf die Stadt.",
+      "fr": "Le temps n'est pas toujours agréable ici. Hier nous avions un violent orage. Il y avait des nuages gris dans le ciel. Il faisait des éclairs et il tonnait. Une forte pluie tomba sur la ville."
+    },
+    {
+      "de": "Paul Dumont stand am Fenster und schaute hinaus. Nur einige Männer oder Frauen gingen auf der Straße. Die Kraftwagen fuhren langsamer.",
+      "fr": "Paul Dumont se tenait à la fenêtre et regardait au-dehors. Quelques hommes ou femmes seulement allaient dans la rue. Les véhicules roulaient plus lentement."
+    },
+    {
+      "de": "— Wie gefällt Ihnen Köln heute, lieber Kollege? — Sehen Sie dort, das kleine, blonde Mädchen mit dem großen Regenschirm? Sein Nachbar zeigte es ihm.",
+      "fr": "— Comment Cologne vous plaît-elle aujourd'hui, cher collègue ? — Voyez-vous là-bas la petite fille blonde avec le grand parapluie ? Son voisin la lui montra."
+    },
+    {
+      "de": "— Gehen Sie heute auch zu Fuß in Ihr Hotel zurück? Haben Sie einen Regenschirm? Ich fahre Sie gern mit dem Auto zurück. — Danke schön! Das ist sehr lieb von Ihnen.",
+      "fr": "— Rentrez-vous aujourd'hui également à pied à votre hôtel ? Avez-vous un parapluie ? Je vous reconduis volontiers en voiture. — Merci bien ! C'est très aimable de vous."
+    }
+  ],
+  "pronunciation": "Dans « Gewitter » et « gefällt », la syllabe ge- est atone et prononcée faiblement. Attention : das Mädchen (neutre) reprend le possessif « sein » !",
+  "vocab": [
+    {
+      "de": "das Gewitter (-)",
+      "fr": "l'orage",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Regen",
+      "fr": "la pluie",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Regenschirm (-e)",
+      "fr": "le parapluie",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Wolke (-n)",
+      "fr": "le nuage",
+      "info": "Féminin"
+    },
+    {
+      "de": "blitzen / donnern",
+      "fr": "faire des éclairs / tonner",
+      "info": "Verbes impersonnels (es)"
+    },
+    {
+      "de": "gefallen (er gefällt)",
+      "fr": "plaire (+ Datif)",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Place des pronoms personnels compléments",
+      "body": "Lorsque deux pronoms compléments se suivent, l'<strong>accusatif précède le datif</strong> (contrairement aux noms) : <em>Sein Nachbar zeigte <strong>es ihm</strong></em> (il la lui montra)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Comment dit-on « Il faisait des éclairs et il tonnait » ?",
+      "options": [
+        "Es blitzte und es donnerte.",
+        "Es blitzt und es donnert.",
+        "Er blitzte und er donnerte.",
+        "Es blitzen und es donnern."
+      ],
+      "answer": "Es blitzte und es donnerte.",
+      "hint": "Verbes réguliers au prétérit avec le sujet impersonnel « es ».",
+      "explanation": "Es blitzte und es donnerte."
+    },
+    {
+      "type": "order",
+      "prompt": "Remettez en ordre : « Son voisin la lui montra. » (das Mädchen = es)",
+      "words": [
+        "Sein",
+        "Nachbar",
+        "zeigte",
+        "es",
+        "ihm."
+      ],
+      "answer": "Sein Nachbar zeigte es ihm.",
+      "hint": "Entre deux pronoms, l'accusatif (es) passe avant le datif (ihm).",
+      "explanation": "Sein Nachbar zeigte es ihm."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez : « Auf Regen folgt Sonnenschein. »",
+      "options": [
+        "Après la pluie, le beau temps.",
+        "Il pleut et il y a du soleil.",
+        "Le soleil est derrière les nuages.",
+        "Prenez votre parapluie sous la pluie."
+      ],
+      "answer": "Après la pluie, le beau temps.",
+      "hint": "Proverbe figurant au bas de la page 78 du livre.",
+      "explanation": "Auf Regen folgt Sonnenschein."
+    }
+  ]
+}

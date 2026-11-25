@@ -1,0 +1,122 @@
+{
+  "id": "12",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Das Warenhaus",
+  "titleFr": "Le grand magasin",
+  "proverbDe": "Kleider machen Leute.",
+  "proverbFr": "L'habit fait le moine.",
+  "paragraphs": [
+    {
+      "de": "Männer, Frauen und Kinder gehen im Warenhaus hin und her. Sie kaufen oder betrachten Waren. Hier stehen Möbel, da hängen Mäntel, dort liegen Hefte und Kugelschreiber. Einige Damen bewundern die neue Mode.",
+      "fr": "Des hommes, des femmes et des enfants vont et viennent dans le grand magasin. Ils achètent ou regardent des marchandises. Ici se trouvent des meubles, là sont accrochés des manteaux, là-bas il y a des cahiers et des crayons à bille. Quelques dames admirent la mode nouvelle."
+    },
+    {
+      "de": "— Guten Tag. Was möchten Sie? — Ich möchte ein Hemd. — Welche Nummer haben Sie? — Nummer zweiundvierzig (42). — Hier ist ein schönes und sehr neues Muster. — Woher kommt dieses Muster? — Es kommt aus Italien.",
+      "fr": "— Bonjour. Que désirez-vous ? — Je voudrais une chemise. — Quel est votre numéro ? — Le numéro 42. — Voici un modèle beau et très récent. — D'où ce modèle vient-il ? — Il vient d'Italie."
+    },
+    {
+      "de": "— Gut. Wo ist die Kasse, bitte? — Dort, neben der Treppe. — Und wohin führt die Treppe? — In unser Restaurant. An der Kasse sitzt eine Dame. Dort zahlt Herr Dumont.",
+      "fr": "— Bien. Où est la caisse, s'il vous plaît ? — Là-bas, à côté de l'escalier. — Et où l'escalier mène-t-il ? — À notre restaurant. Une dame est assise à la caisse. Là-bas Monsieur Dumont paie."
+    }
+  ],
+  "pronunciation": "Les voyelles infléchies ä [è], ö [eu], ü [u] sont longues devant une seule consonne (Möbel, schön) et brèves devant deux consonnes (Männer, hängen, möchte).",
+  "vocab": [
+    {
+      "de": "das Warenhaus (¨-er)",
+      "fr": "le grand magasin",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Kasse (-n)",
+      "fr": "la caisse",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Treppe (-n)",
+      "fr": "l'escalier",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Hemd (-en)",
+      "fr": "la chemise",
+      "info": "Neutre"
+    },
+    {
+      "de": "stehen / sitzen",
+      "fr": "être debout / être assis",
+      "info": "Verbes de position (wo?)"
+    },
+    {
+      "de": "liegen / hängen",
+      "fr": "être couché / être accroché",
+      "info": "Verbes de position (wo?)"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Les 9 prépositions mixtes (Datif si wo? / Accusatif si wohin?)",
+      "body": "<strong>in, an, auf, vor, hinter, über, unter, neben, zwischen</strong> gouvernent le <strong>Datif</strong> lorsqu'il n'y a pas de déplacement (question <em>wo?</em> : <em>Eine Dame sitzt an der Kasse</em>) et l'<strong>Accusatif</strong> lorsqu'il y a changement de lieu (question <em>wohin?</em> : <em>Ich gehe an die Kasse</em>)."
+    },
+    {
+      "title": "Woher? (d'où), Wo? (où sans mouvement), Wohin? (où avec direction)",
+      "body": "<em>Woher kommt dieses Muster?</em> (origine) • <em>Wo ist die Kasse?</em> (position) • <em>Wohin führt diese Treppe?</em> (direction)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Datif ou Accusatif ? (Exercice B.7) : « Das Auto steht in ___ Garage neben ___ Hotel. »",
+      "options": [
+        "der / dem",
+        "die / das",
+        "der / das",
+        "die / dem"
+      ],
+      "answer": "der / dem",
+      "hint": "Il n'y a pas de déplacement (question wo? = position) → Datif pour les deux !",
+      "explanation": "in der Garage (fém. datif) neben dem Hotel (neutre datif)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Direction wohin? (Exercice B.9) : « Wir gehen in ___ Stadt, in ___ Kino. »",
+      "options": [
+        "die / das",
+        "der / dem",
+        "die / dem",
+        "der / das"
+      ],
+      "answer": "die / das",
+      "hint": "« Wir gehen » indique un mouvement vers un lieu (wohin?) → Accusatif !",
+      "explanation": "in die Stadt, in das (= ins) Kino."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quel interrogatif convient ? (Exercice A.2) : « ___ kommt Herr Müller? — Er kommt aus Berlin. »",
+      "options": [
+        "Woher",
+        "Wo",
+        "Wohin",
+        "Wann"
+      ],
+      "answer": "Woher",
+      "hint": "« aus Berlin » indique la provenance (d'où ?).",
+      "explanation": "Woher kommt Herr Müller?"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez (Exercice C.13) : « Les enfants sont assis sur la terrasse (die Terrasse). »",
+      "words": [
+        "Die",
+        "Kinder",
+        "sitzen",
+        "auf",
+        "der",
+        "Terrasse."
+      ],
+      "answer": "Die Kinder sitzen auf der Terrasse.",
+      "hint": "sitzen exprime une position immobile → Datif (auf der Terrasse).",
+      "explanation": "Die Kinder sitzen auf der Terrasse."
+    }
+  ]
+}

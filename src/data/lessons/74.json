@@ -1,0 +1,81 @@
+{
+  "id": "74",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Presse und Literatur (Verbes gouvernant le Génitif)",
+  "titleFr": "La presse et les verbes construits avec le génitif",
+  "proverbDe": "Bücher sind die besten Freunde.",
+  "proverbFr": "Les livres sont les meilleurs amis.",
+  "paragraphs": [
+    {
+      "de": "Wie oft bemächtigen sie sich meiner! Er erbarmt sich des Bettlers. Sie erfreut sich einer guten Gesundheit.",
+      "fr": "Comme ils s'emparent souvent de moi ! Il a pitié du mendiant. Elle jouit d'une bonne santé."
+    },
+    {
+      "de": "In Deutschland lese ich oft «Die Zeit» und den «Rheinischen Merkur»; in der Schweiz, «Die Weltwoche».",
+      "fr": "En Allemagne je lis souvent « Die Zeit » et le « Rheinischer Merkur » ; en Suisse, « Die Weltwoche »."
+    }
+  ],
+  "pronunciation": "Les pronoms personnels au génitif (meiner, deiner, seiner, ihrer, unser, euer, ihrer/Ihrer) s'emploient surtout dans le style soutenu et littéraire.",
+  "vocab": [
+    {
+      "de": "das Wörterbuch (¨-er)",
+      "fr": "le dictionnaire",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Erzählung (-en)",
+      "fr": "le récit",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Märchen (-)",
+      "fr": "le conte",
+      "info": "Neutre"
+    },
+    {
+      "de": "bedürfen + Génitif",
+      "fr": "avoir besoin de",
+      "info": "Courant : brauchen + acc."
+    },
+    {
+      "de": "sich bedienen + Génitif",
+      "fr": "se servir de",
+      "info": "Courant : benutzen + acc."
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Verbes gouvernant le génitif",
+      "body": "Quelques verbes de la langue soutenue régissent le génitif : <em>bedürfen</em> (avoir besoin de), <em>sich bedienen</em> (se servir de), <em>sich erinnern</em> (se souvenir de), <em>sich erfreuen</em> (jouir de), <em>sich schämen</em> (avoir honte de). Ex. : <em>Es bedarf nur eines Wortes.</em>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Complétez au génitif (Exercice A.1) : « Es bedarf nur ___ Wort___ . » (das Wort)",
+      "options": [
+        "eines Wortes",
+        "einem Wort",
+        "ein Wort",
+        "einer Worte"
+      ],
+      "answer": "eines Wortes",
+      "hint": "das Wort est neutre → génitif singulier en -es : eines Wortes.",
+      "explanation": "Es bedarf nur eines Wortes. (Il suffit d'un mot)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez au génitif (Exercice A.5) : « Das Geschäft erfreut sich ___ gut___ Ruf___ . » (der Ruf)",
+      "options": [
+        "eines guten Rufes",
+        "einem guten Ruf",
+        "einen guten Ruf",
+        "einer guten Rufe"
+      ],
+      "answer": "eines guten Rufes",
+      "hint": "der Ruf (masculin) au génitif singulier → eines guten Rufes.",
+      "explanation": "Das Geschäft erfreut sich eines guten Rufes."
+    }
+  ]
+}

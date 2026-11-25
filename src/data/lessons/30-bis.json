@@ -1,0 +1,94 @@
+{
+  "id": "30 bis",
+  "series": 2,
+  "authentic": true,
+  "isReview": true,
+  "titleDe": "Contrôle et révisions (Leçons 21 à 30)",
+  "titleFr": "Subordonnées (weil/denn/ob/daß/wenn) et déclinaisons de l'adjectif",
+  "proverbDe": "Ende gut, alles gut.",
+  "proverbFr": "Tout est bien qui finit bien.",
+  "paragraphs": [
+    {
+      "de": "Diebe drangen in die Wohnung ein, weil die Tür offen stand. (Oder: Diebe drangen in die Wohnung ein, denn die Tür stand offen.)",
+      "fr": "Des voleurs pénétrèrent dans l'appartement parce que la porte était ouverte."
+    },
+    {
+      "de": "In einer großen Stadt ist der Verkehr ein fast unlösbares Problem.",
+      "fr": "Dans une grande ville, la circulation pose un problème presque insoluble."
+    }
+  ],
+  "pronunciation": "Rappel essentiel : « weil » est une conjonction de subordination (verbe à la fin), alors que « denn » (car) est une conjonction de coordination (ordre normal des mots).",
+  "vocab": [
+    {
+      "de": "denn",
+      "fr": "car (coordination)",
+      "info": "Pas de rejet du verbe"
+    },
+    {
+      "de": "das Freigepäck",
+      "fr": "la franchise de bagage",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Verkehr",
+      "fr": "la circulation",
+      "info": "Masculin"
+    },
+    {
+      "de": "höflich",
+      "fr": "poli, courtois",
+      "info": "Adjectif"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Différence de construction : weil vs denn",
+      "body": "<em>Wir gehen zu Bett, <strong>weil</strong> die Sendung nicht interessant <strong>ist</strong>.</em> (rejet)<br><em>Wir gehen zu Bett, <strong>denn</strong> die Sendung <strong>ist</strong> nicht interessant.</em> (pas de rejet)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Complétez avec denn (Exercice A.2b) : « Wir gehen zu Bett, denn die Sendung ___ nicht interessant. »",
+      "options": [
+        "ist",
+        "sein",
+        "sind",
+        "war"
+      ],
+      "answer": "ist",
+      "hint": "Après « denn », le verbe reste à sa place normale (2e position après le sujet).",
+      "explanation": "denn die Sendung ist nicht interessant."
+    },
+    {
+      "type": "choice",
+      "prompt": "Déclinaison de l'adjectif (Exercice B.5) : « In einer ___ Stadt ist der Verkehr ein fast ___ Problem. »",
+      "options": [
+        "großen / unlösbares",
+        "große / unlösbare",
+        "großer / unlösbares",
+        "großen / unlösbaren"
+      ],
+      "answer": "großen / unlösbares",
+      "hint": "einer großen Stadt (datif fém. mixte) ; ein unlösbares Problem (nom. neutre mixte).",
+      "explanation": "In einer großen Stadt ... ein fast unlösbares Problem."
+    },
+    {
+      "type": "order",
+      "prompt": "Reliez avec ob (Exercice C.8) : « Sind warme Menüs vorgesehen? Sagen Sie es mir. »",
+      "words": [
+        "Sagen",
+        "Sie",
+        "mir,",
+        "ob",
+        "warme",
+        "Menüs",
+        "vorgesehen",
+        "sind."
+      ],
+      "answer": "Sagen Sie mir, ob warme Menüs vorgesehen sind.",
+      "hint": "Rejetez « sind » en fin de subordonnée.",
+      "explanation": "Sagen Sie mir, ob warme Menüs vorgesehen sind."
+    }
+  ]
+}

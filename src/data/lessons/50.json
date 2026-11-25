@@ -1,0 +1,81 @@
+{
+  "id": "50",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Beim Arzt (La déclinaison des noms et das Herz)",
+  "titleFr": "Chez le médecin : genre, génitif et pluriel des noms",
+  "proverbDe": "Gesundheit ist der größte Reichtum.",
+  "proverbFr": "La santé est la plus grande richesse.",
+  "paragraphs": [
+    {
+      "de": "— Wo haben Sie Schmerzen? — Danke, nicht sehr gut: mein Großvater fühlt sich nicht wohl. Er klagt über Magenschmerzen. Oft hat er auch Kopfschmerzen.",
+      "fr": "— Où avez-vous mal ? — Merci, pas très bien : mon grand-père ne se sent pas bien. Il se plaint de maux d'estomac. Souvent il a aussi des maux de tête."
+    },
+    {
+      "de": "Er hat sich erkältet; er hat Halsschmerzen. Es ist nicht schlimm; hier ist ein Rezept; morgen geht es ihm schon besser.",
+      "fr": "Il a pris froid ; il a mal à la gorge. Ce n'est pas grave ; voici une ordonnance ; demain, il ira déjà mieux."
+    }
+  ],
+  "pronunciation": "Le nom « das Herz » (le cœur) suit une déclinaison unique : das Herz, des Herzens, dem Herzen, das Herz (pluriel : die Herzen).",
+  "vocab": [
+    {
+      "de": "der Schmerz (-es, -en)",
+      "fr": "la douleur",
+      "info": "Masculin mixte"
+    },
+    {
+      "de": "das Rezept (-e)",
+      "fr": "l'ordonnance (ou la recette)",
+      "info": "Neutre"
+    },
+    {
+      "de": "sich erkälten",
+      "fr": "prendre froid, s'enrhumer",
+      "info": "Verbe réfléchi"
+    },
+    {
+      "de": "untersuchen",
+      "fr": "examiner (un patient)",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "das Herz (des Herzens)",
+      "fr": "le cœur",
+      "info": "Déclinaison particulière"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Les 6 règles d'or de la déclinaison des noms",
+      "body": "1. Tous les neutres prennent <strong>-s</strong> au génitif sg. (<em>des Bluts</em>).<br>2. La plupart des masculins prennent <strong>-s</strong> (<em>des Körpers</em>) ; les masculins faibles prennent <strong>-n/-en</strong> (<em>des Patienten</em>).<br>3. Tous les féminins sont invariables au singulier (<em>die/der Frau</em>).<br>4. Au datif pluriel, tous les noms ajoutent <strong>-n</strong> (sauf ceux finissant déjà par -n ou -s)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Nominatif sg., génitif sg., nominatif pl. de « der Flug » (Exercice A.1) :",
+      "options": [
+        "der Flug, des Flugs, die Flüge",
+        "der Flug, der Flug, die Fluge",
+        "das Flug, des Flugs, die Flüge",
+        "der Flug, des Flugen, die Flügen"
+      ],
+      "answer": "der Flug, des Flugs, die Flüge",
+      "hint": "Masculin fort : génitif en -s, pluriel avec Umlaut et -e.",
+      "explanation": "der Flug, des Flugs, die Flüge."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quel est le génitif singulier de « das Herz » ?",
+      "options": [
+        "des Herzens",
+        "des Herzes",
+        "der Herz",
+        "dem Herzen"
+      ],
+      "answer": "des Herzens",
+      "hint": "Expression du livre : « Aus der Tiefe des Herzens » (Du fond du cœur).",
+      "explanation": "des Herzens."
+    }
+  ]
+}

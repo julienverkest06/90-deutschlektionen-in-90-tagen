@@ -1,0 +1,81 @@
+{
+  "id": "43",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Für den französischen Autofahrer in der Bundesrepublik",
+  "titleFr": "Le code de la route en Allemagne et l'orthographe de ß / ss",
+  "proverbDe": "Eile mit Weile.",
+  "proverbFr": "Hâte-toi lentement.",
+  "paragraphs": [
+    {
+      "de": "Auf der Autobahn darf man nur auf den markierten Parkplätzen anhalten. Nur wer eine Panne hat, darf am Straßenrand parken.",
+      "fr": "Sur l'autoroute, on ne doit s'arrêter qu'aux endroits de stationnement indiqués. En cas de panne seulement, on a le droit de stationner sur le bas-côté."
+    },
+    {
+      "de": "Ein gelbes Nummernschild oder ein auf der Spitze stehendes Quadrat kennzeichnen eine Hauptstraße. Aber an einer Kreuzung mit einer anderen Hauptstraße geht die Vorfahrt verloren: hier hat Vorfahrtsrecht, wer von rechts kommt.",
+      "fr": "Un numéro sur plaque jaune ou un carré posé sur l'angle indiquent une route à grande circulation. Mais au croisement avec une autre route à grande circulation, la priorité est supprimée : ici, la priorité est à celui qui vient de droite."
+    }
+  ],
+  "pronunciation": "Règle traditionnelle d'Alphonse Jenny sur « ß » (s-z) : on écrit « ss » entre deux voyelles dont la première est brève (gewisse, die Flüsse), et « ß » après une voyelle longue (die Straße, die Grüße) ou en fin de mot/syllabe (der Fluß, er läßt).",
+  "vocab": [
+    {
+      "de": "die Autobahn (-en)",
+      "fr": "l'autoroute",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Hauptstraße (-n)",
+      "fr": "la route prioritaire",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Vorfahrtsrecht",
+      "fr": "la priorité (routière)",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Kreisverkehr",
+      "fr": "le sens giratoire, rond-point",
+      "info": "Masculin"
+    },
+    {
+      "de": "vermeiden (ie, ie)",
+      "fr": "éviter",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Prépositions renforcées par une postposition",
+      "body": "<em>Von Montag <strong>ab</strong></em> (à partir de lundi) • <em>Von Kindheit <strong>an</strong></em> (dès l'enfance) • <em>Von Köln <strong>aus</strong></em> (au départ de Cologne) • <em>Auf den Berg <strong>zu</strong></em> (en direction de la montagne)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Traduisez (Exercice A.1) : « Von jetzt ab vermeiden wir diese Kreuzung. »",
+      "options": [
+        "À partir de maintenant nous éviterons ce carrefour.",
+        "Jusqu'à maintenant nous évitions ce carrefour.",
+        "Au départ de ce carrefour nous allons tout droit.",
+        "Sur ce carrefour nous avons la priorité."
+      ],
+      "answer": "À partir de maintenant nous éviterons ce carrefour.",
+      "hint": "von jetzt ab = à partir de maintenant ; die Kreuzung = le carrefour.",
+      "explanation": "À partir de maintenant nous éviterons ce carrefour."
+    },
+    {
+      "type": "choice",
+      "prompt": "Dans un rond-point (Kreisverkehr) en Allemagne, à qui appartient la priorité ?",
+      "options": [
+        "À celui qui est déjà engagé dans le sens giratoire.",
+        "À celui qui vient de droite.",
+        "Aux véhicules lents uniquement.",
+        "Aux poids lourds."
+      ],
+      "answer": "À celui qui est déjà engagé dans le sens giratoire.",
+      "hint": "Texte : « Die Vorfahrt gehört hier demjenigen, der sich schon im Kreisverkehr befindet. »",
+      "explanation": "Priorité à ceux qui sont déjà dans le rond-point."
+    }
+  ]
+}

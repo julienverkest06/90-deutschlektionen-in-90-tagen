@@ -1,0 +1,85 @@
+{
+  "id": "55",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Höflichkeit",
+  "titleFr": "Politesse, correspondance et vœux",
+  "proverbDe": "Mit Sanftmut kommt man auch zum Ziel.",
+  "proverbFr": "Plus fait douceur que violence.",
+  "paragraphs": [
+    {
+      "de": "— Guten Abend, mein Herr, wie geht es Ihnen? — Danke, sehr gut, und Ihnen? — Es freut mich sehr, Sie zu treffen. Darf ich Ihnen meinen Bruder vorstellen? — Ich freue mich, Ihre Bekanntschaft zu machen.",
+      "fr": "— Bonsoir Monsieur, comment allez-vous ? — Merci, très bien, et vous ? — Je suis très heureux de vous rencontrer. Permettez-moi de vous présenter mon frère ? — Je suis heureux de faire votre connaissance."
+    },
+    {
+      "de": "Im Briefverkehr: a) Lieber Herr Meier! Mit freundlichem Gruß, Ihr Peter Lang. b) Sehr geehrter Herr Direktor! Hochachtungsvoll, Peter Lang.",
+      "fr": "Dans la correspondance : a) Cher Monsieur Meier ! Croyez à mes sentiments très amicaux, votre Peter Lang. b) Monsieur le Directeur ! Veuillez agréer l'expression de ma considération distinguée, Peter Lang."
+    },
+    {
+      "de": "Ich wünsche Ihnen ein glückliches neues Jahr. Fröhliche Weihnachten; viel Glück zum neuen Jahr. Herzliches Beileid.",
+      "fr": "Je vous souhaite une bonne année. Joyeux Noël ; meilleurs vœux de bonne année. Sincères condoléances."
+    }
+  ],
+  "pronunciation": "Dans les lettres allemandes, on met un point d'exclamation après l'appel (Sehr geehrter Herr Direktor!) et on commence le texte de la lettre par une minuscule (ou majuscule si c'est Sie).",
+  "vocab": [
+    {
+      "de": "der Gatte (-n) / die Gattin",
+      "fr": "l'époux / l'épouse",
+      "info": "Style soutenu"
+    },
+    {
+      "de": "sich erholen",
+      "fr": "se rétablir, se reposer",
+      "info": "Verbe réfléchi"
+    },
+    {
+      "de": "die Genesung",
+      "fr": "la guérison, le rétablissement",
+      "info": "Féminin"
+    },
+    {
+      "de": "gratulieren (+ Datif)",
+      "fr": "féliciter",
+      "info": "Verbe régulier"
+    },
+    {
+      "de": "Herzliches Beileid",
+      "fr": "Sincères condoléances",
+      "info": "Formule consacrée"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Formules de politesse et correspondance",
+      "body": "En allemand, le pronom de politesse <strong>Sie / Ihnen / Ihr</strong> prend toujours une majuscule. Pour saluer à la fin d'une lettre commerciale : <em>Mit freundlichen Grüßen</em> ou <em>Hochachtungsvoll</em>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Comment souhaite-t-on « Joyeux Noël » en allemand ?",
+      "options": [
+        "Fröhliche Weihnachten!",
+        "Herzliches Beileid!",
+        "Hochachtungsvoll!",
+        "Gute Besserung!"
+      ],
+      "answer": "Fröhliche Weihnachten!",
+      "hint": "Formule 4b du texte : Fröhliche Weihnachten; viel Glück zum neuen Jahr.",
+      "explanation": "Fröhliche Weihnachten!"
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « Gute Besserung » / « eine baldige Genesung » ?",
+      "options": [
+        "Un prompt rétablissement",
+        "Sincères condoléances",
+        "Félicitations aux mariés",
+        "Bon voyage"
+      ],
+      "answer": "Un prompt rétablissement",
+      "hint": "Expression utilisée dans le dialogue 2 au sujet du père malade.",
+      "explanation": "Ich wünsche ihm eine baldige Genesung."
+    }
+  ]
+}

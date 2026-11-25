@@ -1,0 +1,32 @@
+---
+---
+
+<!-- Modale Trophées & Badges -->
+<div id="badges-modal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-black/50 backdrop-blur-xs">
+  <div class="bg-white rounded-2xl max-w-lg w-full p-6 shadow-xl border border-gray-200 animate-pop max-h-[85vh] flex flex-col">
+    <div class="flex items-center justify-between pb-3 border-b border-gray-100">
+      <div class="flex items-center gap-2">
+        <span class="text-xl">🏆</span>
+        <h3 class="font-serif font-bold text-xl text-de-black">Salle des Trophées — Méthode 90</h3>
+      </div>
+      <button data-close-badges type="button" class="p-1.5 rounded-lg hover:bg-gray-100 text-gray-500 cursor-pointer" aria-label="Fermer">
+        ✕
+      </button>
+    </div>
+    <div id="badges-grid" class="grid grid-cols-1 sm:grid-cols-2 gap-3 overflow-y-auto py-4"></div>
+    <div class="pt-3 border-t border-gray-100 flex justify-end">
+      <button data-close-badges type="button" class="px-4 py-2 rounded-xl bg-de-black text-white text-xs font-bold cursor-pointer">
+        Fermer
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- Boîte de dialogue personnalisée (jamais alert/confirm) -->
+<div id="custom-dialog" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-black/50 backdrop-blur-xs">
+  <div class="bg-white rounded-2xl max-w-sm w-full p-6 shadow-xl border border-gray-200 animate-pop">
+    <h4 id="dialog-title" class="font-bold text-lg text-de-black mb-2">Confirmation</h4>
+    <p id="dialog-message" class="text-sm text-gray-600 mb-5"></p>
+    <div id="dialog-actions" class="flex justify-end gap-2"></div>
+  </div>
+</div>

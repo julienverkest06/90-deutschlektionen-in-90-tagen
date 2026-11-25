@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+  --font-serif: 'Newsreader', serif;
+
+  --color-de-black: #111827;
+  --color-de-red: #DD0000;
+  --color-de-red-dark: #B90000;
+  --color-de-gold: #FFCE00;
+  --color-de-gold-light: #FFFBEB;
+  --color-de-cream: #FAFAFA;
+  --color-de-paper: #FFFFFF;
+}
+
+/* Animations personnalisées pour la gamification et les transitions */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-6px); }
+  40%, 80% { transform: translateX(6px); }
+}
+
+.animate-shake {
+  animation: shake 0.4s cubic-bezier(.36, .07, .19, .97) both;
+}
+
+@keyframes popIn {
+  0% { transform: scale(0.92); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.animate-pop {
+  animation: popIn 0.25s ease-out forwards;
+}
+
+@keyframes floatUp {
+  0% { transform: translateY(0) scale(1); opacity: 1; }
+  100% { transform: translateY(-28px) scale(1.15); opacity: 0; }
+}
+
+.animate-xp {
+  animation: floatUp 1s ease-out forwards;
+}
+
+/* Effet de carte retournable pour les flashcards */
+.perspective-1000 { perspective: 1000px; }
+.transform-style-3d { transform-style: preserve-3d; }
+.backface-hidden { backface-visibility: hidden; }
+.rotate-y-180 { transform: rotateY(180deg); }
+
+/* Barre de défilement sobre */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #F3F4F6; }
+::-webkit-scrollbar-thumb { background: #D1D5DB; border-radius: 9999px; }
+::-webkit-scrollbar-thumb:hover { background: #9CA3AF; }

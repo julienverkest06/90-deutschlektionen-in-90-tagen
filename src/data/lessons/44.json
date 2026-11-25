@@ -1,0 +1,89 @@
+{
+  "id": "44",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Les verbes irréguliers mixtes (kennen, brennen, bringen, denken)",
+  "titleFr": "S'orienter en ville et conjugaison des verbes mixtes",
+  "proverbDe": "Wer fragt, der findet.",
+  "proverbFr": "Qui demande trouve son chemin.",
+  "paragraphs": [
+    {
+      "de": "Es ist schwierig, wenn man die Stadt nicht kennt. Ich kannte ihn dem Namen nach. Ich habe diese Person nie gekannt.",
+      "fr": "Il est difficile de ne pas connaître la ville. Je le connaissais de nom. Je n'ai jamais connu cette personne."
+    },
+    {
+      "de": "Sagen Sie mir bitte, ob das Postamt weit von hier liegt. Wir würden gern ein Taxi nehmen.",
+      "fr": "Dites-moi s'il vous plaît si le bureau de poste est loin d'ici. Nous aimerions prendre un taxi."
+    }
+  ],
+  "pronunciation": "Le verbe « rennen » (courir) exprime un changement de lieu et prend donc l'auxiliaire « sein » au passé composé : Er ist in den Garten gerannt.",
+  "vocab": [
+    {
+      "de": "kennen → kannte, gekannt",
+      "fr": "connaître",
+      "info": "Verbe mixte"
+    },
+    {
+      "de": "brennen → brannte, gebrannt",
+      "fr": "brûler",
+      "info": "Verbe mixte"
+    },
+    {
+      "de": "rennen → rannte, gerannt",
+      "fr": "courir (+ sein)",
+      "info": "Verbe mixte"
+    },
+    {
+      "de": "bringen → brachte, gebracht",
+      "fr": "apporter",
+      "info": "Verbe mixte"
+    },
+    {
+      "de": "denken → dachte, gedacht",
+      "fr": "penser",
+      "info": "Verbe mixte"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Les verbes mixtes",
+      "body": "Ils prennent les terminaisons des verbes réguliers (<em>-te</em> au prétérit, <em>-t</em> au participe passé), tout en changeant leur voyelle radicale (<em>e → a</em>) : <em>kennen, kannte, gekannt</em> ; <em>senden, sandte, gesandt</em> ; <em>wenden, wandte, gewandt</em>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Mettez au passé composé (Exercice A.2) : « Ein Junge rennt über die Brücke. » → Ein Junge ___ über die Brücke ___.",
+      "answer": "ist ... gerannt",
+      "hint": "rennen prend l'auxiliaire « sein » et son participe passé est « gerannt ».",
+      "explanation": "Ein Junge ist über die Brücke gerannt."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au passé composé (Exercice A.4) : « Ich denke an dich. » → Ich ___ an dich ___.",
+      "answer": "habe ... gedacht",
+      "hint": "denken → dachte → gedacht.",
+      "explanation": "Ich habe an dich gedacht. (J'ai pensé à toi)."
+    },
+    {
+      "type": "order",
+      "prompt": "Interrogation indirecte (Exercice B.6b) : « Dites-moi s'il vous plaît si le bureau de poste est loin d'ici. »",
+      "words": [
+        "Sagen",
+        "Sie",
+        "mir",
+        "bitte,",
+        "ob",
+        "das",
+        "Postamt",
+        "weit",
+        "von",
+        "hier",
+        "liegt."
+      ],
+      "answer": "Sagen Sie mir bitte, ob das Postamt weit von hier liegt.",
+      "hint": "« ob » rejette « liegt » en fin de phrase.",
+      "explanation": "Sagen Sie mir bitte, ob das Postamt weit von hier liegt."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": "20",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Handwerk und Industrie",
+  "titleFr": "L'artisanat et l'industrie",
+  "proverbDe": "Handwerk hat goldenen Boden.",
+  "proverbFr": "Tout métier nourrit son homme.",
+  "paragraphs": [
+    {
+      "de": "Nach der Besichtigung der Spinnerei sprachen die Herren noch lange vom alten Handwerk und von der modernen Industrie. Früher spannen viele Familien selbst ihre Wolle, besonders auf dem Land. Dann gab es kleine Werkstätten, in den Dörfern wie in den Städten.",
+      "fr": "Après la visite de la filature, les messieurs parlèrent encore longtemps de l'ancien artisanat et de l'industrie moderne. Jadis, beaucoup de familles filaient elles-mêmes leur laine, surtout à la campagne. Puis il y eut de petits ateliers, dans les villages comme dans les villes."
+    },
+    {
+      "de": "Der Tischler, der Schneider arbeiteten in ihrer Werkstatt. Sie hatten sie oft von ihrem Vater übernommen. Diese Werkstatt war klein und nicht sehr hell. Die Handwerker durften aber auf ihre Arbeit stolz sein.",
+      "fr": "L'ébéniste, le tailleur travaillaient dans leur atelier. Ils l'avaient souvent repris de leur père. Cet atelier était exigu et pas très clair. Mais les artisans pouvaient être fiers de leur travail."
+    },
+    {
+      "de": "— Ja, heute arbeiten sie sehr oft in einer Fabrik, sagte Herr Müller. Ihre Arbeit ist geregelt, die Räume sind hell und sauber. — Aber ihre Produkte sind anonym, antwortete Herr Neuler; sie machen ihnen weniger Freude.",
+      "fr": "— Oui, aujourd'hui, ils travaillent très souvent dans une usine, dit Monsieur Müller. Leur travail est réglementé, les salles sont claires et propres. — Mais leurs produits sont anonymes, répondit Monsieur Neuler ; ils leur procurent moins de joie."
+    }
+  ],
+  "pronunciation": "La lettre « y » [upsilon] dans les mots étrangers (anonym, Hypothese) se prononce comme le « u » français dans lune.",
+  "vocab": [
+    {
+      "de": "das Handwerk (-e)",
+      "fr": "l'artisanat, le métier",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Tischler (-)",
+      "fr": "l'ébéniste, le menuisier",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schneider (-)",
+      "fr": "le tailleur",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Werkstatt (¨-en)",
+      "fr": "l'atelier",
+      "info": "Féminin"
+    },
+    {
+      "de": "erzeugen",
+      "fr": "produire, fabriquer",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "übernehmen (a, o, i)",
+      "fr": "reprendre, prendre en charge",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Le plus-que-parfait et les auxiliaires de mode (können, dürfen)",
+      "body": "Plus-que-parfait : <em>hatte / war</em> + participe passé en fin de proposition (<em>Sie hatten sie von ihrem Vater übernommen</em>).<br><strong>können</strong> = pouvoir (capacité) ; <strong>dürfen</strong> = avoir la permission, le droit de (<em>Die Handwerker durften stolz sein</em>)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Que signifie « dürfen » dans « Die Handwerker durften auf ihre Arbeit stolz sein » ?",
+      "options": [
+        "Avoir le droit / la légitimité de",
+        "Être obligé de",
+        "Vouloir",
+        "Savoir faire"
+      ],
+      "answer": "Avoir le droit / la légitimité de",
+      "hint": "dürfen exprime la permission ou le droit.",
+      "explanation": "Les artisans avaient le droit d'être fiers de leur travail."
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment se prononce le « y » dans « anonym » ?",
+      "options": [
+        "Comme le « u » français (lune)",
+        "Comme le « i » français (lit)",
+        "Comme le « ou » français",
+        "Comme le « aï »"
+      ],
+      "answer": "Comme le « u » français (lune)",
+      "hint": "Note de prononciation page 91 : y = [u].",
+      "explanation": "Dans les mots étrangers, y se prononce [u]."
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez le proverbe de la leçon :",
+      "words": [
+        "Handwerk",
+        "hat",
+        "goldenen",
+        "Boden."
+      ],
+      "answer": "Handwerk hat goldenen Boden.",
+      "hint": "Littéralement : Le métier a un fond d'or.",
+      "explanation": "Handwerk hat goldenen Boden."
+    }
+  ]
+}

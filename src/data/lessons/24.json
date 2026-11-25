@@ -1,0 +1,102 @@
+{
+  "id": "24",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Wieviel Uhr ist es? (L'heure et le verbe wissen)",
+  "titleFr": "Savoir dire l'heure en allemand et subordonnée avec wie",
+  "proverbDe": "Zeit ist Geld.",
+  "proverbFr": "Le temps, c'est de l'argent.",
+  "paragraphs": [
+    {
+      "de": "Man weiß es noch nicht. Man weiß noch nicht, wie sie in die Wohnung dringen konnten. Gegen 23 Uhr drangen sie in die Wohnung.",
+      "fr": "On ne le sait pas encore. On ne sait pas encore comment ils purent pénétrer dans l'appartement. Vers 23 heures, ils pénétrèrent dans l'appartement."
+    },
+    {
+      "de": "— Wieviel Uhr ist es? — Es ist acht Uhr. Es ist ein Viertel nach acht. Es ist halb neun. Es ist drei Viertel neun.",
+      "fr": "— Quelle heure est-il ? — Il est huit heures. Il est huit heures un quart. Il est huit heures et demie. Il est neuf heures moins le quart."
+    }
+  ],
+  "pronunciation": "Attention à la demi-heure allemande : « halb neun » (littéralement la moitié de la 9e heure) signifie 8 h 30, et non 9 h 30 !",
+  "vocab": [
+    {
+      "de": "wissen (weiß, wußte, gewußt)",
+      "fr": "savoir",
+      "info": "Conjugaison spéciale au présent"
+    },
+    {
+      "de": "Wieviel Uhr ist es?",
+      "fr": "Quelle heure est-il ?",
+      "info": "Expression clé"
+    },
+    {
+      "de": "halb neun",
+      "fr": "8 h 30 (huit heures et demie)",
+      "info": "Piège classique !"
+    },
+    {
+      "de": "Viertel nach / Viertel vor",
+      "fr": "et quart / moins le quart",
+      "info": "Ou drei Viertel"
+    },
+    {
+      "de": "gegen 23 Uhr",
+      "fr": "vers 23 heures",
+      "info": "gegen + accusatif"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Le verbe wissen (savoir)",
+      "body": "Présent singulier sans terminaison à la 1re et 3e pers. : <em>ich weiß, du weißt, er weiß, wir wissen, ihr wißt, sie wissen</em>. Prétérit : <em>ich wußte</em>. Participe passé : <em>gewußt</em>."
+    },
+    {
+      "title": "L'heure courante et officielle",
+      "body": "8 h 15 : <em>ein Viertel nach acht</em> (ou <em>acht Uhr fünfzehn</em>).<br>8 h 30 : <em>halb neun</em> (ou <em>acht Uhr dreißig</em>).<br>8 h 45 : <em>drei Viertel neun</em> ou <em>Viertel vor neun</em>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Quelle heure est-il ? (Exercice A.2) : « 7 h 1/2 »",
+      "options": [
+        "Es ist halb acht.",
+        "Es ist halb sieben.",
+        "Es ist sieben Uhr halb.",
+        "Es ist Viertel nach sieben."
+      ],
+      "answer": "Es ist halb acht.",
+      "hint": "En allemand, 7 h 30 est la moitié de la 8e heure (halb acht).",
+      "explanation": "Es ist halb acht = 7 h 30."
+    },
+    {
+      "type": "choice",
+      "prompt": "Conjuguez « wissen » : « Ich ___ es nicht, aber er ___ es. »",
+      "options": [
+        "weiß / weiß",
+        "weiße / weißt",
+        "wisse / wisst",
+        "weiß / weißt"
+      ],
+      "answer": "weiß / weiß",
+      "hint": "Au présent, ich et er ont la même forme : weiß.",
+      "explanation": "Ich weiß ... er weiß."
+    },
+    {
+      "type": "order",
+      "prompt": "Reliez par wie (Exercice B.9) : « Sie werden kommen; wir wissen es noch nicht. »",
+      "words": [
+        "Wir",
+        "wissen",
+        "noch",
+        "nicht,",
+        "wie",
+        "sie",
+        "kommen",
+        "werden."
+      ],
+      "answer": "Wir wissen noch nicht, wie sie kommen werden.",
+      "hint": "« wie » rejette l'auxiliaire conjugué « werden » en toute fin de phrase.",
+      "explanation": "Wir wissen noch nicht, wie sie kommen werden."
+    }
+  ]
+}

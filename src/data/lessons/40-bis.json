@@ -1,0 +1,77 @@
+{
+  "id": "40 bis",
+  "series": 2,
+  "authentic": true,
+  "isReview": true,
+  "titleDe": "Contrôle et révisions (Leçons 31 à 40)",
+  "titleFr": "Pronoms relatifs, passif et suppression de daß/wenn",
+  "proverbDe": "Steter Tropfen höhlt den Stein.",
+  "proverbFr": "Goutte à goutte, l'eau creuse la pierre.",
+  "paragraphs": [
+    {
+      "de": "Die Kreuzfahrt, die ich diesen Sommer machte, dauerte zwei Wochen. Der Fleischer, dessen Geschäft geschlossen ist, ist nach Chicago abgefahren.",
+      "fr": "La croisière que j'ai faite cet été a duré deux semaines. Le boucher dont le magasin est fermé est parti pour Chicago."
+    },
+    {
+      "de": "Die Zeitung veranstaltet eine Umfrage. → Eine Umfrage wird von der Zeitung veranstaltet.",
+      "fr": "Le journal organise une enquête. → Une enquête est organisée par le journal."
+    }
+  ],
+  "pronunciation": "Après « daß » supprimé, le verbe conjugué reprend sa 2e place normale : Ich sage dem Zöllner, ich habe nichts zu verzollen.",
+  "vocab": [
+    {
+      "de": "die Kreuzfahrt (-en)",
+      "fr": "la croisière",
+      "info": "Féminin"
+    },
+    {
+      "de": "der Fleischer (-)",
+      "fr": "le boucher",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Umfrage (-n)",
+      "fr": "l'enquête, le sondage",
+      "info": "Féminin"
+    },
+    {
+      "de": "dessen / deren",
+      "fr": "dont (pronom relatif génitif)",
+      "info": "Suivi du nom sans article"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Révision : Le Passif (werden + Participe passé)",
+      "body": "Présent passif : <em>wird ... veranstaltet</em>.<br>Prétérit passif : <em>wurde ... besucht</em>.<br>Passé composé passif : <em>ist ... ausgefragt worden</em> (notez <strong>worden</strong> sans <em>ge-</em>)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Pronom relatif (Exercice A.4) : « Der Fleischer, ___ Geschäft geschlossen ist, ist abgefahren. »",
+      "options": [
+        "dessen",
+        "deren",
+        "dem",
+        "der"
+      ],
+      "answer": "dessen",
+      "hint": "Antécédent masculin singulier (der Fleischer) au génitif (« dont le magasin ») → dessen.",
+      "explanation": "Der Fleischer, dessen Geschäft geschlossen ist..."
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au passif (Exercice C.10) : « Die Zeitung veranstaltet eine Umfrage. »",
+      "options": [
+        "Eine Umfrage wird von der Zeitung veranstaltet.",
+        "Eine Umfrage hat von der Zeitung veranstaltet.",
+        "Eine Umfrage ist von der Zeitung veranstalten.",
+        "Eine Umfrage wurde von der Zeitung veranstaltet."
+      ],
+      "answer": "Eine Umfrage wird von der Zeitung veranstaltet.",
+      "hint": "Présent actif → présent passif avec l'auxiliaire « wird » + participe passé.",
+      "explanation": "Eine Umfrage wird von der Zeitung veranstaltet."
+    }
+  ]
+}

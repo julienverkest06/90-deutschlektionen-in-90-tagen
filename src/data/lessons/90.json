@@ -1,0 +1,104 @@
+{
+  "id": "90",
+  "series": 3,
+  "authentic": true,
+  "titleDe": "Eine neue Welt bringst du uns... (Ernst Wiechert)",
+  "titleFr": "Tu nous apportes un monde nouveau... (Leçon finale !)",
+  "proverbDe": "Ende des Weges, Anfang der Meisterschaft.",
+  "proverbFr": "Fin du parcours, début de la maîtrise !",
+  "paragraphs": [
+    {
+      "de": "— Wir haben einen Neuen, Herr Oberlehrer, sagte der Primus und lächelte vertraulich, einen aus dem Walde. — So? Aus was für einem Walde? Wie heißt er? — Josua Ehrwürden Jeromin, Herr Oberlehrer. — Nun, keine Dummheiten, bitte. Wo ist er?",
+      "fr": "— Monsieur le professeur, il y a un nouveau, dit le premier de la classe avec un sourire familier, un gars de la forêt. — Ah ! de quelle forêt ? Comment s'appelle-t-il ? — Josué Ehrwürden Jeromin, monsieur le Professeur. — Allons, pas de bêtises, je vous prie. Où est-il ?"
+    },
+    {
+      "de": "Jons stand auf. Er trug den selbstgewebten Anzug und das Haar über der breiten Stirn sauber gescheitelt. Seine Augen waren verstört, aber er hatte die Lippen fest geschlossen wie seine Mutter, wenn sie den Steuerbescheid in der Hand hielt.",
+      "fr": "Jons se leva. Il portait son costume tissé à la maison et sur son front large, une raie soigneusement tirée partageait ses cheveux. Ses yeux étaient inquiets, mais il fermait les lèvres aussi étroitement que sa mère tenait en ses mains la feuille des contributions."
+    },
+    {
+      "de": "— Und wie heißt du, mein Sohn? — Jons Ehrenreich Jeromin. — Richtig, ich erinnere mich. Ein litauischer Vorname und ein Wunschvorname. Und bist du nun auch an Ehren reich, Jeromin? — Nein, Herr Oberlehrer. Mein Vater sagt, vielleicht ist man bei seinem Tode an Ehren reich.",
+      "fr": "— Et comment t'appelles-tu, mon garçon ? — Jons Ehrenreich Jéromine. — Parfaitement, je me souviens : un prénom lituanien et un prénom porte-chance. Et es-tu déjà riche en honneurs, Jéromine ? — Non, monsieur le professeur. Mon père dit que peut-être à l'heure de la mort on est riche en honneurs."
+    },
+    {
+      "de": "— Und was ist dein Vater? — Mein Vater ist Fischer und hat einen Meiler für den Herrn von Balk. — Der Herr von Balk hat ein Schloß hinter dem Walde, und ihm gehört alles, was wir haben, der See und der Wald und das ganze Dorf.",
+      "fr": "— Et que fait-il, ton père ? — Mon papa est pêcheur et il entretient une meule à charbon pour le seigneur de Balk. — Le seigneur de Balk a un château au-delà de la forêt et tout ce que nous avons lui appartient, le lac et la forêt, et le village tout entier."
+    }
+  ],
+  "pronunciation": "Félicitations ! Vous avez atteint la 90e et dernière leçon de la Méthode 90 d'Alphonse Jenny, un extrait littéraire du roman « Die Jeromin-Kinder » d'Ernst Wiechert.",
+  "vocab": [
+    {
+      "de": "der Oberlehrer (-)",
+      "fr": "le professeur principal",
+      "info": "Masculin"
+    },
+    {
+      "de": "das Haar (-e)",
+      "fr": "le cheveu, la chevelure",
+      "info": "Neutre"
+    },
+    {
+      "de": "an Ehren reich sein",
+      "fr": "être riche en honneurs",
+      "info": "reich an + Datif"
+    },
+    {
+      "de": "der Fischer (-)",
+      "fr": "le pêcheur",
+      "info": "Masculin"
+    },
+    {
+      "de": "das Schloß (¨-er)",
+      "fr": "le château",
+      "info": "Neutre"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Bilan littéraire de la Méthode 90",
+      "body": "• <strong>reich an + Datif</strong> : <em>an Erfahrung reich</em> (riche en expérience).<br>• <strong>Suppression de daß</strong> dans le style parlé/littéraire : <em>Mein Vater sagt, vielleicht ist man...</em> (verbe en 2e position).<br>• Vous maîtrisez désormais l'ensemble des structures essentielles de la langue allemande !"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Quelle préposition gouverne l'adjectif « reich » (riche en...) ?",
+      "options": [
+        "an + Datif (an Ehren reich)",
+        "von + Datif",
+        "mit + Datif",
+        "für + Accusatif"
+      ],
+      "answer": "an + Datif (an Ehren reich)",
+      "hint": "Note 4 du texte : « L'adjectif reich gouverne la préposition an. »",
+      "explanation": "an Ehren reich / reich an Erfahrung."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quel est le métier du père de Jons Ehrenreich Jeromin ?",
+      "options": [
+        "Pêcheur et charbonnier (Fischer und Köhler)",
+        "Ébéniste (Tischler)",
+        "Douanier (Zöllner)",
+        "Médecin (Arzt)"
+      ],
+      "answer": "Pêcheur et charbonnier (Fischer und Köhler)",
+      "hint": "« Mein Vater ist Fischer und hat einen Meiler... »",
+      "explanation": "Il est pêcheur et entretient une meule à charbon."
+    },
+    {
+      "type": "order",
+      "prompt": "Phrase finale de la Méthode 90 :",
+      "words": [
+        "Eine",
+        "neue",
+        "Welt",
+        "bringst",
+        "du",
+        "uns!"
+      ],
+      "answer": "Eine neue Welt bringst du uns!",
+      "hint": "Titre même de la Leçon 90 !",
+      "explanation": "Eine neue Welt bringst du uns! Bravo pour avoir achevé les 90 leçons !"
+    }
+  ]
+}

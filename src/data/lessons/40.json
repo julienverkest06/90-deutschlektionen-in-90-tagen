@@ -1,0 +1,83 @@
+{
+  "id": "40",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Le Subjonctif 1 et le Subjonctif 2 (Conditionnel)",
+  "titleFr": "Expression de l'irréel, du souhait et du discours indirect",
+  "proverbDe": "Wenn das Wörtchen wenn nicht wär, wär mein Vater Millionär.",
+  "proverbFr": "Si « si » n'existait pas, mon père serait millionnaire.",
+  "paragraphs": [
+    {
+      "de": "Ich hatte verlangt, daß man das Frühstück aufs Zimmer bringe. Man bediene mich etwas schneller! Man sagt, er diene als Kellner.",
+      "fr": "J'avais exigé qu'on monte le petit déjeuner dans la chambre. Qu'on me serve un peu plus vite ! On dit qu'il sert comme garçon de café."
+    },
+    {
+      "de": "Wenn er doch käme! Er tut, als ob er krank wäre. Ich nähme Kaffee und äße warme Hörnchen mit Marmelade.",
+      "fr": "Si seulement il venait ! Il fait comme s'il était malade. Je prendrais du café et je mangerais des croissants chauds avec de la confiture."
+    }
+  ],
+  "pronunciation": "Au Subjonctif 2 des verbes forts, le radical du prétérit prend l'inflexion (Umlaut) si possible : kam → käme, trug → trüge, gab → gäbe, aß → äße.",
+  "vocab": [
+    {
+      "de": "der Kellner (-)",
+      "fr": "le garçon de café, serveur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Geschäftsführer (-)",
+      "fr": "le gérant, directeur",
+      "info": "Masculin"
+    },
+    {
+      "de": "das Hörnchen (-)",
+      "fr": "le croissant",
+      "info": "Neutre"
+    },
+    {
+      "de": "ich käme / ich trüge",
+      "fr": "je viendrais / je porterais",
+      "info": "Subjonctif 2 (irréel)"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Formation du Subjonctif 1 et du Subjonctif 2",
+      "body": "• <strong>Subjonctif 1</strong> (discours indirect, souhait) : radical de l'infinitif + <em>-e, -est, -e, -en, -et, -en</em> (<em>er wohne, er trage, er sei</em>).<br>• <strong>Subjonctif 2</strong> (irréel, conditionnel) : réguliers = prétérit (<em>ich wohnte</em>) ; forts = radical du prétérit + Umlaut + terminaisons du subj. 1 (<em>ich käme, er gäbe, es vergäße</em>)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Mettez au Subjonctif 2 présent (Exercice B.2) : « Emma vergißt das Frühstück. » (vergessen → vergaß)",
+      "options": [
+        "Emma vergäße das Frühstück.",
+        "Emma vergißte das Frühstück.",
+        "Emma vergesse das Frühstück.",
+        "Emma vergaß das Frühstück."
+      ],
+      "answer": "Emma vergäße das Frühstück.",
+      "hint": "Prétérit « vergaß » + Umlaut sur a + -e final → vergäße.",
+      "explanation": "Emma vergäße das Frühstück. (Emma oublierait le petit déjeuner)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Subjonctif 1 (Exercice A.1) : « Der Gast fragt, ob Emma das Frühstück bald ___ . » (bringen)",
+      "options": [
+        "bringe",
+        "bringt",
+        "brächte",
+        "gebracht"
+      ],
+      "answer": "bringe",
+      "hint": "Radical de l'infinitif bring- + terminaison -e à la 3e pers. sg.",
+      "explanation": "...ob Emma das Frühstück bald bringe."
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez au conditionnel (Exercice C.11) : « Je prendrais du café. » (nehmen → nahm)",
+      "answer": "Ich nähme Kaffee.",
+      "hint": "Subjonctif 2 de nehmen : ich nähme.",
+      "explanation": "Ich nähme Kaffee."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": "1",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Er lernt im Park",
+  "titleFr": "Il apprend dans le parc",
+  "proverbDe": "Aller Anfang ist schwer.",
+  "proverbFr": "Tout commencement est difficile.",
+  "paragraphs": [
+    {
+      "de": "Paul Dumont lernt Deutsch. Er ist im Park.",
+      "fr": "Paul Dumont apprend l'allemand. Il est dans le parc."
+    },
+    {
+      "de": "Der Park ist groß und grün. Die Tanne ist auch groß. Das Gras ist grün.",
+      "fr": "Le parc est grand et vert. Le sapin est aussi grand. L'herbe est verte."
+    },
+    {
+      "de": "— Ist das Gras grün? — Ja, es ist grün. — Wie ist die Tanne? — Sie ist groß.",
+      "fr": "— L'herbe est-elle verte ? — Oui, elle est verte. — Comment est le sapin ? — Il est grand."
+    }
+  ],
+  "pronunciation": "Le « ch » dans « auch » est un son guttural au fond de la gorge [aor]. Tous les noms allemands prennent une majuscule (der Park, die Tanne, das Gras).",
+  "vocab": [
+    {
+      "de": "der Park",
+      "fr": "le parc",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Tag",
+      "fr": "le jour",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Tanne",
+      "fr": "le sapin",
+      "info": "Féminin (masculin en fr.)"
+    },
+    {
+      "de": "das Gras",
+      "fr": "l'herbe",
+      "info": "Neutre (féminin en fr.)"
+    },
+    {
+      "de": "lernen",
+      "fr": "apprendre",
+      "info": "Verbe"
+    },
+    {
+      "de": "grün / groß",
+      "fr": "vert / grand",
+      "info": "Adjectifs invariables"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Le nom et les trois genres : der, die, das",
+      "body": "L'allemand distingue trois genres : <strong>der</strong> (masculin : <em>der Park</em>), <strong>die</strong> (féminin : <em>die Tanne</em>) et <strong>das</strong> (neutre : <em>das Gras</em>). Au pluriel, l'article défini unique est <strong>die</strong>. Tous les noms s'écrivent avec une majuscule."
+    },
+    {
+      "title": "Le verbe être (sein) et les pronoms personnels",
+      "body": "<em>ich bin</em> (je suis), <em>er ist</em> (il est), <em>sie ist</em> (elle est), <em>es ist</em> (il/elle est, c'est), <em>wir sind</em> (nous sommes), <em>sie sind</em> (ils sont), <em>Sie sind</em> (vous êtes — politesse). L'adjectif attribut (<em>grün, groß</em>) reste toujours invariable."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Complétez par l'article défini exact : « Ist ___ Gras grün? » (L'herbe est-elle verte ?)",
+      "options": [
+        "der",
+        "die",
+        "das",
+        "den"
+      ],
+      "answer": "das",
+      "hint": "« Gras » est du genre neutre en allemand (das Gras).",
+      "explanation": "Exact ! das Gras (neutre) → Ist das Gras grün?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Quel article convient devant « Tanne » (le sapin) ? « Wie ist ___ Tanne? »",
+      "options": [
+        "der",
+        "die",
+        "das",
+        "ein"
+      ],
+      "answer": "die",
+      "hint": "Attention aux faux amis de genre : le sapin est féminin en allemand.",
+      "explanation": "Bravo ! die Tanne est féminin en allemand."
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand (Exercice D.12) : « Comment est le parc ? »",
+      "answer": "Wie ist der Park?",
+      "hint": "Utilisez l'interrogatif « Wie » (comment) + verbe « ist » + « der Park ».",
+      "explanation": "Parfait : Wie ist der Park?"
+    },
+    {
+      "type": "order",
+      "prompt": "Remettez dans l'ordre (Exercice D.13) : « Êtes-vous (politesse) dans le parc ? »",
+      "words": [
+        "Sind",
+        "Sie",
+        "im",
+        "Park?"
+      ],
+      "answer": "Sind Sie im Park?",
+      "hint": "Dans l'interrogation directe, le verbe conjugué se place en tête de phrase.",
+      "explanation": "Sind Sie im Park? (Sie avec majuscule = forme de politesse)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez en français (Exercice B.6) : « Lernt er im Park? »",
+      "options": [
+        "Apprend-il dans le parc ?",
+        "Est-il grand dans le parc ?",
+        "Elle apprend dans le parc.",
+        "Apprenez-vous dans le parc ?"
+      ],
+      "answer": "Apprend-il dans le parc ?",
+      "hint": "« er » correspond au pronom masculin singulier (il).",
+      "explanation": "Lernt er im Park? = Apprend-il dans le parc ?"
+    }
+  ]
+}

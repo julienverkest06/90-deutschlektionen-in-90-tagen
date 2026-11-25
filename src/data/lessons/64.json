@@ -1,0 +1,77 @@
+{
+  "id": "64",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Beim Schneider (genug vs ziemlich & suffixe -los)",
+  "titleFr": "Chez le tailleur : « assez », privation et verbes forts en e-o-o",
+  "proverbDe": "Kleider machen Leute.",
+  "proverbFr": "Chaque chose en son temps.",
+  "paragraphs": [
+    {
+      "de": "Ich möchte das Halsband hervorheben. Die Brustabnäher sind nicht lang genug. Sie hat ziemlich breite Hüften. Ein ärmelloses Kleid.",
+      "fr": "Je voudrais mettre le collier en valeur. Les pinces ne sont pas assez longues. Elle a des hanches assez larges. Une robe sans manches."
+    }
+  ],
+  "pronunciation": "Le suffixe « -los » ajouté à un nom forme un adjectif marquant la privation : farblos (sans couleur), mutlos (sans courage), arbeitslos (sans travail).",
+  "vocab": [
+    {
+      "de": "heben → hob, gehoben",
+      "fr": "soulever",
+      "info": "Verbe fort e - o - o"
+    },
+    {
+      "de": "genug",
+      "fr": "assez (= suffisamment)",
+      "info": "Placé après l'adjectif"
+    },
+    {
+      "de": "ziemlich",
+      "fr": "assez (= passablement)",
+      "info": "Placé avant l'adjectif"
+    },
+    {
+      "de": "ärmellos",
+      "fr": "sans manches",
+      "info": "Suffixe privatif -los"
+    },
+    {
+      "de": "das Schaufenster (-)",
+      "fr": "la vitrine",
+      "info": "Neutre"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Traduire « assez » : genug vs ziemlich",
+      "body": "• <strong>genug</strong> signifie « suffisamment » et se place <strong>après</strong> l'adjectif (<em>nicht lang genug</em>) ou avant le nom (<em>genug Geld</em>).<br>• <strong>ziemlich</strong> signifie « passablement, plutôt » et se place <strong>avant</strong> l'adjectif (<em>ziemlich altmodisch</em>)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Complétez par genug ou ziemlich (Exercice B.6) : « Dieser Mantel ist zwar ___ lang, und trotzdem fand sie ihn nicht lang ___ . »",
+      "options": [
+        "ziemlich / genug",
+        "genug / ziemlich",
+        "ziemlich / ziemlich",
+        "genug / genug"
+      ],
+      "answer": "ziemlich / genug",
+      "hint": "1er = passablement long (avant l'adjectif) ; 2e = suffisamment long (après l'adjectif).",
+      "explanation": "ziemlich lang ... nicht lang genug."
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie l'adjectif « arbeitslos » ?",
+      "options": [
+        "Sans travail (chômeur)",
+        "Travailleur",
+        "Difficile",
+        "Fatigué"
+      ],
+      "answer": "Sans travail (chômeur)",
+      "hint": "die Arbeit (le travail) + suffixe privatif -los.",
+      "explanation": "arbeitslos = sans travail ; ein Arbeitsloser = un chômeur."
+    }
+  ]
+}

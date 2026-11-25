@@ -1,0 +1,92 @@
+{
+  "id": "38",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Suppression de wenn et nuances de sollen",
+  "titleFr": "Inversion conditionnelle et emplois de « sollen »",
+  "proverbDe": "Man soll den Tag nicht vor dem Abend loben.",
+  "proverbFr": "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.",
+  "paragraphs": [
+    {
+      "de": "Benötigen Sie etwas, so brauchen Sie nur zu klingeln. Reservieren Sie ein Zimmer, so schreiben Sie früh genug.",
+      "fr": "Si vous avez besoin de quelque chose, vous n'avez qu'à sonner. Si vous réservez une chambre, écrivez assez tôt."
+    },
+    {
+      "de": "Dieses Hotel soll sehr modern sein. Sollte es regnen, so bleibe ich auf meinem Zimmer.",
+      "fr": "On dit que cet hôtel est très moderne. S'il venait à pleuvoir, je resterai dans ma chambre."
+    }
+  ],
+  "pronunciation": "Lorsqu'on supprime « wenn » en tête de phrase, la proposition principale est souvent introduite par « so » ou « da » qui ne se traduit pas en français.",
+  "vocab": [
+    {
+      "de": "benötigen",
+      "fr": "avoir besoin de",
+      "info": "Synonyme de brauchen"
+    },
+    {
+      "de": "klingeln",
+      "fr": "sonner",
+      "info": "Verbe régulier"
+    },
+    {
+      "de": "das Trinkgeld (-er)",
+      "fr": "le pourboire",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Fremdenbuch (¨-er)",
+      "fr": "le registre des voyageurs",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Zentralheizung",
+      "fr": "le chauffage central",
+      "info": "Féminin"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "1. La suppression de wenn (inversion conditionnelle)",
+      "body": "Quand la subordonnée conditionnelle précède la principale, on peut supprimer <em>wenn</em> en plaçant le <strong>verbe en 1re position</strong> : <em>Wenn das Zimmer kalt ist → <strong>Ist</strong> das Zimmer kalt, <strong>so</strong> stellt er die Heizung an.</em>"
+    },
+    {
+      "title": "2. Les nuances du verbe sollen",
+      "body": "• Obligation morale : <em>Er soll langsamer fahren.</em><br>• Assertion d'autrui (« on dit que / il paraît que ») : <em>Dieses Hotel <strong>soll</strong> modern sein.</em><br>• Éventualité (« venir à ») : <em><strong>Sollte</strong> es regnen...</em>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "prompt": "Supprimez wenn (Exercice A.1) : « Wenn das Zimmer zu kalt ist, stellt er die Zentralheizung an. »",
+      "words": [
+        "Ist",
+        "das",
+        "Zimmer",
+        "zu",
+        "kalt,",
+        "so",
+        "stellt",
+        "er",
+        "die",
+        "Zentralheizung",
+        "an."
+      ],
+      "answer": "Ist das Zimmer zu kalt, so stellt er die Zentralheizung an.",
+      "hint": "Placez « Ist » en tout début de phrase et introduisez la principale par « so ».",
+      "explanation": "Ist das Zimmer zu kalt, so stellt er die Zentralheizung an."
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « soll » dans « Diese Dame soll sehr reich sein » (Exercice B.5) ?",
+      "options": [
+        "On dit que cette dame est très riche.",
+        "Cette dame doit être riche.",
+        "Cette dame veut être riche.",
+        "Cette dame était riche."
+      ],
+      "answer": "On dit que cette dame est très riche.",
+      "hint": "Nuance d'assertion d'autrui (on dit que / il paraît que).",
+      "explanation": "On dit que cette dame est très riche."
+    }
+  ]
+}

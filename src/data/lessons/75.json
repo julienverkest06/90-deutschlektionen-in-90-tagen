@@ -1,0 +1,85 @@
+{
+  "id": "75",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Was sehen Sie gerne? Was hören Sie gerne?",
+  "titleFr": "Les arts, l'architecture et la musique (Fin de la Série 2)",
+  "proverbDe": "Was lange währt, wird gut.",
+  "proverbFr": "Tout vient à point pour qui sait attendre.",
+  "paragraphs": [
+    {
+      "de": "— Ich bewundere die mittelalterliche Baukunst, sei es die romanische oder die gotische. Haben Sie den Stephansdom zu Wien bei schönem Wetter gesehen? Seine Fenster und Bildsäulen, sein wunderbares Hauptschiff und sein himmelstrebender Turm verbinden mehrere Stile zu einer harmonischen Einheit.",
+      "fr": "— J'admire l'architecture médiévale, qu'elle soit romane ou gothique. Avez-vous vu par beau temps la cathédrale Saint-Étienne, à Vienne ? Ses vitraux et statues, sa merveilleuse nef principale et sa tour qui s'élance vers les cieux combinent plusieurs styles pour en faire une unité harmonieuse."
+    },
+    {
+      "de": "— In der Malerei schwärme ich für die Werke aus dem XV. Jh. Verstehen Sie etwas von abstrakter Kunst? — Aber, mein Lieber, warum soll denn der Maler die Wirklichkeit nachbilden? Der Photograph, der über eine gute Kamera verfügt, ist viel genauer.",
+      "fr": "— En peinture, j'ai un fort penchant pour les œuvres du XVe siècle. Vous comprenez quelque chose à l'art abstrait ? — Mais, mon cher, pourquoi voulez-vous que le peintre imite le réel ? Le photographe, disposant d'un bon appareil, est beaucoup plus exact."
+    },
+    {
+      "de": "— Seitdem ich einen Fernsehapparat habe, gehe ich weder ins Kino, noch ins Konzert. — Gestern haben Sie den Liederabend der Wiener Sängerknaben versäumt. Und außerdem werden alle Ihre Apparate niemals das Vergnügen ersetzen, Musik selbst zu spielen.",
+      "fr": "— Depuis que j'ai la télévision, je ne vais ni au cinéma, ni au concert. — Hier vous avez manqué le récital des Petits Chanteurs de Vienne. Et d'ailleurs tous vos appareils ne remplaceront jamais le plaisir de faire soi-même de la musique."
+    }
+  ],
+  "pronunciation": "Cette 75e leçon clôture la Série 2 (Situations pratiques) et ouvre la porte à la Série 3 consacrée aux grands textes littéraires allemands.",
+  "vocab": [
+    {
+      "de": "die Baukunst",
+      "fr": "l'architecture",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Hauptschiff (-e)",
+      "fr": "la nef principale",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Jahrhundert (-e)",
+      "fr": "le siècle",
+      "info": "Neutre (abrégé Jh.)"
+    },
+    {
+      "de": "weder ... noch",
+      "fr": "ni ... ni",
+      "info": "Double négation"
+    },
+    {
+      "de": "versäumen",
+      "fr": "manquer, rater (un événement)",
+      "info": "Verbe inséparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "La double négation weder ... noch (ni ... ni)",
+      "body": "<em>Ich gehe <strong>weder</strong> ins Kino, <strong>noch</strong> ins Konzert.</em> Comme en français, cette tournure n'exige pas d'autre négation (<em>nicht/kein</em>)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Comment dit-on « ni au cinéma, ni au concert » d'après le texte ?",
+      "options": [
+        "weder ins Kino, noch ins Konzert",
+        "nicht ins Kino, und nicht ins Konzert",
+        "entweder ins Kino, oder ins Konzert",
+        "kein Kino, noch Konzert"
+      ],
+      "answer": "weder ins Kino, noch ins Konzert",
+      "hint": "weder ... noch = ni ... ni.",
+      "explanation": "weder ins Kino, noch ins Konzert."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez le proverbe de la leçon 75 : « Was lange währt, wird gut. »",
+      "options": [
+        "Ce qui dure longtemps réussit (Tout vient à point pour qui sait attendre).",
+        "Le temps passe trop vite.",
+        "L'art est éternel.",
+        "Mieux vaut tard que jamais."
+      ],
+      "answer": "Ce qui dure longtemps réussit (Tout vient à point pour qui sait attendre).",
+      "hint": "währen = durer.",
+      "explanation": "Was lange währt, wird gut."
+    }
+  ]
+}

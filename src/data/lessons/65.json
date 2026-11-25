@@ -1,0 +1,77 @@
+{
+  "id": "65",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Beim Schuhmacher (sehr vs viel & noms composés)",
+  "titleFr": "Chez le cordonnier : « beaucoup » et ordre des noms composés",
+  "proverbDe": "Schuster, bleib bei deinem Leisten.",
+  "proverbFr": "Cordonnier, pas plus haut que la chaussure (chacun son métier).",
+  "paragraphs": [
+    {
+      "de": "Er leiht mir seine Schuhbürste. Es tut mir sehr leid. Ich danke Ihnen sehr für Ihre Aufnahme. Er hat viel gelesen.",
+      "fr": "Il me prête sa brosse à chaussures. Je suis vraiment désolé. Je vous remercie beaucoup de votre accueil. Il a beaucoup lu."
+    }
+  ],
+  "pronunciation": "Dans les noms composés (das Schuhpflegemittel), le genre et le pluriel sont toujours déterminés par le dernier mot (das Mittel).",
+  "vocab": [
+    {
+      "de": "bleiben → blieb, geblieben",
+      "fr": "rester (+ sein)",
+      "info": "Groupe ei - ie - ie"
+    },
+    {
+      "de": "leihen → lieh, geliehen",
+      "fr": "prêter",
+      "info": "Groupe ei - ie - ie"
+    },
+    {
+      "de": "sehr",
+      "fr": "beaucoup, très (intensité)",
+      "info": "Avec verbes de sentiment/adjectifs"
+    },
+    {
+      "de": "viel",
+      "fr": "beaucoup (quantité)",
+      "info": "Avec verbes d'action/noms"
+    },
+    {
+      "de": "vorziehen (o, o)",
+      "fr": "préférer",
+      "info": "Particule séparable : vor"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Traduire « beaucoup » : sehr vs viel",
+      "body": "• <strong>sehr</strong> exprime l'intensité (devant un adjectif ou avec un verbe de sentiment) : <em>Ich danke Ihnen <strong>sehr</strong>. Sie liebt das Reisen <strong>sehr</strong>.</em><br>• <strong>viel</strong> exprime la quantité : <em>Sie haben <strong>viel</strong> gegessen und <strong>viel</strong> getrunken.</em>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "sehr ou viel ? (Exercice B.6) : « Wir freuen uns ___, Sie kennen zu lernen. »",
+      "options": [
+        "sehr",
+        "viel",
+        "viele",
+        "genug"
+      ],
+      "answer": "sehr",
+      "hint": "« sich freuen » exprime un sentiment (intensité) → sehr.",
+      "explanation": "Wir freuen uns sehr..."
+    },
+    {
+      "type": "choice",
+      "prompt": "sehr ou viel ? (Exercice B.7) : « Sie haben ___ gegessen und ___ getrunken. »",
+      "options": [
+        "viel / viel",
+        "sehr / sehr",
+        "sehr / viel",
+        "viel / sehr"
+      ],
+      "answer": "viel / viel",
+      "hint": "Manger et boire expriment une quantité → viel.",
+      "explanation": "Sie haben viel gegessen und viel getrunken."
+    }
+  ]
+}

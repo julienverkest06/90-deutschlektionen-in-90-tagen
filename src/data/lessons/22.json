@@ -1,0 +1,105 @@
+{
+  "id": "22",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "La subordonnée (weil) et les nombres ordinaux",
+  "titleFr": "Rejet du verbe conjugué et expression de la date",
+  "proverbDe": "Ordnung ist das halbe Leben.",
+  "proverbFr": "L'ordre est la moitié de la vie.",
+  "paragraphs": [
+    {
+      "de": "Sie fahren in die Vorstadt, weil dort ein Fest stattfindet. Er freut sich, weil er den Pokal gewonnen hat.",
+      "fr": "Ils vont dans la banlieue parce qu'une fête y a lieu. Il se réjouit parce qu'il a remporté la coupe."
+    },
+    {
+      "de": "Das Fest fand am 25. (fünfundzwanzigsten) September statt. Heute haben wir den zehnten Mai.",
+      "fr": "La fête eut lieu le 25 septembre. Nous sommes aujourd'hui le 10 mai."
+    }
+  ],
+  "pronunciation": "La subordonnée est toujours séparée de la principale par une virgule. Dans une particule séparable rejetée à la fin (stattfindet), la particule reste soudée au verbe.",
+  "vocab": [
+    {
+      "de": "weil",
+      "fr": "parce que (subordination)",
+      "info": "Rejet du verbe à la fin"
+    },
+    {
+      "de": "warum?",
+      "fr": "pourquoi ?",
+      "info": "Interrogatif"
+    },
+    {
+      "de": "der erste / der dritte",
+      "fr": "le premier / le troisième",
+      "info": "Ordinaux irréguliers"
+    },
+    {
+      "de": "der siebte / der achte",
+      "fr": "le septième / le huitième",
+      "info": "Ordinaux irréguliers"
+    },
+    {
+      "de": "stattfinden (a, u)",
+      "fr": "avoir lieu",
+      "info": "Particule séparable : statt"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "La proposition subordonnée introduite par weil",
+      "body": "Dans toute subordonnée (<em>weil, daß, ob, wenn...</em>), <strong>le verbe conjugué est rejeté tout à la fin</strong>. Si le verbe a une particule séparable, elle reste soudée (<em>weil dort ein Fest stattfindet</em>). Aux temps composés, l'auxiliaire prend la dernière place (<em>weil er gewonnen hat</em>)."
+    },
+    {
+      "title": "Les nombres ordinaux et la date",
+      "body": "De 2 à 19 : nombre + <strong>-te</strong> (<em>der zweite</em>) ; à partir de 20 : nombre + <strong>-ste</strong> (<em>der zwanzigste</em>). Irréguliers : <em>erste, dritte, siebte, achte</em>. Date : <em>am 25. September</em> (datif) ou <em>Heute haben wir den 10. Mai</em> (accusatif)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "prompt": "Reliez par weil (Exercice A.1) : « Er mag diese Tänze nicht; er ist schon ziemlich alt. »",
+      "words": [
+        "Er",
+        "mag",
+        "diese",
+        "Tänze",
+        "nicht,",
+        "weil",
+        "er",
+        "schon",
+        "ziemlich",
+        "alt",
+        "ist."
+      ],
+      "answer": "Er mag diese Tänze nicht, weil er schon ziemlich alt ist.",
+      "hint": "N'oubliez pas la virgule avant weil et le rejet de « ist » à la fin !",
+      "explanation": "Er mag diese Tänze nicht, weil er schon ziemlich alt ist."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez (Exercice C.9) : « Viendrez-vous le quinze mai ? »",
+      "options": [
+        "Werden Sie am fünfzehnten Mai kommen?",
+        "Werden Sie am fünfzehn Mai kommen?",
+        "Werden Sie am fünfzehnte Mai kommen?",
+        "Werden Sie am fünfzehnsten Mai kommen?"
+      ],
+      "answer": "Werden Sie am fünfzehnten Mai kommen?",
+      "hint": "Jusqu'à 19, l'ordinal se forme en -te, et après « am » (datif) il prend -ten.",
+      "explanation": "am fünfzehnten Mai."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quels sont les quatre nombres ordinaux irréguliers en allemand ?",
+      "options": [
+        "erste, dritte, siebte, achte",
+        "zweite, vierte, sechste, zehnte",
+        "erste, zweite, dritte, vierte",
+        "siebte, achte, neunte, zwölfte"
+      ],
+      "answer": "erste, dritte, siebte, achte",
+      "hint": "1er, 3e, 7e, 8e présentent une modification orthographique.",
+      "explanation": "der erste, der dritte, der siebte, der achte."
+    }
+  ]
+}

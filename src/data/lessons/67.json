@@ -1,0 +1,85 @@
+{
+  "id": "67",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Unterhalt, Sauberkeit",
+  "titleFr": "Entretien, propreté (Parfumerie, teinturerie, droguerie)",
+  "proverbDe": "Neue Besen kehren gut.",
+  "proverbFr": "Tout nouveau, tout beau (Les balais neufs nettoient bien).",
+  "paragraphs": [
+    {
+      "de": "(In der Parfümerie) — Ich möchte Zahnpaste, bitte. — Was für eine Marke? Eine kleine oder eine große Tube? — Geben Sie mir auch eine Zahnbürste, aber ja keine aus Nylon. — Je härter sie ist, desto besser putzt sie, meinen viele Käufer.",
+      "fr": "(Dans la parfumerie) — Je voudrais de la pâte dentifrice, s'il vous plaît. — Quelle marque ? Un petit ou un grand tube ? — Donnez-moi également une brosse à dents, mais pas en nylon surtout. — Plus elle est dure, mieux elle nettoie, pensent beaucoup d'acheteurs."
+    },
+    {
+      "de": "(In der Färberei) — Hier bringe ich einen Anzug. — Was ist zu tun? — Reinigen und bügeln. Von Hand, bitte. — O! hier sehe ich Flecken. Es sind keine Fettflecken; ich glaube, es sind Obstflecken.",
+      "fr": "(Dans la teinturerie) — Voici un complet. — Que faut-il faire ? — Le nettoyer et le repasser. À la main, s'il vous plaît. — Ah ! je vois ici des taches. Ce ne sont pas des taches de graisse ; je crois que ce sont des taches de fruit."
+    },
+    {
+      "de": "(Beim Drogisten) — Ich möchte einen Fleckenreiniger, bitte. Eine Creme wäre mir lieber. — Hier habe ich ein neues Mittel. Die Gebrauchsanweisung liegt bei.",
+      "fr": "(Chez le droguiste) — Je voudrais un détachant s'il vous plaît. Je préférerais une crème. — Voici quelque chose de nouveau. La notice d'emploi est jointe."
+    }
+  ],
+  "pronunciation": "Notez l'expression proportionnelle : « Je härter sie ist, desto besser putzt sie » (Plus elle est dure, mieux elle nettoie).",
+  "vocab": [
+    {
+      "de": "die Zahnpaste / Zahnbürste",
+      "fr": "le dentifrice / la brosse à dents",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Färberei (-en)",
+      "fr": "la teinturerie, le pressing",
+      "info": "Féminin"
+    },
+    {
+      "de": "der Flecken (-)",
+      "fr": "la tache",
+      "info": "Masculin"
+    },
+    {
+      "de": "bügeln / bürsten",
+      "fr": "repasser / brosser",
+      "info": "Verbes réguliers"
+    },
+    {
+      "de": "die Gebrauchsanweisung",
+      "fr": "le mode d'emploi, la notice",
+      "info": "Féminin"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "La proportionnelle : je + comparatif ... desto + comparatif",
+      "body": "<em>Je härter sie ist, desto besser putzt sie</em> (Plus elle est dure, mieux elle nettoie). Le verbe est rejeté après <em>je</em>, et placé juste après <em>desto + comparatif</em>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Que signifie « bügeln » dans le dialogue chez le teinturier ?",
+      "options": [
+        "Repasser",
+        "Brosser",
+        "Teindre",
+        "Blanchir"
+      ],
+      "answer": "Repasser",
+      "hint": "« Reinigen und bügeln » = nettoyer et repasser.",
+      "explanation": "bügeln = repasser."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez le proverbe : « Neue Besen kehren gut. »",
+      "options": [
+        "Les balais neufs nettoient bien (Tout nouveau, tout beau).",
+        "Il faut balayer devant sa porte.",
+        "La propreté est une vertu.",
+        "Les taches de fruits partent vite."
+      ],
+      "answer": "Les balais neufs nettoient bien (Tout nouveau, tout beau).",
+      "hint": "der Besen = le balai ; kehren = balayer.",
+      "explanation": "Neue Besen kehren gut."
+    }
+  ]
+}

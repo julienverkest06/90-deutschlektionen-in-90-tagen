@@ -1,0 +1,81 @@
+{
+  "id": "48",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Am Telefon (welcher & was für ein)",
+  "titleFr": "Au téléphone : interrogatifs welcher et was für ein",
+  "proverbDe": "Auf Wiedersehen, gnädige Frau.",
+  "proverbFr": "Au revoir, chère Madame.",
+  "paragraphs": [
+    {
+      "de": "— Hier Kurt Bresch. Welches ist Ihre Nummer? — Bitte Nummer drei-zwoundzwanzig (3.22). — Was für einen Apparat haben Sie?",
+      "fr": "— Ici Kurt Bresch. Quel est votre numéro ? — Le numéro 3.22 s'il vous plaît. — Quelle sorte d'appareil avez-vous ?"
+    },
+    {
+      "de": "Vielen Dank, gnädige Frau. Besten Dank, Frau Müller!",
+      "fr": "Merci beaucoup, Madame. Merci bien, Madame Müller !"
+    }
+  ],
+  "pronunciation": "Au téléphone en Allemagne, on annonce son propre nom en décrochant (« Hier Kurt Bresch ») et on prononce « zwo » à la place de « zwei » pour éviter toute confusion avec « drei ».",
+  "vocab": [
+    {
+      "de": "einhängen / zurückrufen",
+      "fr": "raccrocher / rappeler",
+      "info": "Verbes séparables"
+    },
+    {
+      "de": "unterbrechen (a, o, i)",
+      "fr": "interrompre, couper",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "der Teilnehmer (-)",
+      "fr": "l'abonné, le participant",
+      "info": "Masculin"
+    },
+    {
+      "de": "das Telephonbuch",
+      "fr": "l'annuaire téléphonique",
+      "info": "Neutre"
+    },
+    {
+      "de": "zwo",
+      "fr": "deux (au téléphone)",
+      "info": "Évite la confusion avec drei"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "welcher (quel, lequel) vs was für ein (quelle sorte de)",
+      "body": "• <strong>welcher, welche, welches</strong> interroge sur une personne ou chose définie (se décline comme <em>der, die, das</em>).<br>• <strong>was für ein</strong> interroge sur la qualité ou l'espèce : seul <em>ein</em> se décline selon sa fonction (au pluriel : <em>was für Bücher?</em>)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Posez la question sur le mot entre parenthèses (Exercice A.2) : « Er trug einen (blauen) Mantel. »",
+      "options": [
+        "Was für einen Mantel trug er?",
+        "Welchen Mantel trug er?",
+        "Was für ein Mantel trug er?",
+        "Welcher Mantel trug er?"
+      ],
+      "answer": "Was für einen Mantel trug er?",
+      "hint": "« blauen » indique la qualité/sorte → was für ein + accusatif masculin (einen).",
+      "explanation": "Was für einen Mantel trug er?"
+    },
+    {
+      "type": "choice",
+      "prompt": "Au pluriel, comment dit-on « Quelle sorte de livres apporta-t-il ? » (Exercice A.4)",
+      "options": [
+        "Was für Bücher brachte er uns mit?",
+        "Was für eine Bücher brachte er uns mit?",
+        "Was für ein Bücher brachte er uns mit?",
+        "Welche für Bücher brachte er uns mit?"
+      ],
+      "answer": "Was für Bücher brachte er uns mit?",
+      "hint": "Au pluriel, l'article indéfini « ein » disparaît après « was für ».",
+      "explanation": "Was für Bücher brachte er uns mit?"
+    }
+  ]
+}

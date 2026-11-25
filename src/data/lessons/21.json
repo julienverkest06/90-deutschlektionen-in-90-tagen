@@ -1,0 +1,103 @@
+{
+  "id": "21",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Erholung zwischen Blumen und Gemüse",
+  "titleFr": "Délassement entre les fleurs et les légumes",
+  "proverbDe": "Wer zuletzt lacht, lacht am besten.",
+  "proverbFr": "Rira bien qui rira le dernier.",
+  "paragraphs": [
+    {
+      "de": "In der Vorstadt gibt es viele Kleingärtner (oder Hobbygärtner). Ihr Garten ist für sie Freude und Erholung. Hier arbeiten sie an den schönen Tagen. Sie sitzen auch gern in dem Gartenhäuschen, trinken Bier und spielen Karten.",
+      "fr": "Dans la banlieue, il y a beaucoup de jardiniers amateurs. Leur jardin représente pour eux joie et délassement. Ils travaillent ici par les belles journées. Ils aiment également être assis dans la tonnelle, en buvant de la bière et en jouant aux cartes."
+    },
+    {
+      "de": "Herr Möll, der Pförtner, hat auch einen Kleingarten. Seine zwei Söhne und seine Tochter Monika helfen ihm oft. Sie pflanzen am liebsten Blumen. Gestern sind sie alle drei gekommen; sie haben ein wenig gearbeitet. Dann haben sie ihrer Mutter Blumen gebracht.",
+      "fr": "Monsieur Möll, le portier, a également un petit jardin. Ses deux fils et sa fille Monique l'aident souvent. Ils aiment le plus planter des fleurs. Hier, ils sont venus tous les trois ; ils ont travaillé un peu. Ensuite, ils ont porté des fleurs à leur mère."
+    },
+    {
+      "de": "— Wie schön ist diese rote Rose! Ich möchte nur Rosen in unserem Garten, sagte Monika zu ihren Brüdern. Aber diese lachten über ihre Schwester. Sie haben lieber die schönen, gelben Äpfel, die saftigen Birnen, die braunen Nüsse.",
+      "fr": "— Comme cette rose rouge est belle ! Moi, je ne voudrais que des roses dans notre jardin, dit Monique à ses frères. Mais ceux-ci se moquèrent de leur sœur. Ils préfèrent les belles pommes jaunes, les poires juteuses, les noix brunes."
+    }
+  ],
+  "pronunciation": "u se prononce [ou] (Erholung, Blumen, Mutter), tandis que ü se prononce [u] comme dans « lune » (Gemüse, natürlich, Brüdern, Nüsse).",
+  "vocab": [
+    {
+      "de": "der Apfel (¨)",
+      "fr": "la pomme",
+      "info": "Pluriel : die Äpfel"
+    },
+    {
+      "de": "die Birne (-n)",
+      "fr": "la poire",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Gemüse (sg.)",
+      "fr": "les légumes",
+      "info": "Neutre singulier en allemand"
+    },
+    {
+      "de": "helfen (a, o, i) + Datif",
+      "fr": "aider",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "lachen über (+ Acc.)",
+      "fr": "se moquer de, rire de",
+      "info": "Préposition + acc."
+    },
+    {
+      "de": "hervorbringen",
+      "fr": "produire",
+      "info": "Particule séparable : hervor"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "La déclinaison faible de l'adjectif épithète",
+      "body": "Précédé de l'article défini (<em>der, die, das</em>) ou d'un démonstratif (<em>dieser</em>), l'adjectif prend <strong>-e</strong> au nominatif singulier (et acc. fém./neutre) et <strong>-en</strong> partout ailleurs (y compris à tous les cas du pluriel : <em>die schönen, gelben Äpfel</em>)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Déclinaison faible : « Wie schön ist diese ___ Rose! »",
+      "options": [
+        "rote",
+        "roten",
+        "roter",
+        "rotes"
+      ],
+      "answer": "rote",
+      "hint": "Nominatif féminin singulier après « diese » → terminaison -e.",
+      "explanation": "diese rote Rose."
+    },
+    {
+      "type": "choice",
+      "prompt": "Déclinaison faible au pluriel : « Sie haben lieber die ___, ___ Äpfel. »",
+      "options": [
+        "schönen, gelben",
+        "schöne, gelbe",
+        "schöner, gelber",
+        "schönes, gelbes"
+      ],
+      "answer": "schönen, gelben",
+      "hint": "Au pluriel après « die », tous les adjectifs prennent -en.",
+      "explanation": "die schönen, gelben Äpfel."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quel cas gouverne le verbe « helfen » (aider) ?",
+      "options": [
+        "Le Datif (helfen ihm)",
+        "L'Accusatif (helfen ihn)",
+        "Le Génitif",
+        "Le Nominatif"
+      ],
+      "answer": "Le Datif (helfen ihm)",
+      "hint": "Exemple du texte : « Seine Söhne helfen ihm oft. »",
+      "explanation": "helfen + Datif."
+    }
+  ]
+}

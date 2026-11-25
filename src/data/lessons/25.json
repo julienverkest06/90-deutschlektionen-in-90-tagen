@@ -1,0 +1,98 @@
+{
+  "id": "25",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Déclinaison mixte de l'adjectif et ob / wenn",
+  "titleFr": "Adjectif après ein/mein/kein et les deux « si »",
+  "proverbDe": "Wenn das Wörtchen wenn nicht wär...",
+  "proverbFr": "Avec des « si », on mettrait Paris en bouteille.",
+  "paragraphs": [
+    {
+      "de": "Er bringt ein kurzes Schreiben. Man macht ihm ein schönes Angebot. Mit einer neuen Stelle beginnt ein neues Leben.",
+      "fr": "Il apporte un bref écrit. On lui fait une belle offre. Avec un poste nouveau commence une vie nouvelle."
+    },
+    {
+      "de": "Er fragt, ob er diese Stelle annehmen möchte. Wenn es möglich ist, gebe ich dir diesen Brief.",
+      "fr": "Il demande s'il aimerait accepter ce poste. Si c'est possible, je te donnerai cette lettre."
+    }
+  ],
+  "pronunciation": "Les particules inséparables (be-, emp-, ent-, er-, ge-, miß-, ver-, zer-) ne sont jamais accentuées et suppriment « ge- » au participe passé (besorgen → besorgt).",
+  "vocab": [
+    {
+      "de": "das Angebot (-e)",
+      "fr": "l'offre",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Stelle (-n)",
+      "fr": "le poste, l'emploi",
+      "info": "Féminin"
+    },
+    {
+      "de": "ob",
+      "fr": "si (interrogatif / dubitatif)",
+      "info": "Je me demande si..."
+    },
+    {
+      "de": "wenn",
+      "fr": "si, quand (conditionnel)",
+      "info": "S'il pleut..."
+    },
+    {
+      "de": "besorgen",
+      "fr": "s'occuper de, procurer",
+      "info": "Particule inséparable be-"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Déclinaison mixte (après ein, kein, mein, dein...)",
+      "body": "Au nominatif singulier (et acc. fém./neutre), l'adjectif prend les marques fortes (<em>ein gut<strong>er</strong> Mann, eine gut<strong>e</strong> Frau, ein gut<strong>es</strong> Kind</em>). À tous les autres cas (acc. masc., génitif, datif, pluriel), il prend <strong>-en</strong>."
+    },
+    {
+      "title": "Distinction entre ob et wenn",
+      "body": "<strong>ob</strong> traduit « si » dans une interrogation indirecte (<em>Ich frage mich, ob...</em>).<br><strong>wenn</strong> traduit « si » conditionnel (<em>Wenn es regnet, bleiben wir zu Hause</em>). Les deux rejettent le verbe à la fin."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Déclinaison mixte (Exercice A.3) : « Mit einer ___ Stelle beginnt ein ___ Leben. » (die Stelle / das Leben)",
+      "options": [
+        "neuen / neues",
+        "neue / neues",
+        "neuen / neuen",
+        "neuer / neues"
+      ],
+      "answer": "neuen / neues",
+      "hint": "mit einer + datif fém. → neuen ; ein + nominatif neutre → neues.",
+      "explanation": "Mit einer neuen Stelle beginnt ein neues Leben."
+    },
+    {
+      "type": "choice",
+      "prompt": "ob ou wenn ? (Exercice B.6) : « Ich frage mich, ___ diese Stelle interessant ist. »",
+      "options": [
+        "ob",
+        "wenn",
+        "daß",
+        "weil"
+      ],
+      "answer": "ob",
+      "hint": "Interrogation indirecte (« Je me demande si... ») → ob.",
+      "explanation": "Ich frage mich, ob diese Stelle interessant ist."
+    },
+    {
+      "type": "choice",
+      "prompt": "ob ou wenn ? (Exercice B.9) : « ___ es regnet, werden wir zu Hause bleiben. »",
+      "options": [
+        "Wenn",
+        "Ob",
+        "Daß",
+        "Als"
+      ],
+      "answer": "Wenn",
+      "hint": "Condition (« S'il pleut... ») → Wenn.",
+      "explanation": "Wenn es regnet, werden wir zu Hause bleiben."
+    }
+  ]
+}

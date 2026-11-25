@@ -1,0 +1,93 @@
+{
+  "id": "20 bis",
+  "series": 1,
+  "authentic": true,
+  "isReview": true,
+  "titleDe": "Contrôle et révisions (Leçons 11 à 20)",
+  "titleFr": "Factitifs/position, prétérit, passé composé, pronoms et modaux",
+  "proverbDe": "Erst wägen, dann wagen.",
+  "proverbFr": "D'abord peser, ensuite oser.",
+  "paragraphs": [
+    {
+      "de": "Werner legt seine Uhr auf den Tisch. Jetzt liegt die Uhr auf dem Tisch. Emma stellt den Stuhl in das Zimmer. Jetzt steht der Stuhl in dem Zimmer.",
+      "fr": "Werner pose sa montre sur la table. Maintenant la montre est posée sur la table. Emma met la chaise dans la pièce. Maintenant la chaise se trouve dans la pièce."
+    }
+  ],
+  "pronunciation": "Distinguez bien le verbe factitif régulier (legen, stellen, setzen, hängen + Accusatif) du verbe de position irrégulier (liegen, stehen, sitzen, hängen + Datif).",
+  "vocab": [
+    {
+      "de": "legen / liegen",
+      "fr": "poser à plat / être posé",
+      "info": "Accusatif / Datif"
+    },
+    {
+      "de": "stellen / stehen",
+      "fr": "mettre debout / être debout",
+      "info": "Accusatif / Datif"
+    },
+    {
+      "de": "setzen / sitzen",
+      "fr": "asseoir / être assis",
+      "info": "Accusatif / Datif"
+    },
+    {
+      "de": "die Uhr (-en)",
+      "fr": "la montre, l'heure",
+      "info": "Féminin"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Révision : Factitif (+ Accusatif) vs Position (+ Datif)",
+      "body": "Action de placer (<em>wohin?</em>) : <em>Werner legt seine Uhr auf <strong>den</strong> Tisch</em> (Accusatif).<br>État résultant (<em>wo?</em>) : <em>Jetzt liegt die Uhr auf <strong>dem</strong> Tisch</em> (Datif)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Complétez (Exercice A.1-2) : « Werner legt seine Uhr auf ___ Tisch. Jetzt liegt die Uhr auf ___ Tisch. »",
+      "options": [
+        "den / dem",
+        "dem / den",
+        "der / dem",
+        "den / den"
+      ],
+      "answer": "den / dem",
+      "hint": "1er verbe : legen (mouvement → accusatif den). 2e verbe : liegen (position → datif dem).",
+      "explanation": "auf den Tisch (acc.) → auf dem Tisch (dat.)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au passé composé (Exercice C.17) : « Er (schlafen) lange. » → Er hat lange ___.",
+      "answer": "geschlafen",
+      "hint": "schlafen est un verbe fort dont le participe passé est « geschlafen ».",
+      "explanation": "Er hat lange geschlafen. (Il a dormi longtemps)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Remplacez par des pronoms (Exercice D.22) : « Dieser Tischler liefert dem Direktor Möbel. »",
+      "options": [
+        "Dieser Tischler liefert sie ihm.",
+        "Dieser Tischler liefert ihm sie.",
+        "Dieser Tischler liefert es ihm.",
+        "Dieser Tischler liefert sie ihn."
+      ],
+      "answer": "Dieser Tischler liefert sie ihm.",
+      "hint": "Möbel (pluriel acc. → sie) + dem Direktor (masc. dat. → ihm). Accusatif avant datif !",
+      "explanation": "Dieser Tischler liefert sie ihm."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez (Exercice E.27) : « Il faut qu'il travaille (= il doit travailler). »",
+      "options": [
+        "Er muß arbeiten.",
+        "Er darf arbeiten.",
+        "Er will arbeiten.",
+        "Er mag arbeiten."
+      ],
+      "answer": "Er muß arbeiten.",
+      "hint": "müssen exprime la nécessité matérielle ou l'obligation.",
+      "explanation": "Er muß arbeiten."
+    }
+  ]
+}

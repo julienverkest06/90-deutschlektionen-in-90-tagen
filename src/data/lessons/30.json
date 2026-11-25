@@ -1,0 +1,86 @@
+{
+  "id": "30",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Frühstück im Sonderzug",
+  "titleFr": "Le petit déjeuner en train spécial",
+  "proverbDe": "Reisen bildet.",
+  "proverbFr": "Les voyages forment la jeunesse.",
+  "paragraphs": [
+    {
+      "de": "Können Sie mir sagen, ob dieser Zug einen Speisewagen hat? Jemand fragte den Schaffner, wann der Zug abfahren wird.",
+      "fr": "Pouvez-vous me dire si ce train a un wagon-restaurant ? Quelqu'un demanda au contrôleur quand le train partirait."
+    },
+    {
+      "de": "Der Speisewagen hält für 1 000 Personen in fünfzehn Wagen das Frühstück bereit. Pagen servieren es den Sonderzuggästen auf Wunsch im Abteil.",
+      "fr": "Au wagon-restaurant, on tient prêt le petit déjeuner pour un millier de personnes dans quinze wagons. Des garçons le servent aux clients du train spécial sur souhait dans leur compartiment."
+    }
+  ],
+  "pronunciation": "Lecture authentique tirée de l'hebdomadaire « Die Zeit » (Hambourg). Notez la construction « auf Wunsch » (sur demande).",
+  "vocab": [
+    {
+      "de": "der Speisewagen (-)",
+      "fr": "le wagon-restaurant",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schaffner (-)",
+      "fr": "le contrôleur",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Fahrkarte (-n)",
+      "fr": "le billet de train",
+      "info": "Féminin"
+    },
+    {
+      "de": "jemand / niemand",
+      "fr": "quelqu'un / personne",
+      "info": "Pronoms indéfinis"
+    },
+    {
+      "de": "etwas / nichts",
+      "fr": "quelque chose / rien",
+      "info": "Pronoms indéfinis"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "La subordonnée interrogative indirecte",
+      "body": "Introduite par <em>ob</em> (si) ou un mot interrogatif (<em>wer, was, wann, wo, womit...</em>), elle rejette le verbe conjugué tout à la fin : <em>Ich weiß nicht, wann er nach Köln gekommen ist.</em>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "prompt": "Transformez en interrogation indirecte (Exercice A.1) : « Ich frage meinen Freund: Was steht in der Zeitung? »",
+      "words": [
+        "Ich",
+        "frage",
+        "meinen",
+        "Freund,",
+        "was",
+        "in",
+        "der",
+        "Zeitung",
+        "steht."
+      ],
+      "answer": "Ich frage meinen Freund, was in der Zeitung steht.",
+      "hint": "Le mot interrogatif « was » rejette « steht » à la fin.",
+      "explanation": "Ich frage meinen Freund, was in der Zeitung steht."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez (Exercice B.7) : « Personne n'a voyagé dans le deuxième wagon-lit (der Schlafwagen). »",
+      "options": [
+        "Niemand ist im zweiten Schlafwagen gereist.",
+        "Jemand ist im zweiten Schlafwagen gereist.",
+        "Nichts ist im zweiten Schlafwagen gereist.",
+        "Keiner ist im zweiten Schlafwagen gereisen."
+      ],
+      "answer": "Niemand ist im zweiten Schlafwagen gereist.",
+      "hint": "personne = niemand ; reisen prend l'auxiliaire sein.",
+      "explanation": "Niemand ist im zweiten Schlafwagen gereist."
+    }
+  ]
+}

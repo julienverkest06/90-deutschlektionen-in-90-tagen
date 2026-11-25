@@ -1,0 +1,108 @@
+{
+  "id": "15",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Ein kleiner Ausflug (2)",
+  "titleFr": "Une petite excursion (2) — Le prétérit fort",
+  "proverbDe": "Stille Wasser sind tief.",
+  "proverbFr": "Il n'est pire eau que l'eau qui dort.",
+  "paragraphs": [
+    {
+      "de": "Sie tranken Wein oder Bier und aßen Kuchen. Paul schrieb einen Brief und las noch ein wenig.",
+      "fr": "Ils burent du vin ou de la bière et mangèrent du gâteau. Paul écrivit une lettre et lut encore un peu."
+    },
+    {
+      "de": "Ist dieser Wein so gut wie die französischen Weine? Hans ist so groß wie Karl, aber Heddy ist nicht so groß wie Karl.",
+      "fr": "Ce vin est-il aussi bon que les vins français ? Jean est aussi grand que Charles, mais Heddy n'est pas aussi grande que Charles."
+    }
+  ],
+  "pronunciation": "Numération 1 à 12 : 1 eins, 2 zwei, 3 drei, 4 vier, 5 fünf, 6 sechs [zèkç], 7 sieben, 8 acht, 9 neun, 10 zehn, 11 elf, 12 zwölf.",
+  "vocab": [
+    {
+      "de": "trinken → trank",
+      "fr": "boire (prétérit)",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "essen → aß",
+      "fr": "manger (prétérit)",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "schreiben → schrieb",
+      "fr": "écrire (prétérit)",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "fahren → fuhr",
+      "fr": "aller en véhicule (prétérit)",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "geben → gab",
+      "fr": "donner (prétérit)",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "so ... wie",
+      "fr": "aussi ... que",
+      "info": "Comparatif d'égalité"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Le prétérit du verbe irrégulier (ou fort)",
+      "body": "Au prétérit, le radical du verbe fort change de voyelle (<em>trinken → trank, fahren → fuhr, geben → gab</em>). À la 1re et à la 3e personne du singulier, il n'y a <strong>aucune terminaison</strong> : <em>ich gab, du gabst, er gab, wir gaben, ihr gabt, sie gaben</em>."
+    },
+    {
+      "title": "Comparatif d'égalité et d'infériorité",
+      "body": "Égalité : <strong>so + adjectif + wie</strong> (<em>so groß wie Karl</em>). Infériorité : <strong>nicht so + adjectif + wie</strong>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Mettez au prétérit (Exercice A.1) : « Er trinkt Bier. » → Er ___ Bier.",
+      "answer": "trank",
+      "hint": "trinken fait « trank » au prétérit (sans terminaison à la 3e pers. sg.).",
+      "explanation": "Er trank Bier. (Il but de la bière)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au prétérit (Exercice A.2) : « Ich esse Kuchen. » → Ich ___ Kuchen.",
+      "answer": "aß",
+      "hint": "essen fait « aß » au prétérit.",
+      "explanation": "Ich aß Kuchen. (Je mangeai du gâteau)."
+    },
+    {
+      "type": "order",
+      "prompt": "Formez le comparatif d'égalité (Exercice B.9) : « Notre jardin est aussi vert que ce parc. »",
+      "words": [
+        "Unser",
+        "Garten",
+        "ist",
+        "so",
+        "grün",
+        "wie",
+        "dieser",
+        "Park."
+      ],
+      "answer": "Unser Garten ist so grün wie dieser Park.",
+      "hint": "Structure : so + adjectif + wie.",
+      "explanation": "Unser Garten ist so grün wie dieser Park."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quel est le prétérit de « fahren » (aller en véhicule) avec « sie » (pluriel) ?",
+      "options": [
+        "sie fuhren",
+        "sie fahrten",
+        "sie fuhr",
+        "sie fohren"
+      ],
+      "answer": "sie fuhren",
+      "hint": "fahren → er fuhr → sie fuhren.",
+      "explanation": "Sie fuhren nach Paris."
+    }
+  ]
+}

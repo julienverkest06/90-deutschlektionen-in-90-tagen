@@ -1,0 +1,87 @@
+{
+  "id": "52",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Im Museum (Le double infinitif et von)",
+  "titleFr": "Au musée : le double infinitif au passé et le complément d'origine",
+  "proverbDe": "Kunst bringt Gunst.",
+  "proverbFr": "L'art attire la faveur.",
+  "paragraphs": [
+    {
+      "de": "Ich habe es nirgends finden können. Er hat das Museum besichtigen wollen. Max hatte lange warten müssen.",
+      "fr": "Je n'ai pu le trouver nulle part. Il a voulu visiter le musée. Max avait dû attendre longtemps."
+    },
+    {
+      "de": "Wo sind die Gemälde von Schwind? Der Besuch von Museen ist lehrreich.",
+      "fr": "Où sont les tableaux de Schwind ? La visite de musées est instructive."
+    }
+  ],
+  "pronunciation": "Règle du double infinitif : lorsqu'un auxiliaire de mode au passé composé accompagne un autre infinitif, son participe passé prend la forme de l'infinitif (Ich habe finden können, et non gekonnt).",
+  "vocab": [
+    {
+      "de": "das Gemälde (-)",
+      "fr": "le tableau, la peinture",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Dom (-e)",
+      "fr": "la cathédrale",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Saal (Säle)",
+      "fr": "la salle",
+      "info": "Masculin"
+    },
+    {
+      "de": "umbauen",
+      "fr": "transformer (un bâtiment)",
+      "info": "Particule séparable : um"
+    },
+    {
+      "de": "vorübergehen (i, a)",
+      "fr": "passer devant",
+      "info": "Particule séparable : vorüber"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Le double infinitif (auxiliaires de mode et lassen)",
+      "body": "Au passé composé et plus-que-parfait, si l'auxiliaire de mode a un infinitif complément, on emploie l'infinitif à la place du participe passé : <em>Er hat das Museum besichtigen <strong>wollen</strong></em>. S'il n'y a pas d'infinitif complément, on garde le participe normal : <em>Ich habe es nicht <strong>gewollt</strong></em>."
+    },
+    {
+      "title": "Emploi de von (+ Datif) au lieu du génitif",
+      "body": "<em>von</em> s'emploie pour l'origine/l'auteur (<em>Ein Roman von Kafka</em>) et remplace obligatoirement le génitif pluriel sans article (<em>Der Besuch von Museen</em>)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "prompt": "Mettez au passé composé (Exercice A.1) : « Der Student kann schön malen. »",
+      "words": [
+        "Der",
+        "Student",
+        "hat",
+        "schön",
+        "malen",
+        "können."
+      ],
+      "answer": "Der Student hat schön malen können.",
+      "hint": "Double infinitif en fin de phrase : malen können.",
+      "explanation": "Der Student hat schön malen können."
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au passé composé sans infinitif complément (Exercice A.6) : « Ich will es nicht. »",
+      "options": [
+        "Ich habe es nicht gewollt.",
+        "Ich habe es nicht wollen.",
+        "Ich bin es nicht gewollt.",
+        "Ich hatte es nicht wollen."
+      ],
+      "answer": "Ich habe es nicht gewollt.",
+      "hint": "Il n'y a pas d'autre infinitif → participe passé normal « gewollt ».",
+      "explanation": "Ich habe es nicht gewollt."
+    }
+  ]
+}

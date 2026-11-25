@@ -1,0 +1,113 @@
+{
+  "id": "3",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Das Hotel",
+  "titleFr": "L'Hôtel",
+  "proverbDe": "Übung macht den Meister.",
+  "proverbFr": "C'est en forgeant qu'on devient forgeron.",
+  "paragraphs": [
+    {
+      "de": "Paul Dumont hat ein ruhiges Zimmer. Das Hotel liegt nicht in der Stadt; es liegt in der Vorstadt. Es hat einen Garten, aber keine Garage. Es hat auch eine schöne Aussicht auf den Rhein.",
+      "fr": "Paul Dumont a une chambre calme. L'hôtel ne se trouve pas dans la ville, il se trouve dans le faubourg. Il a un jardin, mais pas de garage. Il a aussi une belle vue sur le Rhin."
+    },
+    {
+      "de": "— Wo liegt das Hotel? — Es liegt in der Vorstadt. — Hat es eine Garage? — Nein, es hat keine Garage. — Wie ist das Zimmer? — Es ist ruhig.",
+      "fr": "— Où l'hôtel se trouve-t-il ? — Il se trouve dans la banlieue. — A-t-il un garage ? — Non, il n'a pas de garage. — Comment la chambre est-elle ? — Elle est calme."
+    },
+    {
+      "de": "— Ich habe kein Auto in Köln; es ist in Paris. Ich bin ja nur für eine Woche hier. Aber ich habe keinen Garten in Paris, und der Garten hier ist sehr schön!",
+      "fr": "— Je n'ai pas de voiture à Cologne ; elle est à Paris. Je suis seulement pour une semaine ici. Mais je n'ai pas de jardin à Paris, et ce jardin-ci est très beau !"
+    }
+  ],
+  "pronunciation": "Le « ch » après i/e (nicht, ich, ruhig) est chuinté [ç] comme un « si » soufflé. Le « z » dans « Zimmer » se prononce toujours [ts].",
+  "vocab": [
+    {
+      "de": "der Garten",
+      "fr": "le jardin",
+      "info": "Accusatif : einen Garten"
+    },
+    {
+      "de": "das Zimmer",
+      "fr": "la chambre",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Auto",
+      "fr": "la voiture",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Aussicht",
+      "fr": "la vue",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Vorstadt",
+      "fr": "le faubourg, la banlieue",
+      "info": "Féminin"
+    },
+    {
+      "de": "haben / liegen",
+      "fr": "avoir / être situé",
+      "info": "Verbes"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "L'accusatif masculin (einen, keinen) et la négation kein",
+      "body": "Le complément d'objet direct (COD) se met à l'accusatif. Seul le masculin change : <em>der → den</em>, <em>ein → einen</em>, <em>kein → keinen</em> (<em>Es hat einen Garten, aber keinen Keller</em>). Pour nier un nom sans article ou avec article indéfini, on emploie <strong>kein / keine / kein</strong>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Complétez à l'accusatif : « Das Hotel hat ___ Garten, aber ___ Garage. »",
+      "options": [
+        "einen / keine",
+        "ein / kein",
+        "einen / keinen",
+        "der / die"
+      ],
+      "answer": "einen / keine",
+      "hint": "der Garten (masculin COD → einen), die Garage (féminin COD → keine).",
+      "explanation": "einen Garten (acc. masc.) et keine Garage (acc. fém.)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la négation : « Ich habe ___ Auto in Köln. » (das Auto)",
+      "answer": "kein",
+      "hint": "Auto est neutre (das Auto). À l'accusatif neutre, l'article négatif est « kein ».",
+      "explanation": "Ich habe kein Auto in Köln."
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez la phrase du texte :",
+      "words": [
+        "Das",
+        "Hotel",
+        "liegt",
+        "nicht",
+        "in",
+        "der",
+        "Stadt."
+      ],
+      "answer": "Das Hotel liegt nicht in der Stadt.",
+      "hint": "Sujet + verbe + négation « nicht » + complément de lieu.",
+      "explanation": "Das Hotel liegt nicht in der Stadt."
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment prononce-t-on le « z » dans « Zimmer » ?",
+      "options": [
+        "[ts] comme dans tsé-tsé",
+        "[z] comme dans zéro",
+        "[s] comme dans tasse",
+        "[ch] comme dans chat"
+      ],
+      "answer": "[ts] comme dans tsé-tsé",
+      "hint": "En allemand, la lettre z équivaut toujours à un t suivi d'un s.",
+      "explanation": "Exact ! [tsimer]."
+    }
+  ]
+}

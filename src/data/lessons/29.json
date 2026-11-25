@@ -1,0 +1,88 @@
+{
+  "id": "29",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Am Flughafen (bevor, nachdem & noms adjectivaux)",
+  "titleFr": "À l'aéroport : avant que, après que et adjectifs substantivés",
+  "proverbDe": "Vorsicht ist die Mutter der Porzellankiste.",
+  "proverbFr": "Prudence est mère de sûreté.",
+  "paragraphs": [
+    {
+      "de": "Bevor ich den Flugschein löse, möchte ich die Preisbedingungen kennen. Nachdem er die Fluggesellschaft benachrichtigt hatte, trat er die Rückreise an.",
+      "fr": "Avant de prendre le billet d'avion, je voudrais connaître les conditions de prix. Après avoir avisé la compagnie aérienne, il entreprit le voyage retour."
+    },
+    {
+      "de": "Die Reisenden werden gebeten, ihren Flugschein vorzuzeigen. Ein Blinder stand am Ausgang.",
+      "fr": "Les voyageurs sont priés de présenter leur billet d'avion. Un aveugle se tenait à la sortie."
+    }
+  ],
+  "pronunciation": "Les adjectifs formés sur des noms de villes avec -er restent invariables et prennent une majuscule : der Münchener Flughafen.",
+  "vocab": [
+    {
+      "de": "der Flugschein (-e)",
+      "fr": "le billet d'avion",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Rückreise (-n)",
+      "fr": "le voyage retour",
+      "info": "Féminin"
+    },
+    {
+      "de": "bevor / nachdem",
+      "fr": "avant que / après que",
+      "info": "Subordonnantes de temps"
+    },
+    {
+      "de": "der Reisende / ein Reisender",
+      "fr": "le voyageur / un voyageur",
+      "info": "Participe substantivé"
+    },
+    {
+      "de": "vorzeigen",
+      "fr": "présenter (un billet)",
+      "info": "Particule séparable : vor"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Les conjonctions bevor et nachdem",
+      "body": "Contrairement au français (<em>avant de / après avoir + infinitif</em>), <strong>bevor</strong> et <strong>nachdem</strong> exigent toujours un sujet et un verbe conjugué à la fin. Après <em>nachdem</em>, il y a décalage d'antériorité (passé composé si principale au présent ; plus-que-parfait si principale au passé)."
+    },
+    {
+      "title": "L'adjectif et le participe substantivés",
+      "body": "Employés comme noms, ils prennent une majuscule mais conservent la déclinaison de l'adjectif : <em>der Blinde / ein Blinder / die Blinden</em> ; <em>der Reisende / ein Reisender / die Reisenden</em>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "prompt": "Reliez avec nachdem (Exercice A.1) : « Er hat gegessen; er geht spazieren. »",
+      "words": [
+        "Nachdem",
+        "er",
+        "gegessen",
+        "hat,",
+        "geht",
+        "er",
+        "spazieren."
+      ],
+      "answer": "Nachdem er gegessen hat, geht er spazieren.",
+      "hint": "La subordonnée en tête entraîne l'inversion du sujet dans la principale (geht er).",
+      "explanation": "Nachdem er gegessen hat, geht er spazieren."
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au pluriel (Exercice B.6) : « Ein Blinder stand am Ausgang. »",
+      "options": [
+        "Blinde standen an den Ausgängen.",
+        "Blinden standen an den Ausgängen.",
+        "Die Blinde standen an den Ausgängen.",
+        "Blinder standen an den Ausgängen."
+      ],
+      "answer": "Blinde standen an den Ausgängen.",
+      "hint": "Déclinaison forte au pluriel sans article : Blinde (nominatif pluriel).",
+      "explanation": "Blinde standen an den Ausgängen."
+    }
+  ]
+}

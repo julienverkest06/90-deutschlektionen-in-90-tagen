@@ -1,0 +1,98 @@
+{
+  "id": "23",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Déclinaison forte de l'adjectif et subordonnée (daß)",
+  "titleFr": "Adjectif sans article et conjonction « que »",
+  "proverbDe": "Frische Luft macht frisches Blut.",
+  "proverbFr": "L'air frais fait le sang frais.",
+  "paragraphs": [
+    {
+      "de": "Es gibt oft lange Diskussionen. Sie trinken guten Wein oder frisches Bier. Frische Luft und rote Rosen erfreuen das Herz.",
+      "fr": "Il y a souvent de longues discussions. Ils boivent du bon vin ou de la bière fraîche. L'air frais et les roses rouges réjouissent le cœur."
+    },
+    {
+      "de": "Er sagt, daß er nach Paris fahren will. Wir sahen, daß wir keine Sklaven geworden waren.",
+      "fr": "Il dit qu'il veut aller à Paris. Nous vîmes que nous n'étions pas devenus des esclaves."
+    }
+  ],
+  "pronunciation": "Le « j » allemand (ja, jedes Jahr, die Jüngeren) ne se prononce jamais comme le j français, mais comme le « y » dans « yeux ».",
+  "vocab": [
+    {
+      "de": "daß (dass)",
+      "fr": "que (conjonction)",
+      "info": "Rejet du verbe à la fin"
+    },
+    {
+      "de": "das Fernsehgerät (-e)",
+      "fr": "le poste de télévision",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Sendung (-en)",
+      "fr": "l'émission",
+      "info": "Féminin"
+    },
+    {
+      "de": "stehen → stand, gestanden",
+      "fr": "être debout (temps primitifs)",
+      "info": "Auxiliaire haben"
+    },
+    {
+      "de": "sitzen → saß, gesessen",
+      "fr": "être assis (temps primitifs)",
+      "info": "Auxiliaire haben"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "La déclinaison forte de l'adjectif épithète",
+      "body": "Quand l'adjectif n'est précédé d'aucun article, il prend les terminaisons de l'article défini (<em>der, die, das; die</em>), sauf au génitif masc./neutre où il prend <strong>-en</strong> : <em>guter Wein</em> (N.m), <em>frisches Bier</em> (N/A.n), <em>rote Rosen</em> (N/A.pl), <em>bei schönem Wetter</em> (D.n)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Déclinaison forte (Exercice A.1) : « Sie trinken ___ Wein oder ___ Bier. » (der Wein / das Bier)",
+      "options": [
+        "guten / frisches",
+        "guter / frisches",
+        "guten / frische",
+        "gutem / frischem"
+      ],
+      "answer": "guten / frisches",
+      "hint": "Accusatif sans article : masculin → -en (guten), neutre → -es (frisches).",
+      "explanation": "guten Wein oder frisches Bier."
+    },
+    {
+      "type": "choice",
+      "prompt": "Déclinaison forte au datif (Exercice A.3) : « Bei ___ Wetter machen wir Camping. » (das Wetter)",
+      "options": [
+        "schönem",
+        "schönes",
+        "schönen",
+        "schöner"
+      ],
+      "answer": "schönem",
+      "hint": "« bei » + datif neutre sans article → terminaison -em.",
+      "explanation": "Bei schönem Wetter."
+    },
+    {
+      "type": "order",
+      "prompt": "Réunissez par daß (Exercice B.6) : « Er will nach Paris fahren; er sagt es. »",
+      "words": [
+        "Er",
+        "sagt,",
+        "daß",
+        "er",
+        "nach",
+        "Paris",
+        "fahren",
+        "will."
+      ],
+      "answer": "Er sagt, daß er nach Paris fahren will.",
+      "hint": "Supprimez « es » et rejetez le verbe conjugué « will » à la fin.",
+      "explanation": "Er sagt, daß er nach Paris fahren will."
+    }
+  ]
+}

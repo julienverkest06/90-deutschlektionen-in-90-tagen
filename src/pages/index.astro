@@ -1,0 +1,54 @@
+---
+import Layout from '@layouts/Layout.astro';
+import Header from '@components/Header.astro';
+import Sidebar from '@components/Sidebar.astro';
+import LessonHeader from '@components/LessonHeader.astro';
+import LessonTabs from '@components/LessonTabs.astro';
+import TextTab from '@components/TextTab.astro';
+import VocabTab from '@components/VocabTab.astro';
+import ArenaTab from '@components/ArenaTab.astro';
+import Modals from '@components/Modals.astro';
+---
+
+<Layout>
+  <Header />
+
+  <!-- Conteneur Principal -->
+  <div class="max-w-7xl mx-auto flex min-h-[calc(100vh-4.375rem)] relative">
+    <Sidebar />
+
+    <!-- Zone Principale de Contenu de la Leçon -->
+    <main class="flex-1 min-w-0 p-4 sm:p-6 lg:p-8 max-w-4xl mx-auto">
+      <LessonHeader />
+      <LessonTabs />
+
+      <TextTab />
+      <VocabTab />
+      <ArenaTab />
+
+      <!-- Navigation Bas de Page entre Leçons -->
+      <div class="mt-8 pt-6 border-t border-gray-200 flex items-center justify-between gap-4">
+        <button
+          id="prev-lesson-btn"
+          type="button"
+          class="px-4 py-2.5 rounded-xl bg-white border border-gray-200 hover:bg-gray-50 text-xs sm:text-sm font-semibold text-gray-700 transition disabled:opacity-40 disabled:cursor-not-allowed cursor-pointer"
+        >
+          ← Leçon précédente
+        </button>
+        <button
+          id="next-lesson-btn"
+          type="button"
+          class="px-4 py-2.5 rounded-xl bg-white border border-gray-200 hover:bg-gray-50 text-xs sm:text-sm font-semibold text-gray-700 transition disabled:opacity-40 disabled:cursor-not-allowed cursor-pointer"
+        >
+          Leçon suivante →
+        </button>
+      </div>
+    </main>
+  </div>
+
+  <Modals />
+
+  <script>
+    import '../scripts/app';
+  </script>
+</Layout>

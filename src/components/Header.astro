@@ -1,0 +1,82 @@
+---
+---
+
+<header class="sticky top-1.5 z-40 bg-white/95 backdrop-blur border-b border-gray-200 shadow-xs">
+  <div class="max-w-7xl mx-auto px-3 sm:px-6 h-16 flex items-center justify-between gap-2">
+    <!-- Gauche : Bouton menu mobile + Titre éditorial -->
+    <div class="flex items-center gap-3">
+      <button
+        id="mobile-menu-btn"
+        type="button"
+        class="lg:hidden p-2 rounded-xl border border-gray-200 hover:bg-gray-100 text-de-black transition"
+        aria-label="Ouvrir le sommaire"
+      >
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+
+      <button
+        id="brand-home-btn"
+        type="button"
+        class="flex items-center gap-2.5 cursor-pointer text-left"
+      >
+        <div class="w-9 h-9 rounded-xl bg-de-black text-white flex items-center justify-center font-serif font-bold text-lg shadow-xs border-b-2 border-de-red">
+          90
+        </div>
+        <div class="hidden sm:block">
+          <h1 class="font-serif font-bold text-base sm:text-lg leading-tight tracking-tight text-de-black">
+            L'allemand en 90 leçons
+          </h1>
+          <p class="text-[11px] text-gray-500 font-medium">Méthode 90 • Alphonse Jenny</p>
+        </div>
+      </button>
+    </div>
+
+    <!-- Centre / Droite : Statistiques Gamification -->
+    <div class="flex items-center gap-2 sm:gap-4">
+      <!-- Niveau & Barre d'XP -->
+      <div class="flex items-center gap-2.5 bg-gray-50 border border-gray-200 rounded-xl px-3 py-1.5 relative">
+        <div class="flex flex-col">
+          <div class="flex items-center justify-between gap-3">
+            <span id="player-rank" class="text-xs font-bold text-de-black truncate max-w-[110px] sm:max-w-none">
+              Débutant à Cologne
+            </span>
+            <span id="player-xp-text" class="text-[11px] font-semibold text-de-red">0 / 250 XP</span>
+          </div>
+          <div class="w-24 sm:w-36 h-2 bg-gray-200 rounded-full overflow-hidden mt-1">
+            <div
+              id="player-xp-bar"
+              class="h-full bg-gradient-to-r from-de-black via-de-red to-de-gold transition-all duration-500 rounded-full"
+              style="width: 0%"
+            ></div>
+          </div>
+        </div>
+        <div id="xp-popup-anchor" class="absolute -bottom-6 right-2 pointer-events-none"></div>
+      </div>
+
+      <!-- Série (Streak) -->
+      <div class="flex items-center gap-1 bg-amber-50 border border-amber-200/80 rounded-xl px-2.5 py-1.5" title="Série quotidienne">
+        <span class="text-base leading-none">🔥</span>
+        <span id="player-streak" class="text-xs sm:text-sm font-extrabold text-amber-900">1</span>
+      </div>
+
+      <!-- Vies / Bouclier -->
+      <div class="hidden md:flex items-center gap-1 bg-red-50 border border-red-200/80 rounded-xl px-2.5 py-1.5" title="Cœurs d'énergie">
+        <span class="text-sm leading-none">❤️</span>
+        <span id="player-hearts" class="text-xs sm:text-sm font-extrabold text-de-red">5</span>
+      </div>
+
+      <!-- Bouton Trophées / Badges -->
+      <button
+        id="open-badges-btn"
+        type="button"
+        class="flex items-center gap-1.5 bg-de-black hover:bg-gray-800 text-white rounded-xl px-3 py-2 text-xs font-semibold transition shadow-xs cursor-pointer"
+      >
+        <span>🏆</span>
+        <span class="hidden sm:inline">Trophées</span>
+        <span id="badges-count" class="bg-de-gold text-de-black text-[10px] font-extrabold px-1.5 py-0.5 rounded-full">0</span>
+      </button>
+    </div>
+  </div>
+</header>

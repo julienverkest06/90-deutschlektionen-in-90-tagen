@@ -1,0 +1,116 @@
+{
+  "id": "7",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Im Kongreßsaal",
+  "titleFr": "Dans la salle de congrès",
+  "proverbDe": "Morgenstunde hat Gold im Munde.",
+  "proverbFr": "L'avenir appartient à ceux qui se lèvent tôt.",
+  "paragraphs": [
+    {
+      "de": "Mein Freund kommt pünktlich in Köln an. Im Kongreßsaal schreibt er einige Adressen ab.",
+      "fr": "Mon ami arrive ponctuellement à Cologne. Dans la salle de congrès, il copie quelques adresses."
+    },
+    {
+      "de": "Paul Dumont hat seinen Schreibblock und seinen Kugelschreiber. Frau Kellen hat ihren Schreibblock.",
+      "fr": "Paul Dumont a son bloc-notes et son stylo à bille. Madame Kellen a son bloc-notes."
+    },
+    {
+      "de": "— Wo ist mein Kugelschreiber? — Hier liegt er. Hören Sie immer gut zu!",
+      "fr": "— Où est mon stylo à bille ? — Le voici. Écoutez toujours bien !"
+    }
+  ],
+  "pronunciation": "Dans les verbes à particule séparable (ankommen, abschreiben, zuhören), l'accent tonique principal porte toujours sur la particule.",
+  "vocab": [
+    {
+      "de": "ankommen",
+      "fr": "arriver",
+      "info": "Particule séparable : an"
+    },
+    {
+      "de": "abschreiben",
+      "fr": "copier",
+      "info": "Particule séparable : ab"
+    },
+    {
+      "de": "zuhören",
+      "fr": "écouter",
+      "info": "Particule séparable : zu"
+    },
+    {
+      "de": "ausziehen",
+      "fr": "enlever, ôter (un vêtement)",
+      "info": "Particule séparable : aus"
+    },
+    {
+      "de": "der Kugelschreiber",
+      "fr": "le stylo à bille",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Postkarte",
+      "fr": "la carte postale",
+      "info": "Féminin"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "1. La particule verbale séparable",
+      "body": "Les particules séparables (<em>ab-, an-, aus-, zu-...</em>) se détachent du verbe conjugué et se rejettent <strong>tout à la fin</strong> de la proposition principale : <em>Sie kommt pünktlich <strong>an</strong>. Jetzt schreiben wir eine Adresse <strong>ab</strong>.</em>"
+    },
+    {
+      "title": "2. L'adjectif possessif (mein, dein, sein, ihr...)",
+      "body": "Il se décline comme <em>ein</em> (accusatif masculin en <em>-en</em> : <em>meinen Freund</em>). À la 3e personne du singulier : <strong>sein</strong> si le possesseur est masculin/neutre (<em>Paul hat seinen Tisch</em>), <strong>ihr</strong> si le possesseur est féminin (<em>Frau Kellen hat ihren Tisch</em>)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Conjuguez le verbe séparable (Exercice A.1) : « Wir (ausziehen) unseren Mantel. » → Wir ___ unseren Mantel ___.",
+      "answer": "ziehen ... aus",
+      "hint": "Le radical « ziehen » se conjugue en 2e position, la particule « aus » va à la fin.",
+      "explanation": "Wir ziehen unseren Mantel aus. (Nous ôtons notre manteau)."
+    },
+    {
+      "type": "order",
+      "prompt": "Formez la phrase (Exercice A.2) : « Mon ami arrive à Cologne. » (ankommen)",
+      "words": [
+        "Mein",
+        "Freund",
+        "kommt",
+        "in",
+        "Köln",
+        "an."
+      ],
+      "answer": "Mein Freund kommt in Köln an.",
+      "hint": "Rejetez la particule « an » tout à la fin de la proposition.",
+      "explanation": "Mein Freund kommt in Köln an."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez par le possessif (Exercice B.6) : « Ich habe ___ Kugelschreiber. » (der Kugelschreiber)",
+      "options": [
+        "mein",
+        "meine",
+        "meinen",
+        "meinem"
+      ],
+      "answer": "meinen",
+      "hint": "Kugelschreiber est masculin et COD (accusatif masculin → meinen).",
+      "explanation": "Ich habe meinen Kugelschreiber. (J'ai mon crayon à bille)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez (Exercice B.9) : « Sie hat ___ Arbeit. » (possesseur féminin, die Arbeit)",
+      "options": [
+        "sein",
+        "seine",
+        "ihr",
+        "ihre"
+      ],
+      "answer": "ihre",
+      "hint": "Possesseur féminin (Sie) = ihr- ; nom féminin (die Arbeit) = terminaison -e.",
+      "explanation": "Sie hat ihre Arbeit. (Elle a son travail)."
+    }
+  ]
+}

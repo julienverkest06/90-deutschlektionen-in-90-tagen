@@ -1,0 +1,81 @@
+{
+  "id": "53",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Im Theater (obwohl, bis et nur / erst)",
+  "titleFr": "Au théâtre : concession (obwohl) et restriction (nur vs erst)",
+  "proverbDe": "Die Bretter, die die Welt bedeuten.",
+  "proverbFr": "Les planches qui représentent le monde (le théâtre).",
+  "paragraphs": [
+    {
+      "de": "Obgleich unsere Klappsitze bequem sind, ist alles ausverkauft. Ich bleibe an meinem Platz, bis du zurückkommst.",
+      "fr": "Bien que nos strapontins soient confortables, tout est vendu. Je resterai à ma place jusqu'à ce que tu reviennes."
+    },
+    {
+      "de": "Es bleiben nur vier Klappsitze. Diese Plätze werden erst morgen verkauft. Die Aufführung beginnt erst um neun Uhr.",
+      "fr": "Il ne reste que quatre strapontins. Ces places ne seront vendues que demain. La représentation ne commence qu'à neuf heures."
+    }
+  ],
+  "pronunciation": "Contrairement au français (« bien que + subjonctif »), « obwohl » et « obgleich » sont toujours suivis de l'indicatif en allemand.",
+  "vocab": [
+    {
+      "de": "der Vorhang (¨-e)",
+      "fr": "le rideau",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Aufführung (-en)",
+      "fr": "la représentation",
+      "info": "Féminin"
+    },
+    {
+      "de": "ausverkaufen",
+      "fr": "vendre tout, afficher complet",
+      "info": "Particule séparable : aus"
+    },
+    {
+      "de": "Schlange stehen",
+      "fr": "faire la queue",
+      "info": "die Schlange = le serpent"
+    },
+    {
+      "de": "obwohl / obgleich",
+      "fr": "bien que, quoique (+ indicatif)",
+      "info": "Subordination"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Différence entre nur et erst (« seulement / ne... que »)",
+      "body": "• <strong>nur</strong> marque une restriction simple (quantité limitée) : <em>Ein Parkettplatz kostet <strong>nur</strong> fünf Mark.</em><br>• <strong>erst</strong> marque une restriction temporelle ou provisoire (« pas avant / pas encore davantage ») : <em>Die Aufführung beginnt <strong>erst</strong> um neun Uhr.</em>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "nur ou erst ? (Exercice B.5) : « Dieses Stück hat ___ drei Akte. »",
+      "options": [
+        "nur",
+        "erst",
+        "obwohl",
+        "bis"
+      ],
+      "answer": "nur",
+      "hint": "Restriction simple de quantité (la pièce n'a que 3 actes et n'en aura pas plus).",
+      "explanation": "Dieses Stück hat nur drei Akte."
+    },
+    {
+      "type": "choice",
+      "prompt": "nur ou erst ? (Exercice B.6) : « Wir werden ___ gegen acht Uhr kommen. »",
+      "options": [
+        "erst",
+        "nur",
+        "schon",
+        "noch"
+      ],
+      "answer": "erst",
+      "hint": "Restriction temporelle (« pas plus tôt que 8 heures »).",
+      "explanation": "Wir werden erst gegen acht Uhr kommen."
+    }
+  ]
+}

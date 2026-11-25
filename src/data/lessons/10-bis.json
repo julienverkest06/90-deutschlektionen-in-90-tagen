@@ -1,0 +1,102 @@
+{
+  "id": "10 bis",
+  "series": 1,
+  "authentic": true,
+  "isReview": true,
+  "titleDe": "Contrôle et révisions (Leçons 1 à 10)",
+  "titleFr": "Bilan grammatical : pluriels, du/ihr, possessifs et cas",
+  "proverbDe": "Wiederholung ist die Mutter der Weisheit.",
+  "proverbFr": "La répétition est la mère de la sagesse.",
+  "paragraphs": [
+    {
+      "de": "Du bist im Zimmer und du schreibst eine Adresse ab. Ihr seid im Zimmer und ihr schreibt Adressen ab.",
+      "fr": "Tu es dans la chambre et tu copies une adresse. Vous êtes dans la chambre et vous copiez des adresses."
+    },
+    {
+      "de": "Der Freund des Direktors kauft den Kindern Schokolade.",
+      "fr": "L'ami du directeur achète du chocolat aux enfants."
+    }
+  ],
+  "pronunciation": "Veillez à la mutation de la voyelle (Umlaut) dans les pluriels : das Haus → die Häuser, der Garten → die Gärten, die Stadt → die Städte.",
+  "vocab": [
+    {
+      "de": "der Brief (-e)",
+      "fr": "la lettre",
+      "info": "Pluriel : die Briefe"
+    },
+    {
+      "de": "das Buch (¨-er)",
+      "fr": "le livre",
+      "info": "Pluriel : die Bücher"
+    },
+    {
+      "de": "das Gasthaus (¨-er)",
+      "fr": "le restaurant, l'auberge",
+      "info": "Pluriel : die Gasthäuser"
+    },
+    {
+      "de": "die Nacht (¨-e)",
+      "fr": "la nuit",
+      "info": "Pluriel : die Nächte"
+    },
+    {
+      "de": "der Nachbar (-n)",
+      "fr": "le voisin",
+      "info": "Masculin faible"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Révision : du (tu) et ihr (vous familier)",
+      "body": "<em>du bist / ihr seid</em> (être), <em>du hast / ihr habt</em> (avoir), <em>du wirst / ihr werdet</em> (devenir), <em>du gibst / ihr gebt</em> (donner). Au pluriel des noms, le datif prend toujours un <strong>-n</strong>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Mettez au pluriel (Exercice A.3) : « dieses Gasthaus »",
+      "options": [
+        "diese Gasthäuser",
+        "diese Gasthause",
+        "diesen Gasthäuser",
+        "dieses Gasthäuser"
+      ],
+      "answer": "diese Gasthäuser",
+      "hint": "das Haus → die Häuser.",
+      "explanation": "diese Gasthäuser (ces restaurants)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au singulier avec du (Exercice B.11) : « Habt ihr eure Hefte? » → ___ du ___ Heft?",
+      "answer": "Hast ... dein",
+      "hint": "ihr habt → du hast ; eure Hefte → dein Heft.",
+      "explanation": "Hast du dein Heft? (As-tu ton cahier ?)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez les possessifs (Exercice C.15) : « Ich suche ___ Freund, ___ Garage, ___ Hotel, ___ Mantel. »",
+      "options": [
+        "meinen / meine / mein / meinen",
+        "mein / meine / mein / mein",
+        "meinem / meiner / meinem / meinem",
+        "meinen / mein / meine / meinen"
+      ],
+      "answer": "meinen / meine / mein / meinen",
+      "hint": "Tous sont COD (accusatif) : Freund (m), Garage (f), Hotel (n), Mantel (m).",
+      "explanation": "meinen Freund, meine Garage, mein Hotel, meinen Mantel."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quelle question porte sur le génitif « des Direktors » dans « Der Freund des Direktors kauft Schokolade » ?",
+      "options": [
+        "Wessen Freund kauft Schokolade?",
+        "Wem kauft der Freund Schokolade?",
+        "Wer kauft Schokolade?",
+        "Was kauft der Freund?"
+      ],
+      "answer": "Wessen Freund kauft Schokolade?",
+      "hint": "Wessen = de qui ? (interrogatif du génitif).",
+      "explanation": "Wessen Freund kauft den Kindern Schokolade?"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+---
+import { LESSON_ORDER } from '@data/syllabus';
+---
+
+<!-- Overlay mobile pour la barre latérale -->
+<div
+  id="sidebar-overlay"
+  class="fixed inset-0 bg-black/40 z-30 hidden lg:hidden backdrop-blur-xs"
+></div>
+
+<!-- Barre latérale de navigation (Les 90 leçons + 7 bis) -->
+<aside
+  id="sidebar"
+  class="fixed lg:sticky top-[4.375rem] left-0 z-30 w-80 h-[calc(100vh-4.375rem)] bg-white border-r border-gray-200 flex flex-col transform -translate-x-full lg:translate-x-0 transition-transform duration-300 ease-in-out"
+>
+  <!-- Recherche & Mode Exploration -->
+  <div class="p-3.5 border-b border-gray-100 space-y-2.5 bg-gray-50/60">
+    <div class="relative">
+      <input
+        type="text"
+        id="lesson-search"
+        placeholder="Rechercher leçon, thème (ex: datif)..."
+        class="w-full pl-9 pr-3 py-2 text-xs bg-white border border-gray-200 rounded-xl focus:outline-none focus:border-de-black transition"
+      />
+      <svg class="w-4 h-4 text-gray-400 absolute left-3 top-2.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+      </svg>
+    </div>
+
+    <div class="flex items-center justify-between text-[11px]">
+      <span id="progress-summary" class="font-semibold text-gray-600">0 / {LESSON_ORDER.length} complétées</span>
+      <button
+        id="unlock-mode-btn"
+        type="button"
+        class="px-2 py-1 rounded-lg font-semibold border transition flex items-center gap-1 cursor-pointer"
+      ></button>
+    </div>
+  </div>
+
+  <!-- Filtres par Série -->
+  <div class="grid grid-cols-4 gap-1 p-2 border-b border-gray-100 bg-white text-[11px] font-semibold">
+    <button id="filter-all" data-series-filter="all" type="button" class="py-1.5 rounded-lg bg-de-black text-white transition cursor-pointer">
+      Toutes
+    </button>
+    <button id="filter-1" data-series-filter="1" type="button" class="py-1.5 rounded-lg text-gray-600 hover:bg-gray-100 transition cursor-pointer">
+      Série 1
+    </button>
+    <button id="filter-2" data-series-filter="2" type="button" class="py-1.5 rounded-lg text-gray-600 hover:bg-gray-100 transition cursor-pointer">
+      Série 2
+    </button>
+    <button id="filter-3" data-series-filter="3" type="button" class="py-1.5 rounded-lg text-gray-600 hover:bg-gray-100 transition cursor-pointer">
+      Série 3
+    </button>
+  </div>
+
+  <!-- Liste scrollable des leçons -->
+  <div id="lessons-list" class="flex-1 overflow-y-auto p-2.5 space-y-1"></div>
+
+  <!-- Pied de barre latérale -->
+  <div class="p-3 border-t border-gray-100 bg-gray-50 flex items-center justify-between text-[11px] text-gray-500">
+    <span>Édition Le Livre de Poche</span>
+    <button id="reset-progress-btn" type="button" class="text-de-red hover:underline font-medium cursor-pointer">
+      Réinitialiser
+    </button>
+  </div>
+</aside>
