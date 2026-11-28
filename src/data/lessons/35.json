@@ -1,0 +1,220 @@
+{
+  "id": "35",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Zoll und Wechselgeschäft",
+  "titleFr": "Douane et change",
+  "proverbDe": "Einmal ist keinmal.",
+  "proverbFr": "Une fois n'est pas coutume (Une fois, c'est jamais).",
+  "paragraphs": [
+    {
+      "de": "An der Grenze können die Zollbeamten Ihr Gepäck untersuchen. Die Waren, die nicht zollfrei sind, müssen Sie verzollen. Die Zollgebühren schwanken sehr. Oft wird ein gewisses Quantum Zigaretten für den persönlichen Gebrauch zugelassen.",
+      "fr": "À la frontière, les douaniers peuvent examiner vos bagages. Vous devez déclarer les marchandises qui ne sont pas exemptes de douane. Les droits de douane sont très variables. Souvent on tolère une certaine quantité de cigarettes, pour sa consommation personnelle."
+    },
+    {
+      "de": "— Ihren Paß, bitte! — Welches ist Ihr Gepäck? — Hier, dieser Handkoffer, der kleinere dort, diese Mappe und dieses Paket. Das ist alles. — Haben Sie nichts zu verzollen? Keine Zigaretten? Keinen Alkohol? Kein Parfüm? — Nein, ich habe nur persönliche Sachen, einige Reiseandenken und Bücher. Sonst nichts. — Machen Sie bitte diesen Handkoffer auf! — Gut. Der Zollbeamte macht ein Kreidezeichen auf das Gepäck.",
+      "fr": "— Votre passeport, s'il-vous-plaît ! — Quels sont vos bagages ? — Voici : cette valise, la plus petite là-bas, cette serviette et ce paquet. C'est tout. — N'avez-vous rien à déclarer ? (m. à m. : à dédouaner). Pas de cigarettes ? d'alcools ? de parfum ? — Non, je n'ai que des affaires personnelles, quelques souvenirs (de voyage) et des livres. Rien d'autre. — Ouvrez s'il vous plaît cette valise ! — C'est bien. Le douanier marque les bagages à la craie (m. à m. : fait une marque à la craie sur les bagages)."
+    },
+    {
+      "de": "— Wo befindet sich eine Wechselstube (= das Wechselbüro)? — Jenseits der Brücke, links. Ich glaube, dort ist der Kurs am günstigsten. — Ich möchte Geld wechseln. Ich möchte deutsches Geld gegen französisches einwechseln.",
+      "fr": "— Où se trouve un bureau de change ? — Au-delà du pont, à gauche. Je crois que le cours est le plus favorable, là-bas. — Je voudrais changer de l'argent. Je voudrais acheter des marks avec de la monnaie française (m. à m. : changer... contre...)."
+    }
+  ],
+  "pronunciation": "Qu se prononce [kv]. Exemples : das Quantum ; das Quartett [kvartèt], le quatuor ; die Quelle [kvèle], la source. Repères phonétiques du texte : Zoll [tçol], Wechselgeschäft [vèkçel-géchèft], Quantum [kvan'toum'] ; Paket [pakét], Alkohol [alko-hol], Reiseandenken [raéze-an'dèn'ken'], Kreidezeichen [kraéde-tçaéchen'] ; Wechselstube [vèkçel-chtoube] (u long), jenseits [yénzaétç] (e long), Kurs [kourç].",
+  "vocab": [
+    {
+      "de": "der Alkohol (-e)",
+      "fr": "l'alcool",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Gebrauch (¨-e)",
+      "fr": "l'usage",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Kurs (-e)",
+      "fr": "le cours",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Wechsel",
+      "fr": "le change",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Brücke (-n)",
+      "fr": "le pont",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Gebühr (-en)",
+      "fr": "la taxe",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Geschäft (-e)",
+      "fr": "l'affaire, le magasin",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Geld (-er)",
+      "fr": "l'argent",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Parfüm (-e)",
+      "fr": "le parfum",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Quantum (plur. die Quanten)",
+      "fr": "la quantité",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Kreide (-n)",
+      "fr": "la craie",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Zollgebühren (plur.)",
+      "fr": "les droits de douane",
+      "info": "Pluriel"
+    },
+    {
+      "de": "das Andenken (-)",
+      "fr": "le souvenir",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Zeichen (-)",
+      "fr": "le signe",
+      "info": "Neutre"
+    },
+    {
+      "de": "glauben",
+      "fr": "croire",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "schwanken",
+      "fr": "être balancé, instable",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "untersuchen",
+      "fr": "examiner",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "verzollen",
+      "fr": "dédouaner",
+      "info": "Verbe inséparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Ich glaube, dort ist der Kurs günstiger. — Daß sous-entendu",
+      "body": "La conjonction <strong>daß</strong> peut être sous-entendue après les verbes qui ont le sens de penser, dire, croire, savoir, craindre (verbes d'opinion). Dans ce cas, la subordonnée non introduite par <em>daß</em> se construit comme une proposition principale : son verbe est en deuxième place ; à la première place peut se trouver le sujet (construction directe) ou un complément (construction inverse). Cette suppression de <em>daß</em> n'est pas possible quand la proposition principale est négative.<br><br><em>Ich denke, daß dieser Artikel zollfrei ist</em> (rejet) ou : <em>Ich denke, dieser Artikel ist zollfrei</em> (verbe 2e place), je pense que cet article est exempt de douane."
+    },
+    {
+      "title": "Die Wechselstube liegt jenseits der Brücke. — Prépositions gouvernant le génitif",
+      "body": "Voici les prépositions les plus usitées qui sont toujours suivies du génitif : <strong>trotz</strong>, malgré ; <strong>längs</strong>, le long de ; <strong>diesseits</strong>, en deçà de ; <strong>jenseits</strong>, au-delà de ; <strong>wegen</strong>, à cause de ; <strong>während</strong>, pendant.<br><br><em>Wegen seines ungültigen Passes</em>, à cause de son passeport non valable.<br><em>Während der Reise</em>, pendant le voyage.<br><em>Trotz des Regens</em>, malgré la pluie."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "prompt": "Supprimez « daß » dans : « Ich weiß, daß ich meinen Paß vorzeigen muß. » (Exercice A.1)",
+      "words": [
+        "Ich",
+        "weiß,",
+        "ich",
+        "muß",
+        "meinen",
+        "Paß",
+        "vorzeigen."
+      ],
+      "answer": "Ich weiß, ich muß meinen Paß vorzeigen.",
+      "hint": "Sans daß, la subordonnée se construit comme une principale : le verbe conjugué (muß) passe en deuxième position.",
+      "explanation": "Corrigé A.1 : « Ich weiß, ich muß meinen Paß vorzeigen. » (Je sais que je dois présenter mon passeport.) Après wissen (verbe d'opinion/savoir), daß peut être omis et le verbe conjugué reprend la 2e place."
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment supprimer « daß » dans : « Wir glauben, daß dieses Buch nicht zu verzollen ist. » ? (Exercice A.2)",
+      "options": [
+        "Wir glauben, dieses Buch ist nicht zu verzollen.",
+        "Wir glauben, dieses Buch nicht zu verzollen ist.",
+        "Wir glauben, ist dieses Buch nicht zu verzollen.",
+        "Wir glauben, nicht zu verzollen ist dieses Buch."
+      ],
+      "answer": "Wir glauben, dieses Buch ist nicht zu verzollen.",
+      "hint": "Placez le sujet (dieses Buch) en 1re position et le verbe conjugué (ist) en 2e position.",
+      "explanation": "Corrigé A.2 : « Wir glauben, dieses Buch ist nicht zu verzollen. » (Nous croyons que ce livre n'est pas à dédouaner.) Sans daß, il n'y a plus de rejet du verbe à la fin."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez au génitif (avec der Winter, l'hiver) : « Während ___ blieben sie in der Stadt. » (Exercice B.4)",
+      "answer": "des Winters",
+      "hint": "La préposition während gouverne le génitif ; der Winter est masculin.",
+      "explanation": "Corrigé B.4 : « Während des Winters blieben sie in der Stadt. » (Pendant l'hiver, ils restaient en ville.) Génitif masculin : des + nom en -s."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez après la préposition « längs » : « Er ging längs ___ spazieren. » (Exercice B.5)",
+      "options": [
+        "des Rheins",
+        "dem Rhein",
+        "den Rhein",
+        "der Rhein"
+      ],
+      "answer": "des Rheins",
+      "hint": "La préposition längs (le long de) est suivie du génitif.",
+      "explanation": "Corrigé B.5 : « Er ging längs des Rheins spazieren. » (Il allait se promener le long du Rhin.) Génitif masculin de der Rhein : des Rheins."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez au génitif pluriel (avec hoch, élevé) : « Trotz ___ Zollgebühren kauften sie den Wagen. » (Exercice B.6)",
+      "answer": "der hohen",
+      "hint": "Trotz gouverne le génitif ; au génitif pluriel, l'article est der et l'adjectif prend -en.",
+      "explanation": "Corrigé B.6 : « Trotz der hohen Zollgebühren kauften sie den Wagen. » (Malgré les droits de douane élevés, ils ont acheté la voiture.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez au génitif (avec sein Beruf) : « Wegen ___ wurde sein Gepäck lange untersucht. » (Exercice B.7)",
+      "answer": "seines Berufs",
+      "hint": "Wegen gouverne le génitif ; der Beruf est masculin.",
+      "explanation": "Corrigé B.7 : « Wegen seines Berufs wurde sein Gepäck lange untersucht. » (C'est à cause de sa profession que ses bagages furent longuement visités.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez sans « daß » : « Ils croyaient qu'il ne voulait pas payer les droits de douane. » (Exercice C.9)",
+      "words": [
+        "Sie",
+        "glaubten,",
+        "er",
+        "wollte",
+        "keine",
+        "Zollgebühren",
+        "bezahlen."
+      ],
+      "answer": "Sie glaubten, er wollte keine Zollgebühren bezahlen.",
+      "hint": "Après sie glaubten, supprimez daß : er (1re place) + wollte (2e place) + keine Zollgebühren + bezahlen.",
+      "explanation": "Corrigé C.9 : « Sie glaubten, er wollte keine Zollgebühren bezahlen. » La subordonnée sans daß adopte l'ordre d'une principale."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quelle est la traduction exacte de : « Ces vêtements sont pour mon usage personnel, dit-il. » ? (Exercice C.10)",
+      "options": [
+        "Diese Kleider sind für meinen persönlichen Gebrauch, sagte er.",
+        "Diese Kleider sind für meinem persönlichen Gebrauch, sagte er.",
+        "Diese Kleider sind für mein persönliches Gebrauch, sagte er.",
+        "Diese Kleider sind für meine persönliche Gebrauch, sagte er."
+      ],
+      "answer": "Diese Kleider sind für meinen persönlichen Gebrauch, sagte er.",
+      "hint": "La préposition für gouverne l'accusatif et der Gebrauch est masculin.",
+      "explanation": "Corrigé C.10 : « Diese Kleider sind für meinen persönlichen Gebrauch, sagte er. » Accusatif masculin après für : meinen persönlichen Gebrauch."
+    }
+  ]
+}

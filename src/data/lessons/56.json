@@ -1,0 +1,183 @@
+{
+  "id": "56",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Wir besuchen gemeinsame Freunde",
+  "titleFr": "Nous rendons visite à des amis communs",
+  "proverbDe": "Unverhofft kommt oft.",
+  "proverbFr": "L'imprévu arrive souvent.",
+  "paragraphs": [
+    {
+      "de": "(Man verabredet sich telefonisch). — Wir wollen Ihnen von Seiten unserer gemeinsamen Freunde, der Familie Roth, viele Grüße bestellen. — Ja, eben haben sie uns Ihren Besuch angekündigt. Es freut uns sehr Ihre Bekanntschaft zu machen. Kommen Sie doch einmal nach dem Abendessen vorbei; wir werden Kaffee trinken und miteinander plaudern. Welcher Tag wäre Ihnen am liebsten? Sie wollen sich bestimmt vieles anschauen und Ihre Zeit ist wohl bemessen. Bestimmen Sie also einen Tag, wir werden uns danach richten.",
+      "fr": "(L'on prend rendez-vous par téléphone). — Nous irons vous saluer de la part de nos amis communs, la famille Roth (m. à m. : Nous allons vous transmettre...) — Oui, justement ils nous ont annoncé votre visite. Nous ferons votre connaissance avec beaucoup de plaisir (m. à m. : cela nous réjouit beaucoup...). Passez donc un jour après dîner, nous prendrons le café et nous bavarderons (ensemble). Quel jour cela vous serait-il le plus agréable? Vous avez certainement beaucoup de choses à voir et votre temps est compté. Donc, fixez un jour. Votre jour sera le nôtre (mot à mot : nous nous y conformerons)."
+    },
+    {
+      "de": "— Wäre Ihnen der Samstag abend gelegen? — Ach! leider sind wir am Samstag nicht in München. Wir fahren nämlich jeden Samstag weg. Am Sonntag aber kommen wir nicht zu spät nach Hause zurück, um die Verkehrsstockungen zu vermeiden. Wollen Sie also nächsten Sonntag vorbeikommen, nach dem Abendessen, so gegen neun Uhr? — Ja, es wird wohl möglich sein. Wir haben am Abend eine Verabredung; ich glaube aber, wir können um neun bei Ihnen sein.",
+      "fr": "— Est-ce que le samedi soir vous conviendrait? — Ah! malheureusement nous ne sommes pas à Münich le samedi. C'est que nous partons tous les samedis. Mais nous rentrerons dimanche, pas trop tard pour éviter les encombrements sur les routes. Voulez-vous passer dimanche prochain après dîner, vers 9 h? — Oui, ce sera sans doute possible. Nous avons un rendez-vous dans la soirée; mais je crois que nous pourrons être chez vous à 9 h."
+    },
+    {
+      "de": "— Wo könnte ich Sie erreichen, falls ein unvorhersehbares Hindernis dazwischen kommt? — Rufen Sie die Nummer achtunddreißig vierzig zwoundsechzig an.",
+      "fr": "— Où pourrais-je vous toucher si, éventuellement, un empêchement imprévu se présentait? — Appelez le 38.40.62."
+    },
+    {
+      "de": "— Ist die Anschrift : Marktplatz, Nummer drei, richtig? — Ja, sie stimmt. Im vierten Stock, dritte Tür rechts, wenn man aus dem Fahrstuhl kommt. — Schön! Auf baldiges Wiedersehen!",
+      "fr": "— Votre adresse, c'est bien 3, place du Marché? — C'est cela (mot à mot : elle est juste). Au 4e étage, 3e porte de droite en sortant de l'ascenseur. — Parfait. À bientôt!"
+    }
+  ],
+  "pronunciation": "Points de prononciation et d'accentuation à retenir dans cette leçon : dans « unvorhersehbares » (UN-vor-her-seh-ba-res), le préfixe négatif « un- » porte l'accent principal et le « h » de « -seh- » allonge le « e » ; dans le composé « Verkehrsstockungen » (Ver-KEHRS-sto-ckun-gen), « st- » en début du second élément se prononce « cht » [ʃt] ; au téléphone, on dit « zwo » [tsvoː] dans « zwoundsechzig » pour ne pas confondre « zwei » et « drei », et la finale « -ig » se prononce [ɪç] ; enfin, « München » (MÜN-chen) associe un « ü » arrondi au « ch » palatal (« ich-Laut »), et « Fahrstuhl » (FAHR-stuhl) a deux « h » d'allongement.",
+  "vocab": [
+    {
+      "de": "die Bekanntschaft (-en)",
+      "fr": "la connaissance",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Verabredung (-en)",
+      "fr": "le rendez-vous",
+      "info": "Féminin"
+    },
+    {
+      "de": "ankündigen",
+      "fr": "annoncer",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "bestimmen",
+      "fr": "déterminer, fixer",
+      "info": "Verbe"
+    },
+    {
+      "de": "erreichen",
+      "fr": "atteindre",
+      "info": "Verbe"
+    },
+    {
+      "de": "plaudern",
+      "fr": "bavarder",
+      "info": "Verbe"
+    },
+    {
+      "de": "sich richten (nach)",
+      "fr": "se conformer à",
+      "info": "Verbe pronominal"
+    },
+    {
+      "de": "stimmen",
+      "fr": "être juste",
+      "info": "Verbe"
+    },
+    {
+      "de": "bemessen (a, e, i)",
+      "fr": "mesurer",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "vorhersehen (a, e, ie)",
+      "fr": "prévoir",
+      "info": "Verbe fort séparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Wir werden uns danach richten",
+      "body": "Nous nous y conformerons ; nous nous en accommoderons.<br>Dans cette phrase, le verbe <em>sich richten nach</em> (+ datif), se conformer à, aurait pour complément <em>dem, diesem</em>, cela :<br><em>Wir richten uns nach dem</em>, nous nous conformerons à cela.<br><br>Or, le groupe <em>nach + dem</em>, se remplace par un démonstratif composé, où la préposition est précédée de <em>da</em> (ou <em>dar</em>, si elle commence par une voyelle). La plupart des prépositions peuvent se combiner ainsi : <em>dafür, damit, darauf, darin</em>. Ces démonstratifs composés correspondent souvent à notre « en », ou « y ».<br><br><strong>Denken an</strong>, penser à.<br><em>Ich denke daran</em>, j'y pense.<br><strong>Fragen nach</strong>, s'informer.<br><em>Haben Sie schon danach gefragt?</em> Vous en êtes-vous déjà informé?<br><strong>Erzählen von</strong>, parler de.<br><em>Sein Besuch bei Müllers? Er erzählte mir lange davon</em>, sa visite chez les Müller? Il m'en a parlé longtemps.<br><strong>Stolz auf</strong>, fier de.<br><em>Sie hat schöne Blumen; sie ist stolz darauf</em>, elle a de belles fleurs; elle en est fière.<br><strong>Dankbar für</strong>, reconnaissant de.<br><em>Ich bin Ihnen sehr dankbar dafür</em>, je vous en suis très reconnaissant.<br><br>Cependant, ces démonstratifs ne s'emploient pas pour désigner des personnes :<br><em>Ich erzähle von ihm</em>, je parle de lui.<br><em>Ich bin stolz auf ihn</em> (et non <em>darauf</em>), je suis fier de lui."
+    },
+    {
+      "title": "Ein unvorhersehbares Hindernis",
+      "body": "L'adjectif <em>unvorhersehbar</em>, imprévisible, vient du verbe <em>vorher/sehen</em>, prévoir. Le préfixe <em>un</em> indique l'absence, la négation, le contraire. Exemples :<br><em>ruhig</em>, calme : <em>unruhig</em>, inquiet.<br><em>bequem</em>, confortable : <em>unbequem</em>, inconfortable.<br><br>Ce préfixe sert aussi à former des noms.<br><em>das Glück</em>, le bonheur, la chance ; <em>das Unglück</em>, le malheur, la malchance."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.1) Remplacez le complément entre parenthèses par un démonstratif composé : « Was machst du (mit diesem alten Mantel)? »",
+      "answer": "Was machst du damit?",
+      "hint": "Combinez da + mit (la préposition commence par une consonne).",
+      "explanation": "Corrigé A.1 : « Que fais-tu de ce vieux manteau? Was machst du damit? »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.2) Remplacez le complément entre parenthèses par un démonstratif composé : « Was haben Sie (für das Kleid) gezahlt? »",
+      "options": [
+        "Was haben Sie dafür gezahlt?",
+        "Was haben Sie darfür gezahlt?",
+        "Was haben Sie davon gezahlt?",
+        "Was haben Sie damit gezahlt?"
+      ],
+      "answer": "Was haben Sie dafür gezahlt?",
+      "hint": "La préposition für commence par une consonne : on ajoute simplement da- devant für.",
+      "explanation": "Corrigé A.2 : « Qu'avez-vous payé pour la robe? Was haben Sie dafür gezahlt? »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.4) Quel démonstratif composé remplace « vor dem Gewitter » dans « Hat sie Angst (vor dem Gewitter)? »",
+      "options": [
+        "davor",
+        "darvor",
+        "davon",
+        "darauf"
+      ],
+      "answer": "davor",
+      "hint": "vor commence par une consonne : da + vor.",
+      "explanation": "Corrigé A.4 : « A-t-elle peur de l'orage? Hat sie Angst davor? »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.5) Remplacez le complément entre parenthèses par un démonstratif composé : « Ich werde mich immer (an diesen Tag) erinnern. »",
+      "answer": "Ich werde mich immer daran erinnern.",
+      "hint": "La préposition an commence par une voyelle : on utilise dar- (daran).",
+      "explanation": "Corrigé A.5 : « Je me souviendrai toujours de cette journée. Ich werde mich immer daran erinnern. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.7) Donnez le contraire de l'adjectif « angenehm » (agréable) à l'aide du préfixe négatif.",
+      "answer": "unangenehm",
+      "hint": "Ajoutez le préfixe un- devant l'adjectif.",
+      "explanation": "Corrigé B.7 : « unangenehm », désagréable."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice B.12) Quel est le contraire de « die Ordnung » (l'ordre) ?",
+      "options": [
+        "die Unordnung",
+        "die Nichtordnung",
+        "das Unordnung",
+        "die Mißordnung"
+      ],
+      "answer": "die Unordnung",
+      "hint": "Le préfixe un- sert aussi à former des noms contraires, sans changer le genre du nom de base.",
+      "explanation": "Corrigé B.12 : « die Unordnung », le désordre."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.13) Traduisez : « Nous avons des amis communs qui habitent à Munich. »",
+      "words": [
+        "Wir",
+        "haben",
+        "gemeinsame",
+        "Freunde,",
+        "die",
+        "in",
+        "München",
+        "wohnen."
+      ],
+      "answer": "Wir haben gemeinsame Freunde, die in München wohnen.",
+      "hint": "Dans la proposition relative introduite par die, le verbe conjugué wohnen est rejeté à la fin.",
+      "explanation": "Corrigé C.13 : « Wir haben gemeinsame Freunde, die in München wohnen. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.14) Traduisez la seconde phrase de « Connaissez-vous ce poisson? Ici, nous en mangeons souvent. » (avec « essen von »)",
+      "words": [
+        "Hier",
+        "essen",
+        "wir",
+        "oft",
+        "davon."
+      ],
+      "answer": "Hier essen wir oft davon.",
+      "hint": "Inversion sujet-verbe après Hier, et « en » (= von diesem Fisch) se traduit par davon.",
+      "explanation": "Corrigé C.14 : « Kennen Sie diesen Fisch? Hier essen wir oft davon. »"
+    }
+  ]
+}

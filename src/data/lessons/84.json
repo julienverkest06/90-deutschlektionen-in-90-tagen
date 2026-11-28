@@ -1,0 +1,158 @@
+{
+  "id": "84",
+  "series": 3,
+  "authentic": true,
+  "titleDe": "Gespräch bei der Fondue (Werner Bergengruen)",
+  "titleFr": "Tête-à-tête auprès de la Fondue (Werner Bergengruen)",
+  "proverbDe": "Liebe geht durch den Magen.",
+  "proverbFr": "L'amour passe par l'estomac.",
+  "paragraphs": [
+    {
+      "de": "Die Fondue entsteht dadurch, daß man in einem tiegelartigen Gefäß aus feuerfestem Ton feinblättrig geschnittenen Emmentaler Käse zum Schmelzen bringt. Der Tiegel wird, bevor man ihm den Käse anvertraut, mit Schnaps ausgewischt. Oft wird Kirsch bevorzugt, doch mancher plädiert für Gebirgswachholder oder Grappa. Ein Hauch von Aroma teilt sich dem Käse mit und verbindet sich mit einem kleinen Quantum Neuenburger Weißwein, der während der Schmelzprozedur langsam dazugegossen wird.",
+      "fr": "La fondue s'obtient en faisant fondre dans un récipient en terre à feu, semblable à un creuset, du fromage d'Emmental coupé en fines lamelles. Avant d'y mettre le fromage, on passe le poêlon à l'eau-de-vie : souvent le kirsch, parfois le genièvre de montagne ou la grappa. Un léger arôme se mêle au fromage et s'unit au vin blanc de Neuchâtel que l'on verse lentement pendant la fonte."
+    },
+    {
+      "de": "Von den übrigen Zutaten, die sämtlich mit Sparsamkeit verwendet werden wollen, verdienen Mehl, Pfeffer und eine Winzigkeit Knoblauch ihre Erwähnung. Manche reiben den Tiegel statt mit Schnaps lieber mit Knoblauch aus und rühren den Schnaps erst unmittelbar vor dem Essen hinein. Hier muß man tolerant sein – ebenso wie gegen jene, welche das Gericht der Vernunft und dem Geist der französischen Sprache zuwider neutralisierend « das Fondue » nennen.",
+      "fr": "Parmi les autres ingrédients, tous à employer avec parcimonie, figurent la farine, le poivre et une pointe d'ail. Certains frottent le poêlon à l'ail et n'ajoutent l'eau-de-vie qu'au dernier moment. Il faut rester tolérant sur ce point – tout comme envers ceux qui, contrairement à l'esprit du français, emploient le neutre « das Fondue »."
+    },
+    {
+      "de": "Der Rittmeister und der Erzähler waren sich einig, daß die Fondue ein menschenverbindendes Gericht ist. Alle, die miteinander Fondue essen, bilden eine wahrhafte Tischgemeinschaft : ob zwei oder zwölf, alle tauchen ihre Gabeln in denselben Tiegel, der über dem Feuer steht. Man setzt sich an einen runden Tisch, so daß jeder der Gäste gleich weit vom Mittelpunkt entfernt ist.",
+      "fr": "Le capitaine de cavalerie et le narrateur s'accordaient à voir dans la fondue un plat qui unit les convives. Qu'ils soient deux ou douze, tous forment une véritable communauté de table en plongeant leurs fourchettes dans le même poêlon posé sur le feu. Les tables rondes sont recommandées afin que chacun soit à égale distance du centre."
+    },
+    {
+      "de": "Wie der Rittmeister bemerkte, gehört die Fondue – ebenso wie die Artischocke und der Spargel – zu den wenigen fleischlosen Gerichten, die auch ein Nichtvegetarier ohne Bedenken genießen kann, zumal sie gänzlich frei von Vitaminen ist. Im reiferen Alter, meinte er scherzhaft, halte man sich lieber an das Rezente : die milde Wärme des Beaujolais, ein halbrotes Beefsteak oder einen mittelreifen Gorgonzola – und bei den Früchten besonders an jene, die sich zur Bowle eignen. (D'après Werner Bergengruen, Der letzte Rittmeister, Verlag der Arche, Zürich.)",
+      "fr": "Selon le capitaine, la fondue – comme l'artichaut et l'asperge – fait partie des rares plats sans viande qu'un non-végétarien savoure sans hésiter, d'autant qu'elle est totalement dépourvue de vitamines. À un certain âge, ajoute-t-il avec humour, on préfère ce qui est relevé et vigoureux – un beaujolais, un bifteck saignant ou un gorgonzola – et, parmi les fruits, surtout ceux qui se prêtent à la préparation d'une marquise ou d'un punch (Bowle)."
+    }
+  ],
+  "pronunciation": "Adaptation fidèle de l'extrait de « Der letzte Rittmeister » de Werner Bergengruen (texte suisse riche en emprunts français : differieren, das Aroma, die Prozedur, tolerant, de rigueur). Soignez l'accent tonique sur le premier élément des composés : tiegelartig, Gebirgswachholder, Schmelzprozedur, Tischgemeinschaft, Frauenzimmer.",
+  "vocab": [
+    {
+      "de": "tiegelartig (-artig)",
+      "fr": "semblable à un creuset / un poêlon (le suffixe -artig signifie : de la nature de, semblable à)",
+      "info": "Note 1 — Adjectif composé"
+    },
+    {
+      "de": "auswischen",
+      "fr": "essuyer, passer (un liquide) à l'intérieur (Der Tiegel wird ausgewischt : on essuie le poêlon)",
+      "info": "Note 2 — Verbe séparable"
+    },
+    {
+      "de": "zuwider (+ Datif, postposé)",
+      "fr": "contrairement à, au mépris de (der Vernunft zuwider : contrairement à la raison)",
+      "info": "Note 3 — Postposition"
+    },
+    {
+      "de": "das Frauenzimmer (-)",
+      "fr": "femme, fille (terme un peu péjoratif ou vieilli)",
+      "info": "Note 4 — Neutre"
+    },
+    {
+      "de": "das Rezente (rezent)",
+      "fr": "ce qui est fort, piquant, picotant (adjectif substantivé ; usage suisse)",
+      "info": "Note 5 — Adjectif substantivé"
+    },
+    {
+      "de": "die Tischgemeinschaft (-en)",
+      "fr": "la communauté de table, la tablée",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Zutat (-en)",
+      "fr": "l'ingrédient",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Bowle (-n)",
+      "fr": "le punch aux fruits et au vin",
+      "info": "Féminin"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Note 1 — Le suffixe adjectival « -artig »",
+      "body": "En composition, <strong>-artig</strong> (de <em>die Art</em>, la sorte, la manière) signifie <strong>« de la nature de, semblable à »</strong> : <em>ein <strong>tiegelartiges</strong> Gefäß</em> (un récipient du genre d'un creuset)."
+    },
+    {
+      "title": "Note 2 — La voix passive traduite par « on » en français",
+      "body": "Dans <em>Der Tiegel <strong>wird</strong> mit Schnaps <strong>ausgewischt</strong></em> (m. à m. : « le poêlon est essuyé avec de l'eau-de-vie » → « on passe de l'eau-de-vie dans le poêlon »), le passif avec <strong>werden + participe passé</strong> est très fréquent en allemand là où le français préfère la tournure active avec <em>on</em>."
+    },
+    {
+      "title": "Note 3 — La postposition « zuwider » (+ datif)",
+      "body": "<strong>zuwider</strong> (« contrairement à, au mépris de ») gouverne le <strong>datif</strong> et se place <strong>après</strong> ses compléments : <em><strong>der Vernunft und dem Geist</strong> der französischen Sprache <strong>zuwider</strong></em>."
+    },
+    {
+      "title": "Notes 5 & 6 — Adjectif substantivé et vocabulaire suisse alémanique",
+      "body": "• <strong>das Rezente</strong> : adjectif pris comme nom neutre (<em>rezent</em> = fort, piquant, relevé).<br>• Le texte étant écrit en Suisse, il emploie de nombreux mots d'origine étrangère ou française : <em>differieren, das Aroma, die Prozedur, tolerant, de rigueur</em>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Quelle est la place et le cas exigés par « zuwider » (contrairement à) dans « der Vernunft und dem Geist zuwider » ? (Note 3)",
+      "options": [
+        "Placé après son complément, avec le datif",
+        "Placé avant son complément, avec l'accusatif",
+        "Placé après son complément, avec le génitif",
+        "Placé avant son complément, avec le nominatif"
+      ],
+      "answer": "Placé après son complément, avec le datif",
+      "hint": "Remarquez « der Vernunft » (fém. dat.) et « dem Geist » (masc. dat.) situés devant « zuwider ».",
+      "explanation": "Note 3 : « zuwider (+ datif) » est une postposition : elle se place après ses compléments."
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie le suffixe « -artig » dans « tiegelartig » ? (Note 1)",
+      "options": [
+        "De la nature de, semblable à",
+        "Sans, dépourvu de",
+        "Très grand, gigantesque",
+        "Contraire à, opposé à"
+      ],
+      "answer": "De la nature de, semblable à",
+      "hint": "Dérivé de « die Art » (la nature, l'espèce).",
+      "explanation": "Note 1 : En composition, « -artig » signifie « de la nature de, semblable à »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la voix passive (Note 2) : « Der Tiegel ___ mit Schnaps ausgewischt. » (On passe de l'eau-de-vie dans le poêlon.)",
+      "answer": "wird",
+      "hint": "Présent de l'auxiliaire du passif « werden » à la 3e personne du singulier.",
+      "explanation": "Note 2 : « Der Tiegel wird mit Schnaps ausgewischt » (passif présent = werden + participe passé)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Que désigne l'adjectif substantivé « das Rezente » (usage suisse, Note 5) ?",
+      "options": [
+        "Ce qui est fort, piquant, picotant (relevé)",
+        "Ce qui est tout à fait récent et moderne",
+        "Ce qui est doux et sucré",
+        "Ce qui est glacé et amer"
+      ],
+      "answer": "Ce qui est fort, piquant, picotant (relevé)",
+      "hint": "Attention au faux ami avec le français « récent » !",
+      "explanation": "Note 5 : « rezent » signifie en allemand (surtout suisse) « fort, piquant, picotant » ; « das Rezente » est l'adjectif substantivé."
+    },
+    {
+      "type": "fill",
+      "prompt": "Donnez le nom neutre un peu péjoratif signifiant « femme, fille » (Note 4) : « das ___ »",
+      "answer": "Frauenzimmer",
+      "hint": "Composé de « Frauen » + « Zimmer » (chambre).",
+      "explanation": "Note 4 : « das Frauenzimmer (-) » est un terme neutre un peu péjoratif ou vieilli pour « femme, fille »."
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez cette phrase résumant l'esprit convivial de la fondue :",
+      "words": [
+        "Der",
+        "Tiegel",
+        "wird",
+        "mit",
+        "Schnaps",
+        "ausgewischt."
+      ],
+      "answer": "Der Tiegel wird mit Schnaps ausgewischt.",
+      "hint": "Sujet + auxiliaire « wird » en 2e position + complément + participe passé en fin de phrase.",
+      "explanation": "« Der Tiegel wird mit Schnaps ausgewischt. » (Note 2 : voix passive.)"
+    }
+  ]
+}

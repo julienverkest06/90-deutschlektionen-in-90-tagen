@@ -1,0 +1,196 @@
+{
+  "id": "10",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Bei der Familie Müller (2)",
+  "titleFr": "Chez la famille Müller (2)",
+  "proverbDe": "Keine Rose ohne Dornen.",
+  "proverbFr": "Pas de roses sans épines.",
+  "paragraphs": [
+    {
+      "de": "— Kommen Sie ein wenig auf die Terrasse, Herr Dumont! — Ja, gern. Es ist angenehm hier. — Man hört wohl den Lärm der Straße. Aber man gewöhnt sich schnell daran.",
+      "fr": "— Venez un peu sur la terrasse, Monsieur Dumont ! — Oui, avec plaisir. C'est agréable ici. — On entend certes les bruits (mot à mot : le bruit) de la rue. Mais on s'y habitue vite."
+    },
+    {
+      "de": "— Wessen Terrasse ist das? — Es ist die Terrasse meines Nachbars. Seine Frau hat Blumen sehr gern. Die Farben ihrer Rosen leuchten in dieser Steinwelt.",
+      "fr": "— C'est la terrasse de qui ? — C'est la terrasse de notre voisin. Sa femme aime beaucoup (les) fleurs (mot à mot : a les fleurs très volontiers). Les couleurs de ses roses brillent dans ce monde de pierre."
+    },
+    {
+      "de": "— Ihre Kinder sind wohl oft hier? — Ja; das ist Karls Auto und das sind Heddys Puppen. Karl, komm her! Zeige unserem Gast die schöne Aussicht auf den Rhein!",
+      "fr": "— Sans doute vos enfants sont-ils souvent ici ? — Oui ; voici (c'est) l'auto de Charles, et voici les poupées de Heddy. Charles, viens (par ici) ! Montre à notre hôte la belle vue sur le Rhin !"
+    },
+    {
+      "de": "— Wessen Frau hat Blumen sehr gern? — Wessen Kinder sind oft auf der Terrasse? — Wessen Puppen liegen auf dem Tisch? — Wessen Auto ist das?",
+      "fr": "— L'épouse de qui aime beaucoup (les) fleurs ? — Les enfants de qui sont souvent sur la terrasse ? — Les poupées de qui sont (posées) sur la table ? — C'est la voiture de qui ? (= à qui appartient cette voiture ?)"
+    }
+  ],
+  "pronunciation": "L'e final n'est pas muet en allemand ; il se prononce comme [eu] assourdi, sans accent, en laissant tomber la voix. Exercez-vous à le prononcer dans Familie — Terrasse — Straße — seine — ihre — Puppe — zeige. p, t, k sont explosifs, c'est-à-dire suivis d'un souffle. Ainsi : kommen — Terrasse — Kinder — Karl — Puppe. Repères phonétiques : die Terrasse [di tèraçe], angenehm [angeném'], wohl [vol], den Lärm [dén' lèrm'], Wessen [vèçen'], meines Nachbars [maéneç narbarç], Die Farben ihrer Rosen leuchten in dieser Steinwelt [di farben' irer rozen' loeuchten' in dizer chtaén'vèlt], hier [hir], Heddys Puppen [hèdiç poupen'], komm her [kom' hèr], Zeige unserem Gast die schöne Aussicht auf den Rhein [tçaége oun'serem' gaçt di cheune aoçzicht aof dén' raén'].",
+  "vocab": [
+    {
+      "de": "der Lärm (plur. inusité)",
+      "fr": "le bruit",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Nachbar (s, n)",
+      "fr": "le voisin",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Stein (-e)",
+      "fr": "la pierre",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Farbe (n)",
+      "fr": "la couleur",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Puppe (n)",
+      "fr": "la poupée",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Rose (n)",
+      "fr": "la rose",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Terrasse (n)",
+      "fr": "la terrasse",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Welt (-en)",
+      "fr": "le monde",
+      "info": "Féminin"
+    },
+    {
+      "de": "gern haben",
+      "fr": "aimer bien",
+      "info": "Expression verbale"
+    },
+    {
+      "de": "gewöhnen",
+      "fr": "habituer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "leuchten",
+      "fr": "luire, briller",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "vergessen (er vergißt)",
+      "fr": "oublier",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Die Terrasse des Nachbars. — Le génitif",
+      "body": "Le génitif est le cas du complément du nom : <em>des Nachbars</em>, du voisin. Il est marqué par l'article et, pour tous les noms neutres et pour la plupart des masculins, par la terminaison <strong>s</strong> au singulier. Les féminins par contre n'ont pas de terminaison : ils sont invariables au singulier. Au pluriel, seul l'article prend la marque du génitif. Exemples :<br><strong>Masculin :</strong> <em>des (eines, keines) Nachbars</em>, du voisin.<br><strong>Féminin :</strong> <em>der (einer, keiner) Familie</em>, de la famille.<br><strong>Neutre :</strong> <em>des (eines, keines) Hotels</em>, de l'hôtel.<br><strong>Pluriel :</strong> <em>der (keiner) Gäste</em>, des (= de les) hôtes.<br><br><strong>Note :</strong> Pour une raison d'euphonie, on intercale un <strong>e</strong> entre le radical de certains noms et la terminaison <strong>s</strong>. Exemple : <em>des Hauses, des Kindes</em>."
+    },
+    {
+      "title": "Das ist Karls Auto. — Noms propres, génitif saxon et « wessen? »",
+      "body": "Les noms propres, masculins ou féminins, prennent <strong>s</strong> au génitif : <em>Karls</em>, de Charles, <em>Heddys</em>, de Heddy. Mais parfois, dans la langue courante, on remplace ce génitif par une tournure ressemblant au français : <em>Das Buch von Hans</em>, le livre de Jean.<br><br><strong>Le génitif dit « saxon » :</strong> Le génitif peut précéder le nom déterminé (<em>Auto</em>). Dans ce cas, celui-ci perd son article. Exemple : <em>die Puppen Heddys</em>, ou bien : <em>Heddys Puppen</em>. Cette tournure est surtout employée avec les noms propres.<br><br><strong>Wessen Auto ist das?</strong> Après <em>wessen?</em>, de qui ? interrogatif au génitif, on place directement le nom, sans article. Exemples :<br><em>Wessen Buch?</em> le livre de qui ?<br><em>Wessen Blumen?</em> les fleurs de qui ?"
+    },
+    {
+      "title": "Karl, komm her! — L'impératif",
+      "body": "<strong>2e pers. du sing. :</strong> <em>zeige!</em> montre ! <em>Komm(e)!</em> viens !<br><strong>2e pers. du plur. :</strong> <em>zeigt!</em> montrez ! <em>Kommt!</em> venez !<br><strong>Forme de politesse :</strong> <em>zeigen Sie!</em> montrez ! <em>Kommen Sie!</em> venez !<br><br><strong>Remarques :</strong><br>1) À la 2e personne du singulier, on peut supprimer la terminaison <strong>e</strong> pour les verbes très usuels : <em>zeig!</em> montre !<br>2) Les verbes irréguliers en <strong>e</strong> prennent au singulier le radical modifié en <strong>i</strong> : Exemples : <em>sprechen / sprich!</em> parle ! <em>geben / gib!</em> donne !"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.1) Complétez au génitif singulier : « Das ist das Hotel ___. » (Voici l'hôtel de mon ami.)",
+      "options": [
+        "meines Freundes",
+        "meinem Freund",
+        "meinen Freundes",
+        "meiner Freund"
+      ],
+      "answer": "meines Freundes",
+      "hint": "« der Freund » est masculin : au génitif singulier, le déterminatif prend -es et le nom prend -es pour l'euphonie.",
+      "explanation": "Corrigé A.1 : « meines Freundes. Voici (= c'est) l'hôtel de mon ami. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.3) Complétez au génitif pluriel : « Das sind die Mäntel ___. » (Voici les manteaux de ces dames.)",
+      "answer": "dieser Damen",
+      "hint": "Au génitif pluriel, seul le déterminatif prend la marque -er ; « die Dame » fait « die Damen » au pluriel.",
+      "explanation": "Corrigé A.3 : « dieser Damen. Voici les manteaux de ces dames. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.6) Employez le génitif saxon pour transformer : « der Schreibtisch Pauls » (Le bureau de Paul).",
+      "answer": "Pauls Schreibtisch",
+      "hint": "Placez le nom propre au génitif devant le nom déterminé, qui perd alors son article.",
+      "explanation": "Corrigé B.6 : « Pauls Schreibtisch. Le bureau de Paul. » Avec le génitif saxon, l'article « der » disparaît."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice C.12) Quelle est la série correcte d'impératifs (2e pers. sing. / 2e pers. plur. / forme de politesse) pour « sprechen » ?",
+      "options": [
+        "sprich! / sprecht! / sprechen Sie!",
+        "spreche! / sprecht! / sprechen Sie!",
+        "sprich! / spricht! / sprechen Sie!",
+        "sprichst! / sprecht! / sprechen Sie!"
+      ],
+      "answer": "sprich! / sprecht! / sprechen Sie!",
+      "hint": "Les verbes irréguliers en e prennent le radical modifié en i à la 2e personne du singulier de l'impératif.",
+      "explanation": "Corrigé C.12 : « sprich! sprecht! sprechen Sie! » Le radical change en i uniquement au singulier."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice C.13) Comment forme-t-on l'impératif (forme de politesse) du verbe à particule séparable « zuhören » ?",
+      "options": [
+        "Hören Sie zu!",
+        "Zuhören Sie!",
+        "Hört Sie zu!",
+        "Sie hören zu!"
+      ],
+      "answer": "Hören Sie zu!",
+      "hint": "La particule séparable « zu » se rejette à la fin de la proposition à l'impératif.",
+      "explanation": "Corrigé C.13 : « Hör(e) zu! hört zu! hören Sie zu! » La particule séparable se place toujours en fin de phrase."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice D.14) Traduisez en allemand : « La maison de mon voisin est grande. »",
+      "words": [
+        "Das",
+        "Haus",
+        "meines",
+        "Nachbars",
+        "ist",
+        "groß."
+      ],
+      "answer": "Das Haus meines Nachbars ist groß.",
+      "hint": "Utilisez le génitif singulier masculin « meines Nachbars ».",
+      "explanation": "Corrigé D.14 : « Das Haus meines Nachbars ist groß. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice D.17) Traduisez en allemand : « Les fleurs de Madame Müller sont très belles. »",
+      "words": [
+        "Frau",
+        "Müllers",
+        "Blumen",
+        "sind",
+        "sehr",
+        "schön."
+      ],
+      "answer": "Frau Müllers Blumen sind sehr schön.",
+      "hint": "Employez le génitif saxon « Frau Müllers Blumen » (sans article devant « Blumen »).",
+      "explanation": "Corrigé D.17 : « Frau Müllers Blumen sind sehr schön. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice D.18) Traduisez en allemand : « C'est la maison de qui ? »",
+      "answer": "Wessen Haus ist das?",
+      "hint": "Après l'interrogatif au génitif « Wessen », le nom se place directement sans article.",
+      "explanation": "Corrigé D.18 : « Wessen Haus ist das? »"
+    }
+  ]
+}

@@ -2,58 +2,154 @@
   "id": "34",
   "series": 2,
   "authentic": true,
-  "titleDe": "Tips für den Umgang mit Zöllnern",
-  "titleFr": "Conseils pour les rapports avec les douaniers",
-  "proverbDe": "Ehrlich währt am längsten.",
-  "proverbFr": "L'honnêteté est la meilleure politique.",
+  "titleDe": "Der Paß",
+  "titleFr": "Le passeport",
+  "proverbDe": "Reden ist Silber, Schweigen ist Gold.",
+  "proverbFr": "La parole est d'argent, le silence est d'or",
   "paragraphs": [
     {
-      "de": "Sobald man eine Grenze überschreitet, prüft die Polizei die Pässe. Das Reisen wird immer leichter. Eines Tages werden die Pässe in die Museen wandern.",
-      "fr": "Dès qu'on franchit une frontière, la police examine les passeports. Voyager devient toujours plus facile. Un jour les passeports iront dans les musées."
+      "de": "Jeder Mensch ist Bürger eines Landes, eines Staates. Paul Dumont ist Franzose. Welche Nationalität (oder: Staatsangehörigkeit) haben Sie? Sind Sie Deutscher? Engländer? Spanier? Italiener? Der Paß ist ein Ausweis. Auf einem Ausweis sind Ihr Familienname, Ihre Vornamen, Ihr Geburtsdatum, Ihr Geburtsort, Ihr Beruf, Ihr Wohnsitz eingetragen. Ihre Personalbeschreibung steht auch darauf. Ihr Paßbild ist auf einer der ersten Seiten.",
+      "fr": "Tout homme est citoyen d'un pays, d'un État. Paul Dumont est Français. De quelle nationalité êtes-vous? Êtes-vous Allemand? Anglais? Espagnol? Italien? Le passeport est une pièce d'identité. Sur une pièce d'identité sont inscrits votre nom de famille, vos prénoms, votre date de naissance, votre lieu de naissance, votre profession, votre lieu de domicile. Votre signalement s'y trouve aussi. Votre photo d'identité est sur l'une des premières pages."
     },
     {
-      "de": "Auf die Frage eines Zollbeamten, ob Sie etwas zu verzollen haben, können Sie zweierlei antworten: entweder präzise angeben, was und wieviel Sie bei sich haben — oder aber sagen: «Bitte, sehen Sie nach».",
-      "fr": "À la question d'un douanier, si vous avez quelque chose à déclarer, vous pouvez répondre de deux façons : ou bien vous indiquez avec précision la nature et la quantité de ce que vous avez sur vous — ou bien vous dites : « Regardez vous-même, je vous prie »."
+      "de": "In gewissen Fällen muß man einen Polizeischein ausfüllen, bevor man über die Grenze geht. Sobald man eine Grenze überschreitet, muß man der Polizei seinen Paß oder seine Kennkarte vorzeigen. Für manche Länder muß man außerdem ein Visum haben. Aber das Reisen von einem Land in das andere wird immer leichter, und eines Tages werden die Pässe in die Museen wandern.",
+      "fr": "Dans certains cas, il faut remplir une fiche de police avant de passer la frontière. Dès qu'on traverse une frontière, on doit présenter son passeport ou sa carte d'identité à la police. Pour certains pays, il faut en outre avoir un visa. Mais les voyages d'un pays à l'autre deviennent de plus en plus faciles, et un jour, les passeports prendront le chemin des musées."
+    },
+    {
+      "de": "Für die polizeilichen Nachforschungen wird immer mehr die elektronische Datenverarbeitung eingesetzt. Ja, wenn auch die Pässe allmählich verschwinden, so gibt es bald keinen Winkel mehr auf dieser Erde, wo man ohne Ausweis leben könnte.",
+      "fr": "Pour les recherches policières, on utilise de plus en plus le travail des ordinateurs. Certes, même si les passeports disparaissent peu à peu, il n'y aura bientôt plus guère un coin sur cette terre où l'on puisse vivre sans pièce d'identité."
+    },
+    {
+      "de": "Lecture — Tips für den Umgang mit Zöllnern : Auf die Frage eines Zollbeamten, ob Sie etwas zu verzollen haben, können Sie zweierlei antworten: entweder präzise angeben, was und wieviel Sie bei sich haben — oder aber sagen: «Bitte, sehen Sie nach». In beiden Fällen haben Sie der Anzeigepflicht genügt. Wenn Sie aber erklären, Sie hätten nichts zu verzollen, und der Beamte findet doch drei Flaschen Kognak in Ihrem Gepäck, zahlen Sie außer dem üblichen Zoll noch einen Zollzuschlag. (Aus der Wochenzeitschrift «Stern»)",
+      "fr": "Lecture — Conseils pour les rapports avec les douaniers : À la question d'un douanier, si vous avez quelque chose à déclarer, vous pouvez répondre de deux façons : ou bien vous indiquez avec précision la nature et la quantité de ce que vous avez sur vous (mot à mot : quoi et combien...), ou bien, vous dites : « Regardez vous-même, je vous prie ». Dans les deux cas, vous avez accompli votre devoir (mot à mot : ... de déclaration). Mais, si vous affirmez que vous n'avez rien à déclarer et que le douanier (le fonctionnaire) trouve quand même trois bouteilles de cognac dans vos bagages, vous paierez une surtaxe en plus du droit de douane usuel."
     }
   ],
-  "pronunciation": "Lecture authentique de « Stern ». L'infinitif substantivé (das Reisen, das Essen, das Lachen) est toujours neutre et prend une majuscule.",
+  "pronunciation": "Indications phonétiques du manuel : 1. Staates [chtateç] (st initial = cht, a long) ; Franzose [fran'tçoze] (accent sur -zo-) ; Nationalität [natçionalitèt] (accent sur -tät) ; Staatsangehörigkeit [chtatç-angèheurichkaét] ; Spanier [chpanier'] (sp initial = chp) ; Geburtsort [gébourtç-ort] ; Beruf [bérouf] (u long accentué). 2. Polizeischein [politçaé-chaén'] (z = ts, sch = ch) ; Visum [vizoum'] (v prononcé comme en français, i long) ; das Museum, die Museen [daç mouzé-oum', di mouzé-en'] (accent sur -se-, deux e prononcés séparément au pluriel).",
   "vocab": [
     {
-      "de": "die Grenze (-n)",
-      "fr": "la frontière",
+      "de": "der Ausweis (e)",
+      "fr": "la pièce d'identité",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Beruf (-e)",
+      "fr": "la profession, le métier",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Fall (¨-e)",
+      "fr": "le cas",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Name (ns, n)",
+      "fr": "le nom",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Ort (-e)",
+      "fr": "le lieu",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Paß (¨sse)",
+      "fr": "le passeport",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Vornamen (-)",
+      "fr": "le prénom",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Wohnsitz (-e)",
+      "fr": "le domicile",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Geburt (-en)",
+      "fr": "la naissance",
       "info": "Féminin"
     },
     {
-      "de": "der Zöllner (-)",
-      "fr": "le douanier",
-      "info": "Masculin"
+      "de": "die Kennkarte (n)",
+      "fr": "la carte d'identité",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Nationalität (-en)",
+      "fr": "la nationalité (ou : die Staatsangehörigkeit, m. à m. : l'appartenance à un État)",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Polizei",
+      "fr": "la police",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Seite (n)",
+      "fr": "la page, le côté",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Datum (plur. die Daten)",
+      "fr": "la date ; la donnée (math.)",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Museum (plur. die Museen)",
+      "fr": "le musée",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Paßbild (-er)",
+      "fr": "la photo d'identité",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Visum (plur. die Visa)",
+      "fr": "le Visa",
+      "info": "Neutre"
+    },
+    {
+      "de": "ausfüllen",
+      "fr": "remplir",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "wandern",
+      "fr": "voyager (à pied)",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "eintragen (u, a; ä)",
+      "fr": "inscrire",
+      "info": "Verbe fort séparable"
     },
     {
       "de": "überschreiten (itt, itt)",
       "fr": "franchir",
-      "info": "Verbe inséparable"
-    },
-    {
-      "de": "sobald / solange / während",
-      "fr": "dès que / tant que / pendant que",
-      "info": "Conjonctions de subordination"
-    },
-    {
-      "de": "eines Tages",
-      "fr": "un jour (indéterminé)",
-      "info": "Complément de temps au génitif"
+      "info": "Verbe fort inséparable"
     }
   ],
   "grammar": [
     {
-      "title": "Le complément de temps (Génitif, Datif avec am, ou Accusatif)",
-      "body": "• Moment peu précis : au <strong>génitif</strong> (<em>eines Tages, des Morgens, nachts</em>) ou avec <strong>am</strong> (<em>am Montag, am Anfang</em>).<br>• Moment précis ou durée : à l'<strong>accusatif</strong> (<em>jeden Sonntag, nächste Woche, den ganzen Tag</em>)."
+      "title": "Sobald man eine Grenze überschreitet,...",
+      "body": "Autres conjonctions de subordination, entraînant toujours le rejet du verbe : <strong><em>sobald</em></strong>, dès que ; <strong><em>solange</em></strong>, tant que ; <strong><em>während</em></strong>, pendant que."
+    },
+    {
+      "title": "Das Reisen wird immer leichter.",
+      "body": "<strong>L'infinitif substantivé.</strong><br>Un infinitif peut être employé comme nom. Ce substantif est toujours du neutre ; il n'a pas de pluriel et il s'écrit avec une majuscule. Exemples :<br><em>essen, <strong>das Essen</strong></em>, le repas ; <em>lachen, <strong>das Lachen</strong></em>, le rire."
+    },
+    {
+      "title": "Eines Tages werden die Pässe in die Museen wandern.",
+      "body": "<strong>Le complément de temps.</strong><br>• Le complément de temps indiquant un moment peu précis se met au <strong>génitif</strong> ou au <strong>datif précédé de <em>am</em></strong>. Exemples :<br><em><strong>Eines Tages</strong></em>, un jour ; <em><strong>des Morgens</strong></em>, le matin ; <em><strong>sonntags</strong></em>, le dimanche.<br>Ou bien :<br><em><strong>Am Tage</strong></em>, le jour ; <em><strong>am Montag</strong></em>, le lundi ; <em><strong>am Anfang</strong></em>, au début.<br>Exception : <em><strong>In der Nacht</strong></em> (ou : <em><strong>nachts</strong></em>), la nuit.<br>• Lorsqu'il indique un moment précis ou une durée, il se met à l'<strong>accusatif</strong>. Exemples :<br><em><strong>Jeden Sonntag</strong></em>, chaque dimanche ; <em><strong>nächste Woche</strong></em>, la semaine prochaine ; <em><strong>den ganzen Tag</strong></em>, toute la journée."
     }
   ],
   "exercises": [
     {
       "type": "order",
-      "prompt": "Reliez par während (Exercice 1) : « Die Reisenden steigen an Bord. Die Polizei prüft ihre Pässe. »",
+      "prompt": "(Exercice 1) Formez une subordonnée avec « während » (« Die Reisenden steigen an Bord. Die Polizei prüft ihre Pässe » — Pendant que les voyageurs montent à bord, la police examine leurs passeports).",
       "words": [
         "Während",
         "die",
@@ -68,21 +164,80 @@
         "Pässe."
       ],
       "answer": "Während die Reisenden an Bord steigen, prüft die Polizei ihre Pässe.",
-      "hint": "« während » rejette « steigen » avant la virgule, suivie de l'inversion « prüft die Polizei ».",
-      "explanation": "Während die Reisenden an Bord steigen, prüft die Polizei ihre Pässe."
+      "hint": "« Während » rejette le verbe « steigen » en fin de subordonnée ; la proposition principale commence ensuite par le verbe conjugué « prüft ».",
+      "explanation": "Corrigé 1 : « Während die Reisenden an Bord steigen, prüft die Polizei ihre Pässe. » (Pendant que les voyageurs montent à bord, la police examine leurs passeports.)"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice 2) Formez une subordonnée avec « solange » (« Du bleibst in deinem Land. Du brauchst keinen Paß » — Tu n'as pas besoin de passeport, tant que tu restes dans ton pays).",
+      "words": [
+        "Du",
+        "brauchst",
+        "keinen",
+        "Paß,",
+        "solange",
+        "du",
+        "in",
+        "deinem",
+        "Land",
+        "bleibst."
+      ],
+      "answer": "Du brauchst keinen Paß, solange du in deinem Land bleibst.",
+      "hint": "Placez la principale « Du brauchst keinen Paß » en tête, suivie de la subordonnée introduite par « solange » avec le verbe « bleibst » à la fin.",
+      "explanation": "Corrigé 2 : « Du brauchst keinen Paß, solange du in deinem Land bleibst. » (Tu n'as pas besoin de passeport, tant que tu restes dans ton pays.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice 3) Complétez la subordonnée formée avec « sobald » (« Er kam in München an. Er suchte den Verkehrsverein ») : « Sobald er in München ___, suchte er den Verkehrsverein. »",
+      "answer": "ankam",
+      "hint": "En subordonnée, la particule séparable « an » se rattache au verbe « kam » rejeté en fin de proposition.",
+      "explanation": "Corrigé 3 : « Sobald er in München ankam, suchte er den Verkehrsverein. » (Dès qu'il arriva à Munich, il rechercha le syndicat d'initiative.)"
     },
     {
       "type": "choice",
-      "prompt": "Comment dit-on « toute la journée » (durée définie) ?",
+      "prompt": "(Grammaire — L'infinitif substantivé) Complétez la phrase du texte avec l'infinitif substantivé de « reisen » : « Aber ___ von einem Land in das andere wird immer leichter. »",
+      "options": [
+        "das Reisen",
+        "der Reisen",
+        "die Reisen",
+        "das reisen"
+      ],
+      "answer": "das Reisen",
+      "hint": "Un infinitif employé comme nom est toujours neutre et prend une majuscule.",
+      "explanation": "Tout infinitif substantivé est neutre (« das »), n'a pas de pluriel et s'écrit avec une majuscule : « das Reisen » (comme « das Essen », « das Lachen »)."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Grammaire — Complément de temps) Comment exprime-t-on « un jour » (moment peu précis) dans « ___ werden die Pässe in die Museen wandern » ?",
+      "options": [
+        "Eines Tages",
+        "Einen Tag",
+        "Am Tages",
+        "Den Tag"
+      ],
+      "answer": "Eines Tages",
+      "hint": "Un moment peu précis se met au génitif ou au datif précédé de « am ».",
+      "explanation": "Le complément de temps indiquant un moment peu précis se met au génitif : « eines Tages » (un jour), « des Morgens » (le matin)."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Grammaire — Complément de temps) Quelle expression traduit correctement « toute la journée » (durée) ?",
       "options": [
         "den ganzen Tag",
         "des ganzen Tages",
         "am ganzen Tag",
-        "der ganze Tag"
+        "in dem ganzen Tag"
       ],
       "answer": "den ganzen Tag",
-      "hint": "La durée précise se met à l'accusatif masculin (der Tag → den ganzen Tag).",
-      "explanation": "den ganzen Tag."
+      "hint": "Un complément de temps indiquant un moment précis ou une durée se met à l'accusatif.",
+      "explanation": "Lorsqu'il indique un moment précis ou une durée, le complément de temps se met à l'accusatif : « den ganzen Tag » (toute la journée), « jeden Sonntag », « nächste Woche »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Vocabulaire) Complétez avec le pluriel irrégulier de « das Museum » employé dans la leçon : « Eines Tages werden die Pässe in die ___ wandern. »",
+      "answer": "Museen",
+      "hint": "La terminaison « -um » est remplacée par « -en » au pluriel.",
+      "explanation": "Selon le vocabulaire de la leçon : « das Museum (plur. die Museen) », le musée (de même : « das Datum, die Daten » et « das Visum, die Visa »)."
     }
   ]
 }

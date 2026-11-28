@@ -1,0 +1,199 @@
+{
+  "id": "70",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Freunde stellen Ihnen die Wohnung zur Verfügung",
+  "titleFr": "Des amis mettent leur appartement à votre disposition",
+  "proverbDe": "Ein Mann, ein Wort.",
+  "proverbFr": "Chose promise, chose due (Un homme d'honneur n'a qu'une parole).",
+  "paragraphs": [
+    {
+      "de": "— Hören Sie mal, liebe Freunde! Während der Urlaubszeit steht unsere Wohnung leer. Wir schlagen Ihnen vor, wenn Ihnen das recht ist, sie zu benützen. — Wir möchten Ihnen aber keine Umstände machen. — Unter uns kann man doch nicht von Umständen sprechen! Sie wissen, wie die Wohnung aussieht. Sie ist nicht luxuriös, aber doch bequem und angenehm.",
+      "fr": "— Écoutez, chers amis, pendant les vacances (m. à m. : la période des vacances) notre appartement est vide. Nous vous proposons — si cela vous convient — de vous y installer (m. à m. : de l'utiliser). — Mais nous ne voudrions pas vous déranger. — Mais on ne peut parler de dérangement entre nous. Vous savez comment est (m. à m. : paraît) l'appartement. Il n'est pas luxueux, mais cependant, commode et agréable."
+    },
+    {
+      "de": "— Hier sind die Schlüssel. Der kleinere ist für die Haustür, der größere für die Wohnungstür. Sie ist ein wenig schwer zu öffnen. Im Flur werden wir einen Wandschrank frei lassen, mit einigen Kleiderbügeln. Sie können Ihre Sachen in die Schubladen einräumen. Wird Ihnen das wohl ausreichen? — Gewiß. Wenn wir verreisen, nehmen wir immer nur das Nötigste mit.",
+      "fr": "— Voici les clés. La plus petite ouvre la porte sur la rue; la plus grande est pour la porte d'entrée. Elle est un peu dure à ouvrir. Nous laisserons dans le vestibule un placard libre avec quelques cintres. Vous pourrez ranger vos affaires dans les tiroirs. Est-ce que cela vous suffira? — Certainement. Quand nous partons en voyage, nous n'emportons toujours que le strict nécessaire."
+    },
+    {
+      "de": "— Selbstverständlich verfügen Sie ganz nach Belieben über die Küche. Ich empfehle Ihnen, den Gashahn gut zuzudrehen. — Im Badezimmer finden Sie eine Steckdose über dem Waschtisch. Wir haben zweihundertzwanzig Volt.",
+      "fr": "— Naturellement, vous disposerez comme vous l'entendez de la cuisine. Je vous recommande de bien fermer le robinet à gaz. — Dans la salle de bain, vous trouverez une prise de courant au-dessus du lavabo. Nous avons du 220 volts."
+    },
+    {
+      "de": "— Könnten Sie mir sagen, wo die Decken, die Bettücher und die Handtücher aufgeräumt sind? — Ich bitte Sie : genieren Sie sich nicht! Benutzen Sie alles, was Sie brauchen. Tun Sie, als ob Sie zu Hause wären.",
+      "fr": "— Pourriez-vous me dire où sont rangés les couvertures, les draps et les serviettes de toilette? — Je vous en prie : ne vous gênez pas! Servez-vous de tout ce qu'il vous faut. Faites comme chez vous (m. à m. : comme si vous étiez à la maison)."
+    }
+  ],
+  "pronunciation": "Points d'attention de cette leçon : « genieren » (emprunté au français) se prononce avec un « g » doux [ʒ] et l'accent tonique sur « -nie- » [ʒeˈniːrən] ; « luxuriös » porte l'accent sur la syllabe finale « -ös ». Dans les mots composés comme « Urlaubszeit », « Kleiderbügel », « Gashahn », « Steckdose » et « Waschtisch », l'accent principal tombe toujours sur le premier élément. Enfin, dans « zuzudrehen », le premier « zu- » (particule séparable) est accentué, tandis que le préfixe inséparable « ver- » de « verfügen » et « verreisen » reste atone.",
+  "vocab": [
+    {
+      "de": "der Kleiderbügel (-)",
+      "fr": "le cintre",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schlüssel (-)",
+      "fr": "la clé",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Decke (n)",
+      "fr": "la couverture, le plafond",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Sache (n)",
+      "fr": "la chose",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Schublade (n)",
+      "fr": "le tiroir",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Steckdose (n)",
+      "fr": "la prise de courant",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Bettuch (¨-er)",
+      "fr": "le drap",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Handtuch (¨-er)",
+      "fr": "la serviette de toilette",
+      "info": "Neutre"
+    },
+    {
+      "de": "(sich) genieren",
+      "fr": "(se) gêner",
+      "info": "Verbe réfléchi"
+    },
+    {
+      "de": "zudrehen",
+      "fr": "fermer (en tournant)",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "aussehen (a, e; ie)",
+      "fr": "avoir l'air de",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "schließen (o, o)",
+      "fr": "fermer",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Tun Sie, als ob...",
+      "body": "<em>Faites, comme si...</em><br><strong>Tun</strong>, faire, verbe irrégulier, devient au prétérit <em>er tat</em> (il faisait, il fit), au participe passé <em>getan</em> (fait). Ce verbe n'entre dans aucune des séries étudiées dans les leçons précédentes. Il en est de même des verbes suivants :<br>• <strong>*gehen</strong> — <em>ging</em> — <em>gegangen</em> : aller<br>• <strong>hauen</strong> — <em>hieb</em> — <em>gehauen</em> : frapper ; couper<br>• <strong>heißen</strong> — <em>hieß</em> — <em>geheißen</em> : s'appeler ; dire de<br>• <strong>*kommen</strong> — <em>kam</em> — <em>gekommen</em> : venir<br>• <strong>rufen</strong> — <em>rief</em> — <em>gerufen</em> : appeler ; s'écrier<br>• <strong>stehen</strong> — <em>stand</em> — <em>gestanden</em> : être debout<br>• <strong>stoßen</strong> — <em>stieß</em> — <em>gestoßen</em> : heurter, pousser"
+    },
+    {
+      "title": "... als ob Sie zu Hause wären.",
+      "body": "<em>... comme si vous étiez chez vous.</em><br>• <strong>Als ob</strong>, <strong>als wenn</strong>, <em>comme si</em>, sont suivis du subjonctif et entraînent le rejet du verbe. Ex. :<br><em>Er tut, als ob (als wenn) er keine Zeit hätte</em>, il fait comme s'il n'avait pas le temps.<br>• <strong>Ob</strong> et <strong>wenn</strong> peuvent être supprimés. On fait alors l'inversion après <strong>als</strong>. Ex. :<br><em>Er tut, als hätte er keine Zeit</em>, il fait comme s'il n'avait pas le temps."
+    },
+    {
+      "title": "Genieren Sie sich nicht!",
+      "body": "• <strong>Sich</strong>, pronom réfléchi de la 3e personne singulier et pluriel (leçons 13 et 14), désigne la même personne que le sujet. Ex. :<br><em>Sie kaufen sich Souvenirs</em>, ils s'achètent des souvenirs (à eux-mêmes).<br>• Quand l'action est réciproque, il faut employer le pronom <strong>einander</strong>, <em>l'un l'autre</em>, qui est invariable. Ex. :<br><em>Sie kaufen einander Souvenirs</em>, ils s'achètent des souvenirs (les uns aux autres).<br><em>Sie genieren einander</em>, ils se gênent (mutuellement).<br>Formes composées : <strong>miteinander</strong>, l'un avec l'autre ; <strong>gegeneinander</strong>, l'un contre l'autre, etc."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Mettez au prétérit (Exercice A.4) : « Sie stößt den Tisch an die Wand. » → « Sie ___ den Tisch an die Wand. »",
+      "answer": "stieß",
+      "hint": "« stoßen » est un verbe fort hors série dont le prétérit prend le radical « stieß ».",
+      "explanation": "Corrigé A.4 : Elle pousse la table contre le mur. a) « Sie stieß den Tisch an die Wand. » b) « Sie hatte den Tisch an die Wand gestoßen. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au plus-que-parfait (Exercice A.5) : « Sie heißt ihre Tochter essen. »",
+      "options": [
+        "Sie hatte ihre Tochter essen heißen.",
+        "Sie war ihre Tochter essen geheißen.",
+        "Sie hatte ihre Tochter zu essen hieß.",
+        "Sie hieß ihre Tochter gegessen."
+      ],
+      "answer": "Sie hatte ihre Tochter essen heißen.",
+      "hint": "Au plus-que-parfait avec un autre infinitif, « heißen » s'emploie avec l'auxiliaire « hatte » et admet le double infinitif (ou « essen geheißen »).",
+      "explanation": "Corrigé A.5 : Elle dit à sa fille de manger. a) « Sie hieß ihre Tochter essen. » b) « Sie hatte ihre Tochter essen heißen » (double infinitif, facultatif avec heißen) ou : « Sie hatte ihre Tochter essen geheißen. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez le verbe entre parenthèses au subjonctif II (Exercice B.6) : « Er tut, als ob er fest ___ (schlafen). »",
+      "answer": "schliefe",
+      "hint": "Après « als ob », on emploie le subjonctif II formé sur le prétérit « schlief » + « -e ».",
+      "explanation": "Corrigé B.6 : « schliefe. » a) Il fait comme s'il dormait profondément. b) Sans « ob » : « Er tut, als schliefe er fest. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Supprimez « wenn » et faites l'inversion après « als » (Exercice B.7) : « Es scheint, als wenn der Baum umfiele. »",
+      "words": [
+        "Es",
+        "scheint,",
+        "als",
+        "fiele",
+        "der",
+        "Baum",
+        "um."
+      ],
+      "answer": "Es scheint, als fiele der Baum um.",
+      "hint": "Quand on supprime « wenn », le verbe conjugué « fiele » suit immédiatement « als », et la particule séparable « um » reste à la fin.",
+      "explanation": "Corrigé B.7 : « umfiele. » a) On dirait que l'arbre va tomber (m. à m. : il semble). b) « Es scheint, als fiele der Baum um. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Supprimez « wenn » dans la phrase (Exercice B.9) : « Sie geht vorbei, als wenn sie uns nicht sähe. »",
+      "options": [
+        "Sie geht vorbei, als sähe sie uns nicht.",
+        "Sie geht vorbei, als sie uns nicht sähe.",
+        "Sie geht vorbei, als sieht sie uns nicht.",
+        "Sie geht vorbei, als uns sähe sie nicht."
+      ],
+      "answer": "Sie geht vorbei, als sähe sie uns nicht.",
+      "hint": "Lorsque « wenn » est supprimé, on garde le subjonctif II (« sähe ») et on fait l'inversion verbe-sujet juste après « als ».",
+      "explanation": "Corrigé B.9 : « sähe. » Sans « wenn », le verbe conjugué vient directement après « als » : « Sie geht vorbei, als sähe sie uns nicht. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez (Exercice C.10) : « Tous les voyageurs se parlaient (les uns avec les autres). » → « Alle Reisenden sprachen ___. »",
+      "answer": "miteinander",
+      "hint": "Utilisez la forme composée du pronom réciproque « einander » avec la préposition « mit ».",
+      "explanation": "Corrigé C.10 : « Alle Reisenden sprachen miteinander. » (« miteinander » = l'un avec l'autre / les uns avec les autres.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez (Exercice C.11) : « Ils s'entraidaient, comme s'ils étaient de vieux amis. »",
+      "words": [
+        "Sie",
+        "halfen",
+        "einander,",
+        "als",
+        "wären",
+        "sie",
+        "alte",
+        "Freunde."
+      ],
+      "answer": "Sie halfen einander, als wären sie alte Freunde.",
+      "hint": "Pour l'action réciproque, employez « einander », suivi de « als wären sie... » (inversion après « als » sans « ob »).",
+      "explanation": "Corrigé C.11 : « Sie halfen einander, als wären sie alte Freunde. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez (Exercice C.14) : « Dans le tiroir, les serviettes et les draps sont posés les uns sur les autres. »",
+      "options": [
+        "In der Schublade liegen die Handtücher und die Bettücher aufeinander.",
+        "In der Schublade liegen die Handtücher und die Bettücher nebeneinander.",
+        "In der Schublade liegen die Handtücher und die Bettücher miteinander.",
+        "In der Schublade liegen die Handtücher und die Bettücher gegeneinander."
+      ],
+      "answer": "In der Schublade liegen die Handtücher und die Bettücher aufeinander.",
+      "hint": "« Les uns sur les autres » se rend par le composé de « auf » + « einander ».",
+      "explanation": "Corrigé C.14 : « In der Schublade liegen die Handtücher und die Bettücher aufeinander. » (« nebeneinander » = les uns à côté des autres, « gegeneinander » = les uns contre les autres)."
+    }
+  ]
+}

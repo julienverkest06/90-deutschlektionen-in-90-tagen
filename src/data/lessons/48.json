@@ -2,80 +2,225 @@
   "id": "48",
   "series": 2,
   "authentic": true,
-  "titleDe": "Am Telefon (welcher & was für ein)",
-  "titleFr": "Au téléphone : interrogatifs welcher et was für ein",
-  "proverbDe": "Auf Wiedersehen, gnädige Frau.",
-  "proverbFr": "Au revoir, chère Madame.",
+  "titleDe": "Der Fernsprecher",
+  "titleFr": "Le téléphone",
+  "proverbDe": "Zuviel Sprechen ist vom Übel.",
+  "proverbFr": "Trop parler nuit (mot à mot : est (de) mal).",
   "paragraphs": [
     {
-      "de": "— Hier Kurt Bresch. Welches ist Ihre Nummer? — Bitte Nummer drei-zwoundzwanzig (3.22). — Was für einen Apparat haben Sie?",
-      "fr": "— Ici Kurt Bresch. Quel est votre numéro ? — Le numéro 3.22 s'il vous plaît. — Quelle sorte d'appareil avez-vous ?"
+      "de": "— Fräulein, bitte, Nummer 39 59 (neununddreißig neunundfünfzig) in Göppingen. — Bitte, bleiben Sie am Apparat. — Unterbrechen Sie nicht! (oder : Nicht trennen!) — Fräulein, kann ich nach Berlin durchwählen? — Ja; wählen Sie selbst Ihre Nummer auf der Wählscheibe. — Die Leitung ist besetzt; hängen Sie bitte ein; ich werde zurückrufen. — Fräulein, es liegt ein Irrtum vor; ich hatte die Nummer 76 53 verlangt, und Sie haben mir 76 52 gegeben.",
+      "fr": "— Mademoiselle, voulez-vous me donner, s'il vous plaît, le numéro 39 59 à Göppingen. — Ne quittez pas (m. à m. : restez à l'appareil). — Ne coupez pas. — Mademoiselle, les communications téléphoniques pour Berlin sont-elles automatiques? (m. à m. : puis-je choisir directement?) — Oui; composez vous-même votre numéro sur le disque. La ligne est occupée; raccrochez! Je vous rappellerai. — Mademoiselle, il y a une erreur. Je vous avais demandé le 76 53, et vous m'avez donné 76 52."
     },
     {
-      "de": "Vielen Dank, gnädige Frau. Besten Dank, Frau Müller!",
-      "fr": "Merci beaucoup, Madame. Merci bien, Madame Müller !"
+      "de": "— Fräulein, wie lange müßte ich wohl warten für ein Telefongespräch nach Belgrad? — Bitte, geben Sie mir eine R-Verbindung mit Ulm, 22 43 (zwoundzwanzig dreiundvierzig).",
+      "fr": "— Mademoiselle, combien d'attente y a-t-il pour une communication pour Belgrade? — Mademoiselle, veuillez me donner une communication P. C. V. avec Ulm, 22 43."
+    },
+    {
+      "de": "Hier ist die Auskunftsstelle. Sprechen Sie, bitte. — Ich möchte Herrn Gustav Becher in Stuttgart anrufen. Es ist ein neuer Teilnehmer, der noch nicht im Telefonbuch (= im Teilnehmerverzeichnis) steht.",
+      "fr": "(Ici le) Service de renseignements. Parlez, s'il vous plaît. — Je voudrais téléphoner à Monsieur Gustave Becher, à Stuttgart. C'est un nouvel abonné qui n'est pas encore sur l'annuaire."
+    },
+    {
+      "de": "— Hallo! Wer ist am Apparat? — Hier ist Kurt Bresch. Guten Tag, Frau Müller. Könnte ich Ihren Mann sprechen? — Er ist leider nicht zu Hause. Soll ich ihm etwas ausrichten? — Nein, ich möchte persönlich mit ihm sprechen. Um wieviel Uhr wird er wohl zurückkommen? — Gewöhnlich kommt er gegen sechs Uhr abends nach Hause. — Besten Dank. Auf Wiedersehen, gnädige Frau.",
+      "fr": "— Allo! C'est de la part de qui? (m. à m. : qui est à l'appareil?) — Ici, Kurt Bresch. Bonjour, Madame Müller. Pourrais-je parler à votre mari? — Je regrette, il n'est pas à la maison. Dois-je lui transmettre quelque chose? — Non, je désirerais lui parler personnellement. A quelle heure pensez-vous qu'il reviendra? — Il rentre d'ordinaire vers six heures du soir. — Merci bien. Au revoir, Madame."
     }
   ],
-  "pronunciation": "Au téléphone en Allemagne, on annonce son propre nom en décrochant (« Hier Kurt Bresch ») et on prononce « zwo » à la place de « zwei » pour éviter toute confusion avec « drei ».",
+  "pronunciation": "Au téléphone, on prononce « zwo » à la place de « zwei » (par exemple : zwoundzwanzig, 22 ; zwoundsiebzig, 72) pour éviter la confusion avec « drei ». Les verbes à particule séparable portent l'accent tonique sur le préfixe : ánrufen, áusrichten, éinhängen, dúrchwählen, vórliegen, zurückrufen (sur « -rück- »), tandis que le verbe inséparable « unterbréchen » s'accentue sur le radical. Dans les composés, l'accent principal tombe sur le premier élément : Férnsprecher, Wählscheibe, Áuskunftsstelle, Téilnehmerverzeichnis. Dans « gnädige », le « g » initial se prononce distinctement devant le « n » (« gnè-di-gue »), et « Apparat » porte l'accent sur la dernière syllabe.",
   "vocab": [
     {
-      "de": "einhängen / zurückrufen",
-      "fr": "raccrocher / rappeler",
-      "info": "Verbes séparables"
-    },
-    {
-      "de": "unterbrechen (a, o, i)",
-      "fr": "interrompre, couper",
-      "info": "Verbe inséparable"
-    },
-    {
-      "de": "der Teilnehmer (-)",
-      "fr": "l'abonné, le participant",
+      "de": "der Apparat (-e)",
+      "fr": "l'appareil",
       "info": "Masculin"
     },
     {
-      "de": "das Telephonbuch",
-      "fr": "l'annuaire téléphonique",
+      "de": "der Irrtum (¨-er)",
+      "fr": "l'erreur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Teilnehmer (-)",
+      "fr": "le participant (ici, abréviation de Fernsprechteilnehmer)",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Fernsprechteilnehmer (-)",
+      "fr": "l'abonné au téléphone",
+      "info": "Masculin"
+    },
+    {
+      "de": "das Ferngespräch (-e)",
+      "fr": "la communication interurbaine",
       "info": "Neutre"
     },
     {
-      "de": "zwo",
-      "fr": "deux (au téléphone)",
-      "info": "Évite la confusion avec drei"
+      "de": "das Fernamt (¨-er)",
+      "fr": "l'interurbain",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Verzeichnis (se)",
+      "fr": "la liste",
+      "info": "Neutre"
+    },
+    {
+      "de": "anrufen",
+      "fr": "appeler (au téléphone)",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "ausrichten",
+      "fr": "transmettre",
+      "info": "Verbe faible séparable"
+    },
+    {
+      "de": "besetzen",
+      "fr": "occuper",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "die Leitung (-en)",
+      "fr": "la ligne, la direction",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Verbindung (-en)",
+      "fr": "la communication",
+      "info": "Féminin"
+    },
+    {
+      "de": "einhängen",
+      "fr": "raccrocher",
+      "info": "Verbe faible séparable"
+    },
+    {
+      "de": "zurückrufen",
+      "fr": "rappeler",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "unterbrechen (a, o; i)",
+      "fr": "interrompre",
+      "info": "Verbe fort inséparable"
+    },
+    {
+      "de": "vorliegen (a, e)",
+      "fr": "exister",
+      "info": "Verbe fort séparable"
     }
   ],
   "grammar": [
     {
-      "title": "welcher (quel, lequel) vs was für ein (quelle sorte de)",
-      "body": "• <strong>welcher, welche, welches</strong> interroge sur une personne ou chose définie (se décline comme <em>der, die, das</em>).<br>• <strong>was für ein</strong> interroge sur la qualité ou l'espèce : seul <em>ein</em> se décline selon sa fonction (au pluriel : <em>was für Bücher?</em>)."
+      "title": "Welches ist Ihre Nummer? Was für einen Apparat haben Sie?",
+      "body": "Quel est votre numéro? Quel (= quelle sorte d')appareil avez-vous?.<br>On emploie <em>welcher</em>, quel? lequel? quand la question porte sur une personne ou une chose définie; on répond à cette question par un article défini. Cet interrogatif se décline sur <em>der, die, das</em>.<br>Avec <em>was für ein</em>, quelle sorte de, la question porte d'une façon générale sur une personne ou une chose; on y répond par un article indéfini. Seul <em>ein</em> se décline, dans ce groupe.<br><br><em>Welches Gespräch dauerte am längsten, das Ortsgespräch oder das Ferngespräch? – das Ortsgespräch</em>, quelle communication a duré le plus longtemps, l'urbaine ou l'interurbaine? – C'est la communication urbaine.<br><em>Was für ein Gespräch hatten Sie? – Ein Ortsgespräch</em>, quelle (sorte de) communication aviez-vous? – Une communication urbaine.<br><em>Mit was für einem Wagen fuhr er? – Mit einem Volkswagen</em> (<em>mit</em> + datif), dans quelle (genre de) voiture a-t-il roulé? – Dans une Volkswagen."
+    },
+    {
+      "title": "Nummer zwoundsiebzig (72)",
+      "body": "Au téléphone, il est d'usage de prononcer <em>zwo</em> à la place de <em>zwei</em>, pour éviter la confusion avec <em>drei</em>."
+    },
+    {
+      "title": "Hier Kurt Bresch.",
+      "body": "On a l'habitude en Allemagne d'annoncer son nom au téléphone. Notre formule « j'écoute » est donc inusitée."
+    },
+    {
+      "title": "Orthographe de Telefon, Foto",
+      "body": "Les mots <em>Telefon, Foto</em> peuvent encore s'écrire avec « ph » : <em>Telephon, Photo</em>."
+    },
+    {
+      "title": "Auf Wiedersehen, gnädige Frau.",
+      "body": "<em>Frau</em>, dame, doit être suivi du nom de famille ou d'un titre :<br><em>Besten Dank, Frau Müller</em>, merci bien, madame (Müller).<br>On peut également le faire précéder de <em>gnädig</em> (m. à m. : gracieux), sans ajouter le nom :<br><em>Vielen Dank, gnädige Frau</em>, merci beaucoup, madame (style soutenu)."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Posez la question sur le mot entre parenthèses (Exercice A.2) : « Er trug einen (blauen) Mantel. »",
+      "prompt": "Posez une question portant sur les mots entre parenthèses : « Er hat den (letzten) Brief noch nicht bekommen. » (Exercice A.1)",
       "options": [
-        "Was für einen Mantel trug er?",
-        "Welchen Mantel trug er?",
-        "Was für ein Mantel trug er?",
-        "Welcher Mantel trug er?"
+        "Welchen Brief hat er noch nicht bekommen?",
+        "Welcher Brief hat er noch nicht bekommen?",
+        "Was für ein Brief hat er noch nicht bekommen?",
+        "Welches Brief hat er noch nicht bekommen?"
       ],
-      "answer": "Was für einen Mantel trug er?",
-      "hint": "« blauen » indique la qualité/sorte → was für ein + accusatif masculin (einen).",
-      "explanation": "Was für einen Mantel trug er?"
+      "answer": "Welchen Brief hat er noch nicht bekommen?",
+      "hint": "La question porte sur un objet défini (« den letzten Brief ») à l'accusatif masculin.",
+      "explanation": "Corrigé A.1 : « Welchen Brief hat er noch nicht bekommen? » On emploie l'interrogatif « welcher » (décliné sur der/die/das, donc « welchen » à l'accusatif masculin) lorsque la réponse comporte un article défini."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la question portant sur « einen (blauen) Mantel » dans « Er trug einen (blauen) Mantel. » : « ___ Mantel trug er? » (Exercice A.2)",
+      "answer": "Was für einen",
+      "hint": "La réponse comporte un article indéfini (« einen blauen Mantel ») à l'accusatif masculin.",
+      "explanation": "Corrigé A.2 : « Was für einen Mantel trug er? » Avec « was für ein », seul « ein » se décline (ici accusatif masculin : « einen »)."
+    },
+    {
+      "type": "order",
+      "prompt": "Remettez en ordre la question portant sur « mit einem (sehr freundlichen) Herrn » dans « Er kam mit einem (sehr freundlichen) Herrn. » (Exercice A.3)",
+      "words": [
+        "Mit",
+        "was",
+        "für",
+        "einem",
+        "Herrn",
+        "ist",
+        "er",
+        "gekommen?"
+      ],
+      "answer": "Mit was für einem Herrn ist er gekommen?",
+      "hint": "La préposition « mit » régit le datif : « Mit was für einem... ».",
+      "explanation": "Corrigé A.3 : « Mit was für einem Herrn ist er gekommen? » Après « mit » (+ datif), « ein » prend la terminaison du datif masculin « einem »."
     },
     {
       "type": "choice",
-      "prompt": "Au pluriel, comment dit-on « Quelle sorte de livres apporta-t-il ? » (Exercice A.4)",
+      "prompt": "Posez la question portant sur « (interessante) Bücher » dans « Er brachte uns (interessante) Bücher mit. » (Exercice A.4)",
       "options": [
         "Was für Bücher brachte er uns mit?",
         "Was für eine Bücher brachte er uns mit?",
-        "Was für ein Bücher brachte er uns mit?",
-        "Welche für Bücher brachte er uns mit?"
+        "Was für einen Bücher brachte er uns mit?",
+        "Welche ein Bücher brachte er uns mit?"
       ],
       "answer": "Was für Bücher brachte er uns mit?",
-      "hint": "Au pluriel, l'article indéfini « ein » disparaît après « was für ».",
-      "explanation": "Was für Bücher brachte er uns mit?"
+      "hint": "Attention : l'article indéfini « ein » n'a pas de pluriel en allemand !",
+      "explanation": "Corrigé A.4 : « Was für Bücher brachte er uns mit? » Comme le rappelle le corrigé, « ein » disparaît au pluriel dans le groupe « was für ein »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la traduction de « Nous n'avons pas parlé longtemps; on nous a coupé. » : « Wir haben nicht lange gesprochen; man hat uns ___. » (Exercice B.6)",
+      "answer": "unterbrochen",
+      "hint": "Participe passé du verbe fort inséparable « unterbrechen (a, o; i) ».",
+      "explanation": "Corrigé B.6 : « Wir haben nicht lange gesprochen; man hat uns unterbrochen. » Le préfixe « unter- » étant ici inséparable, le participe passé ne prend pas « ge- »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez : « Si j'avais l'annuaire, je ne vous demanderais pas le numéro de cet abonné (fragen + nach). » (Exercice B.8)",
+      "options": [
+        "Wenn ich das Telephonbuch hätte, würde ich Sie nicht nach der Nummer dieses Teilnehmers fragen.",
+        "Wenn ich das Telephonbuch habe, würde ich Sie nicht nach die Nummer dieses Teilnehmers fragen.",
+        "Wenn ich das Telephonbuch hätte, werde ich Sie nicht für die Nummer diesem Teilnehmer fragen.",
+        "Wenn ich das Telephonbuch hätte, würde ich Ihnen nicht nach der Nummer dieses Teilnehmers fragen."
+      ],
+      "answer": "Wenn ich das Telephonbuch hätte, würde ich Sie nicht nach der Nummer dieses Teilnehmers fragen.",
+      "hint": "Subjonctif II (« hätte » / « würde ... fragen »), « fragen » + accusatif (« Sie ») + « nach » + datif (« der Nummer »).",
+      "explanation": "Corrigé B.8 : « Wenn ich das Telephonbuch hätte, würde ich Sie nicht nach der Nummer dieses Teilnehmers fragen. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez « Croyez-vous qu'il y avait une erreur? » en remettant les mots dans l'ordre. (Exercice B.9)",
+      "words": [
+        "Glauben",
+        "Sie,",
+        "daß",
+        "ein",
+        "Irrtum",
+        "vorlag?"
+      ],
+      "answer": "Glauben Sie, daß ein Irrtum vorlag?",
+      "hint": "Dans une subordonnée introduite par « daß », le verbe séparable « vorliegen » reste soudé et se place à la fin.",
+      "explanation": "Corrigé B.9 : « Glauben Sie, daß ein Irrtum vorlag? » Au prétérit en proposition subordonnée, « vorliegen » devient « vorlag » en position finale."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la traduction de « Elle ne m'a rien transmis; elle l'a sûrement oublié. » : « Sie hat mir nichts ___; sie hat es sicher vergessen. » (Exercice B.10)",
+      "answer": "ausgerichtet",
+      "hint": "Participe passé du verbe faible séparable « ausrichten » (transmettre).",
+      "explanation": "Corrigé B.10 : « Sie hat mir nichts ausgerichtet; sie hat es sicher vergessen. » Le verbe séparable « ausrichten » forme son participe passé en insérant « -ge- » : « ausgerichtet »."
     }
   ]
 }

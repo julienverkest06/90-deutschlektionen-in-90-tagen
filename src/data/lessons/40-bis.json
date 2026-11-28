@@ -4,20 +4,28 @@
   "authentic": true,
   "isReview": true,
   "titleDe": "Contrôle et révisions (Leçons 31 à 40)",
-  "titleFr": "Pronoms relatifs, passif et suppression de daß/wenn",
-  "proverbDe": "Steter Tropfen höhlt den Stein.",
-  "proverbFr": "Goutte à goutte, l'eau creuse la pierre.",
+  "titleFr": "Pronom relatif, suppression de wenn/daß et voix passive",
+  "proverbDe": "Wiederholung ist die Mutter der Weisheit.",
+  "proverbFr": "La répétition est la mère de la sagesse.",
   "paragraphs": [
     {
-      "de": "Die Kreuzfahrt, die ich diesen Sommer machte, dauerte zwei Wochen. Der Fleischer, dessen Geschäft geschlossen ist, ist nach Chicago abgefahren.",
-      "fr": "La croisière que j'ai faite cet été a duré deux semaines. Le boucher dont le magasin est fermé est parti pour Chicago."
+      "de": "Blumen und Geschäfte — Die Bedeutung der Blumenzucht hat seit dem zweiten Weltkrieg immer mehr zugenommen. Der Konsum hat andere Schichten der Gesellschaft erreicht. Blumen werden nicht mehr nur bei besonderen Anlässen gekauft. So ist die romantische Handwerkstätigkeit in eine authentische Industrie übergegangen. Italien, der größte Blumenexporteur Europas vor Holland, Frankreich und der Bundesrepublik Deutschland, hat seine Anpflanzungsfläche für Blumen etwa verdreifacht. Aus der Wochenzeitung « Die Weltwoche », Zürich.",
+      "fr": "Les fleurs et les affaires — L'importance de la culture des fleurs n'a cessé d'augmenter depuis la deuxième guerre mondiale. La consommation a atteint d'autres couches de la société. Ce n'est plus seulement pour des occasions particulières que l'on achète des fleurs. Aussi, la profession romantique à caractère artisanal s'est-elle transformée en une véritable industrie. L'Italie, le plus grand exportateur de fleurs, avant la Hollande, la France et la République Fédérale d'Allemagne, a triplé à peu près la superficie consacrée à la floriculture. Extrait de l'hebdomadaire « Die Weltwoche » (= La Semaine dans le Monde), Zurich."
     },
     {
-      "de": "Die Zeitung veranstaltet eine Umfrage. → Eine Umfrage wird von der Zeitung veranstaltet.",
-      "fr": "Le journal organise une enquête. → Une enquête est organisée par le journal."
+      "de": "Die Kreuzfahrt, die ich diesen Sommer machte, dauerte zwei Wochen. Der Tip, den du mir gabst, war mir sehr nützlich. Der Arzt, dem er den Brief sandte, wohnt in Sydney. Der Fleischer, dessen Geschäft geschlossen ist, ist nach Chicago abgefahren. Die Touristen, denen man die Schlachthöfe zeigte, waren meistens Fleischer.",
+      "fr": "La croisière que j'ai faite cet été, a duré deux semaines. Le conseil (m. à m. tuyau) que tu m'as donné, m'a été très utile. Le médecin, à qui il a envoyé la lettre, habite Sydney. Le boucher dont le magasin est fermé, est parti pour Chicago. Les touristes auxquels on a montré les abattoirs, étaient pour la plupart des bouchers."
+    },
+    {
+      "de": "Ich sage dem Zöllner, ich habe nichts zu verzollen. Geben wir alles präzise an, so zahlen wir oft keine Zollgebühr. Findet der Zöllner drei Flaschen Kognak, so zahlen Sie einen Zuschlag. Sie erklären, sie haben den Apparat nicht in Deutschland gekauft.",
+      "fr": "Je dis au douanier que je n'ai rien à déclarer. Si nous indiquons tout avec précision, souvent nous ne payons pas de droits. Si le douanier trouve 3 bouteilles de cognac, vous paierez un supplément. Ils affirment qu'ils n'ont pas acheté cet appareil en Allemagne."
+    },
+    {
+      "de": "Eine Umfrage wird von der Zeitung veranstaltet. Zehn Hotels wurden vom Reporter besucht. Viele Gäste sind von ihm ausgefragt worden.",
+      "fr": "Une enquête est organisée par le journal. Dix hôtels furent visités par le reporter. Beaucoup de clients ont été questionnés par lui."
     }
   ],
-  "pronunciation": "Après « daß » supprimé, le verbe conjugué reprend sa 2e place normale : Ich sage dem Zöllner, ich habe nichts zu verzollen.",
+  "pronunciation": "Veillez à l'accent tonique sur le premier élément des noms composés : die Kreuzfahrt (croisière), der Schlachthof (abattoir), die Zollgebühr (droit de douane), die Blumenzucht (floriculture), die Handwerkstätigkeit (activité artisanale) et die Anpflanzungsfläche (superficie de plantation). Dans Blumenexporteur, l'élément final d'origine française -eur porte un accent secondaire prononcé [öːr] ; dans verdreifacht, le préfixe inséparable ver- reste inaccentué.",
   "vocab": [
     {
       "de": "die Kreuzfahrt (-en)",
@@ -25,8 +33,28 @@
       "info": "Féminin"
     },
     {
-      "de": "der Fleischer (-)",
-      "fr": "le boucher",
+      "de": "der Tip (-s)",
+      "fr": "le conseil, le tuyau",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schlachthof (¨-e)",
+      "fr": "l'abattoir",
+      "info": "Masculin"
+    },
+    {
+      "de": "verzollen",
+      "fr": "déclarer en douane",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "die Zollgebühr (-en)",
+      "fr": "le droit de douane",
+      "info": "Féminin"
+    },
+    {
+      "de": "der Zuschlag (¨-e)",
+      "fr": "le supplément",
       "info": "Masculin"
     },
     {
@@ -35,43 +63,133 @@
       "info": "Féminin"
     },
     {
-      "de": "dessen / deren",
-      "fr": "dont (pronom relatif génitif)",
-      "info": "Suivi du nom sans article"
+      "de": "ausfragen",
+      "fr": "questionner, interroger",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "die Blumenzucht",
+      "fr": "la culture des fleurs, la floriculture",
+      "info": "Féminin"
+    },
+    {
+      "de": "verdreifachen",
+      "fr": "tripler",
+      "info": "Verbe faible"
     }
   ],
   "grammar": [
     {
-      "title": "Révision : Le Passif (werden + Participe passé)",
-      "body": "Présent passif : <em>wird ... veranstaltet</em>.<br>Prétérit passif : <em>wurde ... besucht</em>.<br>Passé composé passif : <em>ist ... ausgefragt worden</em> (notez <strong>worden</strong> sans <em>ge-</em>)."
+      "title": "Exercice A — Le pronom relatif (L. 32,4 et Mémento n° 37)",
+      "body": "Le pronom relatif (<strong>der, die, das</strong>) prend le <strong>genre</strong> et le <strong>nombre</strong> de son antécédent, mais son <strong>cas</strong> dépend de sa fonction dans la proposition relative (toujours encadrée par des virgules, avec le verbe conjugué à la fin).<br><br>• Accusatif féminin / masculin : <em>Die Kreuzfahrt, <strong>die</strong> ich diesen Sommer machte...</em> / <em>Der Tip, <strong>den</strong> du mir gabst...</em><br>• Datif singulier / pluriel : <em>Der Arzt, <strong>dem</strong> er den Brief sandte...</em> / <em>Die Touristen, <strong>denen</strong> man die Schlachthöfe zeigte...</em> (forme spéciale <strong>denen</strong> au datif pluriel).<br>• Génitif (« dont ») : <em>Der Fleischer, <strong>dessen</strong> Geschäft geschlossen ist...</em> (<strong>dessen</strong> au masculin/neutre singulier, <strong>deren</strong> au féminin singulier et au pluriel ; le nom qui suit ne prend pas d'article)."
+    },
+    {
+      "title": "Exercice B — Suppression de daß et de wenn (L. 34,4 et Mémento n° 66 et 67)",
+      "body": "<strong>1. Suppression de <em>daß</em> :</strong> lorsqu'on supprime la conjonction <em>daß</em> après un verbe de déclaration ou d'opinion, la subordonnée retrouve l'<strong>ordre normal</strong> d'une proposition principale (sujet + verbe en 2e position).<br><em>Ich sage dem Zöllner, <strong>daß</strong> ich nichts zu verzollen habe</em> → <em>Ich sage dem Zöllner, <strong>ich habe</strong> nichts zu verzollen.</em><br><em>Sie erklären, <strong>sie haben</strong> den Apparat nicht in Deutschland gekauft.</em><br><br><strong>2. Suppression de <em>wenn</em> :</strong> lorsqu'on supprime <em>wenn</em> en tête de phrase, le <strong>verbe conjugué passe en 1re position</strong> (inversion) et la principale qui suit commence généralement par <strong>so</strong>.<br><em><strong>Wenn</strong> wir alles präzise angeben, zahlen wir oft keine Zollgebühr</em> → <em><strong>Geben</strong> wir alles präzise an, <strong>so</strong> zahlen wir oft keine Zollgebühr.</em><br><em><strong>Findet</strong> der Zöllner drei Flaschen Kognak, <strong>so</strong> zahlen Sie einen Zuschlag.</em>"
+    },
+    {
+      "title": "Exercice C — La voix passive (L. 36,4 et Mémento n° 49)",
+      "body": "Le passif d'action se forme avec l'auxiliaire <strong>werden</strong> + <strong>participe passé</strong>. Le complément d'agent s'introduit par <strong>von (+ datif)</strong>.<br><br>• <strong>Présent</strong> : <em>werden</em> au présent + participe passé.<br><em>Die Zeitung veranstaltet eine Umfrage</em> → <em>Eine Umfrage <strong>wird</strong> von der Zeitung <strong>veranstaltet</strong>.</em><br>• <strong>Prétérit</strong> : <em>wurden</em> + participe passé.<br><em>Der Reporter besuchte zehn Hotels</em> → <em>Zehn Hotels <strong>wurden</strong> vom Reporter <strong>besucht</strong>.</em><br>• <strong>Passé composé</strong> : <em>sein</em> au présent + participe passé + <strong>worden</strong> (sans <em>ge-</em> !).<br><em>Er hat viele Gäste ausgefragt</em> → <em>Viele Gäste <strong>sind</strong> von ihm <strong>ausgefragt worden</strong>.</em>"
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Pronom relatif (Exercice A.4) : « Der Fleischer, ___ Geschäft geschlossen ist, ist abgefahren. »",
+      "prompt": "(Exercice A.4) Complétez par le pronom relatif convenable : « Der Fleischer, ___ Geschäft geschlossen ist, ist nach Chicago abgefahren. »",
       "options": [
-        "dessen",
-        "deren",
+        "der",
         "dem",
-        "der"
+        "dessen",
+        "deren"
       ],
       "answer": "dessen",
-      "hint": "Antécédent masculin singulier (der Fleischer) au génitif (« dont le magasin ») → dessen.",
-      "explanation": "Der Fleischer, dessen Geschäft geschlossen ist..."
+      "hint": "« Le boucher dont le magasin est fermé » : pronom relatif au génitif masculin singulier.",
+      "explanation": "Corrigé A.4 : « dessen ». Le pronom relatif au génitif masculin singulier est « dessen » (Mémento n° 37) et le nom « Geschäft » qui suit perd son article."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.5) Complétez par le pronom relatif au datif pluriel : « Die Touristen, ___ man die Schlachthöfe zeigte, waren meistens Fleischer. »",
+      "answer": "denen",
+      "hint": "Le verbe zeigen se construit avec le datif (montrer à quelqu'un) et l'antécédent « Die Touristen » est au pluriel.",
+      "explanation": "Corrigé A.5 : « denen ». Au datif pluriel, le pronom relatif prend la forme particulière « denen » (Les touristes auxquels on a montré les abattoirs...)."
     },
     {
       "type": "choice",
-      "prompt": "Mettez au passif (Exercice C.10) : « Die Zeitung veranstaltet eine Umfrage. »",
+      "prompt": "(Exercice A.2) Complétez par le pronom relatif convenable : « Der Tip, ___ du mir gabst, war mir sehr nützlich. »",
       "options": [
-        "Eine Umfrage wird von der Zeitung veranstaltet.",
-        "Eine Umfrage hat von der Zeitung veranstaltet.",
-        "Eine Umfrage ist von der Zeitung veranstalten.",
-        "Eine Umfrage wurde von der Zeitung veranstaltet."
+        "der",
+        "den",
+        "dem",
+        "dessen"
       ],
+      "answer": "den",
+      "hint": "« Der Tip » est masculin et est complément d'objet direct (accusatif) de « gabst ».",
+      "explanation": "Corrigé A.2 : « den ». L'antécédent « der Tip » est masculin singulier et remplit la fonction de COD dans la relative : il faut l'accusatif masculin « den »."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.6) Supprimez « daß » dans la phrase : « Ich sage dem Zöllner, daß ich nichts zu verzollen habe. »",
+      "words": [
+        "Ich",
+        "sage",
+        "dem",
+        "Zöllner,",
+        "ich",
+        "habe",
+        "nichts",
+        "zu",
+        "verzollen."
+      ],
+      "answer": "Ich sage dem Zöllner, ich habe nichts zu verzollen.",
+      "hint": "Sans « daß », le verbe conjugué « habe » quitte la fin et reprend la 2e place après le sujet « ich ».",
+      "explanation": "Corrigé B.6 : « Ich sage dem Zöllner, ich habe nichts zu verzollen. » (Je dis au douanier que je n'ai rien à déclarer.) La suppression de « daß » rétablit l'ordre normal sujet + verbe."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.8) Supprimez « wenn » dans la phrase : « Wenn der Zöllner drei Flaschen Kognak findet, zahlen Sie einen Zuschlag. »",
+      "words": [
+        "Findet",
+        "der",
+        "Zöllner",
+        "drei",
+        "Flaschen",
+        "Kognak,",
+        "so",
+        "zahlen",
+        "Sie",
+        "einen",
+        "Zuschlag."
+      ],
+      "answer": "Findet der Zöllner drei Flaschen Kognak, so zahlen Sie einen Zuschlag.",
+      "hint": "Sans « wenn », placez le verbe « Findet » en tête de phrase et introduisez la principale par « so ».",
+      "explanation": "Corrigé B.8 : « Findet der Zöllner drei Flaschen Kognak, so zahlen Sie einen Zuschlag. » (Si le douanier trouve 3 bouteilles de cognac, vous paierez un supplément.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice C.10) Mettez au passif la phrase : « Die Zeitung veranstaltet eine Umfrage. »",
       "answer": "Eine Umfrage wird von der Zeitung veranstaltet.",
-      "hint": "Présent actif → présent passif avec l'auxiliaire « wird » + participe passé.",
-      "explanation": "Eine Umfrage wird von der Zeitung veranstaltet."
+      "hint": "Passif au présent : « Eine Umfrage » devient sujet, suivi de « wird », de « von der Zeitung » et du participe passé à la fin.",
+      "explanation": "Corrigé C.10 : « Eine Umfrage wird von der Zeitung veranstaltet. » Le complément d'agent est introduit par « von » + datif (« der Zeitung »)."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice C.12) Mettez au passif au passé composé : « Er hat viele Gäste ausgefragt. »",
+      "options": [
+        "Viele Gäste sind von ihm ausgefragt worden.",
+        "Viele Gäste haben von ihm ausgefragt worden.",
+        "Viele Gäste sind von ihm ausgefragt geworden.",
+        "Viele Gäste wurden von ihm ausgefragt worden."
+      ],
+      "answer": "Viele Gäste sind von ihm ausgefragt worden.",
+      "hint": "Le passé composé passif se forme avec « sein » + participe passé + « worden » (sans ge-).",
+      "explanation": "Corrigé C.12 : « Viele Gäste sind von ihm ausgefragt worden. » Au passif, l'auxiliaire du passé composé est toujours « sein » et « werden » devient « worden »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice D — Blumen und Geschäfte) Complétez par le participe passé allemand signifiant « triplé » dans le texte de « Die Weltwoche » : « Italien [...] hat seine Anpflanzungsfläche für Blumen etwa ___. »",
+      "answer": "verdreifacht",
+      "hint": "Dérivé de « drei » (trois) avec le préfixe inséparable « ver- » et « -fach ».",
+      "explanation": "Dans le texte D (« Blumen und Geschäfte »), « verdreifacht » (de « verdreifachen ») traduit « a triplé » : les verbes à préfixe inséparable « ver- » ne prennent pas de « ge- » au participe passé."
     }
   ]
 }

@@ -1,0 +1,126 @@
+{
+  "id": "27",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "An der Tankstelle",
+  "titleFr": "Au poste à essence",
+  "proverbDe": "Wer rastet, der rostet.",
+  "proverbFr": "Qui s'arrête, se rouille.",
+  "paragraphs": [
+    {
+      "de": "— Was nehmen Sie, gewöhnliches Benzin oder Super? — Super. Volltanken, bitte! Prüfen Sie auch Öl und Reifendruck nach! Wollen Sie bitte die Scheiben reinigen! — Noch etwas, bitte? — Das wäre alles für heute. Ich bringe Ihnen den Wagen am nächsten Samstag zum Waschen und auch für den Ölwechsel. So, und was kostet das? — Achtundzwanzig Mark fünfzig. — Hier, bitte. — Haben Sie kein Kleingeld? — Nein, ich komme gerade über die Grenze; ich habe nur diesen Hundert-Mark-Schein. — Einen Augenblick, bitte!",
+      "fr": "— Que prenez-vous, de l'essence ordinaire ou du super? — Du super. (Faites) le plein, s'il vous plaît. Vérifiez également l'huile et la pression. Veuillez nettoyer les glaces. — Autre chose encore, s'il vous plaît? — C'est (ce serait) tout pour aujourd'hui. Je vous apporterai la voiture samedi prochain, pour le lavage et aussi pour la vidange. Bon, et combien cela fait (coûte)-il? — 28 Mark 50. — Voici, s'il vous plaît. — N'avez-vous pas de monnaie? — Non, je viens de passer la frontière; je n'ai que ce billet de 100 marks. — Un instant, s'il vous plaît!"
+    },
+    {
+      "de": "Als Paul nach Ulm kam, bat er um Auskunft: — Ich möchte zum Verkehrsverein fahren. Welches ist der richtige Weg? — Fahren Sie geradeaus. Ungefähr hundert Meter von hier kommen Sie an eine Kreuzung. Sie sehen ein Sportgeschäft. Dort biegen Sie nach rechts ein. Sie folgen der Straße, bis sie zur Einbahnstraße wird. So kommen Sie direkt auf den Münsterplatz und sehen den Verkehrsverein vor sich. Es ist achthundert Meter von hier entfernt. Paul besichtigte lange das schöne Ulm.",
+      "fr": "Quand Paul arriva à Ulm, il demanda un renseignement : — Je voudrais me rendre au Syndicat d'Initiative. Quel est le bon chemin? — Suivez (roulez) tout droit. À 100 mètres à peu près d'ici, vous arriverez à un carrefour. Vous verrez un magasin d'articles de sport. Là, vous prendrez (tournerez) à droite. Vous suivrez cette route jusqu'à ce qu'elle devienne à sens unique. Ainsi, vous arriverez directement sur la place de la Cathédrale et vous verrez devant vous le Syndicat d'Initiative. C'est à 800 mètres (distant) d'ici. Paul visita longtemps la belle ville d'Ulm."
+    }
+  ],
+  "pronunciation": "Repères phonétiques du texte : 1. Tankstelle [tangk-chtèle], gewöhnliches [géveûnlicheç], Benzin [bèntçîn] (accent sur la dernière syllabe), Super [zoûper], Ölwechsel [eûlvèkçel], Grenze [grèntçe]. 2. Ulm [oulm'], Auskunft [aoçkoun'ft], Verkehrsverein [fèrkêrç-feraén'] (v prononcé [f]), Einbahnstraße [aén'-bân'-chtrâçe], besichtigte [bézichtichte].",
+  "vocab": [
+    { "de": "der Augenblick (-e)", "fr": "le clin d'œil, l'instant", "info": "Masculin" },
+    { "de": "der Druck", "fr": "la pression", "info": "Masculin" },
+    { "de": "der Reifen (-)", "fr": "le pneu", "info": "Masculin" },
+    { "de": "der Schein (-e)", "fr": "la lueur, l'aspect, le billet", "info": "Masculin" },
+    { "de": "der Verkehr", "fr": "la circulation", "info": "Masculin" },
+    { "de": "der Verkehrsverein (e)", "fr": "le syndicat d'initiative", "info": "Masculin" },
+    { "de": "der Weg (-e)", "fr": "le chemin", "info": "Masculin" },
+    { "de": "die Bahn (-en)", "fr": "la voie", "info": "Féminin" },
+    { "de": "die Bank (¨-e)", "fr": "le banc", "info": "Féminin" },
+    { "de": "die Scheibe (n)", "fr": "la glace", "info": "Féminin" },
+    { "de": "die Tankstelle (n)", "fr": "le poste à essence", "info": "Féminin" },
+    { "de": "die Windschutzscheibe (n)", "fr": "le pare-brise", "info": "Féminin" },
+    { "de": "der Wind (e)", "fr": "le vent", "info": "Masculin" },
+    { "de": "der Schutz", "fr": "la protection", "info": "Masculin" },
+    { "de": "das Geld (er)", "fr": "l'argent", "info": "Neutre" },
+    { "de": "das Kleingeld", "fr": "la monnaie, les pièces", "info": "Neutre" },
+    { "de": "nachprüfen", "fr": "vérifier", "info": "Verbe séparable" },
+    { "de": "reinigen", "fr": "nettoyer", "info": "Verbe faible" },
+    { "de": "die Einbahnstraße (n)", "fr": "la voie à sens unique", "info": "Féminin" },
+    { "de": "die Grenze (n)", "fr": "la frontière", "info": "Féminin" },
+    { "de": "die Kreuzung (-en)", "fr": "le carrefour", "info": "Féminin" },
+    { "de": "volltanken", "fr": "faire le plein", "info": "Verbe séparable" },
+    { "de": "wechseln", "fr": "changer", "info": "Verbe faible" },
+    { "de": "einbiegen (o, o)", "fr": "tourner dans...", "info": "Verbe fort séparable" },
+    { "de": "waschen (u, a, ä)", "fr": "laver", "info": "Verbe fort" }
+  ],
+  "grammar": [
+    {
+      "title": "Als er nach Ulm kam... (Wenn et als)",
+      "body": "<strong>Wenn et als (quand).</strong><br>Pour traduire notre « quand » (ou « lorsque »), on emploie :<br>• <strong>Wenn</strong>, quand le verbe est au présent ou au futur, et au passé pour une action répétée ou durable.<br>• <strong>Als</strong> pour un verbe au passé, quand il s'agit d'un fait unique.<br><br><strong>Remarque :</strong> Cette différence se marque en français par le temps du verbe :<br><em>Als er kam</em> = quand il vint; fait unique, passé simple.<br><em>Wenn er kam</em> = quand il venait, toutes les fois qu'il venait; fait répété, imparfait.<br><br><strong>Exemples :</strong><br><em>Wenn die Sonne aufgeht...</em>, quand le soleil se lève.<br><em>Wenn die Sonne aufgehen wird...</em>, quand le soleil se lèvera.<br><em>Wenn die Sonne aufging, schliefen die Kinder noch</em>, quand (toutes les fois que) le soleil se levait, les enfants dormaient encore.<br><em>Als die Sonne aufging, waren sie schon zur Abfahrt bereit</em>, quand (= au moment où) le soleil se leva, ils étaient déjà prêts pour le départ."
+    },
+    {
+      "title": "Es ist achthundert Meter von hier entfernt.",
+      "body": "C'est à 800 m (distant) d'ici.<br>L'adjectif <em>entfernt</em> (éloigné, distant de) a pour complément <em>achthundert Meter von hier</em>. Le complément se place avant l'adjectif. Exemple :<br><em>Der Kölner Dom ist 156 m (hundertsechsundfünfzig Meter) hoch</em>, la cathédrale de Cologne est haute de 156 m."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Complétez la subordonnée : « ___ Kurt Zeit hatte, ging er oft spazieren. » (Quand Kurt avait le temps, il allait souvent se promener.) (Exercice A.1)",
+      "options": ["Wenn", "Als", "Wann", "Ob"],
+      "answer": "Wenn",
+      "hint": "L'adverbe « oft » indique une action répétée dans le passé.",
+      "explanation": "Corrigé A.1 : « Wenn Kurt Zeit hatte, ging er oft spazieren. » On emploie « wenn » au passé pour une action répétée ou durable (imparfait en français)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez la subordonnée : « ___ er um 15 Uhr kam, war der Unfall schon geschehen. » (Quand il est venu, à 15 heures, l'accident était déjà arrivé.) (Exercice A.2)",
+      "options": ["Als", "Wenn", "Wann", "Daß"],
+      "answer": "Als",
+      "hint": "Il s'agit d'un fait unique dans le passé (à 15 heures).",
+      "explanation": "Corrigé A.2 : « Als er um 15 Uhr kam, war der Unfall schon geschehen. » On emploie « als » pour un fait unique dans le passé."
+    },
+    {
+      "type": "order",
+      "prompt": "Formez la phrase avec une subordonnée introduite par « wenn » : « Quand il pleut, nous mettons un imperméable. » (Exercice A.3)",
+      "words": ["Wenn", "es", "regnet,", "ziehen", "wir", "einen", "Regenmantel", "an."],
+      "answer": "Wenn es regnet, ziehen wir einen Regenmantel an.",
+      "hint": "Au présent, on utilise « wenn »; dans la principale qui suit, le verbe « ziehen » précède le sujet « wir ».",
+      "explanation": "Corrigé A.3 : « Wenn es regnet, ziehen wir einen Regenmantel an. » (Quand il pleut, nous mettons un imperméable.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Transformez la première proposition en subordonnée introduite par « wenn » ou « als » : « Er kam zum ersten Mal nach Köln; er fand die Straße nicht. » (Exercice A.5)",
+      "answer": "Als er zum ersten Mal nach Köln kam, fand er die Straße nicht.",
+      "hint": "« zum ersten Mal » indique un fait unique dans le passé (« als »), le verbe « kam » va à la fin de la subordonnée et « fand » ouvre la principale.",
+      "explanation": "Corrigé A.5 : « Als er zum ersten Mal nach Köln kam, fand er die Straße nicht. » (Quand il arriva à Cologne pour la première fois, il ne trouva pas la rue.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez en français : « Ein sechs Meter langes Auto stand vor dem Hotel. » (Exercice B.6)",
+      "options": [
+        "Une voiture longue de 6 m se trouvait devant l'hôtel.",
+        "Six voitures longues se trouvaient devant l'hôtel.",
+        "Une voiture s'est arrêtée à 6 m devant l'hôtel.",
+        "Une voiture de six mètres de haut était devant l'hôtel."
+      ],
+      "answer": "Une voiture longue de 6 m se trouvait devant l'hôtel.",
+      "hint": "En allemand, le complément de mesure (« sechs Meter ») se place avant l'adjectif (« langes »).",
+      "explanation": "Corrigé B.6 : « Une voiture longue de 6 m se trouvait devant l'hôtel. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Quand vous faites le plein, le pompiste nettoie les glaces. » (Exercice C.9)",
+      "words": ["Wenn", "Sie", "volltanken,", "reinigt", "der", "Tankwart", "die", "Scheiben."],
+      "answer": "Wenn Sie volltanken, reinigt der Tankwart die Scheiben.",
+      "hint": "Au présent, on emploie « wenn »; « volltanken » reste soudé à la fin de la subordonnée.",
+      "explanation": "Corrigé C.9 : « Wenn Sie volltanken, reinigt der Tankwart die Scheiben. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand : « Quand Werner arriva au croisement, il aperçut le Syndicat d'initiative. » (verbe : erblicken) (Exercice C.11)",
+      "answer": "Als Werner an die Kreuzung kam, erblickte er den Verkehrsverein.",
+      "hint": "Fait unique au passé (« als »), prétérit « kam » en fin de subordonnée, puis « erblickte er den Verkehrsverein ».",
+      "explanation": "Corrigé C.11 : « Als Werner an die Kreuzung kam, erblickte er den Verkehrsverein. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Avez-vous trouvé son ami, quand vous étiez en Allemagne ? » (Exercice C.12)",
+      "words": ["Haben", "Sie", "seinen", "Freund", "gefunden,", "als", "Sie", "in", "Deutschland", "waren?"],
+      "answer": "Haben Sie seinen Freund gefunden, als Sie in Deutschland waren?",
+      "hint": "Fait unique/époque déterminée au passé (« als »), avec le verbe « waren » à la fin de la subordonnée.",
+      "explanation": "Corrigé C.12 : « Haben Sie seinen Freund gefunden, als Sie in Deutschland waren? »"
+    }
+  ]
+}

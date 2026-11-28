@@ -1,0 +1,229 @@
+{
+  "id": "28",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Das Flugzeug",
+  "titleFr": "L'avion",
+  "proverbDe": "Jedes Ding hat zwei Seiten.",
+  "proverbFr": "Toute médaille a son revers (Chaque chose a deux faces)",
+  "paragraphs": [
+    {
+      "de": "Um mit dem Flugzeug zu reisen, muß man einen Flugschein lösen. Diese Fahrkarte kann für die einfache Fahrt sein. Man kann aber auch eine Rückfahrkarte kaufen, oder eine Rundreise-Fahrkarte; dafür bekommt man oft eine Ermäßigung.",
+      "fr": "Pour voyager par avion, il faut prendre un billet (de vol). Ce billet peut être un aller simple. Mais on peut également acheter un billet aller et retour, ou un billet circulaire; alors (mot à mot : pour cela) on obtient souvent une réduction."
+    },
+    {
+      "de": "Gewöhnlich reserviert man seinen Platz, wenn man die Flugkarte kauft. Jede bedeutende Fluggesellschaft hat ihr eigenes Büro in den großen Städten. Aber man kann sich auch an jedes beliebige Reisebüro wenden, denn jedes Reisebüro kann Fahrscheine für alle Luftlinien beschaffen.",
+      "fr": "En général on réserve sa place quand on achète le billet d'avion. Chaque compagnie d'aviation importante a son bureau particulier dans les grandes villes. Mais on peut s'adresser aussi à n'importe quelle agence de voyage, car toute agence de voyage peut procurer les billets pour n'importe quelle ligne (m. à m. : toutes les lignes)."
+    },
+    {
+      "de": "Es gibt zwei Klassen : eine Touristenklasse und eine erste Klasse. Gewöhnlich hat man zwanzig oder dreißig Kilo Freigepäck. Der Tarif für das Übergepäck hängt von der Entfernung ab. Der Reisende kann sich direkt zum Flughafen begeben, wo er sein Gepäck aufgibt. Ein Gepäckwagen (oder Gepäckwägelchen) bringt die Koffer zum Flugzeug.",
+      "fr": "Il existe deux classes : une classe touriste et une première classe. Habituellement, on a une franchise de bagages de 20 à 30 kg. Le tarif pour l'excédent de bagages dépend de la distance. Le voyageur peut se rendre directement à l'aéroport, où il fait enregistrer ses bagages. Un charriot à bagages apporte les valises à l'avion."
+    },
+    {
+      "de": "Lecture — Unfallversicherung der Fluggäste : In allen deutschen Flughäfen sind Automaten für eine Flugunfallversicherung aufgestellt. Die Mindestgebühr einschließlich der Versicherungssteuer beträgt fünf Mark. Man wirft ein Fünfmarkstück in den Automaten und erhält eine fertige Versicherungspolice für die gewählte Versicherungsart. Der ausgefüllte und unterschriebene Antrag wird in den Automaten geworfen, womit der Versicherungsvertrag abgeschlossen ist. Ein Exemplar der Police behält der Fluggast, ein weiteres, im Postkartenformat, schickt er nach Hause, damit auch dort der Nachweis für den Versicherungsabschluß vorliegt. (Aus der Wochenzeitung « Die Zeit », Hamburg)",
+      "fr": "Lecture — Assurance contre les accidents des passagers : Dans tous les aéroports allemands sont installés des distributeurs automatiques d'assurances contre les accidents aériens. La prime minima se monte à cinq marks, y compris l'impôt sur les assurances. On glisse une pièce de cinq marks dans le distributeur et l'on reçoit une police d'assurance toute faite, correspondant à la nature de l'assurance choisie. La demande remplie et signée est glissée dans le distributeur automatique; là-dessus le contrat d'assurance est conclu. Le passager conserve un exemplaire de la police et il en envoie un autre, du format d'une carte postale, à son domicile, afin qu'il y existe également la preuve de l'assurance contractée."
+    }
+  ],
+  "pronunciation": "Indications phonétiques du texte (syllabe accentuée en tête des mots composés et sur le radical) : §1 Flugzeug [flouktçoeuk], Fahrkarte [farkarte], Rundreise [roun't-raéze], Ermäßigung [èrmèçigouⁿᵍ] (accent sur -mä-, terminaison -ig prononcée [iç]); §2 Fluggesellschaft [flouk-gezèlchaft] (accent sur Flug- et -sel-), Luftlinien [louft-linyen'] (accent sur Luft- et -lin-); §3 Freigepäck [fraégépèk], Entfernung [èn'tfèrnouⁿᵍ] (accent sur -fer-, -ng nasalisé).",
+  "vocab": [
+    {
+      "de": "der Flughafen (¨-)",
+      "fr": "l'aéroport",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Tarif (-e)",
+      "fr": "le tarif",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Entfernung (-en)",
+      "fr": "la distance",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Ermäßigung (-en)",
+      "fr": "la réduction",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Fahrkarte (n)",
+      "fr": "le billet",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Gesellschaft (-en)",
+      "fr": "la société, la compagnie",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Hinfahrt (-en)",
+      "fr": "le voyage aller",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Linie (n)",
+      "fr": "la ligne",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Luft (¨-e)",
+      "fr": "l'air",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Rückfahrkarte (n)",
+      "fr": "le billet aller et retour",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Rundreise (n)",
+      "fr": "le voyage circulaire",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Flugzeug (-e)",
+      "fr": "l'avion",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Gepäck (sing.)",
+      "fr": "les bagages",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Wägelchen (-)",
+      "fr": "la charrette",
+      "info": "Neutre"
+    },
+    {
+      "de": "bestellen",
+      "fr": "réserver",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "sich wenden an (wandte, gewandt)",
+      "fr": "s'adresser à",
+      "info": "Verbe réfléchi mixte"
+    },
+    {
+      "de": "beschaffen",
+      "fr": "procurer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "abhängen von (i, a; ä)",
+      "fr": "dépendre de",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "aufgeben (a, e; i)",
+      "fr": "faire enregistrer",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "sich begeben (a, e; i)",
+      "fr": "se rendre",
+      "info": "Verbe fort réfléchi"
+    },
+    {
+      "de": "bekommen (a, o)",
+      "fr": "recevoir",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Um mit dem Flugzeug zu reisen... — La proposition infinitive",
+      "body": "La proposition infinitive.<br>Elle peut avoir les quatre formes suivantes :<br>• <strong>Er ist glücklich, eine Flugreise zu machen</strong>, il est heureux de faire un voyage en avion (<em>zu</em>, de, à, + infinitif).<br>• <strong>Er nimmt eine Rückfahrkarte, um eine Ermäßigung zu bekommen</strong>, il prend un billet aller et retour, pour obtenir une réduction (<em>um... zu</em>, pour + infinitif).<br>• <strong>Er fuhr weg, ohne Abschied zu nehmen</strong>, il partit sans prendre congé (<em>ohne... zu</em>, sans + infinitif).<br>• <strong>Er wollte den Koffer tragen, anstatt ihn aufzugeben</strong>, il voulut porter la valise, au lieu de la faire enregistrer (<em>anstatt... zu</em>, au lieu de + infinitif)."
+    },
+    {
+      "title": "Jede bedeutende Fluggesellschaft... — Le participe présent",
+      "body": "Le participe présent.<br>Il se forme en ajoutant <strong>-d</strong> à l'infinitif : <em>lachen &gt; lachend</em>, riant; <em>springen &gt; springend</em>, sautant. Il s'emploie surtout comme adjectif ou comme adverbe. Exemples :<br><em>Ein glänzendes Flugzeug</em>, un avion brillant.<br><em>Sie kam weinend</em>, elle vint en pleurant.<br>Pour la traduction de notre « en + participe présent », voir L. 72."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "prompt": "(Exercice A.1) Réunissez les deux phrases en une seule avec une proposition infinitive : « Er besichtigte die Stadt; er sah das Museum nicht. » (Il visita la ville, sans voir le musée.)",
+      "words": [
+        "Er",
+        "besichtigte",
+        "die",
+        "Stadt,",
+        "ohne",
+        "das",
+        "Museum",
+        "zu",
+        "sehen."
+      ],
+      "answer": "Er besichtigte die Stadt, ohne das Museum zu sehen.",
+      "hint": "Utilisez « ohne... zu » pour exprimer « sans + infinitif ».",
+      "explanation": "Corrigé A.1 : « Er besichtigte die Stadt, ohne das Museum zu sehen. » La tournure « ohne... zu » traduit « sans + infinitif » et renvoie « zu + infinitif » à la fin de la proposition."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.2) Réunissez « Ich gehe in ein Reisebüro; ich will eine Fahrkarte lösen » (Je vais dans une agence de voyage, pour acheter un billet) : Ich gehe in ein Reisebüro, ...",
+      "options": [
+        "um eine Fahrkarte zu lösen.",
+        "ohne eine Fahrkarte zu lösen.",
+        "anstatt eine Fahrkarte zu lösen.",
+        "eine Fahrkarte zu lösen."
+      ],
+      "answer": "um eine Fahrkarte zu lösen.",
+      "hint": "Pour exprimer le but (« pour + infinitif »), on emploie « um... zu ».",
+      "explanation": "Corrigé A.2 : « Ich gehe in ein Reisebüro, um eine Fahrkarte zu lösen. » La préposition « um... zu » introduit la proposition infinitive de but."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.3) Complétez la conjonction infinitive (Le pompiste nettoya les glaces, au lieu de vérifier la pression des pneus) : Der Tankwart reinigte die Scheiben, ___ den Reifendruck zu prüfen.",
+      "answer": "anstatt",
+      "hint": "Quel mot introduit « au lieu de + infinitif » avec « zu » ?",
+      "explanation": "Corrigé A.3 : « Der Tankwart reinigte die Scheiben, anstatt den Reifendruck zu prüfen. » La tournure « anstatt... zu » signifie « au lieu de + infinitif »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.4) Formez le participe présent épithète de « fahren » (L'enfant tomba de la voiture en marche) : Das Kind fiel aus dem ___ Auto.",
+      "answer": "fahrenden",
+      "hint": "Ajoutez « -d » à l'infinitif « fahren », puis la terminaison faible au datif neutre après « dem ».",
+      "explanation": "Corrigé B.4 : « Das Kind fiel aus dem fahrenden Auto. » Le participe présent « fahrend » employé comme épithète se décline comme un adjectif : au datif singulier neutre après « dem », il prend « -en »."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice B.5) Formez le participe présent épithète de « singen » (Des jeunes filles qui chantaient passaient devant nous) : ___ Mädchen gingen an uns vorbei.",
+      "options": [
+        "Singende",
+        "Singenden",
+        "Singendes",
+        "Gesungene"
+      ],
+      "answer": "Singende",
+      "hint": "Participe présent « singend » + déclinaison forte au nominatif pluriel (sans article).",
+      "explanation": "Corrigé B.5 : « Singende Mädchen gingen an uns vorbei. » Sans article au nominatif pluriel, le participe présent épithète prend la désinence forte « -e »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.6) Formez le participe présent épithète de « dröhnen » (vrombir) : Man hörte ein ___ Flugzeug. (On entendait un avion qui vrombissait.)",
+      "answer": "dröhnendes",
+      "hint": "Participe présent « dröhnend » + déclinaison mixte à l'accusatif singulier neutre après « ein ».",
+      "explanation": "Corrigé B.6 : « Man hörte ein dröhnendes Flugzeug. » Après l'article indéfini « ein » au neutre (accusatif), l'épithète prend la terminaison « -es »."
+    },
+    {
+      "type": "order",
+      "prompt": "(Grammaire — proposition infinitive avec verbe séparable) Reconstituez la phrase du cours : « Il voulut porter la valise, au lieu de la faire enregistrer. »",
+      "words": [
+        "Er",
+        "wollte",
+        "den",
+        "Koffer",
+        "tragen,",
+        "anstatt",
+        "ihn",
+        "aufzugeben."
+      ],
+      "answer": "Er wollte den Koffer tragen, anstatt ihn aufzugeben.",
+      "hint": "Avec un verbe séparable (« aufgeben »), « zu » s'intercale entre le préfixe et le radical : « aufzugeben ».",
+      "explanation": "Exemple de la grammaire (p. 126) : « Er wollte den Koffer tragen, anstatt ihn aufzugeben. » Dans les verbes à particule séparable, « zu » se place entre la particule et le radical."
+    }
+  ]
+}

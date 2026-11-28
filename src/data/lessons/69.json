@@ -1,0 +1,266 @@
+{
+  "id": "69",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Die Wohnung",
+  "titleFr": "L'appartement",
+  "proverbDe": "Wie man sich bettet, so schläft man.",
+  "proverbFr": "Comme on fait son lit, on dort.",
+  "paragraphs": [
+    {
+      "de": "Mit meinen Freunden aus dem Büro habe ich kürzlich über das Wohnen in einer Großstadt gesprochen. – « Wir haben eine ganz kleine Wohnung in der Nähe der Stadtmitte », sagte Uwe. « Sie liegt im 4. (vierten) Stock eines modernen Mietshauses. Es ist unmöglich, einen Schrank zu stellen. Wir müssen uns mit dem Allernotwendigsten an Möbeln begnügen. Es ist ausgeschlossen, einen Wohnzimmerschrank oder Anbaumöbel unterzubringen. Zum Glück konnten wir im Flur Wandschränke einbauen lassen; wir räumen viele Sachen hinein. »",
+      "fr": "J'ai discuté récemment, avec mes amis du bureau (des problèmes) du logement dans une grande ville. – « Nous occupons un tout petit appartement près du centre de la ville », dit Uwe. « Il se trouve au 4e étage d'une maison de rapport moderne. Impossible d'y loger une armoire. Nous devons nous contenter du minimum de meubles indispensables. Il n'est pas question de faire entrer un buffet ou des meubles par éléments. Heureusement, dans l'entrée, nous avons pu faire mettre (m. à m. : encastrer) des placards; nous y rangeons beaucoup de choses. »"
+    },
+    {
+      "de": "Er sagte noch, daß in ihrem Wohnzimmer gerade Platz genug für einen Tisch, vier Stühle und zwei Sessel sei. Ihr Fernsehapparat stehe in einer Ecke, auf einem ganz kleinen Tischchen. Im Schlafzimmer hätten sie außer dem Wandschrank nur das Bett und ein Wandregal über dem Heizkörper. Seine Frau hätte gleich am ersten Tag allerlei Nippsachen darauf gestellt.",
+      "fr": "Il dit encore que dans leur salle commune, il y avait juste assez de place pour une table, quatre chaises et deux fauteuils. Leur poste de télévision, dit-il, se trouvait dans un coin, sur un guéridon minuscule. Il ajouta que dans la chambre à coucher, outre le placard, ils n'avaient que le lit et une étagère au-dessus du radiateur. Sa femme, poursuivit-il, y avait posé dès le premier jour toutes sortes de bibelots."
+    },
+    {
+      "de": "– « In der Küche hingegen ist alles bei der Hand », unterbrach ihn da seine junge Gemahlin. « Es ist ein leichtes, sich vom Spülstein nach dem elektrischen Kühlschrank zu drehen, und vom Kühlschrank nach dem Gasherd. Allerdings muß man schlank sein! »",
+      "fr": "– « Dans la cuisine par contre on a tout sous la main », dit alors sa jeune épouse, lui coupant la parole. « C'est chose facile de se tourner de l'évier vers le réfrigérateur, et du réfrigérateur vers la cuisinière à gaz. Il est vrai qu'il faut être mince! »"
+    },
+    {
+      "de": "Es sei nur eine provisorische Lösung, sagte mein Freund. Sie seien damals recht froh gewesen, eine solche Wohnung zu finden. Natürlich würden sie sich in ein paar Jahren eine eigene Wohnung kaufen. Sie würden dann selber stolze Hausbesitzer sein, fügte er lächelnd hinzu.",
+      "fr": "Mon ami dit que ce n'était qu'une solution d'attente et qu'ils avaient été très heureux, à l'époque, de trouver un tel appartement. Naturellement, ils achèteraient dans quelques années un appartement à eux, déclara-t-il. Il ajouta en souriant qu'ils seraient eux-mêmes, alors, de fiers propriétaires."
+    }
+  ],
+  "pronunciation": "Observez l'accentuation des particules verbales dans le vocabulaire : les particules séparables sont accentuées dans « aufräumen » (auf-), « einbauen » (ein-), « hinzufügen » (-zu-) et « unterbringen » (unter-), tandis que « (sich) unterhalten » (s'entretenir) est inséparable et s'accentue sur le radical (-hal-). Dans « der Spülstein », prononcez « sp » et « st » initiaux de radical comme « chp » et « cht ». Attention au « h » muet d'allongement dans « die Wohnung », « der Kühlschrank » et « die Gemahlin ».",
+  "vocab": [
+    {
+      "de": "der Besitzer (-)",
+      "fr": "le propriétaire",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Flur (-e)",
+      "fr": "l'entrée, le vestibule",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Heizkörper (-)",
+      "fr": "le radiateur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Herd (-e)",
+      "fr": "le foyer",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schrank (¨-e)",
+      "fr": "l'armoire",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Nippsache (n)",
+      "fr": "le bibelot",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Wand (¨-e)",
+      "fr": "la cloison, le mur",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Mietshaus (¨-er)",
+      "fr": "la maison de rapport",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Mieter",
+      "fr": "le locataire",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Anbaumöbel (plur.)",
+      "fr": "les meubles par éléments",
+      "info": "Pluriel"
+    },
+    {
+      "de": "der Kühlschrank (¨-e)",
+      "fr": "le réfrigérateur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Sessel (-)",
+      "fr": "le fauteuil",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Spülstein (-e)",
+      "fr": "l'évier",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Ecke (n)",
+      "fr": "le coin",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Gemahlin (nen)",
+      "fr": "l'épouse",
+      "info": "Féminin"
+    },
+    {
+      "de": "der Gemahl (-e)",
+      "fr": "l'époux",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Heizung (-en)",
+      "fr": "le chauffage",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Lösung (-en)",
+      "fr": "la solution",
+      "info": "Féminin"
+    },
+    {
+      "de": "aufräumen",
+      "fr": "ranger",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "(sich) begnügen (mit)",
+      "fr": "(se) contenter (de)",
+      "info": "Verbe réfléchi"
+    },
+    {
+      "de": "einbauen",
+      "fr": "encastrer",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "hinzufügen",
+      "fr": "ajouter",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "unterbringen (brachte, gebracht)",
+      "fr": "mettre à l'abri, caser",
+      "info": "Verbe séparable irrégulier"
+    },
+    {
+      "de": "(sich) unterhalten (ie, a; ä)",
+      "fr": "(s') entretenir",
+      "info": "Verbe fort inséparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Ihr Fernsehapparat stehe in einer Ecke. — Le style indirect",
+      "body": "Dans cette phrase, comme dans tout le § 2 et dans le § 4, on cite les paroles d'un interlocuteur, sans le faire parler directement. On dit que ces passages sont au <strong>« style indirect »</strong>; celui-ci consiste à rapporter les paroles ou pensées d'autrui."
+    },
+    {
+      "title": "Subjonctif ou indicatif dans le style indirect",
+      "body": "Les verbes <em>sei, stehe, hätte</em>, etc. sont au subjonctif; l'emploi de ce mode indique que le narrateur se borne à rapporter certaines affirmations, sans les tenir pour vrai ni les contester. Le subjonctif est le mode habituel du style indirect. Cependant, le narrateur peut employer l'indicatif s'il veut indiquer qu'il considère comme certain le fait rapporté.<br><em>Mein Freund sagte, daß er glücklich ist</em>, mon ami dit qu'il était heureux (on prend parti).<br>Mais : <em>Mein Freund sagte, daß er glücklich sei</em>, mon ami dit qu'il était heureux (on ne se prononce pas)."
+    },
+    {
+      "title": "Suppression de la conjonction daß",
+      "body": "Souvent, on supprime <em>daß</em> (Mémento, n° 67); les subordonnées au style indirect prennent alors l'allure de propositions principales. Seul, le verbe au subjonctif indique qu'il s'agit de paroles rapportées (texte, §§ 2 et 4)."
+    },
+    {
+      "title": "Le temps dans le style indirect",
+      "body": "Voici le § 4 transposé dans le style direct : <em>Mein Freund sagte : « Es ist nur eine... Wir sind damals... gewesen, eine... zu finden. Natürlich werden wir uns... kaufen. » Er fügte lächelnd hinzu : « Wir werden dann... sein. »</em><br>Ainsi, le <strong>subjonctif 1 présent</strong> correspond au présent de l'indicatif, le <strong>subjonctif 1 passé</strong> correspond aux temps passés de l'indicatif, et le <strong>subjonctif 1 futur</strong> remplace le futur du style direct. On emploie aussi des formes de remplacement (V. Mémento, § 73)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Transposez au style direct cette phrase du § 2 (Exercice A) : « Ihr Fernsehapparat stehe in einer Ecke, auf einem ganz kleinen Tischchen. »",
+      "options": [
+        "Unser Fernsehapparat steht in einer Ecke, auf einem ganz kleinen Tischchen.",
+        "Ihr Fernsehapparat stand in einer Ecke, auf einem ganz kleinen Tischchen.",
+        "Unser Fernsehapparat stehe in einer Ecke, auf einem ganz kleinen Tischchen.",
+        "Mein Fernsehapparat gestanden in einer Ecke, auf einem ganz kleinen Tischchen."
+      ],
+      "answer": "Unser Fernsehapparat steht in einer Ecke, auf einem ganz kleinen Tischchen.",
+      "hint": "Au style direct, le locuteur parle à la 1re personne (« unser ») et le subjonctif 1 présent (« stehe ») redevient un présent de l'indicatif (« steht »).",
+      "explanation": "Corrigé A : « Er sagte noch : « In unserem Wohnzimmer ist... Unser Fernsehapparat steht... Im Schlafzimmer haben wir... Meine Frau hat... gestellt ». »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Transposez au style direct la première proposition (Exercice B.1) : « Er sagt, diese Kommode komme von seinem Großvater. » (écrivez uniquement les paroles directes, sans guillemets)",
+      "answer": "Diese Kommode kommt von meinem Großvater.",
+      "hint": "« komme » (subjonctif 1 présent) devient « kommt » (indicatif présent) et « seinem » devient « meinem ».",
+      "explanation": "Corrigé B.1 : « Il dit que cette commode vient de son grand-père et qu'elle avait été longtemps au grenier. Er sagt : « Diese Kommode kommt von meinem Großvater; sie stand lange auf dem Speicher. » »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Quelle est la traduction exacte de la phrase d'Inge (Exercice B.2) : « Inge schreibt, daß es dort schöne alte Möbel gäbe; sie sei gestern in ein Geschäft gegangen; man würde ihr einen Stilsessel reservieren. » ?",
+      "options": [
+        "Inge écrit qu'il y a là-bas de beaux meubles anciens, qu'elle est allée la veille dans un magasin, qu'on lui réservera un fauteuil de style.",
+        "Inge écrit qu'il y avait là-bas des meubles neufs, qu'elle ira demain dans un magasin, qu'on lui a vendu un fauteuil de style.",
+        "Inge écrit qu'elle a acheté de beaux meubles anciens hier et qu'elle réserve un fauteuil de style.",
+        "Inge écrit qu'il n'y a plus de beaux meubles anciens et qu'elle n'est pas allée au magasin."
+      ],
+      "answer": "Inge écrit qu'il y a là-bas de beaux meubles anciens, qu'elle est allée la veille dans un magasin, qu'on lui réservera un fauteuil de style.",
+      "hint": "« gäbe » (présent du style indirect) correspond au présent, « sei ... gegangen » au passé composé, et « würde ... reservieren » au futur.",
+      "explanation": "Corrigé B.2 : « Inge écrit qu'il y a là-bas de beaux meubles anciens, qu'elle est allée la veille dans un magasin, qu'on lui réservera un fauteuil de style. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Transposez au style direct la deuxième proposition de l'Exercice B.2 : « sie sei gestern in ein Geschäft gegangen »",
+      "words": [
+        "Ich",
+        "bin",
+        "gestern",
+        "in",
+        "ein",
+        "Geschäft",
+        "gegangen."
+      ],
+      "answer": "Ich bin gestern in ein Geschäft gegangen.",
+      "hint": "« sie sei ... gegangen » (subjonctif 1 passé) redevient « ich bin ... gegangen » (passé composé de l'indicatif).",
+      "explanation": "Corrigé B.2 : « Inge schreibt : « Es gibt dort schöne alte Möbel; ich bin gestern in ein Geschäft gegangen; man wird mir einen Stilsessel reservieren. » »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Transposez au style direct la troisième proposition de l'Exercice B.2 : « man würde ihr einen Stilsessel reservieren »",
+      "answer": "Man wird mir einen Stilsessel reservieren.",
+      "hint": "« würde ... reservieren » (forme de remplacement du futur au style indirect) correspond au futur simple « wird ... reservieren », et « ihr » devient « mir ».",
+      "explanation": "Corrigé B.2 : « man wird mir einen Stilsessel reservieren. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Transposez au style indirect sans « daß » (Exercice C.3) : « Karl erklärt : « Eine solche Wohnung gefällt mir. » »",
+      "options": [
+        "Karl erklärt, eine solche Wohnung gefalle ihm.",
+        "Karl erklärt, eine solche Wohnung gefällt mir.",
+        "Karl erklärt, eine solche Wohnung habe ihm gefallen.",
+        "Karl erklärt, eine solche Wohnung würde mir gefallen."
+      ],
+      "answer": "Karl erklärt, eine solche Wohnung gefalle ihm.",
+      "hint": "Au présent du style indirect, « gefällt » passe au subjonctif 1 « gefalle » (ou « gefiele ») et « mir » devient « ihm ».",
+      "explanation": "Corrigé C.3 : « Karl erklärt, eine solche Wohnung gefalle (gefiele) ihm; er habe (hätte) schon lange eine größere gesucht; er würde (werde) sie mieten; sie würden (werden) nächsten Monat umziehen. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Transposez au style indirect la dernière phrase de Charles (Exercice C.3) : « Wir werden nächsten Monat umziehen. »",
+      "words": [
+        "Sie",
+        "würden",
+        "nächsten",
+        "Monat",
+        "umziehen."
+      ],
+      "answer": "Sie würden nächsten Monat umziehen.",
+      "hint": "Au style indirect, le futur « wir werden ... umziehen » passe à « sie würden (ou werden) ... umziehen ».",
+      "explanation": "Corrigé C.3 : « sie würden (werden) nächsten Monat umziehen. » On emploie la forme de remplacement « würden » car « werden » est identique à l'indicatif."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quelle est la nuance entre « Mein Freund sagte, daß er glücklich ist » et « Mein Freund sagte, daß er glücklich sei » ?",
+      "options": [
+        "Avec l'indicatif « ist », le narrateur prend parti et considère le fait comme certain ; avec le subjonctif « sei », il rapporte sans se prononcer.",
+        "Avec « ist », l'action se passe dans le futur ; avec « sei », elle se passe dans le passé.",
+        "« ist » est réservé au style écrit et « sei » uniquement au langage familier.",
+        "Il n'y a aucune différence de sens : l'indicatif est simplement incorrect en allemand."
+      ],
+      "answer": "Avec l'indicatif « ist », le narrateur prend parti et considère le fait comme certain ; avec le subjonctif « sei », il rapporte sans se prononcer.",
+      "hint": "Relisez la deuxième remarque de la section Grammaire.",
+      "explanation": "Règle de grammaire (p. 298) : « Mein Freund sagte, daß er glücklich ist » (on prend parti) vs « Mein Freund sagte, daß er glücklich sei » (on ne se prononce pas)."
+    }
+  ]
+}

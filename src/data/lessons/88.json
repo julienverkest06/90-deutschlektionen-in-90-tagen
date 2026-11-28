@@ -1,0 +1,172 @@
+{
+  "id": "88",
+  "series": 3,
+  "authentic": true,
+  "titleDe": "Beispiel (Herbert Kranz)",
+  "titleFr": "L'exemple (Herbert Kranz)",
+  "proverbDe": "Ein gutes Beispiel wirkt mehr als tausend Worte.",
+  "proverbFr": "Un bon exemple vaut mieux que mille discours.",
+  "paragraphs": [
+    {
+      "de": "An einem Samstagabend, zwanzig Minuten vor neun Uhr, stießen zwei Autos vor dem Bahnhof zusammen. Die Bremsen quietschten zu spät, und beide Wagen verbeulten sich ineinander. Passanten schrien auf, blieben stehen oder rannten herbei, um besser zu sehen. Es gab keine Toten und nicht einmal Schwerverletzte, aber heftige Diskussionen über die Schuldfrage und gespannte Erwartung, als der Polizeiwagen heranheulte.",
+      "fr": "Un samedi soir, à neuf heures moins vingt, deux voitures entrèrent en collision devant la gare. Les freins grincèrent trop tard et les deux véhicules s'emboutirent. Les passants crièrent, s'arrêtèrent ou accoururent pour mieux voir. Il n'y avait ni morts ni même de blessés graves, mais de vives discussions sur les responsabilités et une attente fiévreuse lorsque la voiture de police arriva sirène hurlante."
+    },
+    {
+      "de": "Die Neugierigen standen wie Mauern um die Unfallstelle. Während die Beamten maßen, protokollierten und den Verkehr durch die fast blockierte Fahrbahn schleusten, tat einer der Zuschauer – ein gutgekleideter Herr – das, wozu die Polizisten noch nicht gekommen waren : er ging zum Polizeiwagen, ließ sich einen Besen geben und fegte die Glassplitter zusammen, die sich sonst in die Reifen der vorbeifahrenden Wagen gebohrt hätten. Die Badauds machten ihre Witze über den feinen Straßenfeger.",
+      "fr": "Les curieux formaient un mur autour de l'accident. Pendant que les agents mesuraient, dressaient le constat et s'efforçaient de faire passer la circulation sur la chaussée presque bloquée, un spectateur élégamment vêtu fit ce que les policiers n'avaient pas encore eu le temps de faire : il se fit remettre un balai et balaya les éclats de verre qui menaçaient de crever les pneus des voitures. Les badauds se moquaient de ce balayeur distingué."
+    },
+    {
+      "de": "In einer zweiten Episode überholte ein junger Landarbeiter auf seinem Motorroller einen Personenwagen, den eine allein fahrende Dame steuerte. Kurz darauf prallte er mit einem anderen Fahrzeug zusammen und wurde blutend auf die Fahrbahn geschleudert. Die Wagen stauten sich zu beiden Seiten, die Leute stiegen aus und sahen hilflos zu, wie der Verletzte in seinem Blute lag.",
+      "fr": "Dans un second épisode, un jeune ouvrier agricole à scooter dépassait une voiture conduite par une dame seule. Peu après, il heurta violemment un autre véhicule et fut projeté sur la chaussée, perdant son sang. Les voitures s'immobilisèrent des deux côtés ; les passagers descendirent et regardèrent sans agir le jeune homme étendu dans son sang."
+    },
+    {
+      "de": "Auch die Dame stieg aus und erkannte sofort, daß die Schlagader verletzt war : « Er verblutet ja! » rief sie. Ohne sich um die Zuschauer zu kümmern, riß sie ihre Bluse in Streifen, kniete sich in die Blutlache und band das Bein des Schwerverletzten ab, während sie ihn beruhigte. Das Blut hörte auf zu fließen. Fünf Minuten später traf der Streifenwagen ein, eine Viertelstunde später der Krankenwagen. Die Ärzte retteten den jungen Mann, doch ohne das entschlossene Eingreifen der Dame wäre er nicht zu retten gewesen. Nachdem sie ihre Angaben zu Protokoll gegeben hatte, fuhr sie ohne viele Worte weiter. (D'après Herbert Kranz, Der Engel schreibt's auf, Verlag Joseph Knecht, Frankfurt/Main.)",
+      "fr": "La dame descendit à son tour et comprit aussitôt que l'artère était touchée : « Mais il va mourir d'hémorragie ! » s'écria-t-elle. Sans se soucier des badauds, elle déchira son chemisier en bandes, s'agenouilla dans le sang et posa un garrot sur la jambe du blessé tout en le rassurant. L'hémorragie s'arrêta. Cinq minutes plus tard arriva la voiture de patrouille, puis l'ambulance. Les médecins purent le sauver, mais sans le secours de cette dame il n'aurait pu être sauvé. Après avoir fait sa déposition au procès-verbal, elle repartit discrètement."
+    }
+  ],
+  "pronunciation": "Deux récits édifiants de Herbert Kranz tirés de « Der Engel schreibt's auf ». Soignez la prononciation des verbes composés expressifs et des faux-amis de genre : verbeulen, ineinander, herbeirennen, heranheulen, schleusen, das Steuer / die Steuer, verbluten, abbinden, Streifenwagen.",
+  "vocab": [
+    {
+      "de": "verbeulen / die Beule (-n)",
+      "fr": "cabosser / la bosse (ineinander : l'un dans l'autre)",
+      "info": "Note 1 — Verbe / Féminin"
+    },
+    {
+      "de": "herbei- / heran-",
+      "fr": "particules marquant le rapprochement vers quelqu'un ou quelque chose (herbeirennen, heranheulen)",
+      "info": "Note 2 — Particules directionnelles"
+    },
+    {
+      "de": "gespannt (spannen)",
+      "fr": "tendu, passionné, fiévreux (participe passé de spannen : tendre, atteler, intéresser vivement)",
+      "info": "Note 3 — Adjectif"
+    },
+    {
+      "de": "schleusen / die Schleuse (-n)",
+      "fr": "faire passer (m. à m. : écluser) / l'écluse",
+      "info": "Note 4 — Verbe / Féminin"
+    },
+    {
+      "de": "bohren / der Bohrer (-) / der Bohrhammer (¨)",
+      "fr": "percer, forer / le foret, la chignole / le marteau-piqueur",
+      "info": "Note 5 — Famille de mots"
+    },
+    {
+      "de": "der Witz (-e) / witzig",
+      "fr": "le trait d'esprit, la plaisanterie (das Witzblatt : journal satirique) / spirituel",
+      "info": "Note 6 — Masculin / Adjectif"
+    },
+    {
+      "de": "steuern / das Steuer (-) / die Steuer (-n)",
+      "fr": "conduire, diriger / le volant, le gouvernail (neutre) / l'impôt (féminin)",
+      "info": "Note 7 — Homonyme à deux genres"
+    },
+    {
+      "de": "zusammenprallen",
+      "fr": "se heurter violemment, entrer en collision (zusammen + prallen)",
+      "info": "Note 8 — Verbe séparable"
+    },
+    {
+      "de": "das Blut / bluten / verbluten",
+      "fr": "le sang / saigner / perdre tout son sang, mourir d'hémorragie (ver- = perte, mort)",
+      "info": "Note 9 — Famille de mots"
+    },
+    {
+      "de": "der Streifen (-) / die Streife (-n)",
+      "fr": "la raie, la bande (masculin) / la patrouille (féminin ; der Streifenwagen : voiture-patrouille)",
+      "info": "Note 10 — Masculin / Féminin"
+    },
+    {
+      "de": "abbinden (a, u)",
+      "fr": "ligaturer, poser un garrot (de binden, band, gebunden : lier)",
+      "info": "Note 11 — Verbe fort séparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Note 7 — Homonymes distingués par le genre : das Steuer / die Steuer (Mémento n° 17)",
+      "body": "Le genre change entièrement le sens du nom :<br>• <strong>das Steuer (-)</strong> (neutre) : le volant, le gouvernail (d'où le verbe <em>steuern</em>, conduire).<br>• <strong>die Steuer (-n)</strong> (féminin) : l'impôt, la taxe.<br>Notez aussi (Note 10) : <strong>der Streifen (-)</strong> (la bande) vs <strong>die Streife (-n)</strong> (la patrouille, dans <em>Streifenwagen</em>)."
+    },
+    {
+      "title": "Note 9 — La valeur privative ou mortelle du préfixe « ver- »",
+      "body": "Dans <em>bluten</em> (saigner) → <strong>verbluten</strong> (perdre tout son sang, mourir d'hémorragie), le préfixe inséparable <strong>ver-</strong> exprime l'idée de perte, d'épuisement complet ou de mort (cf. <em>verhungern</em>, mourir de faim ; <em>verdursten</em>, mourir de soif)."
+    },
+    {
+      "title": "Note 12 — La tournure « sein + zu + infinitif » (sens passif de possibilité ou nécessité)",
+      "body": "Dans <em>ohne die Hilfe der Dame <strong>wäre</strong> er nicht <strong>zu retten gewesen</strong></em> (« il n'aurait pu être sauvé », m. à m. : « il n'aurait pas été à sauver »), l'auxiliaire <strong>sein + zu + infinitif</strong> exprime une <strong>possibilité</strong> ou une <strong>nécessité</strong> de sens passif (ici au Subjonctif 2 passé)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Quelle est la différence de sens entre « das Steuer » et « die Steuer » ? (Note 7)",
+      "options": [
+        "das Steuer = le volant, le gouvernail ; die Steuer = l'impôt",
+        "das Steuer = l'impôt ; die Steuer = le volant",
+        "das Steuer = la voiture ; die Steuer = le scooter",
+        "Les deux mots signifient « la patrouille de police »."
+      ],
+      "answer": "das Steuer = le volant, le gouvernail ; die Steuer = l'impôt",
+      "hint": "Le verbe « steuern » (conduire) est lié au nom neutre « das Steuer ».",
+      "explanation": "Note 7 : « das Steuer (-) » = le gouvernail, le volant ; « die Steuer (-n) » = l'impôt (Mémento n° 17)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie la tournure « ohne die Hilfe der Dame wäre er nicht zu retten gewesen » ? (Note 12)",
+      "options": [
+        "Sans le secours de la dame, il n'aurait pas pu être sauvé.",
+        "Sans le secours de la dame, il aurait dû conduire seul.",
+        "Grâce à la dame, il n'a pas eu besoin de médecin.",
+        "La dame ne voulait pas sauver le blessé."
+      ],
+      "answer": "Sans le secours de la dame, il n'aurait pas pu être sauvé.",
+      "hint": "« sein + zu + infinitif » a un sens passif exprimant la possibilité ou la nécessité.",
+      "explanation": "Note 12 : « sein + zu + infinitif » (ici au subjonctif 2 passé : wäre... zu retten gewesen) exprime la possibilité passive (= il n'aurait pu être sauvé)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Quel verbe formé avec le préfixe « ver- » signifie « perdre tout son sang, mourir d'hémorragie » (Note 9) ?",
+      "answer": "verbluten",
+      "hint": "Préfixe « ver- » (idée de perte, de mort) + « bluten » (saigner).",
+      "explanation": "Note 9 : « das Blut » (le sang), « bluten » (saigner), « verbluten » (perdre tout son sang)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quelle nuance apportent les particules « herbei- » et « heran- » (herbeirennen, heranheulen) ? (Note 2)",
+      "options": [
+        "Le rapprochement vers quelqu'un ou quelque chose (vers le lieu de la scène)",
+        "L'éloignement définitif",
+        "La répétition d'une erreur",
+        "Une action réalisée en secret"
+      ],
+      "answer": "Le rapprochement vers quelqu'un ou quelque chose (vers le lieu de la scène)",
+      "hint": "Rappelez-vous la valeur de « her » (vers celui qui parle ou vers le centre de la scène).",
+      "explanation": "Note 2 : « herbei » et « heran » marquent le rapprochement vers quelqu'un ou quelque chose."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez le prétérit du verbe séparable « abbinden (a, u) » (poser un garrot, Note 11) : « Sie ___ das Bein des Schwerverletzten ab. »",
+      "answer": "band",
+      "hint": "Temps primitifs de « binden » : binden, ..., gebunden.",
+      "explanation": "Note 11 : « binden (band, gebunden) » ; « abbinden » = ligaturer, poser un garrot."
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez la proposition exprimant la possibilité passive au Subjonctif 2 passé (Note 12) :",
+      "words": [
+        "Ohne",
+        "ihre",
+        "Hilfe",
+        "wäre",
+        "er",
+        "nicht",
+        "zu",
+        "retten",
+        "gewesen."
+      ],
+      "answer": "Ohne ihre Hilfe wäre er nicht zu retten gewesen.",
+      "hint": "Inversion « wäre er » après « Ohne ihre Hilfe », puis « nicht zu retten gewesen ».",
+      "explanation": "« Ohne ihre Hilfe wäre er nicht zu retten gewesen. » (Sans son aide, il n'aurait pu être sauvé.)"
+    }
+  ]
+}

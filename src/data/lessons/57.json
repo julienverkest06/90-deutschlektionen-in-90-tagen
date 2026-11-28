@@ -1,0 +1,256 @@
+{
+  "id": "57",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Auf dem Land",
+  "titleFr": "À la campagne",
+  "proverbDe": "Nach getaner Arbeit ist gut ruhen.",
+  "proverbFr": "Quand la tâche est finie, il fait bon se reposer.",
+  "paragraphs": [
+    {
+      "de": "Ich mag die Großstadt sehr gern. Aber nach einer Woche muß ich hinaus in die Natur, in die freie Luft. Manche Leute haben ein Landhaus, wo sie den Sonntag verbringen, oder gar das Wochenende, wenn sie am Samstag frei haben. Da ich gern wandere, mache ich oft am Wochenende einen Ausflug aufs Land. Dort ist alles so ruhig, so erfrischend.",
+      "fr": "J'aime beaucoup la grande ville. Mais au bout de huit jours (d'une semaine) il faut que je sorte dans la nature, au grand air (m. à m. : à l'air libre). Certains ont une maison de campagne où ils vont passer le dimanche ou même la fin de la semaine, s'ils ont congé le samedi. Comme j'aime les randonnées, je fais souvent en fin de semaine une excursion à la campagne. Tout y est si calme, si reposant."
+    },
+    {
+      "de": "Wie gern habe ich die Wälder mit ihren stillen Pfaden unter hohen Bäumen! Stundenlang kann man dort spazieren gehen oder reiten. Man kann sich in den Schatten legen und träumen, oder auf einer Lichtung ein Sonnenbad nehmen. Auch Picknick mache ich gern.",
+      "fr": "Que j'aime les forêts avec leurs sentiers silencieux sous de grands arbres! L'on peut s'y promener des heures et des heures, ou monter à cheval. On peut s'étendre à l'ombre et rêver, ou prendre un bain de soleil dans une clairière. J'aime aussi les repas sur l'herbe."
+    },
+    {
+      "de": "Obwohl es in unseren Flüssen immer weniger Fische gibt, gehe ich gern angeln. Andere gehen auf die Jagd. Ich jage lieber nach schönen Lichtbildern. Neulich habe ich einen interessanten Film über das Leben auf dem Lande gedreht; es ist mir gelungen, wunderschöne Landschaften aufzunehmen.",
+      "fr": "Bien qu'il y ait de moins en moins (m. à m. : toujours moins) de poissons dans nos rivières, j'aime bien pêcher à la ligne. D'autres vont à la chasse. Moi, je préfère la chasse aux belles photographies. Dernièrement, j'ai fait un film intéressant sur la vie à la campagne; j'ai réussi à prendre d'admirables paysages."
+    },
+    {
+      "de": "Lecture — Wanderung bei Innsbruck : Große Omnibusse fahren ins Tal hinein. Ihnen gehört die Landstraße. Die Wanderer nehmen dankbar die Wiesenwege auf halber Höhe und grüßen den Ruetzbach, der ihnen plaudernd entgegenkommt und nur an wenigen Stellen zwischen künstlichen Böschungen dahinschnellt; sonst macht er fröhlich und selig. Was alles unterwegs ist, mit Stadt- oder Wanderschuhen, es trifft mitten in Neustift zusammen, einen Steinwurf von der Kirche entfernt, die ein Pfarrherr im 18. Jahrhundert nach eigenem Gutdünken (wie manch anderes Kirchlein im Tal) entworfen, mit viel Geschmack und geschultem Sinn gebaut hat. (Aus der Tageszeitung « Frankfurter Allgemeine Zeitung »)",
+      "fr": "Lecture — Une excursion dans la région d'Innsbruck : De grands autocars pénètrent dans la vallée. C'est à eux qu'appartient la grand-route. Les touristes empruntent avec plaisir (m. à m. : reconnaissance) les sentiers à travers champs, (m. à m. : prairies) à mi-pente et saluent le ruisseau, le Ruetzbach, qui vient à leur rencontre tout en bavardant et qui ne précipite (son cours) qu'en peu d'endroits, entre des berges artificielles; ailleurs il est gai et heureux. Tout ce qui est en chemin, tout ce qui porte chaussures de ville ou de route, se réunit dans le centre de Neustift, à un jet de pierre de l'église, dont un curé, au 18e siècle, avait tracé le plan à son idée (comme ce fut le cas pour maintes petites églises de la vallée), et qu'il avait édifiée avec beaucoup de goût et avec un esprit averti. (Extrait du quotidien « Frankfurter Allgemeine Zeitung »)"
+    }
+  ],
+  "pronunciation": "Notes phonétiques du texte : 1) Natur [natour] (accent sur la dernière syllabe, u long) ; Wochenende [woren'èn'de] (ch vélaire après o, accent principal sur Woch-). 2) spazieren [chpatçiren'] (sp initial = chp, z = ts, ie = i long accentué). Dans le vocabulaire, notez aussi reiten (diphtongue ei = aï) et les composés accentués sur le premier élément : Lichtbild, Landhaus, Sonnenbad, Wiesenwege.",
+  "vocab": [
+    {
+      "de": "der Jäger (-)",
+      "fr": "le chasseur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Pfad (-e)",
+      "fr": "le sentier",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schatten (-)",
+      "fr": "l'ombre",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Wald (¨-er)",
+      "fr": "la forêt",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Jagd (-en)",
+      "fr": "la chasse",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Lichtung (-en)",
+      "fr": "la clairière",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Natur",
+      "fr": "la nature",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Wanderung (-en)",
+      "fr": "la (grande) marche",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Lichtbild (-er)",
+      "fr": "la photo",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Photo (s)",
+      "fr": "la photo (idem)",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Picknick (s)",
+      "fr": "le pique-nique",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Wochenende (n)",
+      "fr": "la fin de la semaine",
+      "info": "Neutre"
+    },
+    {
+      "de": "angeln",
+      "fr": "pêcher à la ligne",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "drehen",
+      "fr": "tourner",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "fischen",
+      "fr": "pêcher",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "jagen",
+      "fr": "chasser",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "träumen",
+      "fr": "rêver",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "wandern",
+      "fr": "voyager (à pied)",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "gelingen (a, u)",
+      "fr": "réussir",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "es gelingt mir",
+      "fr": "je réussis (à) ...",
+      "info": "Expression"
+    },
+    {
+      "de": "reiten (ritt, geritten)",
+      "fr": "monter à cheval",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Wie gern habe ich die Wälder!",
+      "body": "Dans la proposition exclamative, la construction est généralement inverse. L'adjectif ou l'adverbe se placent après <em>wie</em>, comme.<br><em>Wie schön ist diese Lichtung im Sommer!</em> Comme cette clairière est belle, en été.<br>Cependant, on trouve aussi la construction avec rejet du verbe :<br><em>Wie schön diese Lichtung im Sommer ist!</em>"
+    },
+    {
+      "title": "Ich muß hinaus.",
+      "body": "Notez l'emploi absolu de <em>hinaus</em>, qui marque l'idée de sortir (<em>aus</em>), de s'éloigner (<em>hin</em>). Le verbe de mouvement (par exemple : <em>gehen</em> ou <em>fahren</em>) est sous-entendu."
+    },
+    {
+      "title": "Da ich gern wandere...",
+      "body": "<em>Da</em> peut avoir trois significations :<br>• <strong>Avec rejet du verbe</strong>, <em>da</em> signifie : puisque, comme.<br><em>Da ich gerne Lichtbilder mache, nehme ich immer meine Kamera mit</em>, comme j'aime prendre des photos, j'emporte toujours mon appareil.<br>• <strong>Autrement</strong>, il signifie : là (adverbe de lieu).<br><em>Da fand ich einen stillen Ort</em>, j'ai trouvé là un endroit calme.<br>• <strong>ou bien</strong> : alors (adverbe de temps).<br><em>Es war drei Uhr; da legte ich mich in den Schatten</em>, il était trois heures; alors, je me suis allongé à l'ombre."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Traduisez cette phrase exclamative : « Comme ces arbres sont hauts! » (Exercice 1)",
+      "answer": "Wie hoch sind diese Bäume!",
+      "hint": "Placez l'adjectif « hoch » juste après « Wie », puis inversez le verbe et le sujet.",
+      "explanation": "Corrigé (1) : « Wie hoch sind diese Bäume! » Dans la proposition exclamative, l'adjectif se place après « wie » et la construction est généralement inverse."
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment traduit-on « Comme il monte bien à cheval! » ? (Exercice 2)",
+      "options": [
+        "Wie schön reitet er!",
+        "Wie er schön reitet!",
+        "Wie reitet er schön!",
+        "Wie gut er reiten!"
+      ],
+      "answer": "Wie schön reitet er!",
+      "hint": "L'adverbe suit immédiatement « Wie », suivi du verbe conjugué puis du sujet.",
+      "explanation": "Corrigé (2) : « Wie schön reitet er! » L'adverbe suit « wie », avec inversion sujet-verbe."
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez la traduction de « Comme il aime aller à la chasse! » (Exercice 3)",
+      "words": [
+        "Wie",
+        "gern",
+        "geht",
+        "er",
+        "auf",
+        "die",
+        "Jagd!"
+      ],
+      "answer": "Wie gern geht er auf die Jagd!",
+      "hint": "Commencez par « Wie gern » suivi du verbe « geht » et de l'expression « auf die Jagd ».",
+      "explanation": "Corrigé (3) : « Wie gern geht er auf die Jagd! » (« auf die Jagd gehen » = aller à la chasse)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Choisissez la traduction exacte de « Comme ce film est intéressant! » (Exercice 4)",
+      "options": [
+        "Wie interessant ist dieser Film!",
+        "Wie dieser Film interessant ist!",
+        "Wie ist dieser Film interessant!",
+        "Wie interessant dieser Film sind!"
+      ],
+      "answer": "Wie interessant ist dieser Film!",
+      "hint": "Utilisez la construction exclamative inverse : Wie + adjectif + verbe + sujet.",
+      "explanation": "Corrigé (4) : « Wie interessant ist dieser Film! »"
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez la traduction de « Il avait une maison de campagne ; (c'est) là (qu')il passait souvent le dimanche. » (Exercice 5)",
+      "words": [
+        "Er",
+        "hatte",
+        "ein",
+        "Landhaus;",
+        "da",
+        "verbrachte",
+        "er",
+        "oft",
+        "den",
+        "Sonntag."
+      ],
+      "answer": "Er hatte ein Landhaus; da verbrachte er oft den Sonntag.",
+      "hint": "Ici « da » est adverbe de lieu (= là) et entraîne l'inversion du verbe « verbrachte ».",
+      "explanation": "Corrigé (5) : « Er hatte ein Landhaus; da verbrachte er oft den Sonntag. » Quand « da » signifie « là », c'est un adverbe qui entraîne l'inversion."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez : « Comme il aime la nature, il photographie souvent des paysages. » (Exercice 6)",
+      "options": [
+        "Da er die Natur liebt, nimmt er oft Landschaften auf.",
+        "Da liebt er die Natur, er nimmt oft Landschaften auf.",
+        "Da er liebt die Natur, nimmt er oft Landschaften auf.",
+        "Da er die Natur liebt, er nimmt oft Landschaften auf."
+      ],
+      "answer": "Da er die Natur liebt, nimmt er oft Landschaften auf.",
+      "hint": "Ici « da » signifie « comme / puisque » : il rejette le verbe à la fin de la subordonnée, et la principale commence par son verbe conjugué.",
+      "explanation": "Corrigé (6) : « Da er die Natur liebt, nimmt er oft Landschaften auf. » Avec rejet du verbe, « da » signifie « comme, puisque »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez : « Il pleuvait ; alors, je suis resté à la maison. » (Exercice 7)",
+      "answer": "Es regnete; da bin ich zu Hause geblieben.",
+      "hint": "Utilisez « da » (= alors) suivi de l'inversion du verbe au parfait : « bin ich ... geblieben ».",
+      "explanation": "Corrigé (7) : « Es regnete; da bin ich zu Hause geblieben. » Ici « da » est adverbe de temps (« alors »)."
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez la traduction de « J'ai trouvé là un sentier très agréable. » (Exercice 8)",
+      "words": [
+        "Da",
+        "habe",
+        "ich",
+        "einen",
+        "sehr",
+        "angenehmen",
+        "Pfad",
+        "gefunden."
+      ],
+      "answer": "Da habe ich einen sehr angenehmen Pfad gefunden.",
+      "hint": "Commencez par l'adverbe de lieu « Da », suivi de l'auxiliaire « habe », du sujet et du complément à l'accusatif.",
+      "explanation": "Corrigé (8) : « Da habe ich einen sehr angenehmen Pfad gefunden. »"
+    }
+  ]
+}

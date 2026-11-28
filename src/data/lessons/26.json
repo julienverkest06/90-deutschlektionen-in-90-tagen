@@ -1,0 +1,135 @@
+{
+  "id": "26",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Der Wagen",
+  "titleFr": "La voiture",
+  "proverbDe": "Probieren geht über Studieren.",
+  "proverbFr": "Expérience passe science (essayer est supérieur à étudier).",
+  "paragraphs": [
+    {
+      "de": "Der Fahrer zieht den Starter: er läßt den Motor an. Dann kuppelt er aus und drückt auf das Gaspedal (er gibt Gas). Er schaltet den ersten Gang ein und kuppelt langsam ein: der Wagen fährt an. Nach und nach fährt der Wagen schneller. Dann schaltet der Fahrer um, er schaltet in den zweiten Gang ein, dann in den dritten, zuletzt in den vierten.",
+      "fr": "Le conducteur tire le démarreur; il met le moteur en marche. Puis il débraie et agit sur l'accélérateur. Il met le levier de vitesse en première et embraie lentement : la voiture démarre. Peu à peu, la voiture prend de la vitesse. Alors, le conducteur change de vitesse, il passe en seconde, puis en troisième, enfin en quatrième."
+    },
+    {
+      "de": "Nun will der Fahrer den Motor abstellen. Er bremst, kuppelt aus und stellt auf Leerlauf. Er muß noch den Zündschlüssel drehen und die Handbremse anziehen. Dies alles scheint recht kompliziert zu sein, aber es ist wirklich nicht schwer, ein Auto zu fahren.",
+      "fr": "À présent, le conducteur veut arrêter le moteur. Il freine, débraie et met au point mort. Il doit encore tourner la clef de contact et mettre (tirer) le frein à main. Tout cela semble bien compliqué, mais il n'est vraiment pas difficile de conduire une voiture."
+    },
+    {
+      "de": "Ich persönlich habe die Wagen mit vier Türen am liebsten. Der meine ist ziemlich groß: sechs Personen können darin Platz nehmen. Im Kofferraum, hinten, habe ich immer einen Reservekanister mit Öl, nebst dem Ersatzrad. Letzthin habe ich die Räder kreuzweise austauschen lassen: das rechte Vorderrad hat man hinten links angebracht. Aber nun ist das linke Blinklicht außer Betrieb, und die Scheibenwischer quietschen. In der nächsten Autogarage will ich den Wagen abschmieren lassen.",
+      "fr": "Personnellement je préfère les voitures à quatre portes. La mienne est assez grande : six personnes peuvent y prendre place. Dans la malle arrière, j'ai toujours un bidon d'huile en réserve, avec la roue de secours. Dernièrement, j'ai fait croiser les roues : la roue avant droite est passée roue arrière gauche (m. à m. : on a mis...). Mais maintenant, le clignotant gauche ne marche pas, et les essuie-glaces grincent. Au prochain garage, je ferai graisser la voiture."
+    },
+    {
+      "de": "Lecture — Appel an die einheimischen Autofahrer : Jetzt in der Urlaubszeit werden die Städte vor fast unlösbare Probleme gestellt. Ortsunkundige Autofahrer suchen im dichten Verkehrsgewühl den richtigen Weg, verirren sich im Labyrinth der Umleitungen, werden nervös und stören so den Verkehr in den Innenstädten.",
+      "fr": "Lecture — Appel aux automobilistes de la région : Actuellement, dans la saison des vacances, les villes sont placées devant des problèmes presque insolubles. Des automobilistes ne connaissant pas les lieux cherchent le bon chemin dans la cohue de la circulation, s'égarent dans le labyrinthe des déviations et s'énervent, gênant ainsi la circulation dans le centre des villes."
+    },
+    {
+      "de": "Der Automobilclub von Deutschland (AvD) appelliert daher an die einheimischen Kraftfahrer, beim Erkennen von fremden Autokennzeichen den ortsunkundigen Fahrern gegenüber Höflichkeit zu üben. Oft genügt schon eine kleine Geste, ein kurzer Zuruf an der Ampel, um sich mit dem Wegsuchenden zu verständigen. Jeder ortsfremde Automobilist wird diesen Kameradschaftsdienst mit großer Dankbarkeit honorieren, und die Stadt, in der ihm diese Hilfe zuteil wurde, in guter Erinnerung behalten. (Aus der Tageszeitung « Gmünder Tagespost »)",
+      "fr": "C'est pourquoi l'« Automobile-Club d'Allemagne » lance un appel aux conducteurs de la région, en les priant — lorsqu'ils reconnaissent une immatriculation étrangère — de faire preuve de courtoisie à l'égard des automobilistes qui ne connaissent pas les lieux. Souvent, il suffit d'un petit geste seulement, d'une brève explication donnée devant les feux, pour se faire entendre de celui qui cherche son chemin. Tout automobiliste étranger à la région se montrera très reconnaissant pour ce service amical et il gardera un bon souvenir de la ville, dans laquelle il a reçu cette aide. (Extrait du quotidien « Gmünder Tagespost »)"
+    }
+  ],
+  "pronunciation": "Le v allemand se prononce [f] : vier, Vorderrad, Vater, verbringen, viel. Mais dans les mots étrangers, l'on garde la prononciation [v]. Exemple : Vase, Violine, November, Reserve. Attention : des leçons 26 à 75, la voyelle tonique continue à être marquée pour les mots nouveaux ou pour ceux en ayant deux (verbe à particule séparable, mot composé) à la rubrique vocabulaire seulement. Repères du texte : zieht [tçît], Starter [chtarter], bremst [brèm'çt], Leerlauf [lêrlaof], kompliziert [kom'plitçîrt], Ersatzrad [èrzatç-rât].",
+  "vocab": [
+    { "de": "außer Betrieb", "fr": "hors service", "info": "Expression" },
+    { "de": "der Ersatz", "fr": "le succédané", "info": "Masculin" },
+    { "de": "der Gang (¨-e)", "fr": "la vitesse", "info": "Masculin" },
+    { "de": "der Kanister (-)", "fr": "le bidon", "info": "Masculin" },
+    { "de": "der Kofferraum", "fr": "la malle", "info": "Masculin" },
+    { "de": "der Leerlauf", "fr": "le point mort", "info": "Masculin" },
+    { "de": "der Motor (s, en)", "fr": "le moteur", "info": "Masculin" },
+    { "de": "abstellen", "fr": "arrêter (moteur)", "info": "Verbe séparable" },
+    { "de": "auskuppeln", "fr": "débrayer", "info": "Verbe séparable" },
+    { "de": "bremsen", "fr": "freiner", "info": "Verbe faible" },
+    { "de": "drücken", "fr": "presser", "info": "Verbe faible" },
+    { "de": "einkuppeln", "fr": "embrayer", "info": "Verbe séparable" },
+    { "de": "einschalten", "fr": "mettre en prise", "info": "Verbe séparable" },
+    { "de": "umschalten", "fr": "changer de vitesse", "info": "Verbe séparable" },
+    { "de": "der Scheibenwischer (-)", "fr": "l'essuie-glace", "info": "Masculin" },
+    { "de": "der Zündschlüssel (-)", "fr": "la clef de contact", "info": "Masculin" },
+    { "de": "die Bremse (n)", "fr": "le frein", "info": "Féminin" },
+    { "de": "die Hand (¨-e)", "fr": "la main", "info": "Féminin" },
+    { "de": "das Blinklicht (-er)", "fr": "le clignotant", "info": "Neutre" },
+    { "de": "anlassen (ie, a, ä)", "fr": "mettre en marche", "info": "Verbe fort séparable" },
+    { "de": "anfahren (u, a, ä)", "fr": "démarrer", "info": "Verbe fort séparable" },
+    { "de": "anhalten (ie, a, ä)", "fr": "s'arrêter", "info": "Verbe fort séparable" }
+  ],
+  "grammar": [
+    {
+      "title": "Es ist wirklich nicht schwer, Auto zu fahren.",
+      "body": "L'infinitif complément (<em>fahren</em>) est précédé de <strong>zu</strong> et se place à la fin de la proposition. Dans les verbes à particule séparable, <strong>zu</strong> s'intercale entre la particule et l'infinitif :<br><em>Er vergißt nicht aus<strong>zu</strong>kuppeln</em>, il n'oublie pas de débrayer.<br>On emploie <strong>zu</strong> même après des verbes qui, en français, ont un infinitif complément direct. Exemple :<br><em>Er glaubt, etwas im Motor <strong>zu</strong> hören</em>, il croit entendre quelque chose dans le moteur."
+    },
+    {
+      "title": "Er muß die Bremse anziehen.",
+      "body": "L'infinitif complément n'est pas précédé de <strong>zu</strong> quand il dépend d'un auxiliaire de mode (voir L. 18, 19, 20), ou de l'un des verbes suivants : <em>lehren</em>, enseigner — <em>lernen</em>, apprendre — <em>heißen</em>, ordonner — <em>helfen</em>, aider — <em>sehen</em>, voir — <em>hören</em>, entendre — <em>lassen</em>, laisser — <em>machen</em>, faire. Exemple :<br><em>Er lernt Auto fahren</em>, il apprend à conduire."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "prompt": "Formez la phrase au présent : « Il veut ouvrir la malle. » (Exercice A.1)",
+      "words": ["Er", "will", "den", "Kofferraum", "aufmachen."],
+      "answer": "Er will den Kofferraum aufmachen.",
+      "hint": "Après l'auxiliaire de mode « wollen », l'infinitif n'est pas précédé de « zu » et le COD masculin est à l'accusatif (« den Kofferraum »).",
+      "explanation": "Corrigé A.1 : « Er will den Kofferraum aufmachen. » (Il veut ouvrir la malle.) Pas de « zu » après un auxiliaire de mode."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez la phrase au présent : « Du vergißt immer, die Handbremse ___. » (Tu oublies toujours de serrer le frein à main.) (Exercice A.2)",
+      "options": ["anzuziehen", "zu anziehen", "anziehen", "anziehen zu"],
+      "answer": "anzuziehen",
+      "hint": "Dans un verbe à particule séparable comme « anziehen », où se place « zu » ?",
+      "explanation": "Corrigé A.2 : « Du vergißt immer, die Handbremse anzuziehen. » Dans les verbes à particule séparable, « zu » s'intercale entre la particule et l'infinitif."
+    },
+    {
+      "type": "order",
+      "prompt": "Formez la phrase au présent : « Il peut rouler vite, ici. » (Exercice A.3)",
+      "words": ["Hier", "kann", "er", "schnell", "fahren."],
+      "answer": "Hier kann er schnell fahren.",
+      "hint": "Avec « Hier » en tête, le verbe conjugué « kann » vient en deuxième position, suivi du sujet « er », et l'infinitif sans « zu » ferme la phrase.",
+      "explanation": "Corrigé A.3 : « Hier kann er schnell fahren. » Après l'auxiliaire de mode « können », l'infinitif se place en fin de proposition sans « zu »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Formez la phrase au présent : « Il semble pleuvoir. » (Es — scheinen — regnen) (Exercice A.4)",
+      "answer": "Es scheint zu regnen.",
+      "hint": "« scheinen » n'est pas un auxiliaire de mode : l'infinitif complément est donc précédé de « zu ».",
+      "explanation": "Corrigé A.4 : « Es scheint zu regnen. » On emploie « zu » même après des verbes qui, en français, ont un infinitif complément direct."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Passez-vous souvent en quatrième vitesse ? » (Exercice B.5)",
+      "words": ["Schalten", "Sie", "oft", "den", "vierten", "Gang", "ein?"],
+      "answer": "Schalten Sie oft den vierten Gang ein?",
+      "hint": "Utilisez le verbe séparable « einschalten » avec « den vierten Gang » à l'accusatif.",
+      "explanation": "Corrigé B.5 : « Schalten Sie oft den vierten Gang ein? » La particule séparable « ein » est rejetée à la fin de la question."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez la traduction : « C'est une joie (que) de rouler dans cette voiture neuve. » — Es ist eine Freude, in diesem neuen Wagen ___. (Exercice B.6)",
+      "options": ["zu fahren", "fahren", "fahren zu", "anzufahren"],
+      "answer": "zu fahren",
+      "hint": "Après « Es ist eine Freude », l'infinitif complément est introduit par « zu » en fin de proposition.",
+      "explanation": "Corrigé B.6 : « Es ist eine Freude, in diesem neuen Wagen zu fahren. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand : « Il voulait s'arrêter, mais il ne pouvait plus freiner. » (Exercice B.7)",
+      "answer": "Er wollte anhalten, aber er konnte nicht mehr bremsen.",
+      "hint": "Utilisez le prétérit des auxiliaires de mode « wollte » et « konnte », suivis des infinitifs « anhalten » et « bremsen » sans « zu ».",
+      "explanation": "Corrigé B.7 : « Er wollte anhalten, aber er konnte nicht mehr bremsen. » Les deux infinitifs dépendent d'auxiliaires de mode, donc pas de « zu »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez en allemand : « Il espère trouver un garage. » (Exercice B.8)",
+      "options": [
+        "Er hofft, eine Garage zu finden.",
+        "Er hofft, eine Garage finden.",
+        "Er hofft zu finden eine Garage.",
+        "Er hofft, finden eine Garage zu."
+      ],
+      "answer": "Er hofft, eine Garage zu finden.",
+      "hint": "Même si « espérer » se construit directement en français, « hoffen » demande « zu » avant l'infinitif placé en fin de proposition.",
+      "explanation": "Corrigé B.8 : « Er hofft, eine Garage zu finden. » L'infinitif précédé de « zu » se place toujours à la fin de la proposition."
+    }
+  ]
+}

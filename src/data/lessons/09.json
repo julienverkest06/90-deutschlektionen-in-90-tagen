@@ -5,11 +5,11 @@
   "titleDe": "Bei der Familie Müller (1)",
   "titleFr": "Dans la famille Müller (1)",
   "proverbDe": "Jeder ist Herr in seinem Hause.",
-  "proverbFr": "Charbonnier est maître chez lui.",
+  "proverbFr": "Charbonnier est maître chez lui (m. à m. : Chacun est maître dans sa maison).",
   "paragraphs": [
     {
       "de": "Paul Dumont ist Gast bei der Familie Müller. Herr Müller hat eine Wohnung in der Mozartstraße. Das Haus gehört der Firma IMEX.",
-      "fr": "Paul Dumont est invité dans la famille Müller. Monsieur Müller a un appartement dans la rue Mozart. L'immeuble appartient à la firme IMEX."
+      "fr": "Paul Dumont est invité (mot à mot : hôte) dans la famille Müller. Monsieur Müller a un appartement dans la rue Mozart. L'immeuble (la maison) appartient à la firme IMEX."
     },
     {
       "de": "Der Gast bringt Frau Müller Blumen. Den Kindern gibt er Schokolade. Herr Müller zeigt seinem Freund die Wohnung. Sie ist groß und sehr modern.",
@@ -17,14 +17,18 @@
     },
     {
       "de": "Jetzt trinken sie Kaffee und essen Kuchen. Sie sprechen von Köln, vom Rhein, von Deutschland. Paul Dumont erzählt seinen Gastgebern von Paris und von seiner Arbeit.",
-      "fr": "À présent, ils boivent du café et mangent du gâteau. Ils parlent de Cologne, du Rhin, de l'Allemagne. Paul Dumont parle à ses hôtes de Paris et de son travail."
+      "fr": "À présent, ils boivent du café et mangent du gâteau. Ils parlent de Cologne, du Rhin, de l'Allemagne. Paul Dumont parle (mot à mot : raconte) à ses hôtes de Paris et de son travail."
+    },
+    {
+      "de": "In welcher Straße hat Herr Müller eine Wohnung? Wie ist diese Wohnung? Wem gehört das Haus? Wem bringen Sie Blumen? Wem geben Sie diese Schokolade?",
+      "fr": "Dans quelle rue Monsieur Müller a-t-il un appartement ? Comment est cet appartement ? À qui la maison appartient-elle ? À qui apportez-vous (forme de politesse) des fleurs ? À qui donnez-vous ce chocolat ?"
     }
   ],
-  "pronunciation": "Les préfixes « ge- » et « er- » (gehören, erzählen) sont atones : prononcez cette syllabe faiblement. Dans le mot composé « Gastgeber », l'accent principal est sur Gast.",
+  "pronunciation": "Les verbes gehören et erzählen ont un préfixe non accentué (atone) : ge- et er-. Prononcez cette syllabe faiblement. Schokolade, modern ne sont pas d'origine germanique et conservent l'accent tonique original. Cependant, prononcez faiblement l'e final de Schokolade ; n'oubliez pas non plus de prononcer l's finale dans « Paris ». Le nom composé Gastgeber a deux accents : un accent tonique sur Gast, et un accent moins fort (accent secondaire) sur -geber. Repères phonétiques : Wohnung [vonoung], Mozartstraße [motçart-chtraçe], Haus [haoç], Schokolade [chokolade], Kaffee [kafé], Kuchen [kouren'], Deutschland [doeutchlan't], erzählt [èrtçèlt], Gastgebern [gaçtgébern], Paris [pariç].",
   "vocab": [
     {
       "de": "der Gast (¨-e)",
-      "fr": "l'hôte (qui est reçu)",
+      "fr": "l'hôte qui est reçu",
       "info": "Masculin"
     },
     {
@@ -33,9 +37,39 @@
       "info": "Masculin"
     },
     {
+      "de": "der Kuchen (-)",
+      "fr": "le gâteau",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Blume (n)",
+      "fr": "la fleur",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Familie (n)",
+      "fr": "la famille",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Schokolade",
+      "fr": "le chocolat",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Straße (n)",
+      "fr": "la rue",
+      "info": "Féminin"
+    },
+    {
       "de": "die Wohnung (-en)",
       "fr": "l'appartement",
       "info": "Féminin"
+    },
+    {
+      "de": "Deutschland",
+      "fr": "l'Allemagne",
+      "info": "Neutre (nom de pays)"
     },
     {
       "de": "das Haus (¨-er)",
@@ -43,87 +77,126 @@
       "info": "Neutre"
     },
     {
-      "de": "bringen / geben",
-      "fr": "apporter / donner",
-      "info": "Verbes (+ Datif)"
+      "de": "erzählen",
+      "fr": "raconter",
+      "info": "Verbe faible"
     },
     {
-      "de": "erzählen / zeigen",
-      "fr": "raconter / montrer",
-      "info": "Verbes (+ Datif)"
+      "de": "zeigen",
+      "fr": "montrer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "bringen (irrégulier)",
+      "fr": "apporter",
+      "info": "Verbe irrégulier"
+    },
+    {
+      "de": "geben (er gibt)",
+      "fr": "donner",
+      "info": "Verbe fort"
     }
   ],
   "grammar": [
     {
-      "title": "Le Datif (complément d'attribution : wem ?)",
-      "body": "Marques du datif : <strong>dem / einem</strong> (masc. & neutre), <strong>der / einer</strong> (fém.), <strong>den + -n au nom</strong> (pluriel : <em>den Kindern, den Gästen</em>). Le complément au datif se place généralement avant l'accusatif : <em>Er zeigt seinem Gast die Wohnung.</em>"
+      "title": "Er zeigt seinem Gast die Wohnung. — Le datif",
+      "body": "<em>Seinem Gast</em> est le complément d'attribution. Ce complément se met au datif. En général, le nom complément d'attribution (<em>seinem Gast</em>) se place avant le nom complément d'objet direct (<em>die Wohnung</em>, accusatif).<br><br>La plupart des noms ne changent pas au datif singulier. Mais au datif pluriel, ils sont tous terminés par <strong>-n</strong>, sauf s'ils finissent au pluriel par <strong>s</strong> (<em>den Autos</em>).<br><em>Er zeigt den Gästen die Wohnung</em>, il montre l'appartement aux hôtes.<br><br>C'est l'article ou tout autre déterminatif qui marque le datif.<br><strong>Singulier :</strong><br>Masculin : <em>dem (einem, keinem) Gast</em>, à l'hôte (à un..., ne pas à un...).<br>Féminin : <em>der (einer, keiner) Firma</em>, à la firme (à une..., ne pas à une...).<br>Neutre : <em>dem (einem, keinem) Kind</em>, à l'enfant (à un..., ne pas à un...).<br><strong>Pluriel commun aux trois genres :</strong><br><em>den Gästen</em>, aux hôtes — <em>den Firmen</em>, aux firmes — <em>den Kindern</em>, aux enfants.<br><br>Pour interroger, on emploie <strong>wem</strong> (à qui ?)."
     },
     {
-      "title": "Les prépositions toujours suivies du Datif",
-      "body": "<strong>aus</strong> (hors de), <strong>bei</strong> (chez, auprès de), <strong>mit</strong> (avec), <strong>nach</strong> (après, vers), <strong>seit</strong> (depuis), <strong>von</strong> (de), <strong>zu</strong> (à, chez avec direction). Contractions : <em>von dem = vom</em>, <em>zu dem = zum</em>, <em>zu der = zur</em>."
+      "title": "Bei der Familie Müller. — Les prépositions suivies du datif",
+      "body": "Le datif est également demandé par certaines prépositions :<br><strong>aus</strong>, hors de, en : <em>Er kommt aus der Stadt</em>, il vient (hors) de la ville.<br><strong>bei</strong>, auprès de, chez (quand il y a état) : <em>Er ist bei seinem Freund</em>, il est chez son ami.<br><strong>mit</strong>, avec : <em>Er spricht mit einer Dame</em>, il parle avec une dame.<br><strong>nach</strong>, après, vers : <em>Nach dem Essen trinkt er Kaffee</em>, après le repas, il boit du café.<br><strong>seit</strong>, depuis : <em>Er ist seit einer Woche in Köln</em>, il est depuis une semaine à Cologne.<br><strong>von</strong>, de : <em>Sie sprechen von ihrem Hotel</em>, ils parlent de leur hôtel.<br><strong>zu</strong>, à, chez (quand il y a direction) : <em>Er geht zu seinem Freund</em>, il va chez son ami."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Complétez au datif (Exercice A.2) : « Er bringt ___ Dame ihren Mantel. »",
+      "prompt": "(Exercice A.3) Complétez au datif pluriel : « Er erzählt ___ von Paris. » (Il parle de Paris aux enfants.)",
       "options": [
-        "die",
-        "der",
-        "dem",
-        "den"
+        "den Kindern",
+        "die Kinder",
+        "dem Kindern",
+        "den Kinder"
       ],
-      "answer": "der",
-      "hint": "die Dame (féminin) passe à « der Dame » au datif singulier.",
-      "explanation": "Er bringt der Dame ihren Mantel."
+      "answer": "den Kindern",
+      "hint": "Au datif pluriel, l'article est « den » et le nom prend la terminaison -n.",
+      "explanation": "Corrigé A.3 : « den Kindern. Il parle de Paris aux enfants. » Au datif pluriel, tous les noms (sauf ceux en -s) prennent -n."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.6) Complétez au datif puis à l'accusatif : « Ich bringe ___ Pförtner ___ Kugelschreiber. » (J'apporte un crayon à bille au concierge.)",
+      "options": [
+        "dem / einen",
+        "den / einem",
+        "der / einen",
+        "dem / ein"
+      ],
+      "answer": "dem / einen",
+      "hint": "« der Pförtner » est complément d'attribution (datif masculin), « der Kugelschreiber » est COD (accusatif masculin).",
+      "explanation": "Corrigé A.6 : « dem ; einen. J'apporte un crayon à bille au concierge. » Le datif masculin prend « dem » et l'accusatif masculin « einen »."
     },
     {
       "type": "fill",
-      "prompt": "Complétez au datif pluriel (Exercice A.3) : « Er erzählt ___ Kinder___ von Paris. »",
-      "answer": "den Kindern",
-      "hint": "Au datif pluriel, l'article est « den » et le nom prend un « -n » final.",
-      "explanation": "den Kindern (aux enfants)."
+      "prompt": "(Exercice A.5) Complétez le déterminatif au datif : « Das Auto gehört ___ Dolmetscher. » (La voiture appartient à notre interprète.)",
+      "answer": "unserem",
+      "hint": "« gehören » se construit avec le datif ; « der Dolmetscher » est masculin singulier.",
+      "explanation": "Corrigé A.5 : « unserem. La voiture appartient à notre interprète. » Au datif masculin singulier, « unser » prend la terminaison -em."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.10) Complétez après la préposition « zu » (singulier) : « Hans läuft zu ___. » (Jean court chez son camarade.)",
+      "answer": "seinem Kameraden",
+      "hint": "« zu » gouverne le datif, et « der Kamerad » est un nom masculin faible qui prend -en.",
+      "explanation": "Corrigé A.10 : « zu seinem Kameraden. Jean court chez son camarade. » « zu » régit le datif et le masculin faible « Kamerad » prend -en au datif singulier."
     },
     {
       "type": "choice",
-      "prompt": "Préposition + datif (Exercice C.8) : « Er wohnt bei ___ Onkel. » (der Onkel)",
+      "prompt": "(Exercice B.13) Quelle question pose-t-on sur le complément d'attribution (« dem Freund ») dans : « Herr Müller zeigt dem Freund die Wohnung. » ?",
       "options": [
-        "sein",
-        "seinen",
-        "seinem",
-        "seiner"
+        "Wem zeigt Herr Müller die Wohnung?",
+        "Wer zeigt dem Freund die Wohnung?",
+        "Was zeigt Herr Müller dem Freund?",
+        "Wen zeigt Herr Müller die Wohnung?"
       ],
-      "answer": "seinem",
-      "hint": "« bei » régit toujours le datif. Onkel est masculin → seinem.",
-      "explanation": "Er wohnt bei seinem Onkel."
+      "answer": "Wem zeigt Herr Müller die Wohnung?",
+      "hint": "Pour interroger sur une personne au datif (à qui ?), on utilise un pronom interrogatif en -m.",
+      "explanation": "Corrigé B.13.B : « Wem zeigt Herr Müller die Wohnung? » « Wem » signifie « à qui ? » (datif)."
     },
     {
       "type": "order",
-      "prompt": "Posez la question avec Wem? (Exercice B.13) : « À qui Monsieur Müller montre-t-il l'appartement ? »",
+      "prompt": "(Exercice C.16) Traduisez en allemand : « À qui donnez-vous (forme de politesse) ces livres ? »",
       "words": [
         "Wem",
-        "zeigt",
-        "Herr",
-        "Müller",
-        "die",
-        "Wohnung?"
+        "geben",
+        "Sie",
+        "diese",
+        "Bücher?"
       ],
-      "answer": "Wem zeigt Herr Müller die Wohnung?",
-      "hint": "« Wem » (à qui ?) introduit la question sur le complément au datif.",
-      "explanation": "Wem zeigt Herr Müller die Wohnung?"
+      "answer": "Wem geben Sie diese Bücher?",
+      "hint": "Commencez par « Wem » suivi du verbe conjugué « geben » et du sujet « Sie ».",
+      "explanation": "Corrigé C.16 : « Wem geben Sie diese Bücher? »"
     },
     {
-      "type": "choice",
-      "prompt": "Traduisez (Exercice C.18) : « Cette voiture n'appartient pas au portier (der Pförtner). »",
-      "options": [
-        "Dieses Auto gehört dem Pförtner nicht.",
-        "Dieses Auto gehört den Pförtner nicht.",
-        "Dieses Auto gehört der Pförtner nicht.",
-        "Dieses Auto gehört das Pförtner nicht."
+      "type": "order",
+      "prompt": "(Exercice C.15) Traduisez en allemand : « Nous montrerons l'hôtel à nos amis. »",
+      "words": [
+        "Wir",
+        "werden",
+        "unseren",
+        "Freunden",
+        "das",
+        "Hotel",
+        "zeigen."
       ],
+      "answer": "Wir werden unseren Freunden das Hotel zeigen.",
+      "hint": "Au futur avec « werden », le complément au datif pluriel (« unseren Freunden ») précède le COD (« das Hotel ») et l'infinitif va à la fin.",
+      "explanation": "Corrigé C.15 : « Wir werden unseren Freunden das Hotel zeigen. » (« unseren Freunden » est au datif pluriel en -n)."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice C.18) Traduisez en allemand : « Cette voiture (das Auto) n'appartient pas au portier. »",
       "answer": "Dieses Auto gehört dem Pförtner nicht.",
-      "hint": "gehören gouverne le datif (der Pförtner → dem Pförtner).",
-      "explanation": "Dieses Auto gehört dem Pförtner nicht."
+      "hint": "Employez « gehören » + datif (« dem Pförtner ») et placez la négation « nicht » à la fin.",
+      "explanation": "Corrigé C.18 : « Dieses Auto gehört dem Pförtner nicht. »"
     }
   ]
 }

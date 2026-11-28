@@ -5,7 +5,7 @@
   "titleDe": "Handwerk und Industrie",
   "titleFr": "L'artisanat et l'industrie",
   "proverbDe": "Handwerk hat goldenen Boden.",
-  "proverbFr": "Tout métier nourrit son homme.",
+  "proverbFr": "Tout métier nourrit son homme (m. à m. : Le métier a un fond d'or).",
   "paragraphs": [
     {
       "de": "Nach der Besichtigung der Spinnerei sprachen die Herren noch lange vom alten Handwerk und von der modernen Industrie. Früher spannen viele Familien selbst ihre Wolle, besonders auf dem Land. Dann gab es kleine Werkstätten, in den Dörfern wie in den Städten.",
@@ -13,23 +13,18 @@
     },
     {
       "de": "Der Tischler, der Schneider arbeiteten in ihrer Werkstatt. Sie hatten sie oft von ihrem Vater übernommen. Diese Werkstatt war klein und nicht sehr hell. Die Handwerker durften aber auf ihre Arbeit stolz sein.",
-      "fr": "L'ébéniste, le tailleur travaillaient dans leur atelier. Ils l'avaient souvent repris de leur père. Cet atelier était exigu et pas très clair. Mais les artisans pouvaient être fiers de leur travail."
+      "fr": "L'ébéniste, le tailleur travaillaient dans leur atelier. Ils l'avaient souvent repris de leur père. Cet atelier était exigu et pas très clair. Mais les artisans pouvaient (mot à mot : avaient le droit d') être fiers de (mot à mot : sur) leur travail."
     },
     {
-      "de": "— Ja, heute arbeiten sie sehr oft in einer Fabrik, sagte Herr Müller. Ihre Arbeit ist geregelt, die Räume sind hell und sauber. — Aber ihre Produkte sind anonym, antwortete Herr Neuler; sie machen ihnen weniger Freude.",
-      "fr": "— Oui, aujourd'hui, ils travaillent très souvent dans une usine, dit Monsieur Müller. Leur travail est réglementé, les salles sont claires et propres. — Mais leurs produits sont anonymes, répondit Monsieur Neuler ; ils leur procurent moins de joie."
+      "de": "— Ja, heute arbeiten sie sehr oft in einer Fabrik, sagte Herr Müller. Ihre Arbeit ist geregelt, die Räume sind hell und sauber. — Aber ihre Produkte sind anonym, antwortete Herr Neuler; sie machen ihnen weniger Freude. — Gewiß, sagte Herr Müller. Eine Fabrik kann jedoch billige Artikel erzeugen. Sie kann auch Hunderte von Arbeitern beschäftigen.",
+      "fr": "— Oui, aujourd'hui, ils travaillent très souvent dans une usine, dit Monsieur Müller. Leur travail est réglementé, les salles sont claires et propres. — Mais leurs produits sont anonymes, répondit Monsieur Neuler, ils leur procurent moins de joie. — Certainement, dit Monsieur Müller. Une usine, cependant, peut produire des articles bon marché. Elle peut aussi employer des centaines d'ouvriers."
     }
   ],
-  "pronunciation": "La lettre « y » [upsilon] dans les mots étrangers (anonym, Hypothese) se prononce comme le « u » français dans lune.",
+  "pronunciation": "La lettre y, appelée en allemand [upsilon'], apparaît dans les mots étrangers. Elle se prononce comme la voyelle [u], dans lune. Exemples : anonym, Hypothese [hupotéze]. En tête de mot, elle correspond à notre y dans yeux. Repères phonétiques du texte : Handwerk [han'tvèrk], früher [frü/er], selbst [zèlbçt], Werkstätten [vèrkchtèten'] ; Tischler [tichler], Schneider [chnaéder] ; geregelt [gérégelt], Räume [roeume], anonym [anonum], jedoch [yédor], erzeugen [èrtçoeugen'].",
   "vocab": [
     {
-      "de": "das Handwerk (-e)",
-      "fr": "l'artisanat, le métier",
-      "info": "Neutre"
-    },
-    {
-      "de": "der Tischler (-)",
-      "fr": "l'ébéniste, le menuisier",
+      "de": "der Handwerker (-)",
+      "fr": "l'artisan, l'ouvrier",
       "info": "Masculin"
     },
     {
@@ -38,66 +33,151 @@
       "info": "Masculin"
     },
     {
-      "de": "die Werkstatt (¨-en)",
+      "de": "der Tischler (-)",
+      "fr": "l'ébéniste",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Freude (n)",
+      "fr": "la joie",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Werkstatt (Werkstätten)",
       "fr": "l'atelier",
       "info": "Féminin"
     },
     {
+      "de": "die Wolle",
+      "fr": "la laine",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Dorf (¨-er)",
+      "fr": "le village",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Handwerk (-e)",
+      "fr": "l'artisanat, le métier",
+      "info": "Neutre"
+    },
+    {
       "de": "erzeugen",
-      "fr": "produire, fabriquer",
-      "info": "Verbe inséparable"
+      "fr": "produire",
+      "info": "Verbe régulier"
     },
     {
       "de": "übernehmen (a, o, i)",
-      "fr": "reprendre, prendre en charge",
-      "info": "Verbe fort"
+      "fr": "prendre en charge, reprendre",
+      "info": "Verbe fort inséparable"
     }
   ],
   "grammar": [
     {
-      "title": "Le plus-que-parfait et les auxiliaires de mode (können, dürfen)",
-      "body": "Plus-que-parfait : <em>hatte / war</em> + participe passé en fin de proposition (<em>Sie hatten sie von ihrem Vater übernommen</em>).<br><strong>können</strong> = pouvoir (capacité) ; <strong>dürfen</strong> = avoir la permission, le droit de (<em>Die Handwerker durften stolz sein</em>)."
+      "title": "Le plus-que-parfait (Sie hatten die Werkstatt von ihrem Vater übernommen.)",
+      "body": "Le plus-que-parfait se forme à l'aide de l'auxiliaire <em>haben</em> (parfois <em>sein</em>) au prétérit, et du participe passé du verbe à conjuguer.<br><strong>Exemples :</strong><br><em>Ich hatte eine Fabrik besichtigt</em>, j'avais visité une usine.<br><em>Ich war früh gekommen</em>, j'étais venu de bonne heure."
+    },
+    {
+      "title": "Les verbes irréguliers : altérations du radical (Sie sprachen von Handwerk und Industrie.)",
+      "body": "Le radical d'un verbe irrégulier peut s'altérer au prétérit, au participe passé, au présent de l'indicatif (2e et 3e pers. du singulier seulement) et à l'impératif. Nous indiquerons dans cet ordre, et après chaque verbe irrégulier, les modifications du radical, et il est indispensable de les apprendre en même temps que l'infinitif.<br><strong>Exemples :</strong><br><strong>finden (a, u)</strong>, trouver = <em>er fand</em>, il trouva, <em>er hat... gefunden</em>, il a trouvé.<br><strong>schlafen (ie, a, ä)</strong>, dormir = <em>er schlief</em>, il dormit, il dormait, <em>er hat... geschlafen</em>, il a dormi, <em>er schläft</em>, il dort."
+    },
+    {
+      "title": "Les auxiliaires de mode können et dürfen (Die Fabrik kann billige Artikel erzeugen. Die Handwerker durften stolz sein.)",
+      "body": "Les verbes <em>können</em> et <em>dürfen</em> sont les deux derniers des six auxiliaires de mode. Ils ont le sens général de « pouvoir ».<br>a) <strong>können</strong> : pouvoir (possibilité matérielle) ; savoir ;<br>b) <strong>dürfen</strong> : pouvoir (avoir le droit de).<br><br><strong>Können — Présent / Prétérit :</strong><br><em>ich kann</em> (je peux, sais) / <em>ich konnte</em> (je pouvais)<br><em>du kannst</em> / <em>du konntest</em><br><em>er (sie, es) kann</em> / <em>er konnte</em><br><em>wir können</em> / <em>wir konnten</em><br><em>ihr könnt</em> / <em>ihr konntet</em><br><em>sie (Sie) können</em> / <em>sie konnten</em><br><br><strong>Dürfen — Présent / Prétérit :</strong><br><em>ich darf</em> (je peux) / <em>ich durfte</em> (je pouvais)<br><em>du darfst</em> / <em>du durftest</em><br><em>er darf</em> / <em>er durfte</em><br><em>wir dürfen</em> / <em>wir durften</em><br><em>ihr dürft</em> / <em>ihr durftet</em><br><em>sie dürfen</em> / <em>sie durften</em><br><br><strong>Exemples :</strong><br><em>Ein Blinder kann nicht sehen</em>, un aveugle ne peut pas voir.<br><em>Kannst du englisch?</em> sais-tu l'anglais ?<br><em>Er darf jetzt spielen</em>, il peut jouer maintenant (il en a le droit)."
     }
   ],
   "exercises": [
     {
-      "type": "choice",
-      "prompt": "Que signifie « dürfen » dans « Die Handwerker durften auf ihre Arbeit stolz sein » ?",
-      "options": [
-        "Avoir le droit / la légitimité de",
-        "Être obligé de",
-        "Vouloir",
-        "Savoir faire"
-      ],
-      "answer": "Avoir le droit / la légitimité de",
-      "hint": "dürfen exprime la permission ou le droit.",
-      "explanation": "Les artisans avaient le droit d'être fiers de leur travail."
+      "type": "fill",
+      "prompt": "(Exercice A.1) Mettez au plus-que-parfait : « Sie sprechen von einer Fabrik. »",
+      "answer": "Sie hatten von einer Fabrik gesprochen.",
+      "hint": "Auxiliaire haben au prétérit (hatten) + participe passé de sprechen (gesprochen) à la fin.",
+      "explanation": "Corrigé A.1 : « Sie hatten von einer Fabrik gesprochen. » (Ils avaient parlé d'une usine.)"
     },
     {
       "type": "choice",
-      "prompt": "Comment se prononce le « y » dans « anonym » ?",
+      "prompt": "(Exercice A.4) Mettez au plus-que-parfait (auxiliaire sein) : « Ich fahre nach Köln. »",
       "options": [
-        "Comme le « u » français (lune)",
-        "Comme le « i » français (lit)",
-        "Comme le « ou » français",
-        "Comme le « aï »"
+        "Ich war nach Köln gefahren.",
+        "Ich hatte nach Köln gefahren.",
+        "Ich bin nach Köln gefahren.",
+        "Ich war nach Köln gefahrt."
       ],
-      "answer": "Comme le « u » français (lune)",
-      "hint": "Note de prononciation page 91 : y = [u].",
-      "explanation": "Dans les mots étrangers, y se prononce [u]."
+      "answer": "Ich war nach Köln gefahren.",
+      "hint": "Le verbe fahren se conjugue avec sein au prétérit (ich war) et son participe passé est irrégulier (gefahren).",
+      "explanation": "Corrigé A.4 : « Ich war nach Köln gefahren. » (J'étais allé à Cologne.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.7) Complétez au présent avec können : « Du ... noch nicht gut italienisch. »",
+      "answer": "kannst",
+      "hint": "Au singulier du présent, können change de voyelle : ich kann, du ...",
+      "explanation": "Corrigé B.7 : « Du kannst noch nicht gut italienisch. » (Tu ne sais pas bien encore l'italien.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice B.10) Complétez au présent avec dürfen : « Im Kino ... man nicht rauchen. »",
+      "options": [
+        "darf",
+        "dürft",
+        "durfte",
+        "kann"
+      ],
+      "answer": "darf",
+      "hint": "Avec man (3e personne du singulier), dürfen a pour forme au présent « darf » (avoir le droit de).",
+      "explanation": "Corrigé B.10 : « Im Kino darf man nicht rauchen. » (Au cinéma, on ne doit pas [= n'a pas le droit de] fumer.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.8 — prétérit) Mettez au prétérit avec können : « Ihr ... mit diesem Wagen nicht fortfahren. »",
+      "answer": "konntet",
+      "hint": "Au prétérit, können perd son tréma : ich konnte, ihr ...",
+      "explanation": "Corrigé B.8 (prétérit) : « konntet » (« Ihr konntet mit diesem Wagen nicht fortfahren. »)."
     },
     {
       "type": "order",
-      "prompt": "Reconstituez le proverbe de la leçon :",
+      "prompt": "(Exercice C.11) Traduisez : « L'industrie produit souvent des articles bon marché. »",
       "words": [
-        "Handwerk",
-        "hat",
-        "goldenen",
-        "Boden."
+        "Die",
+        "Industrie",
+        "erzeugt",
+        "oft",
+        "billige",
+        "Artikel."
       ],
-      "answer": "Handwerk hat goldenen Boden.",
-      "hint": "Littéralement : Le métier a un fond d'or.",
-      "explanation": "Handwerk hat goldenen Boden."
+      "answer": "Die Industrie erzeugt oft billige Artikel.",
+      "hint": "Produire = erzeugen ; souvent = oft ; des articles bon marché = billige Artikel.",
+      "explanation": "Corrigé C.11 : « Die Industrie erzeugt oft billige Artikel. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.12) Traduisez : « Tu peux être fier de ta voiture. »",
+      "words": [
+        "Du",
+        "darfst",
+        "stolz",
+        "auf",
+        "deinen",
+        "Wagen",
+        "sein."
+      ],
+      "answer": "Du darfst stolz auf deinen Wagen sein.",
+      "hint": "Avoir le droit d'être fier de = stolz auf (+ accusatif) sein dürfen.",
+      "explanation": "Corrigé C.12 : « Du darfst stolz auf deinen Wagen sein. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice C.14) Traduisez : « Cet ébéniste avait longtemps travaillé en France. »",
+      "options": [
+        "Dieser Tischler hatte lange in Frankreich gearbeitet.",
+        "Dieser Tischler war lange in Frankreich gearbeitet.",
+        "Dieser Schneider hatte lange in Frankreich gearbeitet.",
+        "Dieser Tischler hat lange in Frankreich gearbeitet."
+      ],
+      "answer": "Dieser Tischler hatte lange in Frankreich gearbeitet.",
+      "hint": "L'ébéniste = der Tischler ; le plus-que-parfait se forme avec hatte + gearbeitet.",
+      "explanation": "Corrigé C.14 : « Dieser Tischler hatte lange in Frankreich gearbeitet. »"
     }
   ]
 }

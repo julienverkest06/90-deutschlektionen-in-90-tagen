@@ -5,99 +5,204 @@
   "titleDe": "Erholung zwischen Blumen und Gemüse",
   "titleFr": "Délassement entre les fleurs et les légumes",
   "proverbDe": "Wer zuletzt lacht, lacht am besten.",
-  "proverbFr": "Rira bien qui rira le dernier.",
+  "proverbFr": "Rira bien qui rira le dernier (qui rit le dernier, rit le mieux).",
   "paragraphs": [
     {
-      "de": "In der Vorstadt gibt es viele Kleingärtner (oder Hobbygärtner). Ihr Garten ist für sie Freude und Erholung. Hier arbeiten sie an den schönen Tagen. Sie sitzen auch gern in dem Gartenhäuschen, trinken Bier und spielen Karten.",
-      "fr": "Dans la banlieue, il y a beaucoup de jardiniers amateurs. Leur jardin représente pour eux joie et délassement. Ils travaillent ici par les belles journées. Ils aiment également être assis dans la tonnelle, en buvant de la bière et en jouant aux cartes."
+      "de": "In der Vorstadt gibt es viele Kleingärtner (oder Hobbygärtner). Ihr Garten ist für sie Freude und Erholung. Hier arbeiten sie an den schönen Tagen. Sie sitzen auch gern in dem Gartenhäuschen, trinken Bier und spielen Karten. Regen und Sonne, natürlich auch viel Arbeit, haben allerlei Blumen und Gemüse hervorgebracht.",
+      "fr": "Dans la banlieue, il y a beaucoup de jardiniers amateurs. Leur jardin représente pour eux joie et délassement. Ils travaillent ici par les belles journées. Ils aiment également être assis dans la tonnelle, en buvant de la bière et en jouant aux cartes. La pluie et le soleil, naturellement beaucoup de travail aussi, ont produit toutes sortes de fleurs et de légumes."
     },
     {
       "de": "Herr Möll, der Pförtner, hat auch einen Kleingarten. Seine zwei Söhne und seine Tochter Monika helfen ihm oft. Sie pflanzen am liebsten Blumen. Gestern sind sie alle drei gekommen; sie haben ein wenig gearbeitet. Dann haben sie ihrer Mutter Blumen gebracht.",
-      "fr": "Monsieur Möll, le portier, a également un petit jardin. Ses deux fils et sa fille Monique l'aident souvent. Ils aiment le plus planter des fleurs. Hier, ils sont venus tous les trois ; ils ont travaillé un peu. Ensuite, ils ont porté des fleurs à leur mère."
+      "fr": "Monsieur Möll, le portier, a également un petit jardin. Ses deux fils et sa fille Monique l'aident souvent. Ils aiment le plus planter des fleurs. Hier, ils sont venus tous les trois; ils ont travaillé un peu. Ensuite, ils ont porté des fleurs à leur mère."
     },
     {
       "de": "— Wie schön ist diese rote Rose! Ich möchte nur Rosen in unserem Garten, sagte Monika zu ihren Brüdern. Aber diese lachten über ihre Schwester. Sie haben lieber die schönen, gelben Äpfel, die saftigen Birnen, die braunen Nüsse.",
-      "fr": "— Comme cette rose rouge est belle ! Moi, je ne voudrais que des roses dans notre jardin, dit Monique à ses frères. Mais ceux-ci se moquèrent de leur sœur. Ils préfèrent les belles pommes jaunes, les poires juteuses, les noix brunes."
+      "fr": "Comme cette rose rouge est belle! Moi, je ne voudrais que des roses dans notre jardin, dit Monique à ses frères. Mais ceux-ci se moquèrent de leur sœur. Ils préfèrent (= aiment mieux) les belles pommes jaunes, les poires juteuses, les noix brunes."
     }
   ],
-  "pronunciation": "u se prononce [ou] (Erholung, Blumen, Mutter), tandis que ü se prononce [u] comme dans « lune » (Gemüse, natürlich, Brüdern, Nüsse).",
+  "pronunciation": "Nous sommes familiarisés maintenant avec cette particularité de prononciation : u se dit [ou]. Nous trouvons, dans cette leçon : Erholung, Blumen, Mutter, unserem. Cependant, ü se prononce [u] comme dans « lune » : Gemüse, natürlich, Brüdern, Nüsse. Attention (leçons 21 à 25) : l'accent tonique n'est plus signalé dans le livre lorsqu'il tombe sur la première syllabe du mot (ou sur un participe passé dont l'infinitif est accentué sur la première syllabe), mais reste noté pour les mots à deux accents (verbes à particule séparable et mots composés). Repères phonétiques : Erholung [èrholoung], Gemüse [gemuze], Kleingärtner [klaén'gèrtner], Gartenhäuschen [garten'hoeuç/chen'], hervorgebracht [hèrfor-gébrart], Söhne [zeune], Tochter [torter], Schwester [chwèçter], Äpfel [èpfel], saftigen [zaftigen'].",
   "vocab": [
     {
       "de": "der Apfel (¨)",
       "fr": "la pomme",
-      "info": "Pluriel : die Äpfel"
+      "info": "Masculin"
     },
     {
-      "de": "die Birne (-n)",
+      "de": "der Bruder (¨)",
+      "fr": "le frère",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Gärtner (-)",
+      "fr": "le jardinier",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Saft (¨-e)",
+      "fr": "le jus",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Sohn (¨-e)",
+      "fr": "le fils",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Birne (n)",
       "fr": "la poire",
       "info": "Féminin"
     },
     {
-      "de": "das Gemüse (sg.)",
+      "de": "die Erholung",
+      "fr": "le délassement",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Mutter (¨)",
+      "fr": "la mère",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Schwester (n)",
+      "fr": "la sœur",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Tochter (¨)",
+      "fr": "la fille",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Gemüse (sing.)",
       "fr": "les légumes",
-      "info": "Neutre singulier en allemand"
+      "info": "Neutre (singulier)"
     },
     {
-      "de": "helfen (a, o, i) + Datif",
+      "de": "pflanzen",
+      "fr": "planter",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "lachen über (+ accusatif)",
+      "fr": "se moquer de",
+      "info": "Verbe + préposition"
+    },
+    {
+      "de": "helfen (a, o; i) + Datif",
       "fr": "aider",
-      "info": "Verbe fort"
+      "info": "Verbe fort (+ datif)"
     },
     {
-      "de": "lachen über (+ Acc.)",
-      "fr": "se moquer de, rire de",
-      "info": "Préposition + acc."
-    },
-    {
-      "de": "hervorbringen",
+      "de": "hervorbringen (brachte, gebracht)",
       "fr": "produire",
-      "info": "Particule séparable : hervor"
+      "info": "Verbe séparable irrégulier (voir leçon 7, 3)"
     }
   ],
   "grammar": [
     {
-      "title": "La déclinaison faible de l'adjectif épithète",
-      "body": "Précédé de l'article défini (<em>der, die, das</em>) ou d'un démonstratif (<em>dieser</em>), l'adjectif prend <strong>-e</strong> au nominatif singulier (et acc. fém./neutre) et <strong>-en</strong> partout ailleurs (y compris à tous les cas du pluriel : <em>die schönen, gelben Äpfel</em>)."
+      "title": "Wie schön ist die rote Rose! — La déclinaison faible de l'adjectif épithète",
+      "body": "L'adjectif épithète se place devant le nom et il prend certaines terminaisons, c'est-à-dire qu'il se décline. Quand il est précédé d'un article défini (<em>der, die, das; die</em>) ou d'un déterminatif (<em>dieser</em>, etc. ; voir leçon 5), il se décline ainsi :<br><strong>Nom.</strong> : <em>der gut-e</em> (Masc.), <em>die gut-e</em> (Fém.), <em>das gut-e</em> (Ntre), <em>die gut-en</em> (Plur., 3 genres)<br><strong>Gén.</strong> : <em>des gut-en</em>, <em>der gut-en</em>, <em>des gut-en</em>, <em>der gut-en</em><br><strong>Dat.</strong> : <em>dem gut-en</em>, <em>der gut-en</em>, <em>dem gut-en</em>, <em>den gut-en</em><br><strong>Acc.</strong> : <em>den gut-en</em>, <em>die gut-e</em>, <em>das gut-e</em>, <em>die gut-en</em><br>On appelle cette déclinaison « faible ». Pour bien la retenir, notez que les terminaisons <strong>-en</strong> forment la silhouette d'une clé : seuls le nominatif singulier (<em>der, die, das</em>) et l'accusatif féminin et neutre singuliers (<em>die, das</em>) prennent <strong>-e</strong> ; tous les autres cas prennent <strong>-en</strong>."
+    },
+    {
+      "title": "Sie sind in den Garten gekommen, und sie haben gearbeitet — Emploi des auxiliaires sein et haben",
+      "body": "Pour former le passé composé ou le plus-que-parfait, on emploie :<br><strong>Sein</strong> : a) avec les verbes intransitifs marquant un mouvement (<em>kommen, gehen</em>) ou un changement d'état (<em>erwachen</em>) ; b) avec le verbe <em>sein</em> lui-même, avec <em>werden</em> et <em>bleiben (ie, ie)</em> (rester).<br><em>Er ist in die Stadt gefahren</em>, il s'est rendu en ville.<br><em>Er ist lange dort geblieben</em>, il y est resté longtemps.<br><strong>Haben</strong> : a) avec tous les verbes transitifs (<em>arbeiten, schreiben, nehmen</em>) ; b) avec les verbes réfléchis (voir leçons 13 et 14).<br><em>Er hat seinen Kamm genommen</em>, il a pris son peigne.<br><em>Er hat sich gekämmt</em>, il s'est coiffé."
+    },
+    {
+      "title": "Les auxiliaires de temps au passé composé",
+      "body": "<em>Ich habe... gehabt, du hast... gehabt</em>, j'ai eu, etc.<br><em>Ich bin... gewesen, du bist... gewesen</em>, j'ai été, etc.<br><em>Ich bin... geworden, du bist... geworden</em>, je suis devenu, etc."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Déclinaison faible : « Wie schön ist diese ___ Rose! »",
+      "prompt": "(Exercice A.2) Complétez les terminaisons des adjectifs : « Er gab der klein___ Schwester diese rot___ Rose. »",
       "options": [
-        "rote",
-        "roten",
-        "roter",
-        "rotes"
+        "kleinen / rote",
+        "kleine / rote",
+        "kleinen / roten",
+        "kleine / roten"
       ],
-      "answer": "rote",
-      "hint": "Nominatif féminin singulier après « diese » → terminaison -e.",
-      "explanation": "diese rote Rose."
+      "answer": "kleinen / rote",
+      "hint": "« der Schwester » est au datif féminin ; « diese Rose » est à l'accusatif féminin.",
+      "explanation": "Corrigé A.2 : « Er gab der kleinen Schwester diese rote Rose. » Au datif singulier, l'adjectif faible prend -en (kleinen) ; à l'accusatif féminin singulier après diese, il prend -e (rote)."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.4) Complétez l'adjectif épithète au pluriel : « Welche ___ Städte kennst du? » (deutsch)",
+      "answer": "deutschen",
+      "hint": "Au pluriel de la déclinaison faible (après welche), quelle terminaison prend toujours l'adjectif ?",
+      "explanation": "Corrigé A.4 : « Welche deutschen Städte kennst du? » (Quelles villes allemandes connais-tu ?). Après un déterminatif comme welche, l'adjectif au pluriel prend toujours -en."
     },
     {
       "type": "choice",
-      "prompt": "Déclinaison faible au pluriel : « Sie haben lieber die ___, ___ Äpfel. »",
+      "prompt": "(Exercice A.5) Choisissez les terminaisons exactes : « Die jung___ Dame bewundert die schön___ Blumen dieses groß___ Gartens. »",
       "options": [
-        "schönen, gelben",
-        "schöne, gelbe",
-        "schöner, gelber",
-        "schönes, gelbes"
+        "junge / schönen / großen",
+        "jungen / schöne / großen",
+        "junge / schöne / großer",
+        "junge / schönen / großes"
       ],
-      "answer": "schönen, gelben",
-      "hint": "Au pluriel après « die », tous les adjectifs prennent -en.",
-      "explanation": "die schönen, gelben Äpfel."
+      "answer": "junge / schönen / großen",
+      "hint": "Repérez les cas : nominatif féminin singulier, accusatif pluriel et génitif masculin singulier.",
+      "explanation": "Corrigé A.5 : « Die junge Dame bewundert die schönen Blumen dieses großen Gartens. » (Nom. fém. : -e ; Acc. plur. : -en ; Gén. masc. : -en)."
     },
     {
       "type": "choice",
-      "prompt": "Quel cas gouverne le verbe « helfen » (aider) ?",
+      "prompt": "(Exercice B.9) Mettez au passé composé : « Wir kleiden uns schnell an. »",
       "options": [
-        "Le Datif (helfen ihm)",
-        "L'Accusatif (helfen ihn)",
-        "Le Génitif",
-        "Le Nominatif"
+        "Wir haben uns schnell angekleidet.",
+        "Wir sind uns schnell angekleidet.",
+        "Wir haben uns schnell geankleidet.",
+        "Wir sind schnell angekleidet."
       ],
-      "answer": "Le Datif (helfen ihm)",
-      "hint": "Exemple du texte : « Seine Söhne helfen ihm oft. »",
-      "explanation": "helfen + Datif."
+      "answer": "Wir haben uns schnell angekleidet.",
+      "hint": "Les verbes réfléchis se conjuguent toujours avec haben, et an- est une particule séparable.",
+      "explanation": "Corrigé B.9 : « Wir haben uns schnell angekleidet. » (Nous nous sommes habillés vite.) En allemand, tous les verbes réfléchis emploient l'auxiliaire haben."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.10) Complétez l'auxiliaire au passé composé (« Ihr lauft in den Garten. ») : « Ihr ___ in den Garten gelaufen. »",
+      "answer": "seid",
+      "hint": "laufen est un verbe intransitif de mouvement qui se conjugue avec sein.",
+      "explanation": "Corrigé B.10 : « Ihr seid in den Garten gelaufen. » (Vous avez couru au jardin.) Les verbes intransitifs de mouvement prennent l'auxiliaire sein."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.13) Complétez le participe passé (« Wird er Ingenieur? » au passé composé) : « Ist er Ingenieur ___? »",
+      "answer": "geworden",
+      "hint": "Révisez le passé composé de l'auxiliaire werden : ich bin... geworden.",
+      "explanation": "Corrigé B.13 : « Ist er Ingenieur geworden? » (Est-il devenu ingénieur ?). Le verbe werden forme son passé composé avec sein et le participe passé geworden."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.16) Traduisez en allemand : « Nous avons commandé cette belle montre pour notre fils. »",
+      "words": [
+        "Wir",
+        "haben",
+        "diese",
+        "schöne",
+        "Uhr",
+        "für",
+        "unseren",
+        "Sohn",
+        "bestellt."
+      ],
+      "answer": "Wir haben diese schöne Uhr für unseren Sohn bestellt.",
+      "hint": "diese schöne Uhr (acc. fém.), für + accusatif (unseren Sohn), participe passé bestellt en fin de phrase.",
+      "explanation": "Corrigé C.16 : « Wir haben diese schöne Uhr für unseren Sohn bestellt. » Le participe passé des verbes en be- (bestellen) ne prend pas ge-."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice C.17) Traduisez : « Werner s'est assis dans la voiture neuve de son collègue. »",
+      "options": [
+        "Werner hat sich in den neuen Wagen seines Kollegen gesetzt.",
+        "Werner ist sich in den neuen Wagen seines Kollegen gesetzt.",
+        "Werner hat sich in dem neuen Wagen seines Kollegen gesetzt.",
+        "Werner hat sich in den neue Wagen seines Kollegen gesetzt."
+      ],
+      "answer": "Werner hat sich in den neuen Wagen seines Kollegen gesetzt.",
+      "hint": "sich setzen est réfléchi (auxiliaire haben), exprime un mouvement (in + accusatif) et neuen suit la déclinaison faible à l'accusatif masculin.",
+      "explanation": "Corrigé C.17 : « Werner hat sich in den neuen Wagen seines Kollegen gesetzt. » On emploie haben (verbe réfléchi), in den neuen Wagen (accusatif masculin : -en) et le génitif seines Kollegen."
     }
   ]
 }

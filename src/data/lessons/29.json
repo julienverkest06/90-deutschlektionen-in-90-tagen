@@ -2,62 +2,130 @@
   "id": "29",
   "series": 2,
   "authentic": true,
-  "titleDe": "Am Flughafen (bevor, nachdem & noms adjectivaux)",
-  "titleFr": "À l'aéroport : avant que, après que et adjectifs substantivés",
-  "proverbDe": "Vorsicht ist die Mutter der Porzellankiste.",
-  "proverbFr": "Prudence est mère de sûreté.",
+  "titleDe": "Wir reisen mit dem Flugzeug",
+  "titleFr": "Nous voyageons par avion",
+  "proverbDe": "Zeit ist Geld.",
+  "proverbFr": "Le temps, c'est de l'argent",
   "paragraphs": [
     {
-      "de": "Bevor ich den Flugschein löse, möchte ich die Preisbedingungen kennen. Nachdem er die Fluggesellschaft benachrichtigt hatte, trat er die Rückreise an.",
-      "fr": "Avant de prendre le billet d'avion, je voudrais connaître les conditions de prix. Après avoir avisé la compagnie aérienne, il entreprit le voyage retour."
+      "de": "— Ich möchte mit dem Flugzeug nach München. Können Sie mir bitte die Startzeiten und Fahrpreise angeben? — Ja, mein Herr. Wann möchten Sie abreisen? — Am 15. (fünfzehnten) April — Der 15te April ist ein Samstag. Da haben Sie einen Abflug morgens um 9 Uhr 30, mit der Lufthansa. Ankunft auf dem Münchener Flughafen um 10 Uhr 55. Nachmittags haben Sie einen zweiten Abflug, um 18 Uhr, mit der SABENA. Landung in München 19 Uhr 30. Während des Flugs wird Ihnen ein Imbiß gereicht.",
+      "fr": "— Je voudrais (aller) à Munich en avion. Pouvez-vous me donner les heures de départ et les prix s'il vous plaît? — Oui, Monsieur. Quand désirez-vous partir? — Le 15 avril — Le 15 avril, c'est un samedi. Ce jour, vous avez un vol le matin à 9 h 30, par la Lufthansa. Arrivée à l'aéroport de Munich à 10 h 55. L'après-midi, vous avez un deuxième vol à 18 h, avec la Sabena. Atterrissage à Munich à 19 h 30. Pendant le vol on vous servira une collation."
     },
     {
-      "de": "Die Reisenden werden gebeten, ihren Flugschein vorzuzeigen. Ein Blinder stand am Ausgang.",
-      "fr": "Les voyageurs sont priés de présenter leur billet d'avion. Un aveugle se tenait à la sortie."
+      "de": "— Können Sie mir den Tarif angeben? — Ja, sehr gern. Für die Hinfahrt kostet der Flugschein 190 DM (Deutsche Mark) in der Touristenklasse. Die Hin- und Rückfahrkarte kostet 360 DM. Sie hat zwei Monate Gültigkeit, mit 20 kg (Kilo) Freigepäck pro Person. In der ersten Klasse kostet die Hinreise 240 DM, die Hin- und Rückreise 456 DM, hier haben Sie 30 kg Freigepäck pro Person. Bevor Sie Ihre Rückreise antreten, müssen Sie die Fluggesellschaft benachrichtigen.",
+      "fr": "— Pouvez-vous m'indiquer le tarif? — Oui, avec plaisir. En classe touriste, le billet simple coûte 190 DM; le billet aller-retour fait 360 DM. Il a une validité de 2 mois; franchise de bagages 20 kg par personne. En première classe, c'est 240 DM l'aller simple, aller et retour 456 DM, franchise de bagages 30 kg par personne. Avant d'entreprendre le voyage retour, vous devrez en aviser la compagnie aérienne."
+    },
+    {
+      "de": "— Die Reisenden nach München, Flug Nummer 183, werden gebeten, sich am Durchgang 3 einzufinden. Bitte! Flugkarten vorzeigen!",
+      "fr": "— Les voyageurs à destination de Munich, vol numéro 183, sont priés de se présenter à la porte (passage) 3. Présentez les cartes d'embarquement, s'il vous plaît!"
     }
   ],
-  "pronunciation": "Les adjectifs formés sur des noms de villes avec -er restent invariables et prennent une majuscule : der Münchener Flughafen.",
+  "pronunciation": "Prononcez toujours faiblement, et sans l'allonger, la dernière syllabe contenant un e atone, par exemple dans reisen; München; angeben; morgens; kostet; erster; Nummer. Indications phonétiques du texte : §1 Startzeiten [chtart-tçaéten'], Abflug [ap-flouk]; §2 Gültigkeit [gultichkaét], benachrichtigen [bénarrichtigen']; §3 Nummer [noumer], gebeten [gébéten'].",
   "vocab": [
     {
-      "de": "der Flugschein (-e)",
-      "fr": "le billet d'avion",
+      "de": "der Abflug (¨-e)",
+      "fr": "le décollage",
       "info": "Masculin"
     },
     {
-      "de": "die Rückreise (-n)",
-      "fr": "le voyage retour",
+      "de": "der Durchgang (¨-e)",
+      "fr": "le passage",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Imbiß (-isse)",
+      "fr": "le goûter, la collation",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Ankunft (¨-e)",
+      "fr": "l'arrivée",
       "info": "Féminin"
     },
     {
-      "de": "bevor / nachdem",
-      "fr": "avant que / après que",
-      "info": "Subordonnantes de temps"
+      "de": "der Fahrpreis (-e)",
+      "fr": "le prix du voyage",
+      "info": "Masculin"
     },
     {
-      "de": "der Reisende / ein Reisender",
-      "fr": "le voyageur / un voyageur",
-      "info": "Participe substantivé"
+      "de": "die Startzeit (-en)",
+      "fr": "l'heure de départ (avion)",
+      "info": "Féminin"
+    },
+    {
+      "de": "benachrichtigen",
+      "fr": "informer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "angeben (a, e; i)",
+      "fr": "indiquer",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "eine Reise antreten (a, e; i)",
+      "fr": "commencer un voyage",
+      "info": "Expression / Verbe fort séparable"
+    },
+    {
+      "de": "die Bedingung (-en)",
+      "fr": "la condition",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Gültigkeit",
+      "fr": "la validité",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Landung (-en)",
+      "fr": "l'atterrissage",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Richtung (-en)",
+      "fr": "la direction",
+      "info": "Féminin"
+    },
+    {
+      "de": "auftragen (u, a; ä)",
+      "fr": "servir",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "bitten (bat, gebeten)",
+      "fr": "prier, demander",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "einfinden (a, u)",
+      "fr": "se présenter",
+      "info": "Verbe fort séparable"
     },
     {
       "de": "vorzeigen",
-      "fr": "présenter (un billet)",
-      "info": "Particule séparable : vor"
+      "fr": "présenter (q. q. c.)",
+      "info": "Verbe faible séparable"
     }
   ],
   "grammar": [
     {
-      "title": "Les conjonctions bevor et nachdem",
-      "body": "Contrairement au français (<em>avant de / après avoir + infinitif</em>), <strong>bevor</strong> et <strong>nachdem</strong> exigent toujours un sujet et un verbe conjugué à la fin. Après <em>nachdem</em>, il y a décalage d'antériorité (passé composé si principale au présent ; plus-que-parfait si principale au passé)."
+      "title": "Bevor Sie Ihre Rückreise antreten... — Les conjonctions de subordination bevor et nachdem",
+      "body": "Les conjonctions de subordination <strong>bevor</strong> et <strong>nachdem</strong>.<br><em>Bevor</em>, avant que, ainsi que <em>nachdem</em>, après que, doivent toujours être suivis d'un sujet et d'un verbe à un mode personnel. Ces conjonctions n'introduisent jamais un infinitif, comme le font les tournures françaises auxquelles elles correspondent : avant de (+ infinitif), après (+ infinitif passé). Exemples :<br><em>Bevor ich den Flugschein löse, möchte ich die Preisbedingungen kennen</em>, avant de prendre (mot à mot : avant que je prenne...) le billet (de vol), je voudrais connaître les conditions (de prix).<br><em>Nachdem er die Fluggesellschaft benachrichtigt hatte, trat er die Rückreise an</em>, après avoir avisé la compagnie aérienne (m. à m. : après qu'il eut...), il entreprit le voyage retour.<br><strong>Remarque :</strong> Après <em>nachdem</em>, le verbe de la subordonnée est au passé composé (principale au présent) ou au plus-que-parfait (principale au passé)."
     },
     {
-      "title": "L'adjectif et le participe substantivés",
-      "body": "Employés comme noms, ils prennent une majuscule mais conservent la déclinaison de l'adjectif : <em>der Blinde / ein Blinder / die Blinden</em> ; <em>der Reisende / ein Reisender / die Reisenden</em>."
+      "title": "Die Reisenden werden gebeten... — L'adjectif et le participe substantivés",
+      "body": "L'adjectif et le participe substantivés.<br>Un adjectif ou un participe (présent ou passé) peut être employé comme nom. Dans ce cas, il prend une majuscule comme le nom, mais il suit la déclinaison des adjectifs (décl. forte : L. 23; décl. faible : L. 21; décl. mixte : L. 25). Exemples :<br><em>blind</em>, aveugle, <strong>der Blinde</strong>, l'aveugle, <strong>ein Blinder</strong>, un aveugle.<br><em>reisen</em>, voyager, <strong>der Reisende</strong>, le voyageur, <strong>ein Reisender</strong>, <strong>die Reisenden</strong> (pluriel).<br><em>lehren</em>, enseigner, <strong>der Gelehrte</strong>, le savant."
+    },
+    {
+      "title": "Note — Les adjectifs en -er dérivés des noms de villes",
+      "body": "Sur les noms de villes et sur certains noms de provinces, l'on forme des adjectifs en <strong>-er</strong>; ils restent invariables et s'écrivent avec une majuscule. Ex. : <em>der Münchener Flughafen</em> (l'aéroport de Munich)."
     }
   ],
   "exercises": [
     {
       "type": "order",
-      "prompt": "Reliez avec nachdem (Exercice A.1) : « Er hat gegessen; er geht spazieren. »",
+      "prompt": "(Exercice A.1) Transformez la première proposition en subordonnée introduite par « nachdem » : « Er hat gegessen; er geht spazieren. » (Après avoir mangé, il va se promener.)",
       "words": [
         "Nachdem",
         "er",
@@ -68,21 +136,85 @@
         "spazieren."
       ],
       "answer": "Nachdem er gegessen hat, geht er spazieren.",
-      "hint": "La subordonnée en tête entraîne l'inversion du sujet dans la principale (geht er).",
-      "explanation": "Nachdem er gegessen hat, geht er spazieren."
+      "hint": "« Nachdem » rejette le verbe conjugué (« hat ») à la fin de la subordonnée et entraîne l'inversion dans la principale.",
+      "explanation": "Corrigé A.1 : « Nachdem er gegessen hat, geht er spazieren. » La principale étant au présent, la subordonnée avec « nachdem » est au passé composé."
     },
     {
       "type": "choice",
-      "prompt": "Mettez au pluriel (Exercice B.6) : « Ein Blinder stand am Ausgang. »",
+      "prompt": "(Exercice A.2) Transformez « Wir gehen ins Theater; wir machen unsere Arbeit fertig » (Avant d'aller au théâtre, nous terminons notre travail) : ___, machen wir unsere Arbeit fertig.",
+      "options": [
+        "Bevor wir ins Theater gehen",
+        "Nachdem wir ins Theater gehen",
+        "Bevor ins Theater zu gehen",
+        "Bevor gehen wir ins Theater"
+      ],
+      "answer": "Bevor wir ins Theater gehen",
+      "hint": "« Bevor » est toujours suivi d'un sujet et d'un verbe conjugué rejeté en fin de proposition (jamais d'un infinitif).",
+      "explanation": "Corrigé A.2 : « Bevor wir ins Theater gehen, machen wir unsere Arbeit fertig. » « Bevor » introduit une subordonnée conjuguée avec rejet du verbe."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.4) Transformez « Er war in Ulm angekommen; er besichtigte die Stadt » (Après être arrivé à Ulm, il visita la ville) : ___, besichtigte er die Stadt.",
+      "options": [
+        "Nachdem er in Ulm angekommen war",
+        "Nachdem er in Ulm angekommen ist",
+        "Nachdem er in Ulm ankam",
+        "Nachdem in Ulm angekommen zu sein"
+      ],
+      "answer": "Nachdem er in Ulm angekommen war",
+      "hint": "La principale (« besichtigte ») est au passé : après « nachdem », il faut le plus-que-parfait.",
+      "explanation": "Corrigé A.4 : « Nachdem er in Ulm angekommen war, besichtigte er die Stadt. » Remarque de la grammaire : principale au passé → plus-que-parfait après « nachdem »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.5) Mettez au pluriel « Der Blinde trug einen weißen Stock » (Les aveugles portaient des cannes blanches) : Die ___ trugen weiße Stöcke.",
+      "answer": "Blinden",
+      "hint": "L'adjectif substantivé « der Blinde » suit la déclinaison faible après l'article défini « die » au pluriel.",
+      "explanation": "Corrigé B.5 : « Die Blinden trugen weiße Stöcke. » Après « die » au pluriel, l'adjectif substantivé prend la terminaison « -en » et une majuscule."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice B.6) Mettez au pluriel « Ein Blinder stand am Ausgang » (Des aveugles se tenaient aux sorties) :",
       "options": [
         "Blinde standen an den Ausgängen.",
         "Blinden standen an den Ausgängen.",
         "Die Blinde standen an den Ausgängen.",
-        "Blinder standen an den Ausgängen."
+        "Ein Blinde standen an den Ausgängen."
       ],
       "answer": "Blinde standen an den Ausgängen.",
-      "hint": "Déclinaison forte au pluriel sans article : Blinde (nominatif pluriel).",
-      "explanation": "Blinde standen an den Ausgängen."
+      "hint": "Au pluriel sans article, l'adjectif substantivé suit la déclinaison forte (nominatif pluriel en « -e »).",
+      "explanation": "Corrigé B.6 : « Blinde standen an den Ausgängen. » Sans article au nominatif pluriel, l'adjectif substantivé prend la marque forte « -e »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice C.9) Traduisez « Un voyageur ne s'était pas présenté à l'aéroport » en complétant le participe substantivé : Ein ___ hatte sich nicht auf dem Flughafen eingefunden.",
+      "answer": "Reisender",
+      "hint": "Participe présent substantivé de « reisen » après l'article indéfini masculin nominatif « ein » (déclinaison mixte).",
+      "explanation": "Corrigé C.9 : « Ein Reisender hatte sich nicht auf dem Flughafen eingefunden. » Au nominatif masculin singulier après « ein », le participe substantivé prend « -er »."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.10) Traduisez : « Après avoir freiné, le conducteur débraie. »",
+      "words": [
+        "Nachdem",
+        "er",
+        "gebremst",
+        "hat,",
+        "kuppelt",
+        "der",
+        "Fahrer",
+        "aus."
+      ],
+      "answer": "Nachdem er gebremst hat, kuppelt der Fahrer aus.",
+      "hint": "Principale au présent → passé composé après « nachdem » ; attention au verbe séparable « auskuppeln ».",
+      "explanation": "Corrigé C.10 : « Nachdem er gebremst hat, kuppelt der Fahrer aus. » Le sujet « er » reprend « der Fahrer » dans la subordonnée."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice sur les mots 3) Complétez la traduction de « Il me demande mon billet de vol » : Er ___ mich um meinen Flugschein.",
+      "answer": "bittet",
+      "hint": "Présent (3e personne du singulier) du verbe « bitten » (prier, demander).",
+      "explanation": "Corrigé de l'Exercice sur les mots 3 (p. 130) : « Er bittet mich um meinen Flugschein. » On construit « bitten » avec « um » + accusatif."
     }
   ]
 }

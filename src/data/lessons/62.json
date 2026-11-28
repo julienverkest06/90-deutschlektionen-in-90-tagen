@@ -1,0 +1,205 @@
+{
+  "id": "62",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Bücher, Papierwaren, Zeitungen",
+  "titleFr": "Livres, papiers, journaux",
+  "proverbDe": "Eine Hand wäscht die andere.",
+  "proverbFr": "Les loups ne se mangent pas entre eux. (Une main lave l'autre).",
+  "paragraphs": [
+    {
+      "de": "— Ich möchte schwarzblaue Tinte für meinen Füller, einen roten Filzschreiber und dann noch eine Patrone für meinen Kugelschreiber. Er hört immer wieder auf zu schreiben! — Mutti, die Lehrerin hat gesagt, wir brauchen Farbstifte, eine große Schachtel. — Die Feder meines Füllers ist kaputt. Wie lange würde es dauern, um sie auszuwechseln? — Ich nehme auch ein Radiergummi mit.",
+      "fr": "— Je voudrais de l'encre bleu-noir pour mon stylo, un crayon feutre rouge, et puis encore une recharge pour mon stylo à bille. Il tombe toujours en panne (m. à m. : il cesse toujours d'écrire). — Maman, la maîtresse a dit qu'il nous faut des crayons de couleur, une grande boîte. — La plume de mon stylo est cassée. Combien de temps cela prendrait-il (cela durerait-il) pour la changer? — Je prendrai aussi une gomme."
+    },
+    {
+      "de": "— Briefpapier, bitte. — Welches Format und welche Qualität wünschen Sie? Und was für Briefumschläge? Gewöhnliche oder gefütterte? — Gewöhnliche. Geben Sie mir auch Luftpostpapier. Einen Block von kleinem Format und ein Päckchen Briefumschläge. — Ich will Ihnen das alles einwickeln und mit einer Schnur zubinden.",
+      "fr": "— Du papier à lettres, s'il vous plaît. — Quel format et quelle qualité désirez-vous? Et comme enveloppes? des enveloppes ordinaires ou des enveloppes doublées? — Des enveloppes ordinaires. Donnez-moi aussi du papier pour lettres par avion. Un bloc petit format et un paquet d'enveloppes. — Je vais vous envelopper tout cela et le fermer avec une ficelle."
+    },
+    {
+      "de": "— Haben Sie französische Zeitungen? — Ja, mein Herr. Bedienen Sie sich, bitte. — Ach, sie sind alle von vorgestern. Um wieviel Uhr kommen sie an? — Gewöhnlich zwischen zehn und zwölf Uhr. — Können Sie mir « Le Monde » beiseitelegen? Ich hole sie gegen Mittag ab. — Selbstverständlich, mein Herr. Ich werde dafür sorgen. — Besten Dank, Fräulein; das ist sehr freundlich von Ihnen.",
+      "fr": "— Avez-vous des journaux français? — Oui, Monsieur. Servez-vous, s'il vous plaît. — Ah! Ils sont tous d'avant-hier. À quelle heure arrivent-ils? — En général entre 10 h et midi. — Pouvez-vous me mettre « Le Monde » de côté? Je passerai le prendre vers midi. — Bien entendu, Monsieur. Je m'en occuperai. — Merci beaucoup, Mademoiselle. Vous êtes très aimable."
+    }
+  ],
+  "pronunciation": "Points de prononciation de la leçon : dans les noms composés comme der Briefumschlag, der Kugelschreiber, der Filzschreiber ou das Luftpostpapier, l'accent tonique principal porte sur le premier élément (Bríefumschlag, Kúgelschreiber) ; dans les verbes à particule séparable (zubinden, einwickeln, abholen, beiseitelegen), l'accent porte sur la particule (zúbinden, éinwickeln). Dans les mots d'emprunt en -ät (die Qualität, die Quantität), l'accent tombe sur la dernière syllabe (-tät, avec ä long et ouvert) et Qu- se prononce [kv]. Enfin, dans die Schachtel, le ch après a se prononce comme le ch guttural (Ach-Laut).",
+  "vocab": [
+    {
+      "de": "der (Brief)umschlag (¨-e)",
+      "fr": "l'enveloppe",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Farbstift (-e)",
+      "fr": "le crayon de couleur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Filzschreiber (-)",
+      "fr": "le crayon feutre",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Füller (-)",
+      "fr": "le stylo",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Kugelschreiber (-)",
+      "fr": "le stylo (ou crayon) à bille",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Feder (n)",
+      "fr": "la plume",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Flugpost",
+      "fr": "la poste aérienne",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Schachtel (n)",
+      "fr": "la boîte",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Schnur (¨-e)",
+      "fr": "le cordon, le fil",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Tinte (n)",
+      "fr": "l'encre",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Gummi",
+      "fr": "le caoutchouc",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Päckchen (-)",
+      "fr": "le (petit) paquet",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Patrone (n)",
+      "fr": "la cartouche",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Qualität (-en)",
+      "fr": "la qualité",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Quantität (-en)",
+      "fr": "la quantité",
+      "info": "Féminin"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Geben Sie mir auch Flugpostpapier",
+      "body": "Le verbe irrégulier <em>geben</em> fait partie du groupe <strong>e - a - e</strong> (infinitif en <em>e</em>, prétérit en <em>a</em>, participe passé en <em>e</em>). Exemple :<br><em>Geben</em>, donner : <em>er gab</em>, il donna, il donnait ; <em>er hat gegeben</em>, il a donné ; <em>er gibt</em>, il donne.<br><br>Autres verbes irréguliers de ce groupe :<br>• <em>essen (aß, gegessen ; er ißt)</em>, manger ;<br>• <em>fressen (a, e ; i)</em>, manger (en parlant des animaux) ;<br>• <em>messen (a, e ; i)</em>, mesurer ;<br>• <em>treten (a, e ; er tritt)</em>, marcher ;<br>• <em>vergessen (a, e ; i)</em>, oublier.<br><br>Les trois verbes suivants ont aux 2e et 3e personnes singulier du présent un radical long, en <em>ie</em> :<br>• <em>geschehen (a, e, es geschieht)</em>, arriver, avoir lieu ;<br>• <em>lesen (a, e ; ich lese, du liest, er liest)</em>, lire ;<br>• <em>sehen (a, e ; ich sehe, du siehst, er sieht)</em>, voir.<br><br>Pour la conjugaison de ces verbes, revoyez les leçons 5, 15, 19."
+    },
+    {
+      "title": "Ich will es mit einer Schnur zubinden.",
+      "body": "<em>Zubinden</em> est le verbe <em>binden</em>, lier, composé avec la particule séparable <strong>zu</strong>.<br><br>• Ici, cette particule marque la <strong>« fermeture »</strong>. Nous retrouvons ce sens dans <em>zu/machen</em>, fermer ; <em>zu/drücken</em>, fermer en pressant ; <em>zu/knöpfen</em>, fermer en boutonnant = boutonner.<br><em>Machen Sie die Tür zu!</em> Fermez la porte !<br><br>• <strong>Zu</strong> peut également marquer une <strong>augmentation</strong> : <em>zu/nehmen</em>, augmenter ; <em>zu/tun</em> (ou : <em>hinzu/tun</em>), ajouter. Exemple :<br><em>Nun nehmen die Tage zu</em>, à présent, les jours augmentent.<br><br>• Enfin, la particule <em>zu</em> indique souvent une <strong>« direction vers »</strong> : <em>zu/fahren</em> (+ datif), se diriger vers ; <em>zu/rufen</em> (+ datif), crier vers quelqu'un ; <em>zu/schauen</em> (+ datif), regarder, être spectateur. Exemple :<br><em>Wir schauten den Arbeitern zu</em>, nous regardions (faire) les ouvriers.<br><br><strong>Remarque :</strong> Dans la leçon 9, nous avons étudié <em>zu</em> en tant que préposition gouvernant le datif, et signifiant « à » (but), « chez »."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Mettez au présent : « Sie vergaß immer etwas. » (Exercice A.3)",
+      "options": [
+        "Sie vergißt immer etwas.",
+        "Sie vergesst immer etwas.",
+        "Sie vergießt immer etwas.",
+        "Sie vergaßt immer etwas."
+      ],
+      "answer": "Sie vergißt immer etwas.",
+      "hint": "Le verbe irrégulier vergessen (groupe e - a - e) change son e en i bref à la 3e personne du singulier.",
+      "explanation": "Corrigé A.3 : « Elle oubliait toujours quelque chose. a) Sie vergißt immer etwas. b) Sie hat immer etwas vergessen. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au présent et au passé composé : « Es geschah ein Unglück. » (Exercice A.4)",
+      "options": [
+        "Es geschieht ein Unglück. / Es ist ein Unglück geschehen.",
+        "Es gescheht ein Unglück. / Es ist ein Unglück geschehen.",
+        "Es geschieht ein Unglück. / Es hat ein Unglück geschehen.",
+        "Es geschicht ein Unglück. / Es ist ein Unglück geschehen."
+      ],
+      "answer": "Es geschieht ein Unglück. / Es ist ein Unglück geschehen.",
+      "hint": "Geschehen a un radical long en ie au présent (es geschieht) et se conjugue avec sein au passé composé.",
+      "explanation": "Corrigé A.4 : « Il est arrivé (m. à m. : arriva) un malheur. a) Es geschieht ein Unglück. b) Es ist ein Unglück geschehen. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez le verbe au présent : « Er trat ans Fenster. » → « Er ___ ans Fenster. » (Exercice A.2)",
+      "answer": "tritt",
+      "hint": "Verbe irrégulier treten (a, e ; er tritt) : la voyelle e devient i bref et le t est doublé.",
+      "explanation": "Corrigé A.2 : « Il se mit (m. à m. : marcha) à la fenêtre. a) Er tritt ans Fenster. b) Er ist ans Fenster getreten. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez le verbe au présent : « Sahst du den Krankenwagen? » → « ___ du den Krankenwagen? » (Exercice A.6)",
+      "answer": "Siehst",
+      "hint": "Le verbe sehen (a, e) prend un radical long en ie aux 2e et 3e personnes du singulier.",
+      "explanation": "Corrigé A.6 : « As-tu vu l'ambulance ? a) Siehst du den Krankenwagen? b) Hast du den Krankenwagen gesehen? »"
+    },
+    {
+      "type": "order",
+      "prompt": "Mettez au futur : « Hier nehmen alle Pensionäre zu. » (Exercice B.7)",
+      "words": [
+        "Hier",
+        "werden",
+        "alle",
+        "Pensionäre",
+        "zunehmen."
+      ],
+      "answer": "Hier werden alle Pensionäre zunehmen.",
+      "hint": "Au futur (werden + infinitif), la particule séparable zu se rattache à l'infinitif en fin de phrase.",
+      "explanation": "Corrigé B.7 : « Hier werden alle Pensionäre zunehmen. » (Ici, tous les pensionnaires prendront du poids.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au futur : « Am Samstag bleibt das Büro zu. » (Exercice B.8)",
+      "answer": "Am Samstag wird das Büro zubleiben.",
+      "hint": "Utilisez werden au présent + l'infinitif zubleiben en fin de proposition.",
+      "explanation": "Corrigé B.8 : « Am Samstag wird das Büro zubleiben. » (Samedi, le bureau restera fermé.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez : « Quand les journaux arrivent-ils de (= aus) France ? » (Exercice C.12)",
+      "options": [
+        "Wann treffen die Zeitungen aus Frankreich ein?",
+        "Wann eintreffen die Zeitungen aus Frankreich?",
+        "Wann treffen die Zeitungen von Frankreich ein?",
+        "Wann treffen aus Frankreich die Zeitungen an?"
+      ],
+      "answer": "Wann treffen die Zeitungen aus Frankreich ein?",
+      "hint": "Le verbe séparable eintreffen renvoie sa particule ein en fin de phrase.",
+      "explanation": "Corrigé C.12 : « Wann treffen die Zeitungen aus Frankreich ein? »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez : « Enveloppez s'il vous plaît ce papier à lettre et ces enveloppes. » (Exercice C.11)",
+      "words": [
+        "Wickeln",
+        "Sie",
+        "bitte",
+        "dieses",
+        "Briefpapier",
+        "und",
+        "diese",
+        "Briefumschläge",
+        "ein."
+      ],
+      "answer": "Wickeln Sie bitte dieses Briefpapier und diese Briefumschläge ein.",
+      "hint": "À l'impératif de politesse, le verbe séparable einwickeln place sa particule ein tout à la fin.",
+      "explanation": "Corrigé C.11 : « Wickeln Sie bitte dieses Briefpapier und diese (Brief)umschläge ein. »"
+    }
+  ]
+}

@@ -2,22 +2,71 @@
   "id": "53",
   "series": 2,
   "authentic": true,
-  "titleDe": "Im Theater (obwohl, bis et nur / erst)",
-  "titleFr": "Au théâtre : concession (obwohl) et restriction (nur vs erst)",
-  "proverbDe": "Die Bretter, die die Welt bedeuten.",
-  "proverbFr": "Les planches qui représentent le monde (le théâtre).",
+  "titleDe": "Im Theater",
+  "titleFr": "Au théâtre",
+  "proverbDe": "Ehre, dem Ehre gebührt.",
+  "proverbFr": "À tout seigneur tout honneur (Honneur à qui honneur est dû).",
   "paragraphs": [
     {
-      "de": "Obgleich unsere Klappsitze bequem sind, ist alles ausverkauft. Ich bleibe an meinem Platz, bis du zurückkommst.",
-      "fr": "Bien que nos strapontins soient confortables, tout est vendu. Je resterai à ma place jusqu'à ce que tu reviennes."
+      "de": "— Haben Sie noch Plätze für den « Zerbrochenen Krug »? — Für nächsten Dienstag also, um zwanzig Uhr fünfundvierzig? Ach! Da ist ja Galaaufführung; ich bedauere, mein Herr, alles ist ausverkauft. Vielleicht haben Sie noch Glück an einer Verkaufsstelle in der Stadt. Doch werden die Plätze der vierten Galerie erst dreiviertel Stunden vor dem Aufgehen des Vorhangs verkauft. Am besten kommen Sie gleich um zwanzig Uhr und stellen sich an.",
+      "fr": "— Avez-vous encore des places pour la « Cruche Cassée »? — Pour mardi prochain donc, à 20 h 45? Ah! c'est soirée de gala; je regrette, Monsieur, tout est pris. Peut-être aurez-vous quelque chance encore (en vous adressant) à une agence en ville. Cependant, les places de quatrième galerie ne sont mises en vente que trois quarts d'heure avant le lever du rideau. Le mieux, c'est de venir dès 20 h et de faire la queue."
     },
     {
-      "de": "Es bleiben nur vier Klappsitze. Diese Plätze werden erst morgen verkauft. Die Aufführung beginnt erst um neun Uhr.",
-      "fr": "Il ne reste que quatre strapontins. Ces places ne seront vendues que demain. La représentation ne commence qu'à neuf heures."
+      "de": "— Bleibt Ihnen noch etwas übrig für die nächste Aufführung von « Wilhelm Tell », am Donnerstag nachmittag? — Ich habe nur noch vier Klappsitze im Balkon, zwei Logenplätze und einige Parkettplätze. Wieviel Plätze wünschen Sie denn? — Zwei. — Obgleich unsere Klappsitze auch bequem sind, schlage ich Ihnen die Parkettplätze 130 und 132 vor, vorne rechts. Ich habe nichts anderes, aber es ist ein recht guter Platz.",
+      "fr": "— Vous reste-t-il quelque chose pour la prochaine représentation de « Guillaume Tell », le jeudi après-midi? — Je n'ai plus que quatre strapontins au balcon, deux fauteuils de loge et quelques fauteuils d'orchestre. Combien de places voudriez-vous donc? — Deux. — Bien que nos strapontins soient confortables (eux) aussi, je vous propose les fauteuils d'orchestre 130 et 132, en avant à droite. C'est tout ce que j'ai, mais c'est une place fort convenable."
+    },
+    {
+      "de": "— Wer spielt den Tell in dieser Aufführung? Ist es Karl Schuri? — Nein, er spielt heute nicht; die Rolle ist doppelt besetzt. — Ach, schade! — Nun, mein Herr, wozu entschließen Sie sich? — Nun, ich will sie trotzdem nehmen. (In Deutschland ist es nicht üblich, der Platzanweiserin ein Trinkgeld zu geben).",
+      "fr": "— Qui est-ce qui fait Tell, dans cette représentation? Est-ce Karl Schuri? — Non, il ne joue pas aujourd'hui; c'est son remplaçant (m. à m. : le rôle est doublé). — Ah! C'est dommage! — Alors, Monsieur, que décidez-vous? — Bah! Je vais les prendre quand même. (Il n'est pas d'usage, en Allemagne, de donner un pourboire à l'ouvreuse)."
     }
   ],
-  "pronunciation": "Contrairement au français (« bien que + subjonctif »), « obwohl » et « obgleich » sont toujours suivis de l'indicatif en allemand.",
+  "pronunciation": "Points d'accentuation et de prononciation de la leçon : dans les verbes à particule séparable comme « sich anstellen » (marqué « sich an'stellen » dans le vocabulaire), « aufgehen », « ausverkaufen » et « übrigbleiben », l'accent tonique porte sur le préfixe séparable ; en revanche, dans « sich entschließen », le préfixe « ent- » est inaccentué et l'accent tombe sur « -schließen » (voyelle longue « ie » et « ß » sourd). Dans le composé « Galaaufführung », on marque une légère attaque glottale entre « Gala » et « aufführung ». Dans les emprunts au français, « Balkon » s'accentue sur la finale, « Galerie » sur « -rie » [iː] et « Parkettplätze » sur « -kett- ».",
   "vocab": [
+    {
+      "de": "der Balkon (-e)",
+      "fr": "le balcon",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Klappsitz (-e)",
+      "fr": "le strapontin",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Parkettplatz (¨-e)",
+      "fr": "le fauteuil d'orchestre",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Sperrsitz (-e)",
+      "fr": "le fauteuil d'orchestre (idem)",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Loge (n)",
+      "fr": "la loge",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Platzanweiserin (nen)",
+      "fr": "l'ouvreuse",
+      "info": "Féminin"
+    },
+    {
+      "de": "sich anstellen",
+      "fr": "(ici) se mettre à la queue",
+      "info": "Verbe séparable réfléchi"
+    },
+    {
+      "de": "(die) Schlange stehen",
+      "fr": "faire la queue",
+      "info": "Expression"
+    },
+    {
+      "de": "der Stock (die Stockwerke)",
+      "fr": "l'étage",
+      "info": "Masculin"
+    },
     {
       "de": "der Vorhang (¨-e)",
       "fr": "le rideau",
@@ -29,44 +78,104 @@
       "info": "Féminin"
     },
     {
+      "de": "die Galerie (n)",
+      "fr": "la galerie",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kontrolle (n)",
+      "fr": "le contrôle",
+      "info": "Féminin"
+    },
+    {
       "de": "ausverkaufen",
-      "fr": "vendre tout, afficher complet",
-      "info": "Particule séparable : aus"
+      "fr": "vendre tout, solder",
+      "info": "Verbe séparable"
     },
     {
-      "de": "Schlange stehen",
-      "fr": "faire la queue",
-      "info": "die Schlange = le serpent"
+      "de": "bedauern",
+      "fr": "regretter",
+      "info": "Verbe faible"
     },
     {
-      "de": "obwohl / obgleich",
-      "fr": "bien que, quoique (+ indicatif)",
-      "info": "Subordination"
+      "de": "aufgehen (ging, gegangen)",
+      "fr": "s'élever",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "sich entschließen (o, o) (+ zu)",
+      "fr": "se décider (à)",
+      "info": "Verbe fort réfléchi"
+    },
+    {
+      "de": "bleiben (ie, ie)",
+      "fr": "rester",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "übrigbleiben (ie, ie)",
+      "fr": "rester (idem)",
+      "info": "Verbe fort séparable"
     }
   ],
   "grammar": [
     {
-      "title": "Différence entre nur et erst (« seulement / ne... que »)",
-      "body": "• <strong>nur</strong> marque une restriction simple (quantité limitée) : <em>Ein Parkettplatz kostet <strong>nur</strong> fünf Mark.</em><br>• <strong>erst</strong> marque une restriction temporelle ou provisoire (« pas avant / pas encore davantage ») : <em>Die Aufführung beginnt <strong>erst</strong> um neun Uhr.</em>"
+      "title": "Obgleich unsere Klappsitze bequem sind,...",
+      "body": "Notez que dans cette proposition, le verbe <em>sind</em> est à l'indicatif, et non au subjonctif comme en français après « quoique, bien que ». <strong>Obschon</strong>, <strong>obwohl</strong>, qui ont le même sens (bien que), sont également suivis de l'indicatif.<br>Exemple : <em>Obwohl der Saal groß ist, ist alles ausverkauft</em>, bien que la salle soit grande, tout est vendu.<br><br>L'indicatif s'emploie aussi après <strong>bis</strong>, jusqu'à ce que, et <strong>bevor</strong>, avant que, si le fait rapporté est réel.<br>Exemple : <em>Ich bleibe an meinem Platz, bis du zurückkommst</em>, je resterai à ma place jusqu'à ce que tu reviennes."
+    },
+    {
+      "title": "Es bleiben nur vier Klappsitze. / Diese Plätze werden erst morgen verkauft.",
+      "body": "<em>Es bleiben nur vier Klappsitze.</em> — Il ne reste que quatre strapontins.<br><em>Diese Plätze werden erst morgen verkauft.</em> — Ces places ne seront vendues que demain.<br><br><strong>Nur</strong>, seulement, ne... que, s'emploie dans le sens de « pas davantage » (restriction simple). <strong>Erst</strong>, seulement, ne... que..., a le sens de « pas encore davantage » (restriction provisoire) ou « pas plus tôt que » (sens temporel).<br>Exemples :<br><em>Ein Parkettplatz kostet nur fünf Mark</em>, un fauteuil d'orchestre ne coûte que cinq marks.<br><em>Die Aufführung beginnt erst um neun Uhr</em>, la représentation ne commence qu'à neuf heures."
+    },
+    {
+      "title": "Er stellt sich an.",
+      "body": "Il se met à la queue (m. à m. : il se place contre).<br>Dans cette expression, on sous-entend <em>an die Reihe</em>, à la file.<br>Autrement, « faire la queue » signifie <strong>Schlange stehen</strong> (<em>die Schlange (n)</em>, le serpent).<br>Exemple : <em>Er stand Schlange vor der Theaterkasse</em>, il fit la queue devant la caisse du théâtre."
     }
   ],
   "exercises": [
     {
-      "type": "choice",
-      "prompt": "nur ou erst ? (Exercice B.5) : « Dieses Stück hat ___ drei Akte. »",
-      "options": [
-        "nur",
-        "erst",
-        "obwohl",
-        "bis"
-      ],
-      "answer": "nur",
-      "hint": "Restriction simple de quantité (la pièce n'a que 3 actes et n'en aura pas plus).",
-      "explanation": "Dieses Stück hat nur drei Akte."
+      "type": "fill",
+      "prompt": "Accordez le verbe entre parenthèses (Exercice A.1) : « Obwohl diese Komödie sehr lustig ___ (sein), gefällt sie nicht allen Zuschauern. »",
+      "answer": "ist",
+      "hint": "Après « obwohl » (bien que), l'allemand emploie l'indicatif et non le subjonctif.",
+      "explanation": "Corrigé A.1 : « ist ». Bien que cette comédie soit très gaie, elle ne plaît pas à tous les spectateurs. « Obwohl » entraîne le verbe conjugué à l'indicatif en fin de subordonnée."
+    },
+    {
+      "type": "fill",
+      "prompt": "Accordez le verbe entre parenthèses (Exercice A.2) : « Paul liest das Programm, bis der Vorhang ___ (aufgehen). »",
+      "answer": "aufgeht",
+      "hint": "Dans une subordonnée introduite par « bis », le verbe séparable reste soudé et se conjugue à l'indicatif.",
+      "explanation": "Corrigé A.2 : « aufgeht ». Paul lit son programme, jusqu'à ce que le rideau se lève. Après « bis », l'indicatif s'emploie pour un fait réel, et le préfixe « auf- » ne se détache pas en subordonnée."
     },
     {
       "type": "choice",
-      "prompt": "nur ou erst ? (Exercice B.6) : « Wir werden ___ gegen acht Uhr kommen. »",
+      "prompt": "Choisissez la forme correcte pour compléter la subordonnée (Exercice A.4) : « Schuri hatte nur wenig Erfolg heute, obgleich er wie immer ___. »",
+      "options": [
+        "gespielt hat",
+        "gespielt habe",
+        "hat gespielt",
+        "spiele"
+      ],
+      "answer": "gespielt hat",
+      "hint": "« Obgleich » demande l'indicatif et rejette l'auxiliaire conjugué tout à la fin de la proposition.",
+      "explanation": "Corrigé A.4 : « gespielt hat ». Schuri n'avait que peu de succès, bien qu'il ait joué comme toujours. En allemand, « obgleich » est suivi de l'indicatif (et non du subjonctif)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez par « nur » ou « erst » (Exercice B.5) : « Dieses Stück hat ___ drei Akte. »",
+      "options": [
+        "nur",
+        "erst",
+        "schon",
+        "noch"
+      ],
+      "answer": "nur",
+      "hint": "Il s'agit ici d'une restriction simple (« pas davantage »), définitive pour la pièce.",
+      "explanation": "Corrigé B.5 : « nur ». Cette pièce n'a que trois actes. On utilise « nur » pour une restriction simple (« pas davantage »)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez par « nur » ou « erst » (Exercice B.7) : « Ich kenne dieses Theater ___ seit kurzer Zeit. »",
       "options": [
         "erst",
         "nur",
@@ -74,8 +183,56 @@
         "noch"
       ],
       "answer": "erst",
-      "hint": "Restriction temporelle (« pas plus tôt que 8 heures »).",
-      "explanation": "Wir werden erst gegen acht Uhr kommen."
+      "hint": "Il s'agit d'une restriction temporelle provisoire (« pas encore depuis longtemps »).",
+      "explanation": "Corrigé B.7 : « erst ». Je connais ce théâtre depuis peu de temps seulement. On emploie « erst » dans un sens temporel ou pour une restriction provisoire."
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand (Exercice C.9) : « Je voudrais deux places seulement. »",
+      "answer": "Ich möchte nur zwei Plätze.",
+      "hint": "Utilisez « ich möchte » et « nur » (restriction simple : pas davantage).",
+      "explanation": "Corrigé C.9 : « Ich möchte nur zwei Plätze. » On emploie « nur » car il s'agit d'une restriction simple sur le nombre de places."
+    },
+    {
+      "type": "order",
+      "prompt": "Remettez les mots dans l'ordre pour traduire (Exercice C.10) : « Ils ne sont rentrés qu'à une heure. »",
+      "words": [
+        "Sie",
+        "sind",
+        "erst",
+        "um",
+        "ein",
+        "Uhr",
+        "nach",
+        "Hause",
+        "gekommen."
+      ],
+      "answer": "Sie sind erst um ein Uhr nach Hause gekommen.",
+      "hint": "Employez « erst » (sens temporel : pas plus tôt que) avant l'heure, et le participe passé en fin de phrase.",
+      "explanation": "Corrigé C.10 : « Sie sind erst um ein Uhr nach Hause gekommen. » « Erst » exprime ici le sens temporel « pas plus tôt que »."
+    },
+    {
+      "type": "order",
+      "prompt": "Remettez les mots dans l'ordre pour traduire (Exercice C.12) : « Bien que la caisse n'ouvre qu'à huit heures, Werner vint à sept heures et demie déjà. »",
+      "words": [
+        "Obwohl",
+        "die",
+        "Kasse",
+        "erst",
+        "um",
+        "acht",
+        "Uhr",
+        "öffnet,",
+        "kam",
+        "Werner",
+        "schon",
+        "um",
+        "halb",
+        "acht."
+      ],
+      "answer": "Obwohl die Kasse erst um acht Uhr öffnet, kam Werner schon um halb acht.",
+      "hint": "« Obwohl » rejette « öffnet » à la fin de la subordonnée (à l'indicatif), suivie immédiatement du verbe « kam » dans la principale.",
+      "explanation": "Corrigé C.12 : « Obwohl die Kasse erst um acht Uhr öffnet, kam Werner schon um halb acht. » On retrouve « obwohl » + indicatif, « erst » temporel et l'inversion verbe-sujet dans la principale."
     }
   ]
 }

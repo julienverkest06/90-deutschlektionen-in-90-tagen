@@ -1,0 +1,299 @@
+{
+  "id": "60",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Ein Bummel durch das Geschäftsviertel",
+  "titleFr": "En flânant dans le quartier des affaires",
+  "proverbDe": "Glück und Glas, wie bald bricht das!",
+  "proverbFr": "Le bonheur, comme le verre, est fragile (Bonheur et verre, comme cela se brise vite!)",
+  "paragraphs": [
+    {
+      "de": "Heute habe ich nichts einzukaufen. Ich schaue mir nur die Schaufenster der Geschäfte an. Ich habe absichtlich kein Geld mitgenommen. In diesem Viertel befinden sich lauter Luxusgeschäfte. Hier ist alles mit viel Geschmack und Phantasie eingerichtet.",
+      "fr": "Aujourd'hui je n'ai pas d'achats à faire. Je regarde simplement les devantures des magasins. Je n'ai pas emporté d'argent, exprès. Dans ce quartier, il n'y a que des magasins de luxe. Tout y est disposé avec beaucoup de goût et d'imagination."
+    },
+    {
+      "de": "Mit besonderer Freude betrachte ich die Schaufenster der Juweliere. Edelsteine und Juwelen, Goldschmiedearbeiten und Tafelbesteck glänzen im Lichte der Scheinwerfer. Wie kunstvoll sind diese Armbänder, Ohrringe, Spangen und Manschettenknöpfe ausgestellt! Ich verweile gern bei den Buchhändlern; ich nehme ein Buch von einem Regal, blättere darin, stelle es wieder zurück, nehme ein anderes.",
+      "fr": "C'est avec une joie particulière que je contemple les devantures des bijoutiers. Les pierres précieuses et les bijoux, les orfèvreries et les couverts brillent dans la lumière des projecteurs. Avec quel art ces bracelets, boucles d'oreille, agrafes et boutons de manchettes sont-ils exposés! J'aime rester chez les libraires: je prends un livre sur un rayon, je le feuillette, je le remets, j'en prends un autre."
+    },
+    {
+      "de": "Ich treffe nicht gern eine zu rasche Entscheidung. Ich denke lieber nach, komme lieber noch einmal zum Schaufenster zurück, um den Gegenstand noch einmal zu betrachten. Ich stelle mir vor, wie er sich bei mir machen würde. Ich frage mich, ob er mir nützen würde. Dann erst denke ich ans Kaufen.",
+      "fr": "Je n'aime pas me décider tout de suite (m. à m. : je ne prends pas volontiers une décision trop rapide). Je préfère réfléchir, revenir devant l'étalage pour regarder à nouveau l'objet. Je m'imagine comment il ferait chez moi. Je me demande s'il me rendrait service. C'est alors seulement que je pense à l'achat."
+    },
+    {
+      "de": "In meinem früheren Viertel gab es fast ausschließlich Lebensmittelgeschäfte : Gemüse- und Obsthandlungen, Fleischerläden, eine Bäckerei und Konditorei im Erdgeschoß unseres Hauses. Gegenüber war ein Feinkosthändler, der gute Einfälle hatte : er verkaufte exotische Produkte und Fertiggerichte.",
+      "fr": "Dans mon ancien quartier, il n'y avait guère que (m. à m. : presque exclusivement) des magasins d'alimentation : des magasins de légumes et de fruits, des boucheries, une boulangerie-pâtisserie au bas de chez moi. Un épicier, en face, et qui avait de bonnes idées, vendait des produits exotiques et des plats tout préparés."
+    }
+  ],
+  "pronunciation": "Soignez l'accent tonique dans les mots empruntés : Juweliere (accent sur -lie-, j prononcé [y]), Phantasie (accent sur -sie), Antiquar (accent sur -quar, qu prononcé [kv]) et Regal (accent sur -gal). Dans les composés allemands, l'accent principal porte sur le premier élément : Geschäftsviertel, Goldschmiedearbeiten, Manschettenknöpfe et Erdgeschoß (notez le o bref devant ß dans Erdgeschoß).",
+  "vocab": [
+    {
+      "de": "der Antiquar (-e)",
+      "fr": "l'antiquaire",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Buchhändler (-)",
+      "fr": "le libraire",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Edelstein (-e)",
+      "fr": "la pierre précieuse",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Gegenstand (¨-e)",
+      "fr": "l'objet",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Geist (-er)",
+      "fr": "l'esprit",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Geschmack",
+      "fr": "le goût, la saveur",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Manschette (n)",
+      "fr": "la manchette",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Phantasie",
+      "fr": "l'imagination, la fantaisie",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Spange (n)",
+      "fr": "l'agrafe",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Armband (¨-er)",
+      "fr": "le bracelet",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Besteck (e)",
+      "fr": "le couvert",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Heim",
+      "fr": "le chez-soi",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Juwel (en)",
+      "fr": "le bijou",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Regal (e)",
+      "fr": "le rayon, l'étagère",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Goldschmied (-e)",
+      "fr": "le bijoutier",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Juwelier (-e)",
+      "fr": "l'orfèvre",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Knopf (¨-e)",
+      "fr": "le bouton",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Luxus",
+      "fr": "le luxe",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Ohrring (-e)",
+      "fr": "la boucle d'oreille",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Scheinwerfer (-)",
+      "fr": "le projecteur, le phare",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Entscheidung (-en)",
+      "fr": "la décision",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Lebensmittel (plur.)",
+      "fr": "l'alimentation",
+      "info": "Pluriel"
+    },
+    {
+      "de": "benützen",
+      "fr": "utiliser",
+      "info": "Verbe"
+    },
+    {
+      "de": "blättern",
+      "fr": "feuilleter",
+      "info": "Verbe"
+    },
+    {
+      "de": "bummeln",
+      "fr": "flâner",
+      "info": "Verbe"
+    },
+    {
+      "de": "glänzen",
+      "fr": "briller",
+      "info": "Verbe"
+    },
+    {
+      "de": "nützen",
+      "fr": "profiter, servir",
+      "info": "Verbe"
+    },
+    {
+      "de": "(aus)schmücken",
+      "fr": "décorer",
+      "info": "Verbe"
+    },
+    {
+      "de": "verweilen",
+      "fr": "demeurer",
+      "info": "Verbe"
+    },
+    {
+      "de": "nachdenken (dachte, gedacht) über",
+      "fr": "réfléchir sur",
+      "info": "Verbe irrégulier séparable"
+    },
+    {
+      "de": "ich bleibe... stehen",
+      "fr": "je m'arrête",
+      "info": "Expression"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Ich treffe eine Entscheidung. Ich nehme ein Buch.",
+      "body": "Les verbes <em>treffen</em> et <em>nehmen</em> appartiennent au même groupe de verbes irréguliers (groupe <em>e – a – o</em>). Leurs temps principaux sont :<br><strong>Treffen</strong>, atteindre, rencontrer : <em>er traf</em>, il atteignit; <em>er hat getroffen</em>, il a atteint; <em>er trifft</em>, il atteint.<br><strong>Nehmen</strong>, prendre : <em>nahm, genommen; er nimmt</em>.<br><br>Autres verbes irréguliers de ce groupe :<br><em>brechen (a, o; i)</em>, briser, cueillir — <em>sprechen (a, o; i)</em>, parler<br><em>°erschrecken (a, o; i)</em>, s'effrayer — <em>°sterben (a, o; i)</em>, mourir<br><em>gelten (a, o; i)</em>, valoir — <em>werfen (a, o; i)</em>, jeter, lancer<br><em>helfen (a, o; i)</em>, (+ datif), aider — <em>empfehlen (a, o; ie)</em>, recommander<br>(Le signe ° indique les verbes qui se conjuguent avec <em>sein</em> au passé composé.)<br><br><strong>Remarque :</strong> Les composés de ces verbes gardent les mêmes formes irrégulières. Exemple : <em>zerbrechen (a, o; i)</em>, casser."
+    },
+    {
+      "title": "Ich will es daheim lesen.",
+      "body": "<em>Daheim</em>, chez moi, à la maison, s'emploie quand on « est » à la maison (lieu, état); dans le même sens, on peut dire aussi <em>zu Hause</em>. Exemple :<br><strong>Er bleibt gern daheim = er bleibt gern zu Hause</strong>, il aime rester à la maison (= chez lui).<br><br>Pour indiquer que l'on « va » à la maison (direction), il faut employer <em>heim</em> ou <em>nach Hause</em>. Exemple :<br><strong>Er kam spät heim = er kam spät nach Hause</strong>, il rentra tard (à la maison, chez lui).<br><br><strong>Remarque :</strong> <em>heim</em> se retrouve dans : <em>das Heim</em>, le foyer, le chez-soi; <em>das Altersheim</em>, l'asile de vieillards; <em>die Heimat</em>, le pays natal; <em>heimlich</em>, familier, intime; <em>geheim</em>, secret."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.2) Mettez au prétérit et au passé composé : « Er erschrickt nicht leicht. » (Il ne s'effraie pas vite.)",
+      "options": [
+        "Er erschrak nicht leicht. / Er ist nicht leicht erschrocken.",
+        "Er erschreckte nicht leicht. / Er hat nicht leicht erschreckt.",
+        "Er erschrak nicht leicht. / Er hat nicht leicht erschrocken.",
+        "Er erschrickte nicht leicht. / Er ist nicht leicht erschrocken."
+      ],
+      "answer": "Er erschrak nicht leicht. / Er ist nicht leicht erschrocken.",
+      "hint": "« erschrecken » (intransitif, s'effrayer) appartient au groupe e – a – o et se conjugue avec « sein ».",
+      "explanation": "Corrigé A.2 : « Il ne s'effraie pas vite (facilement). a) Er erschrak nicht leicht; b) Er ist nicht leicht erschrocken. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.3) Mettez au prétérit : « Dieser Schein gilt 100 Mark. » (Ce billet vaut 100 Marks.)",
+      "answer": "Dieser Schein galt 100 Mark.",
+      "hint": "« gelten (a, o; i) » suit le groupe e – a – o : prétérit « galt », participe passé « gegolten ».",
+      "explanation": "Corrigé A.3 : « Ce billet vaut 100 Marks. a) Dieser Schein galt 100 Mark; b) Dieser Schein hat 100 Mark gegolten. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.7) Mettez au prétérit et au passé composé : « Sie empfehlen uns das Hotel. » (Ils nous recommandent l'hôtel.)",
+      "options": [
+        "Sie empfahlen uns das Hotel. / Sie haben uns das Hotel empfohlen.",
+        "Sie empfielen uns das Hotel. / Sie haben uns das Hotel empfohlen.",
+        "Sie empfahlten uns das Hotel. / Sie haben uns das Hotel empfehlt.",
+        "Sie empfahlen uns das Hotel. / Sie sind uns das Hotel empfohlen."
+      ],
+      "answer": "Sie empfahlen uns das Hotel. / Sie haben uns das Hotel empfohlen.",
+      "hint": "« empfehlen (a, o; ie) » fait « empfahl, empfohlen » avec l'auxiliaire « haben ».",
+      "explanation": "Corrigé A.7 : « Ils nous recommandent l'hôtel. a) Sie empfahlen uns das Hotel; b) Sie haben uns das Hotel empfohlen. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.9) Mettez au passé composé : « Sie werfen die Flaschen um. » (Ils renversent les bouteilles.)",
+      "answer": "Sie haben die Flaschen umgeworfen.",
+      "hint": "Verbe séparable « umwerfen » (groupe e – a – o) : participe passé « umgeworfen ».",
+      "explanation": "Corrigé A.9 : « Ils renversent les bouteilles. a) Sie warfen die Flaschen um; b) Sie haben die Flaschen umgeworfen. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercices B.10 & B.11) Complétez par « daheim » ou « heim » : « Der Goldschmied arbeitet …, in seinem Atelier. / Dietrich bummelt, anstatt … zu gehen. »",
+      "options": [
+        "daheim / heim",
+        "heim / daheim",
+        "daheim / daheim",
+        "heim / heim"
+      ],
+      "answer": "daheim / heim",
+      "hint": "« daheim » (= zu Hause) indique le lieu/l'état, tandis que « heim » (= nach Hause) indique la direction.",
+      "explanation": "Corrigé B.10 : « daheim (zu Hause). L'orfèvre travaille chez lui, dans son atelier. » B.11 : « heim (nach Hause). Didier flâne, au lieu de rentrer (à la maison). »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice C.12) Traduisez : « Je voudrais une bague en or (golden). »",
+      "answer": "Ich möchte einen goldenen Ring.",
+      "hint": "« der Ring » est masculin ; à l'accusatif avec « einen », l'adjectif prend la terminaison -en.",
+      "explanation": "Corrigé C.12 : « Ich möchte einen goldenen Ring. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.14) Traduisez : « Si je voulais décorer ma maison de campagne, j'irais chez cet antiquaire. »",
+      "words": [
+        "Wenn",
+        "ich",
+        "mein",
+        "Landhaus",
+        "ausschmücken",
+        "wollte,",
+        "ginge",
+        "ich",
+        "zu",
+        "diesem",
+        "Antiquar."
+      ],
+      "answer": "Wenn ich mein Landhaus ausschmücken wollte, ginge ich zu diesem Antiquar.",
+      "hint": "Conditionnelle au subjonctif II : « Wenn ich ... wollte, ginge ich ... ».",
+      "explanation": "Corrigé C.14 : « Wenn ich mein Landhaus ausschmücken wollte, ginge ich zu diesem Antiquar. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.15) Traduisez : « Bien que ces pierres ne soient pas authentiques (echt), elles plairont quand même à ma petite sœur. »",
+      "words": [
+        "Obwohl",
+        "diese",
+        "Steine",
+        "nicht",
+        "echt",
+        "sind,",
+        "werden",
+        "sie",
+        "meiner",
+        "kleinen",
+        "Schwester",
+        "doch",
+        "gefallen."
+      ],
+      "answer": "Obwohl diese Steine nicht echt sind, werden sie meiner kleinen Schwester doch gefallen.",
+      "hint": "Après « Obwohl ... », le verbe conjugué est à la fin ; « gefallen » régit le datif (« meiner kleinen Schwester »).",
+      "explanation": "Corrigé C.15 : « Obwohl diese Steine nicht echt sind, werden sie meiner kleinen Schwester doch gefallen. »"
+    }
+  ]
+}

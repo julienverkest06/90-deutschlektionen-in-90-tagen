@@ -1,0 +1,152 @@
+{
+  "id": "86",
+  "series": 3,
+  "authentic": true,
+  "titleDe": "Eine Stunde Aufenthalt (Heinrich Böll)",
+  "titleFr": "Une heure d'attente (Heinrich Böll)",
+  "proverbDe": "Zeit heilt nicht alle Wunden.",
+  "proverbFr": "Le temps ne guérit pas toutes les blessures.",
+  "paragraphs": [
+    {
+      "de": "Die Szene spielt in einer abgelegenen Ecke eines großen Bahnhofs vor dem Gepäckschalter. Hin und wieder hört man einen aus- oder einfahrenden Zug, die Stimme eines Ansagers, Schritte und das Geräusch auf- und zugeschobener Schalter. Ein Gepäckträger fragt den Reisenden Chrantox, ob er das Gepäck abgeben soll. Chrantox zögert : der nächste Zug fährt erst um dreizehn Uhr neun, und er hatte nicht damit gerechnet, hier umsteigen zu müssen. Als der Träger meint, bis Athen brauche man ohnehin drei Tage, es komme also auf eine Stunde nicht an, erwidert Chrantox : « Nicht auf die Stunde, aber auf die Stadt. »",
+      "fr": "La scène se déroule dans un coin retiré d'une grande gare, devant la consigne. De temps à autre, on entend passer un train qui arrive ou qui part, la voix d'un annonceur, des pas et le bruit des guichets qui s'ouvrent et se referment. Un porteur demande au voyageur Chrantox s'il doit déposer ses bagages. Chrantox hésite : le prochain train ne part qu'à treize heures neuf et il n'avait pas prévu cette correspondance. Quand le porteur remarque que jusqu'à Athènes on n'en est pas à une heure près, Chrantox répond que le problème n'est pas l'heure d'attente, mais la ville."
+    },
+    {
+      "de": "Der Träger schlägt ihm vor, sich die Stadt anzusehen : Sehenswürdigkeiten, Ruinen, Neubauten, Kirchen, Denkmäler und nette Leute. Doch Chrantox kennt die Stadt bereits – er hat siebzehn Jahre lang dort gelebt. Der Träger ist überrascht, denn er hätte ihn nicht älter als vierzig geschätzt. Chrantox entgegnet, er sei dreiundvierzig und ein Ausländer, obwohl dem Träger auffällt, daß er fast ein wenig den örtlichen Dialekt spricht.",
+      "fr": "Le porteur lui conseille de visiter la ville — ses curiosités, ses ruines, ses immeubles neufs, ses églises, ses monuments et ses habitants aimables. Mais Chrantox connaît déjà la ville : il y a vécu dix-sept ans. Le porteur s'en étonne, ne lui donnant pas plus de quarante ans. Chrantox précise qu'il a quarante-trois ans et qu'il est étranger, même si le porteur croit déceler dans son allemand une pointe du dialecte local."
+    },
+    {
+      "de": "Auf die Frage, ob er das Gepäck bei der Aufbewahrung abgeben oder auf dem Bahnsteig den Anschluß abwarten wolle, sagt Chrantox, am liebsten würde er mit dem nächsten Zug weiterfahren und an einer anderen Station auf den Zug nach Athen warten. Der Träger fragt, ob er so böse Erinnerungen an die Stadt habe ; Chrantox antwortet : « Böse und gute. » Dann schaut er auf die Uhr – elf Uhr siebenundfünfzig – und fragt mit veränderter Stimme, ob hier Krieg gewesen sei.",
+      "fr": "Le porteur lui demande s'il préfère laisser ses bagages à la consigne ou attendre la correspondance sur le quai. Chrantox confie qu'il aimerait mieux repartir par le prochain train et attendre ailleurs sa correspondance pour Athènes. A-t-il donc de si mauvais souvenirs de la ville ? « Des mauvais et des bons », répond-il. Puis, constatant qu'il est onze heures cinquante-sept, il demande d'une voix altérée si la guerre a touché la ville."
+    },
+    {
+      "de": "Der Träger erzählt müde, der letzte Krieg sei seit zwölf Jahren vorbei ; manchmal werfe er die Kriege schon durcheinander. Chrantox war so weit weg, daß der Krieg nur als Gerücht zu ihm drang : Bomben, Hunger, Tod, Mord. Doch von den Zerstörungen sei nicht mehr viel zu sehen. Auf die Frage, wo er damals gewohnt habe, nennt Chrantox die Sophienstraße am Sophienpark. Der Träger berichtet, der Park sei erweitert worden, und auch das Café und die Tanzterrasse stünden noch. Als er nach einer kurzen Pause weiterfragt, wann Chrantox denn siebzehn Jahre hier gelebt habe, antwortet dieser schlicht : « Ich bin hier geboren. » (D'après Heinrich Böll, Erzählungen, Hörspiele, Aufsätze, Verlag Kiepenheuer u. Witsch.)",
+      "fr": "Le porteur répond avec lassitude que la dernière guerre s'est terminée il y a douze ans et qu'il lui arrive de confondre les guerres entre elles. Chrantox était si loin que seule une rumeur lui en est parvenue : bombes, faim, mort, massacres. Mais il reste peu de traces des destructions. Quand le porteur lui demande où il habitait autrefois, Chrantox nomme la rue Sophie, près du Parc Sophie. Le porteur lui apprend que le parc a été agrandi et que le café et la terrasse de bal existent toujours. Puis, comptant les années — douze ans depuis la fin d'une guerre qui en dura six —, il demande quand Chrantox a vécu dix-sept ans ici : « Je suis né ici », répond simplement le voyageur."
+    }
+  ],
+  "pronunciation": "Extrait de la pièce radiophonique « Eine Stunde Aufenthalt » d'Heinrich Böll. Soignez la prononciation des participes épithètes et composés : Gepäckschalter, aus- oder einfahrenden, auf- und zugeschobener, Sehenswürdigkeiten, unwahrscheinlich, Aufbewahrung, Tanzterrasse.",
+  "vocab": [
+    {
+      "de": "aus- oder einfahrend",
+      "fr": "qui part ou qui arrive (factorisation du 2e élément : einen ausfahrenden oder einfahrenden Zug)",
+      "info": "Note 1 — Participe composé"
+    },
+    {
+      "de": "aufgeschoben / schieben (o, o)",
+      "fr": "ouvert en glissant (aufgeschobener Schalter : guichet coulissant ouvert) / pousser, faire glisser",
+      "info": "Note 2 — Verbe fort"
+    },
+    {
+      "de": "ankommen auf (+ Accusatif)",
+      "fr": "dépendre de, importer (Kommt es da auf eine Stunde an? : faut-il en être à une heure près ?)",
+      "info": "Note 3 — Verbe prépositionnel"
+    },
+    {
+      "de": "weiter",
+      "fr": "comparatif de weit (loin) ; indique souvent l'idée de continuer (er spricht weiter : il poursuit)",
+      "info": "Note 4 — Adverbe / Particule"
+    },
+    {
+      "de": "der Aufenthalt (-e)",
+      "fr": "le séjour, l'arrêt, l'attente (en gare)",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Aufbewahrung",
+      "fr": "la consigne (des bagages), la garde",
+      "info": "Féminin"
+    },
+    {
+      "de": "kränken",
+      "fr": "offenser, vexer, blesser",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "auffrischen",
+      "fr": "raviver, rafraîchir (des souvenirs)",
+      "info": "Verbe séparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Note 1 — Mise en facteur d'un élément commun avec le trait d'union",
+      "body": "En cas de répétition, on sous-entend le 2e élément du premier mot grâce à un tiret :<br>• <em>einen <strong>aus- oder einfahrenden</strong> Zug</em> = <em>einen ausfahrenden oder einfahrenden Zug</em>.<br>• <em><strong>auf- und zugeschobener</strong> Schalter</em> = <em>aufgeschobener und zugeschobener Schalter</em>."
+    },
+    {
+      "title": "Note 3 — Construction impersonnelle « es kommt an auf + accusatif »",
+      "body": "<strong>ankommen auf (+ accusatif)</strong> signifie <strong>dépendre de, importer</strong> :<br>• <em>Kommt es da <strong>auf eine Stunde</strong> an?</em> (Est-ce qu'une heure compte vraiment / faut-il en être à une heure près ?)<br>• <em>Nicht <strong>auf die Stunde</strong>, aber <strong>auf die Stadt</strong>.</em> (Il ne s'agit pas de l'heure, mais de la ville.)"
+    },
+    {
+      "title": "Note 4 — « weiter » pour exprimer la continuité",
+      "body": "Comparatif de <em>weit</em> (loin), <strong>weiter</strong> exprime la poursuite d'une action ; dans une didascalie comme <em>weiter nach kurzer Pause</em>, on sous-entend le verbe <em>sprechen</em> : <em>er spricht weiter</em> (il poursuit). De même : <em>weiterfahren</em> (continuer sa route)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Quel cas gouverne l'expression « es kommt an auf... » (dépendre de, Note 3) ?",
+      "options": [
+        "L'accusatif (auf eine Stunde)",
+        "Le datif (auf einer Stunde)",
+        "Le génitif (auf einer Stunde)",
+        "Le nominatif (auf eine Stunde)"
+      ],
+      "answer": "L'accusatif (auf eine Stunde)",
+      "hint": "Regardez « Kommt es da auf eine Stunde an? » et « Nicht auf die Stunde, aber auf die Stadt ».",
+      "explanation": "Note 3 : « an/kommen auf (+ accusatif) » = dépendre de."
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie la tournure raccourcie « einen aus- oder einfahrenden Zug » ? (Note 1)",
+      "options": [
+        "einen ausfahrenden oder einfahrenden Zug",
+        "einen ausgefahrenen und gefahrenen Zug",
+        "einen außerhalb fahrenden Zug",
+        "einen Zug ohne Einfahrt"
+      ],
+      "answer": "einen ausfahrenden oder einfahrenden Zug",
+      "hint": "Le tiret indique que l'élément « -fahrenden » est commun aux deux participes.",
+      "explanation": "Note 1 : En cas de répétition, on sous-entend le 2e élément du premier terme grâce au trait d'union."
+    },
+    {
+      "type": "fill",
+      "prompt": "Donnez le participe passé du verbe fort « schieben (o, o) » avec la particule séparable « auf- » (Note 2) :",
+      "answer": "aufgeschoben",
+      "hint": "Particule séparable + ge- + radical modifié en o + -en.",
+      "explanation": "Note 2 : « aufgeschobener Schalter » (guichet ouvert en glissant), de « schieben (schob, geschoben) »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quel verbe est sous-entendu dans l'indication scénique « weiter nach kurzer Pause » ? (Note 4)",
+      "options": [
+        "sprechen (er spricht weiter : il poursuit)",
+        "schlafen (er schläft weiter)",
+        "kaufen (er kauft weiter)",
+        "essen (er ißt weiter)"
+      ],
+      "answer": "sprechen (er spricht weiter : il poursuit)",
+      "hint": "Le porteur reprend la parole après un silence de Chrantox.",
+      "explanation": "Note 4 : « weiter » (comparatif de « weit ») indique la continuation ; ici on sous-entend « er spricht weiter »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la réplique célèbre de Chrantox sur l'attente en gare : « Kommt es da auf eine Stunde ___? »",
+      "answer": "an",
+      "hint": "Particule séparable du verbe « ankommen » rejetée en fin de proposition.",
+      "explanation": "Note 3 : « Kommt es da auf eine Stunde an? » (ankommen auf + acc.)."
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez la réponse finale et bouleversante de Chrantox :",
+      "words": [
+        "Ich",
+        "bin",
+        "hier",
+        "geboren."
+      ],
+      "answer": "Ich bin hier geboren.",
+      "hint": "Passif d'état avec « sein » + participe passé « geboren ».",
+      "explanation": "« Ich bin hier geboren. » (Je suis né ici.)"
+    }
+  ]
+}

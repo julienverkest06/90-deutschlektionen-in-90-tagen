@@ -1,0 +1,185 @@
+{
+  "id": "6",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Diese Sprache ist international",
+  "titleFr": "Ce langage est international",
+  "proverbDe": "Die Sprache eines Volkes ist seine Seele (Fichte).",
+  "proverbFr": "La langue d'un peuple, c'est son âme.",
+  "paragraphs": [
+    {
+      "de": "Paul Dumont sitzt gern im Garten. Heute liest er seine Post. Plötzlich hört er etwas. Ich bin nicht allein, denkt er.",
+      "fr": "Paul Dumont aime bien être assis dans le jardin (mot à mot : est assis volontiers...). Aujourd'hui il lit son courrier. Soudain, il entend quelque chose. Je ne suis pas seul, pense-t-il."
+    },
+    {
+      "de": "Da kommen Dieter und sein Kamerad. Oft spielen die Jungen im Garten. — Hörst du nichts, Dieter? Was ist das? fragt Paul Dumont. — Ich sehe nichts und höre nichts, Herr Dumont.",
+      "fr": "Voilà qu'arrivent (mot à mot : là arrivent) Didier et son camarade. Les garçons jouent souvent dans le jardin. — N'entends-tu rien, Didier ? Qu'est-ce que c'est ? demande Paul Dumont. — Je ne vois rien et n'entends rien, Monsieur Dumont."
+    },
+    {
+      "de": "Dieter ruft seinen Kameraden. Jetzt hört man: — Krah! krah! Ach, das ist ein Rabe, sagt der Junge. Ja! diese Sprache ist international, sagt Paul Dumont und lacht.",
+      "fr": "Didier appelle son camarade. Maintenant l'on entend : — crôa, crôa ! Ah, c'est un corbeau, dit le garçon. Oh oui, ce langage est international, dit Paul Dumont en riant (mot à mot : et rit)."
+    }
+  ],
+  "pronunciation": "Au début d'un mot, sp se prononcent [chp] et st se prononcent [cht]. C'est le cas dans « Sprache, spielen, Stadt ». b, d, g, sont explosifs en fin de syllabe, ainsi dans : « Kamerad, und, sagt ». Mais dans « Kameraden », le d, qui n'est plus en fin de syllabe, est sonore, comme dans « donner ». Prononcez donc : [kamérat — ount — zakt], mais le nom au pluriel : [kaméraden']. Dans les leçons précédentes, nous avons vu : der Tag, le jour [dér tak] ; der Freund, l'ami [dér froeunt] ; Deutschland, l'Allemagne [doeutchlan't]. Cependant, le pluriel « die Tage », les jours, garde le g sonore : [di tage]. Repères phonétiques : international [in'ternatçional], plötzlich [pleutçlich], Junge [youngue], lacht [lart].",
+  "vocab": [
+    {
+      "de": "der Junge (n)",
+      "fr": "le garçon",
+      "info": "Masculin faible"
+    },
+    {
+      "de": "der Rabe (n)",
+      "fr": "le corbeau",
+      "info": "Masculin faible"
+    },
+    {
+      "de": "die Post",
+      "fr": "le courrier",
+      "info": "Féminin"
+    },
+    {
+      "de": "denken",
+      "fr": "penser",
+      "info": "Verbe mixte"
+    },
+    {
+      "de": "fragen",
+      "fr": "demander",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "hören",
+      "fr": "entendre",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "kommen",
+      "fr": "venir",
+      "info": "Verbe fort (aux. sein)"
+    },
+    {
+      "de": "lachen",
+      "fr": "rire",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "sagen",
+      "fr": "dire",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "sitzen",
+      "fr": "être assis",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "spielen",
+      "fr": "jouer",
+      "info": "Verbe faible"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Le pluriel des noms : les masculins dits faibles (Die Jungen spielen oft im Garten.)",
+      "body": "Singulier : <em>Der Junge spielt oft...</em><br>Certains masculins font leur pluriel en <strong>-en</strong> ou <strong>-n</strong>. Ils prennent cette terminaison à tous les cas, au singulier et au pluriel, sauf au nominatif singulier. On les appelle <strong>masculins faibles</strong> ; ils désignent généralement un être animé. Exemples :<br><em>Der Junge ist groß</em> (Nominatif singulier)<br><em>Ich rufe den Jungen</em> (Accusatif singulier)<br><em>Die Jungen sind groß</em> (Nominatif pluriel)<br><em>Ich rufe die Jungen</em> (Accusatif pluriel).<br><br>Autres masculins faibles : <em>der Rabe (n)</em> — <em>der Kamerad (en)</em>."
+    },
+    {
+      "title": "La place du verbe et l'inversion (Oft spielen die Jungen im Garten.)",
+      "body": "a) <em>Die Jungen spielen oft im Garten</em>, les garçons jouent souvent au jardin.<br>b) <em>Oft spielen die Jungen im Garten</em>, souvent, les garçons jouent au jardin.<br>a) <em>Der Pförtner hat zwei Söhne</em>, le concierge a deux fils.<br>b) <em>Zwei Söhne hat der Pförtner</em>, il a deux fils, le concierge.<br><br>Dans ces quatre propositions indépendantes, le verbe est à la <strong>deuxième place</strong>. À la première place, on peut avoir le sujet (exemple a). Cette place peut également être occupée par un terme autre que le sujet (exemple b) ; dans ce cas, le sujet se place après le verbe (<strong>inversion</strong>). La construction de la proposition, en allemand, repose avant tout sur la place du verbe.<br><br>Autres exemples d'inversion :<br><em>Da kommt Dieter</em>, voilà Didier qui arrive.<br><em>Im Garten ist ein Rabe</em>, au jardin, il y a (est) un corbeau.<br><em>An die Freunde in Paris schreibt er diese Briefe</em>, (c'est) aux amis à Paris (qu') il écrit ces lettres.<br><br>Le verbe en deuxième place ne veut pas dire que le verbe doit être le deuxième mot. Devant le verbe, on peut avoir plusieurs mots, à condition qu'ils représentent une seule idée.<br><br><strong>Remarque :</strong> Nous avons déjà rencontré l'inversion interrogative, dans la leçon 2 :<br><em>Wohnt Herr Müller in Köln?</em> Monsieur Müller habite-t-il à Cologne ?"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Complétez la phrase à l'accusatif singulier (Exercice A.a.1) : « Der Junge sieht ___ ___. » (Le garçon voit un corbeau.)",
+      "options": [
+        "einen Raben",
+        "ein Rabe",
+        "einen Rabe",
+        "einer Raben"
+      ],
+      "answer": "einen Raben",
+      "hint": "« der Rabe » est un masculin faible : il prend -n à tous les cas sauf au nominatif singulier.",
+      "explanation": "Corrigé A.a.1 : Der Junge sieht einen Raben. (Le garçon voit un corbeau.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez le nom masculin faible à l'accusatif singulier (Exercice A.a.2) : « Hat er einen ___? » (der Kamerad)",
+      "answer": "Kameraden",
+      "hint": "« der Kamerad » prend la terminaison -en à l'accusatif singulier comme au pluriel.",
+      "explanation": "Corrigé A.a.2 : Hat er einen Kameraden? (A-t-il un camarade ?)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez la phrase au pluriel (Exercice A.b.1) : « Der Junge sieht einen Raben. »",
+      "options": [
+        "Die Jungen sehen Raben.",
+        "Die Junge sehen Raben.",
+        "Die Jungen sieht Raben.",
+        "Die Jungen sehen ein Raben."
+      ],
+      "answer": "Die Jungen sehen Raben.",
+      "hint": "Au pluriel, l'article indéfini disparaît et les deux masculins faibles prennent -n.",
+      "explanation": "Corrigé A.b.1 : Die Jungen sehen Raben."
+    },
+    {
+      "type": "order",
+      "prompt": "Changez la construction en commençant par « Im Garten » (Exercice B.5) : « Paul liest oft (im Garten). »",
+      "words": [
+        "Im",
+        "Garten",
+        "liest",
+        "Paul",
+        "oft."
+      ],
+      "answer": "Im Garten liest Paul oft.",
+      "hint": "Le verbe conjugué « liest » reste en deuxième position (après le groupe « Im Garten »), entraînant l'inversion du sujet « Paul ».",
+      "explanation": "Corrigé B.5 : Im Garten liest Paul oft. (C'est au jardin que Paul lit souvent.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Changez la construction en commençant par « Für seinen Freund » (Exercice B.8) : « Er kauft eine Postkarte (für seinen Freund). »",
+      "words": [
+        "Für",
+        "seinen",
+        "Freund",
+        "kauft",
+        "er",
+        "eine",
+        "Postkarte."
+      ],
+      "answer": "Für seinen Freund kauft er eine Postkarte.",
+      "hint": "Le complément « Für seinen Freund » occupe la première place, suivi immédiatement du verbe « kauft » puis du sujet « er ».",
+      "explanation": "Corrigé B.8 : Für seinen Freund kauft er eine Postkarte. (C'est pour son ami qu'il achète une carte postale.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand (Exercice C.9) : « Karl n'a pas de camarade. »",
+      "answer": "Karl hat keinen Kameraden.",
+      "hint": "N'oubliez pas la terminaison -en du masculin faible « Kamerad » à l'accusatif.",
+      "explanation": "Corrigé C.9 : Karl hat keinen Kameraden."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand (Exercice C.10) : « Souvent, nous entendons des corbeaux au jardin. »",
+      "words": [
+        "Oft",
+        "hören",
+        "wir",
+        "Raben",
+        "im",
+        "Garten."
+      ],
+      "answer": "Oft hören wir Raben im Garten.",
+      "hint": "Commencez par « Oft », ce qui impose l'inversion « hören wir ».",
+      "explanation": "Corrigé C.10 : Oft hören wir Raben im Garten."
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand (Exercice C.15) : « Aujourd'hui, je ne lis pas beaucoup. »",
+      "answer": "Heute lese ich nicht viel.",
+      "hint": "Avec « Heute » en tête de phrase, le verbe « lese » passe devant le sujet « ich ».",
+      "explanation": "Corrigé C.15 : Heute lese ich nicht viel."
+    }
+  ]
+}

@@ -4,90 +4,196 @@
   "authentic": true,
   "isReview": true,
   "titleDe": "Contrôle et révisions (Leçons 11 à 20)",
-  "titleFr": "Factitifs/position, prétérit, passé composé, pronoms et modaux",
-  "proverbDe": "Erst wägen, dann wagen.",
-  "proverbFr": "D'abord peser, ensuite oser.",
+  "titleFr": "Verbes de position, prétérit, passé composé, pronoms et auxiliaires de mode",
+  "proverbDe": "Übung macht den Meister.",
+  "proverbFr": "C'est en forgeant qu'on devient forgeron (m. à m. : L'exercice fait le maître).",
   "paragraphs": [
     {
-      "de": "Werner legt seine Uhr auf den Tisch. Jetzt liegt die Uhr auf dem Tisch. Emma stellt den Stuhl in das Zimmer. Jetzt steht der Stuhl in dem Zimmer.",
-      "fr": "Werner pose sa montre sur la table. Maintenant la montre est posée sur la table. Emma met la chaise dans la pièce. Maintenant la chaise se trouve dans la pièce."
+      "de": "Werner legt seine Uhr auf den Tisch. Jetzt liegt die Uhr auf dem Tisch. Emma stellt den Stuhl in das Zimmer. Jetzt steht der Stuhl in dem Zimmer. Heddy setzt ihre Puppe auf den Stuhl. Jetzt sitzt die Puppe auf dem Stuhl. Ich hänge den Regenschirm an die Tür. Jetzt hängt er an der Tür.",
+      "fr": "Werner pose sa montre sur la table. Maintenant, la montre est posée sur la table. Emma met la chaise dans la pièce. Maintenant, la chaise se trouve (debout) dans la pièce. Heddy assied sa poupée sur la chaise. Maintenant, la poupée est assise sur la chaise. J'accroche le parapluie à la porte. Maintenant, il est accroché à la porte."
+    },
+    {
+      "de": "Er lernte Deutsch. Er arbeitete jeden Tag. Du trugst eine Mappe. Wir fanden ein gutes Hotel. Ich erzählte ihnen von Paris. Alle hörten mir zu. Ihr fuhrt zu schnell. Sie bestellten Rheinwein.",
+      "fr": "Il apprenait l'allemand. Il travaillait chaque jour. Tu portais une serviette. Nous trouvâmes un bon hôtel. Je leur parlais de Paris. Tous m'écoutaient. Vous rouliez trop vite. Ils commandèrent du vin du Rhin."
+    },
+    {
+      "de": "Er hat lange geschlafen. Du hast es mir gesagt. Wir haben es abgeschrieben. Ich habe es ihm gezeigt. Sie haben es bewundert.",
+      "fr": "Il a dormi longtemps. Tu me l'as dit. Nous l'avons copié. Je le lui ai montré. Ils l'ont admiré."
+    },
+    {
+      "de": "Dieser Tischler liefert dem Direktor Möbel. Dieser Tischler liefert sie ihm. Du verkaufst dem Nachbar dein Auto. Du verkaufst es ihm. Sie bringt der Nachbarin Rosen. Sie bringt sie ihr.",
+      "fr": "Cet ébéniste fournit des meubles au directeur. (Il les lui fournit.) Tu vends ta voiture au (= à ton) voisin. (Tu la lui vends.) Elle apporte des roses à la (= sa) voisine. (Elle les lui apporte.)"
+    },
+    {
+      "de": "Er will Ingenieur werden. Sie mag diese Schokolade nicht (ou : Sie hat diese Schokolade nicht gern). Er muß arbeiten. Soll ich morgen kommen? In diesem Zimmer können wir nicht arbeiten. Sie darf diesen Film sehen.",
+      "fr": "Il veut devenir ingénieur. Elle n'aime pas ce chocolat. Il faut qu'il travaille (= il doit travailler). Dois-je venir demain ? Nous ne pouvons pas travailler dans cette pièce. Elle peut (= a le droit de) voir ce film."
     }
   ],
-  "pronunciation": "Distinguez bien le verbe factitif régulier (legen, stellen, setzen, hängen + Accusatif) du verbe de position irrégulier (liegen, stehen, sitzen, hängen + Datif).",
+  "pronunciation": "Points de prononciation des révisions : distinguez la voyelle longue de « liegt » [li:kt] et la voyelle brève de « legt » [lèkt] ; accentuez la particule séparable dans « abgeschrieben » [AP-gechri:ben] mais le radical dans le verbe inséparable « bewundert » [be-VUN-dert] ; dans « Regenschirm » [ré:genchirm], sch se prononce [ch] ; dans « muß » [mus], le u est bref devant ß ; « Ingenieur » [injénieur] conserve sa prononciation d'origine française avec l'accent sur la dernière syllabe.",
   "vocab": [
     {
-      "de": "legen / liegen",
-      "fr": "poser à plat / être posé",
-      "info": "Accusatif / Datif"
-    },
-    {
-      "de": "stellen / stehen",
-      "fr": "mettre debout / être debout",
-      "info": "Accusatif / Datif"
-    },
-    {
-      "de": "setzen / sitzen",
-      "fr": "asseoir / être assis",
-      "info": "Accusatif / Datif"
-    },
-    {
       "de": "die Uhr (-en)",
-      "fr": "la montre, l'heure",
+      "fr": "la montre, l'horloge",
       "info": "Féminin"
+    },
+    {
+      "de": "der Stuhl (¨-e)",
+      "fr": "la chaise",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Puppe (-n)",
+      "fr": "la poupée",
+      "info": "Féminin"
+    },
+    {
+      "de": "der Regenschirm (-e)",
+      "fr": "le parapluie",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Mappe (-n)",
+      "fr": "la serviette, le cartable",
+      "info": "Féminin"
+    },
+    {
+      "de": "zuhören",
+      "fr": "écouter",
+      "info": "Verbe séparable (+ datif)"
+    },
+    {
+      "de": "abschreiben (ie, ie)",
+      "fr": "copier",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "bewundern",
+      "fr": "admirer",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "liefern",
+      "fr": "fournir, livrer",
+      "info": "Verbe régulier"
+    },
+    {
+      "de": "der Nachbar (-n) / die Nachbarin (-nen)",
+      "fr": "le voisin / la voisine",
+      "info": "Nom"
     }
   ],
   "grammar": [
     {
-      "title": "Révision : Factitif (+ Accusatif) vs Position (+ Datif)",
-      "body": "Action de placer (<em>wohin?</em>) : <em>Werner legt seine Uhr auf <strong>den</strong> Tisch</em> (Accusatif).<br>État résultant (<em>wo?</em>) : <em>Jetzt liegt die Uhr auf <strong>dem</strong> Tisch</em> (Datif)."
+      "title": "Verbes factitifs (leçon 11) et verbes de position (leçon 12)",
+      "body": "Les <strong>verbes factitifs</strong> (action, mouvement) se construisent avec l'<strong>accusatif</strong> après les prépositions mixtes (<em>auf, in, an</em>) ; les <strong>verbes de position</strong> (état, repos) se construisent avec le <strong>datif</strong> :<br><em>legen</em> (poser à plat) / <em>liegen</em> (être couché, posé)<br><em>stellen</em> (placer debout) / <em>stehen</em> (être debout)<br><em>setzen</em> (asseoir) / <em>sitzen</em> (être assis)<br><em>hängen</em> (accrocher) / <em>hängen</em> (être accroché)."
+    },
+    {
+      "title": "Le prétérit des verbes réguliers et irréguliers (leçons 14 et 15)",
+      "body": "<strong>Verbes réguliers :</strong> terminaisons <em>-te, -test, -te, -ten, -tet, -ten</em> (avec <em>-e-</em> intercalaire après <em>-t/-d</em>) : <em>er lernte</em>, <em>er arbeitete</em>, <em>ich erzählte</em>, <em>sie bestellten</em>. La particule séparable se rejette en fin de proposition : <em>Alle hörten mir zu.</em><br><strong>Verbes irréguliers :</strong> changement de radical, pas de <em>-te</em> : <em>du trugst</em> (tragen), <em>wir fanden</em> (finden), <em>ihr fuhrt</em> (fahren)."
+    },
+    {
+      "title": "Le passé composé (Perfekt) et la formation du participe passé",
+      "body": "Le passé composé se forme avec l'auxiliaire au présent et le participe passé en fin de phrase :<br>• verbe simple régulier ou fort : <em>ge-</em> en tête (<em>gesagt</em>, <em>gezeigt</em>, <em>geschlafen</em>) ;<br>• verbe à particule séparable : <em>ge-</em> intercalé après la particule (<em>abgeschrieben</em>) ;<br>• verbe à particule inséparable (<em>be-</em>, <em>er-</em>, <em>ver-</em>...) : pas de <em>ge-</em> (<em>bewundert</em>)."
+    },
+    {
+      "title": "Ordre des pronoms personnels (leçons 13, 14 et 17)",
+      "body": "Lorsque les deux compléments sont des noms, le <strong>datif précède l'accusatif</strong> : <em>Dieser Tischler liefert dem Direktor Möbel.</em><br>Lorsqu'ils sont remplacés par des pronoms personnels, l'<strong>accusatif précède le datif</strong> : <em>Dieser Tischler liefert sie ihm.</em> / <em>Du verkaufst es ihm.</em> / <em>Sie bringt sie ihr.</em> / <em>Du hast es mir gesagt.</em>"
+    },
+    {
+      "title": "Les six auxiliaires de mode (Exercice E)",
+      "body": "L'auxiliaire de mode se conjugue en 2e position et l'infinitif se place en fin de proposition :<br>• <strong>wollen</strong> (vouloir) : <em>Er will Ingenieur werden.</em><br>• <strong>mögen</strong> (aimer) : <em>Sie mag diese Schokolade nicht.</em><br>• <strong>müssen</strong> (devoir, nécessité) : <em>Er muß arbeiten.</em><br>• <strong>sollen</strong> (devoir moral / demande) : <em>Soll ich morgen kommen?</em><br>• <strong>können</strong> (pouvoir matériel) : <em>In diesem Zimmer können wir nicht arbeiten.</em><br>• <strong>dürfen</strong> (avoir le droit de) : <em>Sie darf diesen Film sehen.</em>"
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Complétez (Exercice A.1-2) : « Werner legt seine Uhr auf ___ Tisch. Jetzt liegt die Uhr auf ___ Tisch. »",
+      "prompt": "(Exercice A.1) Complétez avec le verbe factitif et l'article : « Werner ... seine Uhr auf ... Tisch. » (Werner pose sa montre sur la table.)",
       "options": [
-        "den / dem",
-        "dem / den",
-        "der / dem",
-        "den / den"
+        "legt / den",
+        "liegt / dem",
+        "legt / dem",
+        "liegt / den"
       ],
-      "answer": "den / dem",
-      "hint": "1er verbe : legen (mouvement → accusatif den). 2e verbe : liegen (position → datif dem).",
-      "explanation": "auf den Tisch (acc.) → auf dem Tisch (dat.)."
+      "answer": "legt / den",
+      "hint": "Action de poser à plat = legen (factitif) + auf suivi de l'accusatif masculin (den Tisch).",
+      "explanation": "Corrigé A.1 : « Werner legt seine Uhr auf den Tisch. » (Mouvement → verbe factitif legen + accusatif den.)"
     },
     {
       "type": "fill",
-      "prompt": "Mettez au passé composé (Exercice C.17) : « Er (schlafen) lange. » → Er hat lange ___.",
-      "answer": "geschlafen",
-      "hint": "schlafen est un verbe fort dont le participe passé est « geschlafen ».",
-      "explanation": "Er hat lange geschlafen. (Il a dormi longtemps)."
+      "prompt": "(Exercice A.6) Complétez le verbe de position au présent : « Jetzt ... die Puppe auf dem Stuhl. » (Maintenant, la poupée est assise sur la chaise.)",
+      "answer": "sitzt",
+      "hint": "Le verbe de position correspondant à setzen (asseoir) est sitzen (être assis).",
+      "explanation": "Corrigé A.6 : « Jetzt sitzt die Puppe auf dem Stuhl. » (Position immobile → sitzen + datif dem Stuhl.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.11) Mettez le verbe « tragen (u, a; ä) » au prétérit : « Du ... eine Mappe. » (Tu portais une serviette.)",
+      "answer": "trugst",
+      "hint": "Le radical du prétérit de tragen est trug-, auquel on ajoute la terminaison -st pour du.",
+      "explanation": "Corrigé B.11 : « Du trugst eine Mappe. » (Tu portais une serviette.)"
     },
     {
       "type": "choice",
-      "prompt": "Remplacez par des pronoms (Exercice D.22) : « Dieser Tischler liefert dem Direktor Möbel. »",
+      "prompt": "(Exercice B.14) Mettez au prétérit : « Alle (zu/hören) mir. » (Tous m'écoutaient.)",
       "options": [
-        "Dieser Tischler liefert sie ihm.",
-        "Dieser Tischler liefert ihm sie.",
-        "Dieser Tischler liefert es ihm.",
-        "Dieser Tischler liefert sie ihn."
+        "Alle hörten mir zu.",
+        "Alle zuhörten mir.",
+        "Alle hörte mir zu.",
+        "Alle hörten zu mir."
+      ],
+      "answer": "Alle hörten mir zu.",
+      "hint": "zuhören est un verbe régulier à particule séparable : la particule zu se rejette à la fin de la proposition.",
+      "explanation": "Corrigé B.14 : « Alle hörten mir zu. » (Tous m'écoutaient.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice C.19) Mettez au passé composé : « Wir (ab/schreiben; ie, ie) es. » (Nous l'avons copié.)",
+      "answer": "Wir haben es abgeschrieben.",
+      "hint": "Verbe fort à particule séparable : ge- s'intercale entre ab et geschrieben.",
+      "explanation": "Corrigé C.19 : « Wir haben es abgeschrieben. » (Nous l'avons copié.)"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice D.22) Remplacez les compléments par des pronoms personnels : « Dieser Tischler liefert dem Direktor Möbel. »",
+      "words": [
+        "Dieser",
+        "Tischler",
+        "liefert",
+        "sie",
+        "ihm."
       ],
       "answer": "Dieser Tischler liefert sie ihm.",
-      "hint": "Möbel (pluriel acc. → sie) + dem Direktor (masc. dat. → ihm). Accusatif avant datif !",
-      "explanation": "Dieser Tischler liefert sie ihm."
+      "hint": "Möbel (pluriel accusatif) → sie ; dem Direktor (masculin datif) → ihm. L'accusatif précède le datif.",
+      "explanation": "Corrigé D.22 : « Dieser Tischler liefert sie ihm. » (Cet ébéniste fournit des meubles au directeur.)"
     },
     {
       "type": "choice",
-      "prompt": "Traduisez (Exercice E.27) : « Il faut qu'il travaille (= il doit travailler). »",
+      "prompt": "(Exercice E.27) Traduisez : « Il faut qu'il travaille. (= il doit travailler). »",
       "options": [
         "Er muß arbeiten.",
+        "Er soll arbeiten.",
         "Er darf arbeiten.",
-        "Er will arbeiten.",
         "Er mag arbeiten."
       ],
       "answer": "Er muß arbeiten.",
-      "hint": "müssen exprime la nécessité matérielle ou l'obligation.",
-      "explanation": "Er muß arbeiten."
+      "hint": "La nécessité (« il faut que / il doit ») s'exprime par müssen (3e pers. sg. : er muß).",
+      "explanation": "Corrigé E.27 : « Er muß arbeiten. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice E.29) Traduisez : « Nous ne pouvons pas travailler dans cette pièce. »",
+      "words": [
+        "In",
+        "diesem",
+        "Zimmer",
+        "können",
+        "wir",
+        "nicht",
+        "arbeiten."
+      ],
+      "answer": "In diesem Zimmer können wir nicht arbeiten.",
+      "hint": "Placez « In diesem Zimmer » en tête, puis le verbe conjugué « können », le sujet « wir », « nicht » et l'infinitif final.",
+      "explanation": "Corrigé E.29 : « In diesem Zimmer können wir nicht arbeiten. »"
     }
   ]
 }

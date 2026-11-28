@@ -4,23 +4,23 @@
   "authentic": true,
   "titleDe": "Er lernt im Park",
   "titleFr": "Il apprend dans le parc",
-  "proverbDe": "Aller Anfang ist schwer.",
-  "proverbFr": "Tout commencement est difficile.",
+  "proverbDe": "Eile mit Weile.",
+  "proverbFr": "Hâte-toi lentement (Hâte-toi avec loisir).",
   "paragraphs": [
     {
-      "de": "Paul Dumont lernt Deutsch. Er ist im Park.",
-      "fr": "Paul Dumont apprend l'allemand. Il est dans le parc."
+      "de": "Der Park ist groß. Die Tanne ist grün. Das Gras ist auch grün. – Wie ist der Park? – Er ist groß. – Wie ist die Tanne? – Sie ist grün. – Wie ist das Gras? – Es ist auch grün.",
+      "fr": "Le parc est grand. Le sapin est vert. L'herbe est également verte. – Comment est le parc? – Il est grand. – Comment est le sapin? – Il est vert. – Comment est l'herbe? – Elle est également verte."
     },
     {
-      "de": "Der Park ist groß und grün. Die Tanne ist auch groß. Das Gras ist grün.",
-      "fr": "Le parc est grand et vert. Le sapin est aussi grand. L'herbe est verte."
+      "de": "Paul Dumont ist im Park. – Was lernt Paul Dumont? – Er lernt Deutsch. – Ist es schwer? – Nein; er lernt jeden Tag eine Lektion.",
+      "fr": "Paul Dumont est dans le parc. – Qu'apprend Paul Dumont? – Il apprend l'allemand. – Est-ce difficile? – Non; il apprend chaque jour une leçon."
     },
     {
-      "de": "— Ist das Gras grün? — Ja, es ist grün. — Wie ist die Tanne? — Sie ist groß.",
-      "fr": "— L'herbe est-elle verte ? — Oui, elle est verte. — Comment est le sapin ? — Il est grand."
+      "de": "– Ist der Park groß? – Ja, der Park ist groß. – Ist das Gras grün? – Ja, das Gras ist grün. – Ist die Tanne auch grün? – Ja, die Tanne ist auch grün.",
+      "fr": "– Le parc est-il grand? – Oui, le parc est grand. – L'herbe est-elle verte? – Oui, l'herbe est verte. – Le sapin est-il vert également? Oui, le sapin est également vert."
     }
   ],
-  "pronunciation": "Le « ch » dans « auch » est un son guttural au fond de la gorge [aor]. Tous les noms allemands prennent une majuscule (der Park, die Tanne, das Gras).",
+  "pronunciation": "Au-dessous de chaque texte vous trouverez, entre crochets, une transcription vous permettant de prononcer correctement. Les voyelles accentuées sont en caractères gras. Les voyelles allongées sont soulignées d'une flèche. Reportez-vous fréquemment au mémento grammatical, où le § 1 est consacré à la prononciation. Retenez : la lettre ß se prononce comme le s français dans « grosse » ; sch comme le français ch ; ü comme le français u ; w comme le français v ; s au début d'un mot se prononce z ; im se prononce comme dans « lime ». 2. Toutes les lettres se prononcent, en particulier le e à la fin d'un mot (par exemple : Tanne). Mais dans sie [zi], le e allonge le i, et ne se prononce pas. Le h dans sehr [zér] allonge également le [é]. 3. ch, dans auch, ne se prononce pas comme en français ; c'est, ici, un son guttural (râclement au fond de la gorge). Nous représentons ce son par [r] : donc auch se prononce [aor]. Repères phonétiques du texte : groß [groç], grün [grun], wie [vi], Deutsch [doeutch], schwer [chvér], nein [naén], jeden Tag [yéden' tak], eine Lektion [aéne lèktçion], ja [ya].",
   "vocab": [
     {
       "de": "der Park",
@@ -35,71 +35,107 @@
     {
       "de": "die Tanne",
       "fr": "le sapin",
-      "info": "Féminin (masculin en fr.)"
+      "info": "Féminin"
     },
     {
       "de": "das Gras",
       "fr": "l'herbe",
-      "info": "Neutre (féminin en fr.)"
+      "info": "Neutre"
     },
     {
       "de": "lernen",
       "fr": "apprendre",
-      "info": "Verbe"
-    },
-    {
-      "de": "grün / groß",
-      "fr": "vert / grand",
-      "info": "Adjectifs invariables"
+      "info": "Verbe régulier"
     }
   ],
   "grammar": [
     {
-      "title": "Le nom et les trois genres : der, die, das",
-      "body": "L'allemand distingue trois genres : <strong>der</strong> (masculin : <em>der Park</em>), <strong>die</strong> (féminin : <em>die Tanne</em>) et <strong>das</strong> (neutre : <em>das Gras</em>). Au pluriel, l'article défini unique est <strong>die</strong>. Tous les noms s'écrivent avec une majuscule."
+      "title": "Der Park – die Tanne – das Gras (Le nom – Le genre)",
+      "body": "L'allemand a trois genres, caractérisés par l'article défini : <strong>der</strong> (masculin), <strong>die</strong> (féminin), <strong>das</strong> (neutre). Il est très important d'apprendre les noms avec leur article défini, pour en connaître le genre. En effet, celui-ci ne correspond pas d'une langue à l'autre. Exemple : <em>die Tanne</em> (féminin), le sapin (masculin).<br>Au pluriel, ces articles ont une seule forme : <strong>die</strong>, les. Les noms s'écrivent tous avec une majuscule."
     },
     {
-      "title": "Le verbe être (sein) et les pronoms personnels",
-      "body": "<em>ich bin</em> (je suis), <em>er ist</em> (il est), <em>sie ist</em> (elle est), <em>es ist</em> (il/elle est, c'est), <em>wir sind</em> (nous sommes), <em>sie sind</em> (ils sont), <em>Sie sind</em> (vous êtes — politesse). L'adjectif attribut (<em>grün, groß</em>) reste toujours invariable."
+      "title": "Der Park ist groß (Le verbe être : sein)",
+      "body": "<strong>ich bin</strong>, <em>je suis</em> — <strong>wir sind</strong>, <em>nous sommes</em><br><strong>er ist</strong>, <em>il est</em> — <strong>sie sind</strong>, <em>ils sont</em><br><strong>sie ist</strong>, <em>elle est</em> — <strong>Sie sind</strong>, <em>vous êtes</em> (forme de politesse)<br><strong>es ist</strong>, <em>il est, c'est</em>"
+    },
+    {
+      "title": "Er ist groß – Sie ist grün – Es ist auch grün",
+      "body": "Aux trois genres correspondent au singulier les trois pronoms de la 3e personne : <strong>er</strong> (masculin), <strong>sie</strong> (féminin), <strong>es</strong> (neutre). Au pluriel, ce pronom est <strong>sie</strong> pour les trois genres. Exemple : <em>Sie sind grün</em> : ils sont verts."
+    },
+    {
+      "title": "Die Tanne ist grün; das Gras ist auch grün",
+      "body": "L'adjectif attribut (<em>grün</em>), introduit par des verbes comme « être », <em>sein</em>, « sembler, devenir, etc. », est invariable en allemand."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Complétez par l'article défini exact : « Ist ___ Gras grün? » (L'herbe est-elle verte ?)",
+      "prompt": "Complétez par l'article défini : « Ist ___ Gras grün? » (Exercice A.1)",
       "options": [
+        "das",
         "der",
         "die",
-        "das",
         "den"
       ],
       "answer": "das",
-      "hint": "« Gras » est du genre neutre en allemand (das Gras).",
-      "explanation": "Exact ! das Gras (neutre) → Ist das Gras grün?"
-    },
-    {
-      "type": "choice",
-      "prompt": "Quel article convient devant « Tanne » (le sapin) ? « Wie ist ___ Tanne? »",
-      "options": [
-        "der",
-        "die",
-        "das",
-        "ein"
-      ],
-      "answer": "die",
-      "hint": "Attention aux faux amis de genre : le sapin est féminin en allemand.",
-      "explanation": "Bravo ! die Tanne est féminin en allemand."
+      "hint": "En allemand, le nom Gras (l'herbe) est du genre neutre.",
+      "explanation": "Corrigé A.1 : « Ist das Gras grün? » (L'herbe est-elle verte?). Gras est neutre, donc on emploie l'article défini « das »."
     },
     {
       "type": "fill",
-      "prompt": "Traduisez en allemand (Exercice D.12) : « Comment est le parc ? »",
-      "answer": "Wie ist der Park?",
-      "hint": "Utilisez l'interrogatif « Wie » (comment) + verbe « ist » + « der Park ».",
-      "explanation": "Parfait : Wie ist der Park?"
+      "prompt": "Complétez par l'article défini : « Wie ist ___ Tanne? » (Exercice A.2)",
+      "answer": "die",
+      "hint": "Attention : contrairement au français « le sapin », Tanne est féminin en allemand.",
+      "explanation": "Corrigé A.2 : « Wie ist die Tanne? » (Comment est le sapin?). Le nom Tanne est féminin : « die Tanne »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez en français : « Lernt er im Park? » (Exercice B.6)",
+      "options": [
+        "Apprend-il dans le parc?",
+        "Il apprend dans le parc.",
+        "Qu'apprend-il dans le parc?",
+        "Est-il grand dans le parc?"
+      ],
+      "answer": "Apprend-il dans le parc?",
+      "hint": "La phrase commence par le verbe « lernt » suivi du sujet « er » : c'est une question.",
+      "explanation": "Corrigé B.6 : « Lernt er im Park? » se traduit par « Apprend-il dans le parc? »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Posez une question avec « was? » sur la phrase « Er lernt Deutsch. » (Exercice C.8a)",
+      "answer": "Was lernt er?",
+      "hint": "Placez « Was » en tête, suivi du verbe « lernt » puis du pronom « er ».",
+      "explanation": "Corrigé C.8a : « Was lernt er? » (Qu'apprend-il?). Le mot interrogatif « was » signifie « que, quoi »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Posez une question avec « wie? » (= comment?) sur « Die Tanne ist groß. » (Exercice C.9b)",
+      "options": [
+        "Wie ist die Tanne?",
+        "Was ist die Tanne?",
+        "Wie die Tanne ist?",
+        "Ist die Tanne wie?"
+      ],
+      "answer": "Wie ist die Tanne?",
+      "hint": "Le mot interrogatif « Wie » est immédiatement suivi du verbe « ist ».",
+      "explanation": "Corrigé C.9b : « Wie ist die Tanne? » (Comment est le sapin?)."
     },
     {
       "type": "order",
-      "prompt": "Remettez dans l'ordre (Exercice D.13) : « Êtes-vous (politesse) dans le parc ? »",
+      "prompt": "Traduisez en allemand : « Qu'apprend Paul Dumont? » (Exercice D.11)",
+      "words": [
+        "Was",
+        "lernt",
+        "Paul",
+        "Dumont?"
+      ],
+      "answer": "Was lernt Paul Dumont?",
+      "hint": "Commencez par le mot interrogatif « Was », suivi du verbe « lernt ».",
+      "explanation": "Corrigé D.11 : « Was lernt Paul Dumont? » (Mot à mot : Qu'apprend Paul Dumont?)."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Êtes-vous (forme de politesse) dans le (im) parc? » (Exercice D.13)",
       "words": [
         "Sind",
         "Sie",
@@ -107,21 +143,25 @@
         "Park?"
       ],
       "answer": "Sind Sie im Park?",
-      "hint": "Dans l'interrogation directe, le verbe conjugué se place en tête de phrase.",
-      "explanation": "Sind Sie im Park? (Sie avec majuscule = forme de politesse)."
+      "hint": "Forme de politesse de « sein » : « Sie sind », inversée dans la question.",
+      "explanation": "Corrigé D.13 : « Sind Sie im Park? ». On met le verbe « Sind » en tête suivi du pronom de politesse « Sie »."
     },
     {
-      "type": "choice",
-      "prompt": "Traduisez en français (Exercice B.6) : « Lernt er im Park? »",
-      "options": [
-        "Apprend-il dans le parc ?",
-        "Est-il grand dans le parc ?",
-        "Elle apprend dans le parc.",
-        "Apprenez-vous dans le parc ?"
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Le sapin est grand; il est dans le parc. » (Exercice D.14)",
+      "words": [
+        "Die",
+        "Tanne",
+        "ist",
+        "groß,",
+        "sie",
+        "ist",
+        "im",
+        "Park."
       ],
-      "answer": "Apprend-il dans le parc ?",
-      "hint": "« er » correspond au pronom masculin singulier (il).",
-      "explanation": "Lernt er im Park? = Apprend-il dans le parc ?"
+      "answer": "Die Tanne ist groß, sie ist im Park.",
+      "hint": "« die Tanne » étant féminin, le pronom qui le reprend est « sie ».",
+      "explanation": "Corrigé D.14 : « Die Tanne ist groß, sie ist im Park. ». L'adjectif attribut « groß » est invariable et « die Tanne » (féminin) est repris par « sie »."
     }
   ]
 }

@@ -1,0 +1,237 @@
+{
+  "id": "45",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Die Bank; die Post",
+  "titleFr": "La banque ; la poste",
+  "proverbDe": "Doppelt genäht hält besser.",
+  "proverbFr": "Deux sûretés valent mieux qu'une. (Doublement cousu tient mieux.)",
+  "paragraphs": [
+    {
+      "de": "Wenn man Geld wechseln will, geht man auf die Bank. Der Wechselkurs ist immer angeschlagen. Er verändert sich meistens von einem Tag zum andern. Um einen Scheck einzulösen, wendet man sich an einen anderen Schalter. Ist man nicht bekannt, so muß man einen Personalausweis vorzeigen. Reiseschecks werden fast überall als Zahlungsmittel angenommen. Man braucht sie nur zu unterschreiben (= unterzeichnen).",
+      "fr": "Si l'on veut changer de l'argent, on va à la banque. Le cours du change est toujours affiché. Le plus souvent, il varie d'un jour à l'autre. Pour encaisser un chèque, on s'adresse à un autre guichet. Si l'on n'est pas connu, il faut présenter une pièce d'identité. Les chèques de voyage sont acceptés comme moyen de paiement un peu partout. Il suffit de les signer (m. à m. : on n'a besoin que de les signer)."
+    },
+    {
+      "de": "Einen gekreuzten Scheck kann man nur dann zur Einziehung überreichen, wenn man selbst ein Bankkonto oder ein Postscheckkonto hat. Wenn es diese modernen Zahlungsmittel nicht gäbe, wären das Reisen und der Handel oft schwierig.",
+      "fr": "On ne peut remettre à l'encaissement un chèque barré que si l'on a soi-même un compte en banque ou un compte courant postal. Si ces moyens de paiement modernes n'existaient pas, les voyages et le commerce seraient souvent difficiles."
+    },
+    {
+      "de": "Auch auf dem Postamt kann man Geld absenden oder in Empfang nehmen, und zwar mit gewöhnlicher oder mit telegraphischer Postanweisung. Der Briefträger bringt auch den Betrag einer Postanweisung dem Empfänger ins Haus. In diesem Fall ist es üblich, ihm ein kleines Trinkgeld zu geben.",
+      "fr": "Au bureau de poste également, on peut envoyer ou toucher de l'argent, et ce par mandat ordinaire ou par mandat télégraphique. Le facteur règle aussi le montant d'un mandat au domicile du destinataire (m. à m. : apporte au destinataire...). Dans ce cas, il est d'usage de lui donner un petit pourboire."
+    },
+    {
+      "de": "Lecture — Mißglückter Banküberfall : Die Kette der Banküberfälle in Baden-Württemberg reißt nicht ab. Nachdem ein unbekannter Mann am Mittwoch in der Filiale X der Volksbank bei einem bewaffneten Überfall 6.000 Mark erbeutet hatte, hieß es am Donnerstag in der Volksbank von Y « Hände hoch ». Am Vormittag gegen elf Uhr drang ein zwischen 20 und 25 Jahre alter Mann in die Bank ein und forderte den Zweigstellenleiter mit vorgehaltener Pistole auf, alles Geld herauszugeben. « Machen Sie keine falsche Bewegung », setzte er hinzu. Der Bankangestellte erkannte jedoch, daß der Räuber ihn mit einer Kinderpistole aus Plastik bluffte. Er löste die Alarmanlage aus und schon beim ersten Heulton der Sirene lief der Räuber davon. Er flüchtete in einem roten Volkswagen, den er vorher in Stuttgart gestohlen hatte. Der Täter trug eine Sonnenbrille und einen schwarzen Schlapphut. Er hat blondes Haar und ist etwa 1,80 Meter groß. (Aus der Zeitung « Gmünder Tagespost »)",
+      "fr": "Lecture — Agression manquée contre une banque : La série des agressions contre les banques en Bade-Wurtemberg ne cesse pas (m. à m. : la chaîne... ne se rompt pas). Après qu'un inconnu eut enlevé 6.000 Marks lors d'une attaque à main armée, mercredi, dans la filiale X de la Banque Populaire, on entendit, jeudi, dans la Banque Populaire de Y crier « Haut les mains ». Dans la matinée, vers onze heures, un homme âgé de 20 à 25 ans pénétra dans la banque et, pistolet au poing (m. à m. : avec un pistolet tenu devant), il somma le directeur de la filiale de (lui) remettre tout l'argent. « Pas un geste ! (m. à m. : pas un mouvement faux, suspect) », ajouta-t-il. Cependant, l'employé de banque reconnut que le bandit (le) bluffait avec un pistolet d'enfant, en matière plastique. Il déclencha le système d'alarme et, dès le premier hurlement de la sirène, le bandit détala. Il s'enfuit dans une « Volkswagen » rouge, qu'il avait volée auparavant à Stuttgart. L'auteur (de l'agression) portait des lunettes de soleil et un chapeau mou noir. Il a les cheveux blonds et mesure (m. à m. : est grand de...) à peu près 1,80 m. (Tiré du journal « Gmünder Tagespost »)"
+    }
+  ],
+  "pronunciation": "Indications phonétiques du manuel : 1. wechseln [vèkçeln'] (chs = ks), der Wechselkurs [kourç] (s final sourd), die Reiseschecks [raéze-chèkç] ; 2. die Einziehung [aén'tci-oung] (accent sur Ein-, ie long, -ng nasal) ; 3. der Betrag [bétrak] (accent sur -trag, a long, g final assourdi en k), der Empfänger [èm'pfènger] (accent sur -fäng-), die Postanweisung [poçt-anvaézoung] (accent sur Post-).",
+  "vocab": [
+    {
+      "de": "der Betrag (¨-e)",
+      "fr": "le montant",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Briefträger (-)",
+      "fr": "le facteur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Empfänger (-)",
+      "fr": "le destinataire",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Absender (-)",
+      "fr": "l'expéditeur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Handel",
+      "fr": "le commerce",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Scheck (s)",
+      "fr": "le chèque",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Einkassierung (en)",
+      "fr": "l'encaissement",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Einziehung (-en)",
+      "fr": "l'encaissement (idem)",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Postanweisung (-en)",
+      "fr": "le mandat",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Zahlung (-en)",
+      "fr": "le paiement",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Amt (¨-er)",
+      "fr": "le bureau, l'office",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Konto (die Konten)",
+      "fr": "le compte",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Mittel (-)",
+      "fr": "le moyen",
+      "info": "Neutre"
+    },
+    {
+      "de": "einkassieren",
+      "fr": "encaisser",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "kreuzen",
+      "fr": "croiser, barrer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "(sich) verändern",
+      "fr": "varier",
+      "info": "Verbe réfléchi"
+    },
+    {
+      "de": "absenden (voir L. 44)",
+      "fr": "expédier",
+      "info": "Verbe mixte séparable"
+    },
+    {
+      "de": "anschlagen (u, a; ä)",
+      "fr": "afficher",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "empfangen (i, a; ä)",
+      "fr": "accueillir",
+      "info": "Verbe fort inséparable"
+    },
+    {
+      "de": "unterschreiben (ie, ie)",
+      "fr": "signer",
+      "info": "Verbe fort inséparable"
+    },
+    {
+      "de": "unterzeichnen",
+      "fr": "signer (idem)",
+      "info": "Verbe faible inséparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Wenn es diese Zahlungsmittel nicht gäbe, wäre der Handel schwierig.",
+      "body": "Après <em>wenn</em>, si (conditionnel), le verbe se met au subjonctif 2 présent. La proposition principale est au subjonctif 2 futur. Cependant, nous avons vu (L. 42) que le subjonctif 2 futur est souvent remplacé par le subjonctif 2 présent. Voici d'autres exemples :<br><br><em>Wenn ich Zeit hätte, würde ich nach Mainz fahren</em> (ou : <em>führe ich nach Mainz</em>), si j'avais le temps, j'irais à Mayence.<br><br><em>Wenn meine Freunde kämen, würden wir frohe Lieder singen</em> (ou : <em>sängen wir frohe Lieder</em>), si mes amis venaient, nous chanterions de gaies chansons."
+    },
+    {
+      "title": "Remarque sur les verbes faibles au subjonctif 2",
+      "body": "Pour les verbes faibles, le subjonctif 2 présent ne se distingue pas du prétérit de l'indicatif (par exemple : <em>besichtigten wir</em>). C'est pourquoi, dans la proposition principale, l'on préférera l'emploi de <em>würde</em> + infinitif :<br><em>Wenn es regnete, würden wir das Museum besichtigen.</em> (Corrigé B.6)"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Traduisez en français (Exercice A.1) : « Wenn ich auf die Bank ginge, würde ich deinen Scheck mitnehmen. »",
+      "options": [
+        "Si j'allais à la banque, j'emporterais ton chèque.",
+        "Quand je vais à la banque, j'emporte ton chèque.",
+        "Si j'étais allé à la banque, j'aurais emporté ton chèque.",
+        "Si j'allais à la banque, je signerais ton chèque."
+      ],
+      "answer": "Si j'allais à la banque, j'emporterais ton chèque.",
+      "hint": "ginge = subjonctif 2 présent de gehen ; würde ... mitnehmen = conditionnel présent de mitnehmen (emporter).",
+      "explanation": "Corrigé A.1 : « Si j'allais à la banque, j'emporterais ton chèque. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez en français (Exercice A.2) : « Wenn Sie kein Bankkonto hätten, könnten Sie diesen gekreuzten Scheck nicht einkassieren. »",
+      "options": [
+        "Si vous n'aviez pas de compte en banque, vous ne pourriez encaisser ce chèque barré.",
+        "Si vous n'avez pas de compte en banque, vous ne pouvez pas signer ce chèque de voyage.",
+        "Si vous aviez un compte en banque, vous pourriez encaisser ce mandat.",
+        "Si vous n'aviez pas de compte courant postal, vous ne pourriez envoyer ce chèque barré."
+      ],
+      "answer": "Si vous n'aviez pas de compte en banque, vous ne pourriez encaisser ce chèque barré.",
+      "hint": "das Bankkonto = le compte en banque ; ein gekreuzter Scheck = un chèque barré ; einkassieren = encaisser.",
+      "explanation": "Corrigé A.2 : « Si vous n'aviez pas de compte en banque, vous ne pourriez encaisser ce chèque barré. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez au subjonctif 2 présent (Exercice A.3) : « Wenn sie ihre Kennkarte ___, würde sie aufs Kommissariat gehen. » (Si elle perdait sa carte d'identité, elle irait au commissariat.)",
+      "answer": "verlöre",
+      "hint": "Subjonctif 2 présent du verbe fort verlieren (prétérit : verlor → infléchissement o → ö + -e).",
+      "explanation": "Exercice A.3 : « Wenn sie ihre Kennkarte verlöre, würde sie aufs Kommissariat gehen. » (Corrigé A.3 : Si elle perdait sa carte d'identité, elle irait au commissariat.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand (Exercice B.4) : « Si je voyais ton ami, je lui donnerais le livre. »",
+      "words": [
+        "Wenn",
+        "ich",
+        "deinen",
+        "Freund",
+        "sähe,",
+        "würde",
+        "ich",
+        "ihm",
+        "das",
+        "Buch",
+        "geben."
+      ],
+      "answer": "Wenn ich deinen Freund sähe, würde ich ihm das Buch geben.",
+      "hint": "Subjonctif 2 présent de sehen : sähe ; la principale commence par le verbe conjugué würde.",
+      "explanation": "Corrigé B.4 : « Wenn ich deinen Freund sähe, würde ich ihm das Buch geben (= gäbe ich...). »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la traduction (Exercice B.5) : « S'il n'avait pas de voiture, il prendrait un taxi. » → « Wenn er keinen Wagen ___, würde er eine Taxe nehmen. »",
+      "answer": "hätte",
+      "hint": "Subjonctif 2 présent du verbe haben à la 3e personne du singulier.",
+      "explanation": "Corrigé B.5 : « Wenn er keinen Wagen hätte, würde er eine Taxe nehmen (= nähme er...). »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand (Exercice B.6) : « S'il pleuvait, nous visiterions le musée. »",
+      "words": [
+        "Wenn",
+        "es",
+        "regnete,",
+        "würden",
+        "wir",
+        "das",
+        "Museum",
+        "besichtigen."
+      ],
+      "answer": "Wenn es regnete, würden wir das Museum besichtigen.",
+      "hint": "regnen et besichtigen sont des verbes faibles : on emploie würden + infinitif dans la principale.",
+      "explanation": "Corrigé B.6 : « Wenn es regnete, würden wir das Museum besichtigen. » Pour les verbes faibles, on préfère würde au subjonctif 2 présent."
+    },
+    {
+      "type": "choice",
+      "prompt": "D'après la Lecture « Mißglückter Banküberfall », pourquoi l'agression contre la Volksbank de Y a-t-elle échoué ?",
+      "options": [
+        "L'employé de banque a reconnu un pistolet d'enfant en plastique et a déclenché l'alarme.",
+        "La police est arrivée avant l'entrée du bandit dans la filiale.",
+        "Le bandit avait oublié son arme dans sa Volkswagen rouge.",
+        "Le coffre-fort de la banque était déjà vide après l'attaque du mercredi."
+      ],
+      "answer": "L'employé de banque a reconnu un pistolet d'enfant en plastique et a déclenché l'alarme.",
+      "hint": "Relisez : « Der Bankangestellte erkannte jedoch, daß der Räuber ihn mit einer Kinderpistole aus Plastik bluffte. Er löste die Alarmanlage aus... »",
+      "explanation": "L'employé de banque a vu que le bandit le bluffait avec un pistolet d'enfant en plastique (« Kinderpistole aus Plastik ») et a déclenché le système d'alarme (« die Alarmanlage »), ce qui a fait fuir le voleur."
+    }
+  ]
+}

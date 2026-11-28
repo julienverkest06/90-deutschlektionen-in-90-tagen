@@ -1,0 +1,222 @@
+{
+  "id": "42",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Das Abendessen",
+  "titleFr": "Le dîner",
+  "proverbDe": "Wer die Wahl hat, hat die Qual.",
+  "proverbFr": "Quiconque a le choix, a le tourment.",
+  "paragraphs": [
+    {
+      "de": "(der Oberkellner : O; der Herr : H; die Dame : D). O — Möchten Sie mit einem Aperitif beginnen? mit einem Portwein? einem Fruchtsaft? Was für einen Fruchtsaft möchten Sie? Während Sie Ihren Aperitif trinken, wollen Sie bitte Ihr Menü zusammenstellen?",
+      "fr": "(Le garçon : G; Le client : M; La cliente : D). G — Voulez-vous un apéritif pour commencer? un porto, un jus de fruit? Quel jus de fruit désireriez-vous? Pendant que vous prenez l'apéritif, voulez-vous composer votre menu?"
+    },
+    {
+      "de": "H — Ja, recht so; bringen Sie uns die Speisekarte. Nun, was essen Sie gern? Rohkost? Fisch? Abends essen Sie kein Fleisch, nicht wahr? Es gibt hier eine Spezialität : eine Schüsselpastete; sie schmeckt ausgezeichnet. Wählen Sie, was hätten Sie gern? D — Ich möchte etwas leicht Verdauliches. Die Pastete liegt zu schwer im Magen. Ich nehme Fisch, das ist alles. H — Nein, nehmen Sie doch noch etwas dazu. D — Etwas Reis; dann werde ich schon sehen.",
+      "fr": "M — C'est cela; apportez-nous le menu. Voyons, qu'est-ce que vous aimez? des crudités? du poisson? Vous ne prenez pas de viande le soir, n'est-ce pas? Il y a ici une spécialité : un pâté en terrine; il est excellent. Choisissez. Qu'est-ce que vous aimeriez prendre? D — Je voudrais quelque chose de léger (m. à m. : à digérer). Le pâté c'est trop lourd (m. à m. : à l'estomac). Je vais prendre du poisson, ce sera tout. M — Non, prenez donc quelque chose avec! D — Un peu de riz; puis je verrai (déjà)."
+    },
+    {
+      "de": "O — Was für einen Wein darf ich Ihnen bringen? H — Zeigen Sie uns bitte die Weinkarte. Ich glaube, Weißwein würde besser dazu passen als Rotwein, was meinen Sie?",
+      "fr": "G — Comme vin, qu'est-ce que je vous servirai? M — Montrez-nous la carte des vins, s'il vous plaît. Je pense qu'un vin blanc irait mieux qu'un vin rouge, qu'en pensez-vous?"
+    },
+    {
+      "de": "H — Zum Nachtisch gibt es hier eine sehr feine Obsttorte; ich kann sie Ihnen bestens empfehlen. D — Ach, ich bin wirklich nicht mehr hungrig. Am liebsten würde ich etwas Obst essen.",
+      "fr": "M — Comme dessert, il y a une très bonne tarte aux fruits ici; je vous la conseillerais (m. à m. : je peux vous la conseiller fortement). D — Ah, je n'ai vraiment plus faim. Je préférerais des fruits."
+    },
+    {
+      "de": "O — Trinken Sie Kaffee? H — Ja, zwei Tassen, bitte. Das wäre alles. O — Vielleicht einen Likör zum Abschluß, ein Gläschen Kognak?... H — Herr Ober, zahlen bitte!",
+      "fr": "G — Prendrez-vous le café? M — Oui, deux tasses s'il vous plaît. Ce sera tout. G — Peut-être une liqueur pour terminer, un cognac? M — Garçon, l'addition s'il vous plaît (m. à m. : payer, s'il vous plaît)."
+    }
+  ],
+  "pronunciation": "Points de prononciation de la leçon : « die Spezialität » se prononce avec sp- = [chp], -ti- = [tsj] et l'accent tonique sur la syllabe finale « -tät » ; « die Schüsselpastete » porte l'accent principal sur « Schüssel- » (ü bref devant ss) et un accent secondaire sur « -te- » ; « der Abschluß » s'accentue sur le préfixe « Ab- » avec un u bref devant ß ; dans les mots empruntés au français, « Aperitif » et « Likör » portent l'accent sur la dernière syllabe, et « Kognak » se prononce [kònjak].",
+  "vocab": [
+    {
+      "de": "der Abschluß (¨-sse)",
+      "fr": "la conclusion",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Likör (-e)",
+      "fr": "la liqueur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Nachtisch (e)",
+      "fr": "le dessert",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Reis",
+      "fr": "le riz",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Folge (n)",
+      "fr": "la suite",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Torte (n)",
+      "fr": "la tarte",
+      "info": "Féminin"
+    },
+    {
+      "de": "aufstellen",
+      "fr": "établir",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "meinen",
+      "fr": "penser, être d'avis",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "passen (+ zu)",
+      "fr": "convenir",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "schmecken",
+      "fr": "goûter, plaire (au goût)",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "die Pastete (n)",
+      "fr": "le pâté",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Rohkost",
+      "fr": "le régime cru",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Schüssel (n)",
+      "fr": "le plat, la terrine",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Spezialität (-en)",
+      "fr": "la spécialité",
+      "info": "Féminin"
+    },
+    {
+      "de": "verdauen",
+      "fr": "digérer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "wählen",
+      "fr": "choisir ; élire",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "raten (ie, a; ä)",
+      "fr": "conseiller ; deviner",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Am liebsten hätte ich Obst.",
+      "body": "Les verbes <em>sein, haben, werden</em>, auxiliaires de temps, prennent les formes suivantes au présent du subjonctif 2 :<br><em>sein</em>, être : <strong>ich wäre</strong>, je serais, que je fusse<br><em>haben</em>, avoir : <strong>ich hätte</strong>, j'aurais, que j'eusse<br><em>werden</em>, devenir : <strong>ich würde</strong>, je deviendrais, que je devinsse<br>Cette dernière forme sert également d'auxiliaire pour le conditionnel.<br>Pour la conjugaison, voir Mémento, n° 43 à 45."
+    },
+    {
+      "title": "Weißwein würde besser dazu passen.",
+      "body": "Notre conditionnel s'exprime à l'aide de <strong>würde</strong> et de l'infinitif du verbe à conjuguer, placé à la fin de la proposition. Cette forme représente le subjonctif 2 au futur.<br>Exemples :<br><em>Ich würde es bestellen</em>, je le commanderais.<br><em>Du würdest es holen</em>, tu irais le chercher.<br><em>Er würde es aufmachen</em>, il l'ouvrirait.<br><em>Wir würden die Spezialität versuchen</em>, nous goûterions à la spécialité.<br><em>Ihr würdet Pastete essen</em>, vous mangeriez du pâté.<br><em>Sie würden einen Aperitif trinken</em>, ils boiraient un apéritif.<br><br>La forme avec <strong>würde</strong> se remplace souvent par le présent du subjonctif 2 (voir L. 40), surtout pour les verbes irréguliers.<br><em>Ich würde dir raten = Ich riete dir</em>, je te conseillerais.<br><em>Er würde hungrig sein = Er wäre hungrig</em>, il serait affamé, il aurait faim.<br><em>Sie würden eine Spezialität haben = Sie hätten eine Spezialität</em>, ils auraient une spécialité.<br><em>Wir würden sofort kommen = Wir kämen sofort</em>, nous viendrions aussitôt."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Transposez au présent du subjonctif 2 (Exercice A.2) : « Pastete und Fisch sind seine Spezialitäten. » → « Pastete und Fisch ___ seine Spezialitäten. »",
+      "options": [
+        "wären",
+        "hätten",
+        "würden",
+        "waren"
+      ],
+      "answer": "wären",
+      "hint": "Le présent du subjonctif 2 de « sein » est « ich wäre ».",
+      "explanation": "Corrigé A.2 : « Pastete und Fisch wären seine Spezialitäten. » (Le pâté et le poisson seraient ses spécialités.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Transposez le verbe au présent du subjonctif 2 (Exercice A.3) : « Die Gäste essen auch gern seine Torten. » → « Die Gäste ___ auch gern seine Torten. »",
+      "answer": "äßen",
+      "hint": "Partez du prétérit de « essen » (aß) et ajoutez l'inflexion (Umlaut) + terminaison -en.",
+      "explanation": "Corrigé A.3 : « Die Gäste äßen auch gern seine Torten. » (Les clients aimeraient également ses tartes.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Transposez au présent du subjonctif 2 (Exercice A.4) : « Sie trinken schwarzen Kaffee. »",
+      "options": [
+        "Sie tränken schwarzen Kaffee.",
+        "Sie tranken schwarzen Kaffee.",
+        "Sie trinkten schwarzen Kaffee.",
+        "Sie trünken schwarzen Kaffee."
+      ],
+      "answer": "Sie tränken schwarzen Kaffee.",
+      "hint": "Le prétérit de « trinken » est « trank » ; au subjonctif 2, le « a » prend l'inflexion « ä ».",
+      "explanation": "Corrigé A.4 : « Sie tränken schwarzen Kaffee. » (Ils prendraient / boiraient du café noir.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Transposez au futur du subjonctif 2 (conditionnel) (Exercice B.5) : « Er ißt nach der Karte. » (Il mangerait à la carte.)",
+      "words": [
+        "Er",
+        "würde",
+        "nach",
+        "der",
+        "Karte",
+        "essen."
+      ],
+      "answer": "Er würde nach der Karte essen.",
+      "hint": "Formez le conditionnel avec « würde » en 2e position et l'infinitif « essen » à la fin.",
+      "explanation": "Corrigé B.5 : « Er würde nach der Karte essen. » (Il mangerait à la carte.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez au futur du subjonctif 2 (Exercice B.7) : « Sie wählt das Tagesmenü. » → « Sie ___ das Tagesmenü wählen. »",
+      "answer": "würde",
+      "hint": "À la 3e personne du singulier, l'auxiliaire du conditionnel est « würde ».",
+      "explanation": "Corrigé B.7 : « Sie würde das Tagesmenü wählen. » (Elle choisirait le plat du jour.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand (Exercice C.10) : « Le vin rouge n'irait pas avec (zu) ce plat (das Gericht). »",
+      "words": [
+        "Rotwein",
+        "würde",
+        "nicht",
+        "zu",
+        "diesem",
+        "Gericht",
+        "passen."
+      ],
+      "answer": "Rotwein würde nicht zu diesem Gericht passen.",
+      "hint": "Utilisez « passen + zu » (datif : « diesem Gericht ») avec le conditionnel « würde ... passen ».",
+      "explanation": "Corrigé C.10 : « Rotwein würde nicht zu diesem Gericht passen. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez en allemand en utilisant la forme préférée par le Corrigé (Exercice C.11) : « Je pense que cette tarte aux fruits serait excellente. »",
+      "options": [
+        "Ich meine, diese Obsttorte wäre ausgezeichnet.",
+        "Ich meine, diese Obsttorte hätte ausgezeichnet.",
+        "Ich meine, diese Obsttorte war ausgezeichnet.",
+        "Ich meine, diese Obsttorte würde ausgezeichnet."
+      ],
+      "answer": "Ich meine, diese Obsttorte wäre ausgezeichnet.",
+      "hint": "Avec l'auxiliaire « sein », on préfère le présent du subjonctif 2 (« wäre ») à la périphrase « würde ... sein ».",
+      "explanation": "Corrigé C.11 : « Ich meine, diese Obsttorte wäre ausgezeichnet » (plutôt que : « würde ... sein »)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la traduction avec le pronom relatif correct (Exercice C.12) : « Le café que vous nous avez servi, n'était plus chaud. » → « Der Kaffee, ___ Sie uns serviert haben, war nicht mehr warm. »",
+      "answer": "den",
+      "hint": "« Der Kaffee » est masculin singulier et le relatif est COD de « serviert haben » (accusatif).",
+      "explanation": "Corrigé C.12 : « Der Kaffee, den Sie uns serviert haben, war nicht mehr warm. »"
+    }
+  ]
+}

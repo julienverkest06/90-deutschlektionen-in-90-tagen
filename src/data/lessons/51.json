@@ -1,0 +1,261 @@
+{
+  "id": "51",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Die Denkmäler",
+  "titleFr": "Les monuments",
+  "proverbDe": "Es ist nicht alles Gold was glänzt.",
+  "proverbFr": "Tout ce qui brille n'est pas or.",
+  "paragraphs": [
+    {
+      "de": "Traditionsgemäß hat ein Dorf zwei öffentliche Gebäude: das Rathaus und die Kirche. Je bedeutender die Stadt ist, desto größer ist die Zahl der öffentlichen Gebäude. In den bevölkerten Städten befindet sich auf den Bahnhöfen und in den Kaufhäusern oft eine große Menschenmenge. Hauptpostamt, Banken, Niederlassungen großer Gesellschaften, wie Versicherungsgesellschaften usw., nehmen ganze Gebäude ein.",
+      "fr": "Un village a traditionnellement deux édifices publics : la mairie et l'église. Plus la ville est importante, plus le nombre des édifices est grand. Dans les villes peuplées, une grande foule se trouve souvent dans les gares et dans les grands magasins. La poste centrale, les banques, les sièges de grandes sociétés, telles que les compagnies d'assurance, etc., occupent des immeubles entiers."
+    },
+    {
+      "de": "In einer Landeshauptstadt umfassen die Dienststellen der verschiedenen Ministerien unzählige Büros. In vielen modernen Städten sind die Verwaltungen an einem Ort, der Stadtverwaltung, zusammengebracht. Um Raum zu sparen, wird auch in die Höhe gebaut: in manchen Städten werden die alten Türme von Wolkenkratzern überragt.",
+      "fr": "Dans une capitale d'État, les différents services des ministères occupent d'innombrables bureaux. Dans beaucoup de villes modernes les services administratifs sont groupés à un même endroit : le centre administratif. On construit aussi en hauteur pour économiser la place : dans plus d'une ville, les vieilles tours sont dominées par des gratte-ciel."
+    },
+    {
+      "de": "Im Monat August besichtigen viele Touristen die Kunstwerke und andere Sehenswürdigkeiten: Denkmäler, Dome (oder Kathedralen), Kirchen, Tempel, Kapellen. Oft werden Paläste und Schlösser zu Museen.",
+      "fr": "Au mois d'août, beaucoup de touristes visitent les œuvres d'art et autres curiosités : les monuments, cathédrales, églises, temples, chapelles. Souvent, les palais et les châteaux sont transformés en musées."
+    },
+    {
+      "de": "Die öffentlichen Bibliotheken, die Universitäten, die Gymnasien und Oberschulen, die Theater- und Konzertsäle geben der Stadt ihren geistigen Ruf.",
+      "fr": "Les bibliothèques publiques, les Universités, les lycées et collèges, les théâtres et salles de concerts donnent à la ville sa réputation intellectuelle."
+    },
+    {
+      "de": "Lecture — Außerhalb der Saison : Schon seit Jahren macht sich die Stadt Salzburg einen Ehrgeiz daraus, sich nicht nur während der sommerlichen Festspielmonate auf ihren größten Sohn zu besinnen. So finden, auch in diesem Jahr wieder, in der Residenz und im Schloß Mirabell von Mai bis Oktober, 175 Kammermusikabende in der Reihe « Salzburger Schloßkonzerte » statt, und unter dem Motto « Musikalischer Frühling » werden vom 15. April bis zum 24. Mai an zehn historischen Plätzen Salzburgs Werke Mozarts und der Wiener Klassiker aufgeführt. (Aus der Wochenzeitung « Die Zeit »)",
+      "fr": "Lecture — Hors saison : Depuis des années déjà, la ville de Salzburg se fait un point d'honneur (mot à mot : une ambition) de ne pas limiter aux mois du Festival d'Été l'évocation de son fils le plus illustre (mot à mot : de se souvenir non seulement...). Ainsi, 175 soirées de musique de chambre seront organisées cette année encore à la Résidence et au Château Mirabell, depuis le mois de mai jusqu'en octobre, dans le cycle des « Concerts aux châteaux de Salzbourg », et — du 15 avril au 20 mai — on présentera des œuvres de Mozart et des classiques viennois dans une dizaine de sites historiques de la ville de Salzbourg, sous la devise « Printemps musical »."
+    }
+  ],
+  "pronunciation": "Indications phonétiques de la leçon : 1. Traditionsgemäß [traditçion'ç-gémèç] ; Hauptpostamt [haopt-poçt-am't] ; Versicherungsgesellschaften [fèrzicherouⁿgç-gézèlchaften']. 2. Landeshauptstadt [lan'deç-haopt-chtat] ; Dienststellen [din'çt-chtèlen']. 3. Sehenswürdigkeiten [zé-en'ç-vurdich-kaéten'] ; Tempel [tèm'pel]. Dans les mots composés, l'accent principal porte sur le premier élément (Haupt-, Landes-, Dienst-, Sehens-), tandis que -tion dans Traditionsgemäß se prononce [tçion].",
+  "vocab": [
+    {
+      "de": "der Dienst (-e)",
+      "fr": "le service",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Dom (-e)",
+      "fr": "la cathédrale",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Palast (¨-e)",
+      "fr": "le palais",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Ruf (-e)",
+      "fr": "la réputation",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Tradition (-en)",
+      "fr": "la tradition",
+      "info": "Féminin"
+    },
+    {
+      "de": "der Tempel (-)",
+      "fr": "le temple",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Universität (-en)",
+      "fr": "l'université",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Denkmal (¨-er)",
+      "fr": "le monument",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Gebäude (-)",
+      "fr": "le bâtiment",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Gymnasium (-ien)",
+      "fr": "le lycée",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Kunstwerk (-e)",
+      "fr": "l'œuvre d'art",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Ministerium (-ien)",
+      "fr": "le ministère",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Tourist (-en)",
+      "fr": "le touriste",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Wolkenkratzer (-)",
+      "fr": "le gratte-ciel",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Hauptstadt (¨-e)",
+      "fr": "la capitale",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kirche (-n)",
+      "fr": "l'église",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kapelle (-n)",
+      "fr": "la chapelle",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Oberschule (-n)",
+      "fr": "le collège",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Sehenswürdigkeit (-en)",
+      "fr": "chose digne d'être vue",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Schloß (¨-sser)",
+      "fr": "le château",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Burg (-en)",
+      "fr": "le château-fort",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Theater (-)",
+      "fr": "le théâtre",
+      "info": "Neutre"
+    },
+    {
+      "de": "bevölkern",
+      "fr": "peupler",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "überragen",
+      "fr": "surplomber",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "verwandeln",
+      "fr": "transformer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "darbieten (o, o)",
+      "fr": "présenter",
+      "info": "Verbe fort séparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Die Verwaltungen werden an einem Ort, der Stadtverwaltung, zusammengebracht.",
+      "body": "<em>der Stadtverwaltung</em> est mis en apposition à <em>Ort</em>, et se met au même cas que ce dernier, c'est-à-dire au datif, ici. Le nom placé en apposition prend en allemand l'article défini ou indéfini, selon le sens.<br><br><strong>Exemples :</strong><br>• <em>Wien, die Hauptstadt Österreichs</em> — Vienne, capitale de l'Autriche.<br>• <em>Heidelberg, eine romantische Stadt am Neckar</em> — Heidelberg, ville romantique sur le Neckar."
+    },
+    {
+      "title": "Im Monat August kommen viele Touristen.",
+      "body": "<em>August</em>, nom propre mis en apposition à <em>Monat</em>, n'est pas relié par une préposition, comme en français : au mois d'août. C'est le cas pour tous les noms propres et pour certaines expressions qu'on apprendra par l'usage.<br><br><strong>Exemples :</strong><br>• <em>Die Stadt Leipzig</em> — la ville de Leipzig.<br>• <em>Im Monat April</em> — au mois d'avril.<br>• <em>Ein Meter Tuch</em> — un mètre de drap.<br>• <em>Ein Pfund Brot</em> — une livre de pain.<br>• <em>Zwei Kilo Birnen</em> — deux kilos de poires.<br>• <em>Ein Glas Apfelsaft</em> — un verre de jus de pomme."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "prompt": "Traduisez : « Munich, capitale de la Bavière, a de grands musées. » (Exercice 1)",
+      "words": [
+        "München,",
+        "die",
+        "Hauptstadt",
+        "Bayerns,",
+        "hat",
+        "große",
+        "Museen."
+      ],
+      "answer": "München, die Hauptstadt Bayerns, hat große Museen.",
+      "hint": "En allemand, le nom placé en apposition prend un article (die Hauptstadt Bayerns) et se met au même cas que le sujet (nominatif).",
+      "explanation": "Corrigé 1 : « München, die Hauptstadt Bayerns, hat große Museen. » L'apposition « die Hauptstadt Bayerns » prend l'article défini et reste au nominatif comme « München »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quelle est la traduction correcte de « Paul a visité Ulm, ville ancienne sur le Danube (die Donau). » ? (Exercice 2)",
+      "options": [
+        "Paul hat Ulm, eine alte Stadt an der Donau, besichtigt.",
+        "Paul hat Ulm, alte Stadt an der Donau, besichtigt.",
+        "Paul hat Ulm, einer alten Stadt an der Donau, besichtigt.",
+        "Paul hat Ulm, ein altes Stadt an der Donau, besichtigt."
+      ],
+      "answer": "Paul hat Ulm, eine alte Stadt an der Donau, besichtigt.",
+      "hint": "« Ulm » est COD (accusatif), donc l'apposition féminine prend l'article indéfini à l'accusatif.",
+      "explanation": "Corrigé 2 : « Paul hat Ulm, eine alte Stadt an der Donau, besichtigt. » Le nom en apposition prend l'article indéfini et se met à l'accusatif comme « Ulm »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la traduction de « (C'est) au mois de mai (que) cette région est la plus belle. » : ___ ist diese Gegend am schönsten. (Exercice 3)",
+      "answer": "Im Monat Mai",
+      "hint": "Le nom du mois mis en apposition à « Monat » n'est pas relié par une préposition.",
+      "explanation": "Corrigé 3 : « Im Monat Mai ist diese Gegend am schönsten. » On ne traduit pas « de » devant un nom de mois après « Monat »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez : « Je voudrais un verre de vin. » (Exercice 4)",
+      "options": [
+        "Ich möchte ein Glas Wein.",
+        "Ich möchte ein Glas von Wein.",
+        "Ich möchte ein Glas des Weins.",
+        "Ich möchte einen Glas Wein."
+      ],
+      "answer": "Ich möchte ein Glas Wein.",
+      "hint": "Après un nom de mesure ou de quantité (das Glas), on ne met pas de préposition en allemand.",
+      "explanation": "Corrigé 4 : « Ich möchte ein Glas Wein. » Comme dans « Ein Glas Apfelsaft », le nom de contenu suit directement le nom de mesure sans préposition."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez : « Donnez-moi s'il vous plaît une livre de viande. » (Exercice 5)",
+      "words": [
+        "Geben",
+        "Sie",
+        "mir",
+        "bitte",
+        "ein",
+        "Pfund",
+        "Fleisch."
+      ],
+      "answer": "Geben Sie mir bitte ein Pfund Fleisch.",
+      "hint": "« Une livre » est neutre (ein Pfund) et suivi directement de « Fleisch » sans préposition.",
+      "explanation": "Corrigé 5 : « Geben Sie mir bitte ein Pfund Fleisch. » Aucune préposition ne relie la mesure « ein Pfund » à la matière « Fleisch »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez : « Cet édifice est la banque la plus grande de notre ville. » (Exercice 6)",
+      "answer": "Dieses Gebäude ist die größte Bank unserer Stadt.",
+      "hint": "Utilisez « Dieses Gebäude », le superlatif « die größte Bank » et le génitif « unserer Stadt ».",
+      "explanation": "Corrigé 6 : « Dieses Gebäude ist die größte Bank unserer Stadt. » Le neutre « das Gebäude » donne « Dieses Gebäude » et « de notre ville » se rend par le génitif féminin « unserer Stadt »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez la phrase de la leçon : « In vielen modernen Städten sind die Verwaltungen an einem Ort, ___, zusammengebracht. » (Grammaire)",
+      "options": [
+        "der Stadtverwaltung",
+        "die Stadtverwaltung",
+        "des Stadtverwaltung",
+        "Stadtverwaltung"
+      ],
+      "answer": "der Stadtverwaltung",
+      "hint": "« an einem Ort » est au datif ; l'apposition féminine doit aussi être au datif avec article.",
+      "explanation": "Règle de grammaire : l'apposition se met au même cas que le nom qu'elle complète (ici le datif féminin « der Stadtverwaltung ») et conserve son article."
+    }
+  ]
+}

@@ -2,97 +2,211 @@
   "id": "25",
   "series": 1,
   "authentic": true,
-  "titleDe": "Déclinaison mixte de l'adjectif et ob / wenn",
-  "titleFr": "Adjectif après ein/mein/kein et les deux « si »",
-  "proverbDe": "Wenn das Wörtchen wenn nicht wär...",
-  "proverbFr": "Avec des « si », on mettrait Paris en bouteille.",
+  "titleDe": "Eine angenehme Überraschung",
+  "titleFr": "Une surprise agréable",
+  "proverbDe": "Frisch gewagt ist halb gewonnen.",
+  "proverbFr": "La fortune sourit aux audacieux (Hardiment osé, à demi gagné).",
   "paragraphs": [
     {
-      "de": "Er bringt ein kurzes Schreiben. Man macht ihm ein schönes Angebot. Mit einer neuen Stelle beginnt ein neues Leben.",
-      "fr": "Il apporte un bref écrit. On lui fait une belle offre. Avec un poste nouveau commence une vie nouvelle."
+      "de": "Die Woche hat sieben Tage. Sie heißen: Sonntag, Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag. Heute ist Samstag (man sagt auch: Sonnabend) und der Kongreß geht zu Ende. Morgen soll Paul Dumont nach Paris zurückfahren.",
+      "fr": "La semaine a sept jours. Ils s'appellent : dimanche, lundi, mardi, mercredi, jeudi, vendredi, samedi. Aujourd'hui, c'est samedi (on dit aussi : « Sonnabend ») et le congrès s'achève. Demain, Paul Dumont doit retourner à Paris."
     },
     {
-      "de": "Er fragt, ob er diese Stelle annehmen möchte. Wenn es möglich ist, gebe ich dir diesen Brief.",
-      "fr": "Il demande s'il aimerait accepter ce poste. Si c'est possible, je te donnerai cette lettre."
+      "de": "Aber da bringt Herr Müller ein kurzes Schreiben des Generaldirektors der IMEX: Das Zentralbüro in München braucht einen französischen Mitarbeiter. Er fragt, ob Paul Dumont diese Stelle annehmen möchte. Paul Dumont ist noch jung und unverheiratet. Mit Freude nimmt er das Angebot an.",
+      "fr": "Mais voilà que Monsieur Müller apporte une courte lettre du directeur général de l'IMEX : Le bureau central à Munich a besoin d'un collaborateur français. Il demande si Paul Dumont voudrait accepter ce poste. Paul Dumont est encore jeune et célibataire. C'est avec joie qu'il accepte l'offre."
+    },
+    {
+      "de": "Er wird noch schnell einige Angelegenheiten in Paris besorgen. Wenn es möglich ist, wird er schon am Donnerstag nach München abfahren. Dann wird eine neue Phase in seinem Leben beginnen. Zugleich will er methodisch das Studium der deutschen Sprache fortsetzen.",
+      "fr": "Il réglera rapidement encore quelques affaires à Paris. Si (c'est) possible, il partira dès jeudi pour Munich. Alors commencera une nouvelle phase de sa vie. En même temps, il va poursuivre méthodiquement l'étude de la langue allemande."
     }
   ],
-  "pronunciation": "Les particules inséparables (be-, emp-, ent-, er-, ge-, miß-, ver-, zer-) ne sont jamais accentuées et suppriment « ge- » au participe passé (besorgen → besorgt).",
+  "pronunciation": "Indications phonétiques de la leçon : (1) Überraschung [uberachoung] ; Sonntag [zon'tak] ; Montag [mon'tak] ; Dienstag [din'çtak] ; Mittwoch [mitvor] ; Donnerstag [donerçtak] ; Freitag [fraétak] ; Samstag [zam'çtak] ; Sonnabend [zon'-aben't]. (2) Generaldirektors [généraldirèktorç] ; Zentralbüro [tçèntralburo] ; Mitarbeiter [mit-arbaéter] ; Stelle [chtèle] ; unverheiratet [oun'fèr-haératet]. (3) Angelegenheiten [an'gélégen'haéten] ; Phase [faze] ; Studium [chtoudioum'] ; fortsetzen [fort-zètçen']. Remarques : le -g final des jours de la semaine (-tag) s'assourdit en [k], et le -d final de Sonnabend en [t]. L'accent tonique porte sur la particule séparable (fortsetzen) et sur le préfixe un- (unverheiratet), tandis que les particules inséparables (besorgen, ver-) restent inaccentuées.",
   "vocab": [
+    {
+      "de": "der Direktor (s; en)",
+      "fr": "le directeur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Mitarbeiter (-)",
+      "fr": "le collaborateur",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Angelegenheit (-en)",
+      "fr": "l'affaire",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Phase (n)",
+      "fr": "la phase",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Stelle (n)",
+      "fr": "l'endroit",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Überraschung (-en)",
+      "fr": "la surprise",
+      "info": "Féminin"
+    },
     {
       "de": "das Angebot (-e)",
       "fr": "l'offre",
       "info": "Neutre"
     },
     {
-      "de": "die Stelle (-n)",
-      "fr": "le poste, l'emploi",
-      "info": "Féminin"
+      "de": "das Büro (s)",
+      "fr": "le bureau",
+      "info": "Neutre"
     },
     {
-      "de": "ob",
-      "fr": "si (interrogatif / dubitatif)",
-      "info": "Je me demande si..."
+      "de": "das Ende (s, n)",
+      "fr": "la fin",
+      "info": "Neutre"
     },
     {
-      "de": "wenn",
-      "fr": "si, quand (conditionnel)",
-      "info": "S'il pleut..."
+      "de": "ablehnen",
+      "fr": "refuser",
+      "info": "Verbe séparable"
     },
     {
       "de": "besorgen",
-      "fr": "s'occuper de, procurer",
-      "info": "Particule inséparable be-"
+      "fr": "régler",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "brauchen (+ acc.)",
+      "fr": "avoir besoin de",
+      "info": "Verbe"
+    },
+    {
+      "de": "heiraten",
+      "fr": "épouser",
+      "info": "Verbe"
+    },
+    {
+      "de": "überraschen",
+      "fr": "surprendre",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "annehmen (a, o; i)",
+      "fr": "accepter",
+      "info": "Verbe fort séparable (v. 7,3 : remarque importante)"
     }
   ],
   "grammar": [
     {
-      "title": "Déclinaison mixte (après ein, kein, mein, dein...)",
-      "body": "Au nominatif singulier (et acc. fém./neutre), l'adjectif prend les marques fortes (<em>ein gut<strong>er</strong> Mann, eine gut<strong>e</strong> Frau, ein gut<strong>es</strong> Kind</em>). À tous les autres cas (acc. masc., génitif, datif, pluriel), il prend <strong>-en</strong>."
+      "title": "Er bringt ein kurzes Schreiben — La déclinaison mixte de l'adjectif",
+      "body": "Quand l'adjectif est précédé de l'article indéfini <em>ein</em>, il suit une « déclinaison mixte ».<br><br><strong>Masc.</strong> : N. ein <strong>guter</strong> — G. eines guten — D. einem guten — A. einen guten<br><strong>Fém.</strong> : N. eine gute — G. einer guten — D. einer guten — A. eine gute<br><strong>Neutre</strong> : N. ein <strong>gutes</strong> — G. eines guten — D. einem guten — A. ein <strong>gutes</strong><br><strong>Pluriel</strong> : N. <strong>gute</strong> — G. <strong>guter</strong> — D. <strong>guten</strong> — A. <strong>gute</strong><br><br><strong>Remarque :</strong> Comparez cette déclinaison à la déclinaison faible (L. 21) et à la silhouette de la clé.<br><br>Au singulier, la déclinaison mixte de l'adjectif s'emploie également après les possessifs (<em>mein</em>, <em>dein</em>, etc. ; voir L. 7) et après l'article négatif (<em>kein</em> ; voir L. 3).<br>Au pluriel, après les possessifs (<em>meine</em>, <em>deine</em>, etc.) ou l'article négatif (<em>keine</em>), on emploie la déclinaison faible. Exemples :<br>Singulier : <em>mein kurzer Brief</em> (décl. mixte). Pluriel : <em>meine kurzen Briefe</em> (décl. faible)."
     },
     {
-      "title": "Distinction entre ob et wenn",
-      "body": "<strong>ob</strong> traduit « si » dans une interrogation indirecte (<em>Ich frage mich, ob...</em>).<br><strong>wenn</strong> traduit « si » conditionnel (<em>Wenn es regnet, bleiben wir zu Hause</em>). Les deux rejettent le verbe à la fin."
+      "title": "Er fragt, ob er diese Stelle annehmen möchte. — Wenn es möglich ist... — Les conjonctions ob et wenn",
+      "body": "<em>Ob</em> traduit notre « si » interrogatif ou dubitatif (je me demande si, je ne sais si...), tandis que <em>wenn</em> traduit le « si » conditionnel.<br><br>Autres exemples :<br><em>Weißt du, ob dein Freund kommen wird?</em> sais-tu, si ton ami viendra ?<br><em>Wenn du kommst, gebe ich dir diesen Brief</em>, si tu viens, je te donnerai cette lettre.<br><br>Ces conjonctions exigent le rejet du verbe."
+    },
+    {
+      "title": "Er besorgt noch einige Angelegenheiten — Les particules inséparables",
+      "body": "Les particules inséparables (cf. L. 19, grammaire I).<br><em>Besorgen</em> est composé du verbe simple <em>sorgen</em> et de la particule inséparable <em>be-</em>. Les particules inséparables sont : <strong>be - emp - ent - er - ge - miß - ver - zer</strong>. Ces particules ne sont jamais accentuées ; elles restent toujours soudées au verbe ; elles entraînent la suppression de <em>ge</em> au participe passé."
     }
   ],
   "exercises": [
     {
+      "type": "fill",
+      "prompt": "Complétez la terminaison de l'adjectif (Exercice A.1) : « Man macht ihm ein ___ Angebot. » (On lui fait une belle offre.)",
+      "answer": "schönes",
+      "hint": "Das Angebot est neutre, employé ici à l'accusatif singulier après l'article indéfini « ein » (déclinaison mixte).",
+      "explanation": "Corrigé (Exercice A.1) : « Man macht ihm ein schönes Angebot. » (On lui fait une belle offre.) À l'accusatif neutre singulier après « ein », l'adjectif prend la terminaison -es."
+    },
+    {
       "type": "choice",
-      "prompt": "Déclinaison mixte (Exercice A.3) : « Mit einer ___ Stelle beginnt ein ___ Leben. » (die Stelle / das Leben)",
+      "prompt": "Choisissez la forme correcte de l'adjectif (Exercice A.2) : « Es ist ein ___ Tag für ihn. » (C'est pour lui une grande journée.)",
+      "options": [
+        "großer",
+        "große",
+        "großen",
+        "großes"
+      ],
+      "answer": "großer",
+      "hint": "Der Tag est masculin singulier au nominatif après l'article indéfini « ein ».",
+      "explanation": "Corrigé (Exercice A.2) : « Es ist ein großer Tag für ihn. » (C'est pour lui une grande journée.) Au nominatif masculin singulier de la déclinaison mixte, l'adjectif prend -er."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez les deux adjectifs (Exercice A.3) : « Mit einer ___ Stelle beginnt ein ___ Leben. » (Avec un poste nouveau, une vie nouvelle commence.)",
       "options": [
         "neuen / neues",
         "neue / neues",
-        "neuen / neuen",
-        "neuer / neues"
+        "neuen / neuer",
+        "neuer / neue"
       ],
       "answer": "neuen / neues",
-      "hint": "mit einer + datif fém. → neuen ; ein + nominatif neutre → neues.",
-      "explanation": "Mit einer neuen Stelle beginnt ein neues Leben."
+      "hint": "« Mit » régit le datif (die Stelle → einer neuen Stelle) et « das Leben » est neutre au nominatif (ein neues Leben).",
+      "explanation": "Corrigé (Exercice A.3) : « Mit einer neuen Stelle beginnt ein neues Leben. » Au datif féminin après « einer », l'adjectif prend -en ; au nominatif neutre après « ein », il prend -es."
     },
     {
       "type": "choice",
-      "prompt": "ob ou wenn ? (Exercice B.6) : « Ich frage mich, ___ diese Stelle interessant ist. »",
+      "prompt": "Complétez par ob ou wenn (Exercice B.6) : « Ich frage mich, ___ diese Stelle interessant ist. » (Je me demande si ce poste est intéressant.)",
       "options": [
         "ob",
         "wenn",
-        "daß",
-        "weil"
+        "als",
+        "daß"
       ],
       "answer": "ob",
-      "hint": "Interrogation indirecte (« Je me demande si... ») → ob.",
-      "explanation": "Ich frage mich, ob diese Stelle interessant ist."
+      "hint": "Il s'agit ici d'un « si » interrogatif ou dubitatif (« je me demande si... »).",
+      "explanation": "Corrigé (Exercice B.6) : « Ich frage mich, ob diese Stelle interessant ist. » « Ob » traduit le « si » interrogatif ou dubitatif et exige le rejet du verbe conjugué."
     },
     {
-      "type": "choice",
-      "prompt": "ob ou wenn ? (Exercice B.9) : « ___ es regnet, werden wir zu Hause bleiben. »",
-      "options": [
+      "type": "fill",
+      "prompt": "Complétez par ob ou wenn (Exercice B.7) : « Ich nehme das Angebot an, ___ Sie mir eine Wohnung geben. » (J'accepte l'offre, si vous me donnez un appartement.)",
+      "answer": "wenn",
+      "hint": "Il s'agit ici d'un « si » conditionnel.",
+      "explanation": "Corrigé (Exercice B.7) : « Ich nehme das Angebot an, wenn Sie mir eine Wohnung geben. » « Wenn » traduit le « si » conditionnel et exige le rejet du verbe."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en remettant les mots dans l'ordre (Exercice C.11) : « Si vous avez besoin d'un bon collaborateur, écrivez-moi. »",
+      "words": [
         "Wenn",
-        "Ob",
-        "Daß",
-        "Als"
+        "Sie",
+        "einen",
+        "guten",
+        "Mitarbeiter",
+        "brauchen,",
+        "schreiben",
+        "Sie",
+        "mir."
       ],
-      "answer": "Wenn",
-      "hint": "Condition (« S'il pleut... ») → Wenn.",
-      "explanation": "Wenn es regnet, werden wir zu Hause bleiben."
+      "answer": "Wenn Sie einen guten Mitarbeiter brauchen, schreiben Sie mir.",
+      "hint": "« Wenn » (si conditionnel) rejette « brauchen » à la fin de la subordonnée ; « brauchen » régit l'accusatif.",
+      "explanation": "Corrigé (Exercice C.11) : « Wenn Sie einen guten Mitarbeiter brauchen, schreiben Sie mir. » Déclinaison mixte à l'accusatif masculin (« einen guten Mitarbeiter ») et rejet du verbe après « wenn »."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en remettant les mots dans l'ordre (Exercice C.12) : « Savez-vous, si le congrès s'achève ? »",
+      "words": [
+        "Wissen",
+        "Sie,",
+        "ob",
+        "der",
+        "Kongreß",
+        "zu",
+        "Ende",
+        "geht?"
+      ],
+      "answer": "Wissen Sie, ob der Kongreß zu Ende geht?",
+      "hint": "« Ob » traduit le « si » interrogatif et rejette le verbe conjugué en fin de proposition ; « s'achever » se dit « zu Ende gehen ».",
+      "explanation": "Corrigé (Exercice C.12) : « Wissen Sie, ob der Kongreß zu Ende geht? » Dans la subordonnée introduite par « ob », le verbe conjugué « geht » est rejeté à la fin."
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand (Exercice sur les mots 5) : « Il va au bureau. »",
+      "answer": "Er geht ins Büro.",
+      "hint": "Avec un verbe de mouvement (« gehen »), « in » régit l'accusatif : in + das = ins.",
+      "explanation": "Corrigé (Exercice sur les mots 5) : « Er geht ins Büro. » (À distinguer de l'Exercice sur les mots 4 sans mouvement : « Er ist im Büro », au datif.)"
     }
   ]
 }

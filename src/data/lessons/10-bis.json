@@ -4,99 +4,197 @@
   "authentic": true,
   "isReview": true,
   "titleDe": "Contrôle et révisions (Leçons 1 à 10)",
-  "titleFr": "Bilan grammatical : pluriels, du/ihr, possessifs et cas",
-  "proverbDe": "Wiederholung ist die Mutter der Weisheit.",
-  "proverbFr": "La répétition est la mère de la sagesse.",
+  "titleFr": "Pluriel, formes avec du et ihr, possessifs, présent, interrogatifs et traduction",
+  "proverbDe": "Übung macht den Meister.",
+  "proverbFr": "C'est en forgeant qu'on devient forgeron. (m. à m. : L'exercice fait le maître.)",
   "paragraphs": [
     {
-      "de": "Du bist im Zimmer und du schreibst eine Adresse ab. Ihr seid im Zimmer und ihr schreibt Adressen ab.",
-      "fr": "Tu es dans la chambre et tu copies une adresse. Vous êtes dans la chambre et vous copiez des adresses."
+      "de": "Hast du dein Heft? Du bist im Zimmer und du schreibst eine Adresse ab. Wo kaufst du diesen Kugelschreiber? Du trägst den Brief auf die Post und du sprichst mit Georg.",
+      "fr": "As-tu ton cahier? Tu es dans la chambre et tu copies une adresse. Où achètes-tu ce crayon à bille? Tu portes la lettre à la poste et tu parles avec Georges."
     },
     {
-      "de": "Der Freund des Direktors kauft den Kindern Schokolade.",
-      "fr": "L'ami du directeur achète du chocolat aux enfants."
+      "de": "Ich suche meinen Freund, meine Garage, mein Hotel, meinen Mantel. Er sucht seinen Freund, seine Garage, sein Hotel, seinen Mantel. Sie sucht ihren Freund, ihre Garage, ihr Hotel, ihren Mantel.",
+      "fr": "Je cherche mon ami, mon garage, mon hôtel, mon manteau. Il cherche son ami, son garage, son hôtel, son manteau. Elle cherche son ami, son garage, son hôtel, son manteau."
+    },
+    {
+      "de": "Er trägt eine Brille. Du rufst deinen Freund. Sie ziehen ihren Mantel aus. Er ißt nicht viel. Du kommst pünktlich an.",
+      "fr": "Il porte des (mot à mot : une) lunettes. Tu appelles ton ami. Ils ôtent leur manteau. Il ne mange pas beaucoup. Tu arrives à l'heure."
+    },
+    {
+      "de": "Wo ist Ihr Hotel? Sind die Zimmer dieses Hotels modern? Hat es eine Garage? Kennen Sie die Stadt? Ziehen Sie Ihren Mantel nicht aus? Paul schreibt seinem Nachbar einen Brief. Die Straßen der Stadt sind nicht oft ruhig.",
+      "fr": "Où est votre hôtel? Les chambres de cet hôtel sont-elles modernes? A-t-il un garage? Connaissez-vous la ville? N'ôtez-vous pas votre manteau? Paul écrit une lettre à son voisin. Les rues de la ville ne sont pas souvent calmes."
     }
   ],
-  "pronunciation": "Veillez à la mutation de la voyelle (Umlaut) dans les pluriels : das Haus → die Häuser, der Garten → die Gärten, die Stadt → die Städte.",
+  "pronunciation": "Points clés à soigner dans cette révision : l'inflexion (Umlaut) au pluriel et aux verbes forts (Städte, Mäntel, Gräser, Nächte, Gärten, Gasthäuser ; du trägst, er trägt), l'accentuation forte sur la particule séparable (abschreiben, ausziehen, ankommen), le « ß » après voyelle longue (Straße) ou voyelle brève en orthographe de 1970 (er ißt), ainsi que la prononciation de seid [zaït] et de pünktlich.",
   "vocab": [
     {
       "de": "der Brief (-e)",
       "fr": "la lettre",
-      "info": "Pluriel : die Briefe"
-    },
-    {
-      "de": "das Buch (¨-er)",
-      "fr": "le livre",
-      "info": "Pluriel : die Bücher"
+      "info": "Masculin"
     },
     {
       "de": "das Gasthaus (¨-er)",
       "fr": "le restaurant, l'auberge",
-      "info": "Pluriel : die Gasthäuser"
+      "info": "Neutre"
     },
     {
-      "de": "die Nacht (¨-e)",
-      "fr": "la nuit",
-      "info": "Pluriel : die Nächte"
+      "de": "der Kugelschreiber (-)",
+      "fr": "le crayon à bille, le stylo à bille",
+      "info": "Masculin"
     },
     {
-      "de": "der Nachbar (-n)",
-      "fr": "le voisin",
-      "info": "Masculin faible"
+      "de": "abschreiben",
+      "fr": "copier, recopier",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "suchen",
+      "fr": "chercher",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "die Brille (-n)",
+      "fr": "les lunettes (m. à m. : une lunette)",
+      "info": "Féminin"
+    },
+    {
+      "de": "ausziehen",
+      "fr": "ôter, enlever (un vêtement)",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "ankommen",
+      "fr": "arriver",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "die Schokolade",
+      "fr": "le chocolat",
+      "info": "Féminin"
+    },
+    {
+      "de": "ruhig",
+      "fr": "calme, tranquille",
+      "info": "Adjectif"
     }
   ],
   "grammar": [
     {
-      "title": "Révision : du (tu) et ihr (vous familier)",
-      "body": "<em>du bist / ihr seid</em> (être), <em>du hast / ihr habt</em> (avoir), <em>du wirst / ihr werdet</em> (devenir), <em>du gibst / ihr gebt</em> (donner). Au pluriel des noms, le datif prend toujours un <strong>-n</strong>."
+      "title": "Exercice A — Le pluriel des noms et des déterminants",
+      "body": "Les noms forment leur pluriel selon plusieurs modèles, souvent avec inflexion (Umlaut) :<br>• <strong>-e</strong> : <em>der Brief → die Briefe</em> ; avec inflexion : <em>die Stadt → die Städte</em>, <em>eine Nacht → Nächte</em>.<br>• <strong>-er (avec inflexion)</strong> : <em>ein Buch → Bücher</em>, <em>dieses Gasthaus → diese Gasthäuser</em>, <em>das Gras → die Gräser</em>.<br>• <strong>-en</strong> : <em>die Frau → die Frauen</em>.<br>• <strong>Sans terminaison (-)</strong> : <em>mein Zimmer → meine Zimmer</em> ; avec inflexion : <em>kein Mantel → keine Mäntel</em>, <em>unser Garten → unsere Gärten</em>.<br><strong>Remarque :</strong> L'article indéfini <em>ein / eine</em> disparaît au pluriel (<em>ein Buch → Bücher</em>, <em>eine Nacht → Nächte</em>)."
+    },
+    {
+      "title": "Exercice B — Formes verbales avec du (tu) et ihr (vous)",
+      "body": "Voici quelques formes verbales avec <strong>du</strong> (<em>tu</em>) et <strong>ihr</strong> (<em>vous</em>) (voir Mémento n° 43 à 47) :<br>• <em>Du bist</em>, tu es ; <em>ihr seid</em>, vous êtes.<br>• <em>Du hast</em>, tu as ; <em>ihr habt</em>, vous avez.<br>• <em>Du wirst</em>, tu deviens ; <em>ihr werdet</em>, vous devenez.<br>• <em>Du fragst</em>, tu demandes ; <em>ihr fragt</em>, vous demandez.<br>• <em>Du gibst</em>, tu donnes ; <em>ihr gebt</em>, vous donnez.<br><strong>Verbes irréguliers (forts) :</strong> À la 2e personne du singulier (<em>du</em>), certains verbes prennent une inflexion ou changent de voyelle, tandis que <em>ihr</em> garde le radical de l'infinitif : <em>ihr tragt → du trägst</em> ; <em>ihr sprecht → du sprichst</em>."
+    },
+    {
+      "title": "Exercice C — Les adjectifs possessifs à l'accusatif",
+      "body": "Après un verbe transitif comme <em>suchen</em> (chercher), le complément d'objet direct est à l'accusatif. Seul le masculin singulier prend la terminaison <strong>-en</strong> :<br>• 1re pers. : <em>Ich suche <strong>meinen</strong> Freund</em> (m.), <em><strong>meine</strong> Garage</em> (f.), <em><strong>mein</strong> Hotel</em> (n.), <em><strong>meinen</strong> Mantel</em> (m.).<br>• 3e pers. masc. : <em>Er sucht <strong>seinen</strong> Freund, <strong>seine</strong> Garage, <strong>sein</strong> Hotel, <strong>seinen</strong> Mantel.</em><br>• 3e pers. fém. : <em>Sie sucht <strong>ihren</strong> Freund, <strong>ihre</strong> Garage, <strong>ihr</strong> Hotel, <strong>ihren</strong> Mantel.</em>"
+    },
+    {
+      "title": "Exercice D — Du futur au présent : verbes forts et séparables",
+      "body": "Au futur (<em>werden</em> + infinitif), le verbe reste à l'infinitif en fin de proposition. Au présent, il se conjugue en 2e position :<br>• <strong>Verbes forts à changement de voyelle :</strong> <em>tragen → er trägt</em> (<em>Er trägt eine Brille</em>) ; <em>essen → er ißt</em> (<em>Er ißt nicht viel</em>).<br>• <strong>Verbes à particule séparable :</strong> la particule est rejetée à la fin de la proposition : <em>ausziehen → Sie ziehen ihren Mantel aus</em> ; <em>ankommen → Du kommst pünktlich an</em>."
+    },
+    {
+      "title": "Exercice E — Poser des questions aux quatre cas",
+      "body": "Sur la phrase <em>Der Freund des Direktors kauft den Kindern Schokolade</em> (« L'ami du directeur achète du chocolat aux enfants »), chaque fonction appelle son pronom interrogatif :<br>• <strong>Nominatif (sujet, personne) — Wer?</strong> : <em>Wer kauft den Kindern Schokolade?</em><br>• <strong>Génitif (complément de nom) — Wessen?</strong> : <em>Wessen Freund kauft den Kindern Schokolade?</em><br>• <strong>Datif (attribution, personne) — Wem?</strong> : <em>Wem kauft der Freund des Direktors Schokolade?</em><br>• <strong>Accusatif (objet, chose) — Was?</strong> : <em>Was kauft der Freund des Direktors den Kindern?</em>"
+    },
+    {
+      "title": "Exercice F — Politesse, génitif, datif et négation",
+      "body": "• <strong>Forme de politesse :</strong> <em>Sie</em> et le possessif <em>Ihr / Ihren</em> prennent toujours une majuscule (<em>Wo ist Ihr Hotel? Ziehen Sie Ihren Mantel nicht aus?</em>).<br>• <strong>Génitif :</strong> <em>die Zimmer dieses Hotels</em> (neutre en <em>-s</em>), <em>die Straßen der Stadt</em> (féminin <em>der</em>).<br>• <strong>Datif avant l'accusatif :</strong> <em>Paul schreibt <strong>seinem Nachbar</strong> einen Brief.</em><br>• <strong>Négation :</strong> <em>nicht</em> précède l'adverbe qu'il nie (<em>nicht oft ruhig</em>) ou la particule séparable finale (<em>Ziehen Sie Ihren Mantel nicht aus?</em>)."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Mettez au pluriel (Exercice A.3) : « dieses Gasthaus »",
+      "prompt": "Mettez au pluriel : « dieses Gasthaus » (Exercice A.3)",
       "options": [
         "diese Gasthäuser",
-        "diese Gasthause",
+        "diese Gasthausen",
         "diesen Gasthäuser",
-        "dieses Gasthäuser"
+        "diese Gasthäuse"
       ],
       "answer": "diese Gasthäuser",
-      "hint": "das Haus → die Häuser.",
-      "explanation": "diese Gasthäuser (ces restaurants)."
+      "hint": "« das Gasthaus » suit le modèle de « das Haus » (inflexion + -er).",
+      "explanation": "Corrigé A.3 : « Diese Gasthäuser, ces restaurants. » Le pluriel de « Gasthaus » prend un Umlaut et la terminaison « -er »."
     },
     {
       "type": "fill",
-      "prompt": "Mettez au singulier avec du (Exercice B.11) : « Habt ihr eure Hefte? » → ___ du ___ Heft?",
-      "answer": "Hast ... dein",
-      "hint": "ihr habt → du hast ; eure Hefte → dein Heft.",
-      "explanation": "Hast du dein Heft? (As-tu ton cahier ?)"
+      "prompt": "Mettez au pluriel : « kein Mantel » (pas de manteaux) (Exercice A.6)",
+      "answer": "keine Mäntel",
+      "hint": "« der Mantel » prend l'inflexion au pluriel sans ajouter de terminaison.",
+      "explanation": "Corrigé A.6 : « keine Mäntel, pas de manteaux. » L'article négatif devient « keine » au pluriel et « Mantel » prend un Umlaut : « Mäntel »."
     },
     {
       "type": "choice",
-      "prompt": "Complétez les possessifs (Exercice C.15) : « Ich suche ___ Freund, ___ Garage, ___ Hotel, ___ Mantel. »",
+      "prompt": "Mettez au singulier : « Ihr tragt die Briefe auf die Post und ihr sprecht mit Georg. » (Exercice B.14)",
       "options": [
-        "meinen / meine / mein / meinen",
-        "mein / meine / mein / mein",
-        "meinem / meiner / meinem / meinem",
-        "meinen / mein / meine / meinen"
+        "Du trägst den Brief auf die Post und du sprichst mit Georg.",
+        "Du tragst den Brief auf die Post und du sprechst mit Georg.",
+        "Du trägst der Brief auf die Post und du sprichst mit Georg.",
+        "Du trägst den Brief auf die Post und du sprecht mit Georg."
       ],
-      "answer": "meinen / meine / mein / meinen",
-      "hint": "Tous sont COD (accusatif) : Freund (m), Garage (f), Hotel (n), Mantel (m).",
-      "explanation": "meinen Freund, meine Garage, mein Hotel, meinen Mantel."
+      "answer": "Du trägst den Brief auf die Post und du sprichst mit Georg.",
+      "hint": "Attention aux deux verbes irréguliers (forts) avec « du » : tragen et sprechen.",
+      "explanation": "Corrigé B.14 : « Du trägst den Brief auf die Post und du sprichst mit Georg (verbes irréguliers). Tu portes la lettre à la poste et tu parles avec Georges. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez à la 3e personne du singulier masculin : « Il cherche son ami. » — Er sucht ___ (Exercice C.15a)",
+      "answer": "seinen Freund",
+      "hint": "« der Freund » est masculin singulier, employé ici à l'accusatif après « suchen ».",
+      "explanation": "Corrigé C.15a : « Er sucht seinen Freund, seine Garage, sein Hotel, seinen Mantel. » À l'accusatif masculin singulier, le possessif prend « -en »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Transposez au présent (orthographe de 1970) : « Er wird nicht viel essen. » (Exercice D.19)",
+      "answer": "Er ißt nicht viel.",
+      "hint": "Le verbe fort « essen » change son « e » en « i » à la 3e personne du singulier.",
+      "explanation": "Corrigé D.19 : « Er ißt nicht viel. Il ne mange pas beaucoup. » Le verbe fort « essen » fait « er ißt » au présent (orthographe de 1970)."
+    },
+    {
+      "type": "order",
+      "prompt": "Transposez au présent et remettez dans l'ordre : « Sie werden ihren Mantel ausziehen. » (Exercice D.18)",
+      "words": [
+        "Sie",
+        "ziehen",
+        "ihren",
+        "Mantel",
+        "aus."
+      ],
+      "answer": "Sie ziehen ihren Mantel aus.",
+      "hint": "« ausziehen » est un verbe à particule séparable : la particule va en fin de phrase.",
+      "explanation": "Corrigé D.18 : « Sie ziehen ihren Mantel aus. Ils ôtent leur manteau. » Au présent, la particule « aus » se sépare et se place à la fin."
     },
     {
       "type": "choice",
-      "prompt": "Quelle question porte sur le génitif « des Direktors » dans « Der Freund des Direktors kauft Schokolade » ?",
+      "prompt": "Quelle question porte sur le complément au génitif dans « Der Freund des Direktors kauft den Kindern Schokolade. » ? (Exercice E.21b)",
       "options": [
-        "Wessen Freund kauft Schokolade?",
-        "Wem kauft der Freund Schokolade?",
-        "Wer kauft Schokolade?",
-        "Was kauft der Freund?"
+        "Wessen Freund kauft den Kindern Schokolade?",
+        "Wem kauft der Freund des Direktors Schokolade?",
+        "Wer kauft den Kindern Schokolade?",
+        "Was kauft der Freund des Direktors den Kindern?"
       ],
-      "answer": "Wessen Freund kauft Schokolade?",
-      "hint": "Wessen = de qui ? (interrogatif du génitif).",
-      "explanation": "Wessen Freund kauft den Kindern Schokolade?"
+      "answer": "Wessen Freund kauft den Kindern Schokolade?",
+      "hint": "Pour interroger sur « des Direktors » (génitif), on utilise le pronom interrogatif du génitif.",
+      "explanation": "Corrigé E.21b : « Wessen Freund kauft den Kindern Schokolade? » « Wessen » est le génitif de « wer » (de qui ?)."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez et remettez dans l'ordre : « Les rues de la ville ne sont pas souvent calmes. » (Exercice F.29)",
+      "words": [
+        "Die",
+        "Straßen",
+        "der",
+        "Stadt",
+        "sind",
+        "nicht",
+        "oft",
+        "ruhig."
+      ],
+      "answer": "Die Straßen der Stadt sind nicht oft ruhig.",
+      "hint": "« de la ville » se rend par le génitif féminin « der Stadt », et « nicht » précède « oft ».",
+      "explanation": "Corrigé F.29 : « Die Straßen der Stadt sind nicht oft ruhig. »"
     }
   ]
 }

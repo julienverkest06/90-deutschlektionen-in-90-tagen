@@ -2,72 +2,124 @@
   "id": "44",
   "series": 2,
   "authentic": true,
-  "titleDe": "Les verbes irréguliers mixtes (kennen, brennen, bringen, denken)",
-  "titleFr": "S'orienter en ville et conjugaison des verbes mixtes",
-  "proverbDe": "Wer fragt, der findet.",
-  "proverbFr": "Qui demande trouve son chemin.",
+  "titleDe": "Wie man nach dem Weg fragt",
+  "titleFr": "Comment demander son chemin",
+  "proverbDe": "An den Federn erkennt man den Vogel.",
+  "proverbFr": "On reconnaît l'oiseau à son plumage.",
   "paragraphs": [
     {
-      "de": "Es ist schwierig, wenn man die Stadt nicht kennt. Ich kannte ihn dem Namen nach. Ich habe diese Person nie gekannt.",
-      "fr": "Il est difficile de ne pas connaître la ville. Je le connaissais de nom. Je n'ai jamais connu cette personne."
+      "de": "— Ich möchte auf die Bank gehen. Könnten Sie mir bitte den Weg weisen? — Ja, gern. Die Bank liegt ganz in der Nähe. Wenn Sie aus Ihrem Hotel kommen, gehen Sie nach links. Dann nehmen Sie die erste Straße zu Ihrer Linken; Sie bleiben also immer auf dieser Seite des Bürgersteigs. Die Bank ist das dritte oder vierte Haus.",
+      "fr": "— Je voudrais aller à la banque. Pourriez-vous m'indiquer le chemin, s'il vous plaît ? — Oui, volontiers. La banque est tout près d'ici. En sortant de l'hôtel, prenez à gauche. Puis vous prenez la première rue à gauche ; vous resterez donc toujours sur le trottoir de ce côté-ci. La banque est la troisième ou quatrième maison."
     },
     {
-      "de": "Sagen Sie mir bitte, ob das Postamt weit von hier liegt. Wir würden gern ein Taxi nehmen.",
-      "fr": "Dites-moi s'il vous plaît si le bureau de poste est loin d'ici. Nous aimerions prendre un taxi."
+      "de": "— Ich möchte das Museum besichtigen; wie komme ich am besten dorthin? Ich bin fremd in dieser Stadt. — Zu Fuß sind es dreiviertel Stunden von hier aus. Sie können aber mit dem Omnibus hinfahren, denn es ist etwas schwierig, wenn man die Stadt nicht kennt. Wissen Sie, wo der Rathausplatz ist? — Nein — Sehen Sie dort die Verkehrsampel? Dort gehen Sie nach rechts, dann geradeaus; Sie kommen auf einen Platz, wo sich die Haltestelle des Omnibusses befindet. Zum Museum sind es kaum zehn Minuten.",
+      "fr": "— Je voudrais visiter le musée ; quelle serait la meilleure façon de m'y rendre ? Je suis étranger dans cette ville. — D'ici vous mettrez trois quarts d'heure à pied. Mais vous pouvez prendre l'autobus, car c'est un peu difficile, quand on ne connaît pas la ville. Savez-vous où se trouve la place de l'hôtel de ville ? — Non — Voyez-vous là-bas les feux ? (mot à mot : la lampe pour la circulation). Vous irez là-bas à droite, puis tout droit ; vous arriverez à une place où se trouve la station d'autobus. Jusqu'au musée, il y a à peine dix minutes."
+    },
+    {
+      "de": "— Verzeihen Sie, Herr Schutzmann, wie komme ich zum Hauptbahnhof? — Sie können mit diesem Obus fahren; der bringt Sie aber nicht direkt dorthin. Fahren Sie bis zum Marktplatz; dort steigen Sie in die Linie 5 um; an der vierten Haltestelle steigen Sie aus und sind direkt am Hauptbahnhof. — Besten Dank für die Auskunft. — Herr Schaffner, sagen Sie mir bitte, wann ich aussteigen muß.",
+      "fr": "— Pardon, Monsieur l'agent, pour aller à la Gare Centrale ? — Vous pouvez prendre ce trolley ; mais il (celui-ci) ne vous y conduira pas directement. Vous le prendrez jusqu'à la place du Marché ; là-bas, vous changerez et prendrez la ligne 5 ; au quatrième arrêt vous descendrez et vous serez directement à la Gare Centrale. — Merci bien pour le renseignement. — Monsieur le contrôleur, veuillez me dire quand il me faudra (mot à mot : je dois) descendre."
     }
   ],
-  "pronunciation": "Le verbe « rennen » (courir) exprime un changement de lieu et prend donc l'auxiliaire « sein » au passé composé : Er ist in den Garten gerannt.",
+  "pronunciation": "Points d'accentuation et de prononciation de la leçon : dans les noms composés, l'accent principal porte sur le premier élément — der Bürgersteig (accent sur Bür-), der Rathausplatz (accent sur Rat-), die Haltestelle (accent sur Hal-), der Hauptbahnhof (accent sur Haupt-), die Auskunft (accent sur Aus-). Dans die Verkehrsampel, le préfixe inséparable ver- reste atone et l'accent porte sur -kehrs- (h muet allongeant le e). Les verbes à particule séparable portent l'accent sur la particule (hinfahren, umsteigen, aussteigen), tandis que les préfixes inséparables be- et ver- sont atones (besichtigen, verzeihen).",
   "vocab": [
     {
-      "de": "kennen → kannte, gekannt",
-      "fr": "connaître",
-      "info": "Verbe mixte"
+      "de": "der Schaffner (-)",
+      "fr": "le receveur",
+      "info": "Masculin"
     },
     {
-      "de": "brennen → brannte, gebrannt",
-      "fr": "brûler",
-      "info": "Verbe mixte"
+      "de": "der Schutzmann (plur. die Schutzleute)",
+      "fr": "le gardien de la paix",
+      "info": "Masculin"
     },
     {
-      "de": "rennen → rannte, gerannt",
-      "fr": "courir (+ sein)",
-      "info": "Verbe mixte"
+      "de": "die Auskunft (¨-e)",
+      "fr": "le renseignement",
+      "info": "Féminin"
     },
     {
-      "de": "bringen → brachte, gebracht",
-      "fr": "apporter",
-      "info": "Verbe mixte"
+      "de": "die Nähe",
+      "fr": "la proximité",
+      "info": "Féminin"
     },
     {
-      "de": "denken → dachte, gedacht",
-      "fr": "penser",
-      "info": "Verbe mixte"
+      "de": "die Stelle (n)",
+      "fr": "l'endroit",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Haltestelle (n)",
+      "fr": "la station, l'arrêt",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Rathaus (¨-er)",
+      "fr": "l'hôtel de ville",
+      "info": "Neutre"
+    },
+    {
+      "de": "Haupt... (dans les noms composés)",
+      "fr": "principal",
+      "info": "Préfixe"
+    },
+    {
+      "de": "verzeihen (ie, ie)",
+      "fr": "pardonner",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "weisen (ie, ie)",
+      "fr": "indiquer",
+      "info": "Verbe fort"
     }
   ],
   "grammar": [
     {
-      "title": "Les verbes mixtes",
-      "body": "Ils prennent les terminaisons des verbes réguliers (<em>-te</em> au prétérit, <em>-t</em> au participe passé), tout en changeant leur voyelle radicale (<em>e → a</em>) : <em>kennen, kannte, gekannt</em> ; <em>senden, sandte, gesandt</em> ; <em>wenden, wandte, gewandt</em>."
+      "title": "Es ist schwierig, wenn man die Stadt nicht kennt.",
+      "body": "Le verbe <em>kennen</em>, connaître, a les terminaisons d'un verbe régulier, mais son radical change au prétérit et au participe passé, comme les verbes irréguliers : <em>kennen, kannte, gekannt</em>.<br><br><em>Ich kenne die Stadt gut</em>, je connais bien cette ville.<br><em>Ich kannte ihn dem Namen nach</em>, je le connaissais de nom.<br><em>Ich habe diese Person nie gekannt</em>, je n'ai jamais connu cette personne.<br><br>Les verbes suivants ont les mêmes caractéristiques : <em>brennen</em>, brûler ; <em>nennen</em>, nommer ; <em>rennen</em>, courir ; <em>senden</em>, envoyer ; <em>wenden</em>, tourner.<br><br><em>Das Holz brennt gut</em>, le bois brûle bien.<br><em>Das Licht brannte die ganze Nacht hindurch</em>, la lumière brûlait toute la nuit.<br><em>Ich habe mich am Motor verbrannt</em>, je me suis brûlé au moteur.<br><em>Ich sende ihm einen Brief</em>, je lui envoie une lettre.<br><em>Ich sandte ihm oft Postkarten</em>, je lui envoyais souvent des cartes postales.<br><em>Ich habe ihm ein Paket gesandt</em>, je lui ai envoyé un paquet."
+    },
+    {
+      "title": "Remarques sur les verbes mixtes",
+      "body": "<strong>1.</strong> Les verbes <em>bringen, brachte, gebracht</em>, apporter, et <em>denken, dachte, gedacht</em>, penser, ont eux aussi les mêmes caractéristiques.<br><br><strong>2.</strong> Le verbe <em>rennen</em> prend l'auxiliaire <em>sein</em> au passé composé et au plus-que-parfait.<br><em>Er ist in den Garten gerannt</em>, il a couru au jardin.<br><br><strong>3.</strong> Pour <em>senden</em> et <em>wenden</em>, on peut également employer les formes du verbe régulier, au prétérit et au participe passé.<br><em>Ich sendete (= sandte)</em>, <em>ich habe gesendet (= gesandt)</em>.<br><em>Ich wendete (= wandte)</em>, je tournais ; <em>ich habe gewendet (= gewandt)</em>, j'ai tourné. Voir Mémento, n° 53.<br><br>Apprenez les verbes irréguliers avec leurs temps primitifs (infinitif, prétérit, participe passé) tout comme vous apprenez les noms avec leur pluriel. Faites de fréquentes révisions."
     }
   ],
   "exercises": [
     {
-      "type": "fill",
-      "prompt": "Mettez au passé composé (Exercice A.2) : « Ein Junge rennt über die Brücke. » → Ein Junge ___ über die Brücke ___.",
-      "answer": "ist ... gerannt",
-      "hint": "rennen prend l'auxiliaire « sein » et son participe passé est « gerannt ».",
-      "explanation": "Ein Junge ist über die Brücke gerannt."
+      "type": "choice",
+      "prompt": "Mettez au passé composé (Exercice A.2) : « Ein Junge rennt über die Brücke. »",
+      "options": [
+        "Ein Junge ist über die Brücke gerannt.",
+        "Ein Junge hat über die Brücke gerannt.",
+        "Ein Junge ist über die Brücke gerennt.",
+        "Ein Junge hat über die Brücke gerennt."
+      ],
+      "answer": "Ein Junge ist über die Brücke gerannt.",
+      "hint": "Le verbe rennen change de radical (rannte, gerannt) et prend l'auxiliaire sein (verbe de mouvement).",
+      "explanation": "Corrigé A.2 : « Ein Junge ist über die Brücke gerannt. » (Un garçon a franchi le pont en courant.) Remarque 2 : rennen se conjugue avec sein."
     },
     {
       "type": "fill",
-      "prompt": "Mettez au passé composé (Exercice A.4) : « Ich denke an dich. » → Ich ___ an dich ___.",
-      "answer": "habe ... gedacht",
-      "hint": "denken → dachte → gedacht.",
-      "explanation": "Ich habe an dich gedacht. (J'ai pensé à toi)."
+      "prompt": "Complétez le passé composé de « Er bringt einen Stadtplan mit. » (Exercice A.5) : « Er hat einen Stadtplan ___. »",
+      "answer": "mitgebracht",
+      "hint": "bringen, brachte, gebracht + particule séparable mit- devant ge-.",
+      "explanation": "Corrigé A.5 : « Er hat einen Stadtplan mitgebracht. » (Il a apporté un plan de la ville.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au passé composé et traduisez (Exercice A.4) : « Ich denke an dich. »",
+      "options": [
+        "Ich habe an dich gedacht. (J'ai pensé à toi.)",
+        "Ich habe an dich gedenkt. (J'ai pensé à toi.)",
+        "Ich bin an dich gedacht. (J'ai pensé à toi.)",
+        "Ich dachte an dich. (Je pense à toi.)"
+      ],
+      "answer": "Ich habe an dich gedacht. (J'ai pensé à toi.)",
+      "hint": "Temps primitifs : denken, dachte, gedacht (auxiliaire haben).",
+      "explanation": "Corrigé A.4 : « Ich habe an dich gedacht. J'ai pensé à toi. » (Remarque 1 : denken suit le modèle des verbes mixtes.)"
     },
     {
       "type": "order",
-      "prompt": "Interrogation indirecte (Exercice B.6b) : « Dites-moi s'il vous plaît si le bureau de poste est loin d'ici. »",
+      "prompt": "Transformez en subordonnée interrogative (Exercice B.6b) : « Ist das Postamt weit von hier? » → « Dites-moi s'il vous plaît si le bureau de poste est loin d'ici. »",
       "words": [
         "Sagen",
         "Sie",
@@ -82,8 +134,61 @@
         "liegt."
       ],
       "answer": "Sagen Sie mir bitte, ob das Postamt weit von hier liegt.",
-      "hint": "« ob » rejette « liegt » en fin de phrase.",
-      "explanation": "Sagen Sie mir bitte, ob das Postamt weit von hier liegt."
+      "hint": "Dans la subordonnée introduite par ob, le verbe conjugué (liegt) se rejette tout à la fin.",
+      "explanation": "Corrigé B.6b : « Sagen Sie mir bitte, ob das Postamt weit von hier liegt. » (6a : Le bureau de poste est-il loin d'ici ?)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la subordonnée interrogative (Exercice B.8b, orthographe de 1970) : « Sagen Sie mir bitte, ob ich mit der Straßenbahn oder mit dem Autobus ___. »",
+      "answer": "hinfahren muß",
+      "hint": "Dans une subordonnée avec ob, le verbe conjugué (muß) se place après l'infinitif (hinfahren).",
+      "explanation": "Corrigé B.8b : « Sagen Sie mir bitte, ob ich mit der Straßenbahn oder mit dem Autobus hinfahren muß. » (8a : Dois-je m'y rendre par le tramway ou par l'autobus ?)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Transformez en subordonnée interrogative (Exercice B.10b) : « Gibt es hier ein Polizeibüro? »",
+      "options": [
+        "Sagen Sie mir bitte, ob es hier ein Polizeibüro gibt.",
+        "Sagen Sie mir bitte, ob gibt es hier ein Polizeibüro.",
+        "Sagen Sie mir bitte, ob hier gibt es ein Polizeibüro.",
+        "Sagen Sie mir bitte, wenn es hier ein Polizeibüro gibt."
+      ],
+      "answer": "Sagen Sie mir bitte, ob es hier ein Polizeibüro gibt.",
+      "hint": "Le « si » interrogatif se traduit par ob, et le verbe conjugué (gibt) passe en position finale.",
+      "explanation": "Corrigé B.10b : « Sagen Sie mir bitte, ob es hier ein Polizeibüro gibt. » (10a : Y a-t-il un commissariat ici ?)"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez (Exercice C.12) : « Vous ne pouvez pas y aller à pied, car c'est trop loin. »",
+      "words": [
+        "Sie",
+        "können",
+        "nicht",
+        "zu",
+        "Fuß",
+        "hingehen,",
+        "denn",
+        "es",
+        "ist",
+        "zu",
+        "weit."
+      ],
+      "answer": "Sie können nicht zu Fuß hingehen, denn es ist zu weit.",
+      "hint": "à pied = zu Fuß ; y aller = hingehen ; denn est une conjonction de coordination (ordre normal : es ist).",
+      "explanation": "Corrigé C.12 : « Sie können nicht zu Fuß hingehen, denn es ist zu weit. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez (Exercice C.14) : « Il voulait descendre au troisième arrêt, mais il se trompa (sich irren). »",
+      "options": [
+        "Er wollte an der dritten Haltestelle aussteigen, aber er irrte sich.",
+        "Er wollte an die dritte Haltestelle aussteigen, aber er irrte sich.",
+        "Er wollte an der dritten Haltestelle umsteigen, aber er irrte sich.",
+        "Er will an der dritten Haltestelle aussteigen, aber er irrt sich."
+      ],
+      "answer": "Er wollte an der dritten Haltestelle aussteigen, aber er irrte sich.",
+      "hint": "descendre = aussteigen ; au troisième arrêt = an der dritten Haltestelle (datif féminin, localisation) ; prétérit = wollte / irrte sich.",
+      "explanation": "Corrigé C.14 : « Er wollte an der dritten Haltestelle aussteigen, aber er irrte sich. »"
     }
   ]
 }

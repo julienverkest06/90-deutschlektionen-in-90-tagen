@@ -5,118 +5,188 @@
   "titleDe": "Das Warenhaus",
   "titleFr": "Le grand magasin",
   "proverbDe": "Kleider machen Leute.",
-  "proverbFr": "L'habit fait le moine.",
+  "proverbFr": "L'habit fait le moine (m. à m. : les vêtements font les gens).",
   "paragraphs": [
     {
       "de": "Männer, Frauen und Kinder gehen im Warenhaus hin und her. Sie kaufen oder betrachten Waren. Hier stehen Möbel, da hängen Mäntel, dort liegen Hefte und Kugelschreiber. Einige Damen bewundern die neue Mode.",
-      "fr": "Des hommes, des femmes et des enfants vont et viennent dans le grand magasin. Ils achètent ou regardent des marchandises. Ici se trouvent des meubles, là sont accrochés des manteaux, là-bas il y a des cahiers et des crayons à bille. Quelques dames admirent la mode nouvelle."
+      "fr": "Des hommes, des femmes et des enfants vont et viennent dans le grand magasin (mot à mot : vont de-ci, de-là). Ils achètent ou bien regardent des marchandises. Ici se trouvent (mot à mot : sont posés debout) des meubles, là sont accrochés des manteaux, là-bas il y a (mot à mot : sont posés à plat) des cahiers et des crayons à bille. Quelques dames admirent la mode nouvelle."
     },
     {
-      "de": "— Guten Tag. Was möchten Sie? — Ich möchte ein Hemd. — Welche Nummer haben Sie? — Nummer zweiundvierzig (42). — Hier ist ein schönes und sehr neues Muster. — Woher kommt dieses Muster? — Es kommt aus Italien.",
-      "fr": "— Bonjour. Que désirez-vous ? — Je voudrais une chemise. — Quel est votre numéro ? — Le numéro 42. — Voici un modèle beau et très récent. — D'où ce modèle vient-il ? — Il vient d'Italie."
-    },
-    {
-      "de": "— Gut. Wo ist die Kasse, bitte? — Dort, neben der Treppe. — Und wohin führt die Treppe? — In unser Restaurant. An der Kasse sitzt eine Dame. Dort zahlt Herr Dumont.",
-      "fr": "— Bien. Où est la caisse, s'il vous plaît ? — Là-bas, à côté de l'escalier. — Et où l'escalier mène-t-il ? — À notre restaurant. Une dame est assise à la caisse. Là-bas Monsieur Dumont paie."
+      "de": "— Guten Tag. Was möchten Sie? — Ich möchte ein Hemd. — Welche Nummer haben Sie? — Nummer zweiundvierzig (42). — Hier ist ein schönes und sehr neues Muster. — Ja, es ist sehr schön. Woher kommt dieses Muster? — Es kommt aus Italien. — Gut. Wo ist die Kasse, bitte? — Dort, neben der Treppe. — Und wohin führt die Treppe? — In unser Restaurant. An der Kasse sitzt eine Dame. Dort zahlt Herr Dumont.",
+      "fr": "— Bonjour, (Monsieur). Que désirez-vous ? — Je voudrais une chemise. — Quel est votre numéro ? — (C'est le) numéro 42. — Voici un modèle beau et très récent (mot à mot : neuf). — Oui, il est très beau. D'où ce modèle vient-il ? — Il vient d'Italie. — Bien. Où est la caisse, s'il-vous-plaît ? — Là-bas, à côté de l'escalier. — Et où l'escalier mène-t-il ? — À notre restaurant. Une dame est assise à la caisse. (C'est) là-bas (que) Monsieur Dumont paie."
     }
   ],
-  "pronunciation": "Les voyelles infléchies ä [è], ö [eu], ü [u] sont longues devant une seule consonne (Möbel, schön) et brèves devant deux consonnes (Männer, hängen, möchte).",
+  "pronunciation": "Les voyelles infléchies peuvent être longues ou brèves ; nous avons déjà vu que ä se prononce [è], ö = [eu] et ü = [u]. Elles sont longues dans les mots suivants : Möbel — schön — führen (suivies d'une seule consonne ou d'un h), et brèves dans : Männer — hängen — Mäntel — möchte (suivies de deux ou plusieurs consonnes). Repères phonétiques : das Warenhaus [daç varen'haoç], betrachten Waren [bétrarten' waren'], hier stehen Möbel [hir chtéen' meubel], bewundern die neue Mode [bévoun'dern' di noeue mode], Was möchten Sie? [vaç meurten' zi?], welche Nummer [vèlche noumer], zweiundvierzig [tçvaéoun'tfirtçich], Muster [mouçter], woher [vohér], Italien [italien'], die Kasse [di kaçe], Treppe [trèpe], sitzt [zitçt], zahlt [tçalt].",
   "vocab": [
+    {
+      "de": "der Mann (¨-er)",
+      "fr": "l'homme",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Kasse (n)",
+      "fr": "la caisse",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Mode (n)",
+      "fr": "la mode",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Nummer (n)",
+      "fr": "le numéro",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Treppe (n)",
+      "fr": "l'escalier",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Ware (n)",
+      "fr": "la marchandise",
+      "info": "Féminin"
+    },
+    {
+      "de": "Italien (neutre)",
+      "fr": "l'Italie",
+      "info": "Nom propre (neutre)"
+    },
+    {
+      "de": "das Möbel (-)",
+      "fr": "le meuble",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Muster (-)",
+      "fr": "le modèle",
+      "info": "Neutre"
+    },
     {
       "de": "das Warenhaus (¨-er)",
       "fr": "le grand magasin",
       "info": "Neutre"
     },
     {
-      "de": "die Kasse (-n)",
-      "fr": "la caisse",
-      "info": "Féminin"
+      "de": "betrachten",
+      "fr": "contempler, regarder",
+      "info": "Verbe faible"
     },
     {
-      "de": "die Treppe (-n)",
-      "fr": "l'escalier",
-      "info": "Féminin"
+      "de": "bewundern",
+      "fr": "admirer",
+      "info": "Verbe faible"
     },
     {
-      "de": "das Hemd (-en)",
-      "fr": "la chemise",
-      "info": "Neutre"
+      "de": "ich möchte",
+      "fr": "je voudrais",
+      "info": "Verbe de modalité"
     },
     {
-      "de": "stehen / sitzen",
-      "fr": "être debout / être assis",
-      "info": "Verbes de position (wo?)"
-    },
-    {
-      "de": "liegen / hängen",
-      "fr": "être couché / être accroché",
-      "info": "Verbes de position (wo?)"
+      "de": "zahlen",
+      "fr": "payer",
+      "info": "Verbe faible"
     }
   ],
   "grammar": [
     {
-      "title": "Les 9 prépositions mixtes (Datif si wo? / Accusatif si wohin?)",
-      "body": "<strong>in, an, auf, vor, hinter, über, unter, neben, zwischen</strong> gouvernent le <strong>Datif</strong> lorsqu'il n'y a pas de déplacement (question <em>wo?</em> : <em>Eine Dame sitzt an der Kasse</em>) et l'<strong>Accusatif</strong> lorsqu'il y a changement de lieu (question <em>wohin?</em> : <em>Ich gehe an die Kasse</em>)."
+      "title": "Hier stehen Möbel, da hängen Mäntel. — Les verbes de position",
+      "body": "Les verbes suivants expriment une position et correspondent aux verbes factitifs étudiés dans la leçon 11 :<br><strong>stehen</strong>, être debout — <strong>liegen</strong>, être couché<br><strong>sitzen</strong>, être assis — <strong>hängen</strong>, être accroché<br>Ces verbes sont irréguliers (forts), alors que les verbes factitifs sont réguliers (faibles). Ils répondent à la question <em>wo?</em> (où ?)."
     },
     {
-      "title": "Woher? (d'où), Wo? (où sans mouvement), Wohin? (où avec direction)",
-      "body": "<em>Woher kommt dieses Muster?</em> (origine) • <em>Wo ist die Kasse?</em> (position) • <em>Wohin führt diese Treppe?</em> (direction)."
+      "title": "Ich gehe an die Kasse. Eine Dame sitzt an der Kasse. — Les prépositions mixtes",
+      "body": "Neuf prépositions gouvernent l'accusatif (<em>an die Kasse</em>) quand le verbe indique un changement de lieu. Elles gouvernent le datif (<em>an der Kasse</em>) quand il n'y a pas de direction vers un lieu. Ce sont :<br><strong>in</strong>, dans — <strong>vor</strong>, devant — <strong>unter</strong>, au-dessous de, parmi<br><strong>an</strong>, à, près de — <strong>hinter</strong>, derrière — <strong>neben</strong>, à côté de<br><strong>auf</strong>, sur — <strong>über</strong>, au-dessus de — <strong>zwischen</strong>, entre<br>Quelquefois, elles se contractent avec l'article défini. Ex. : <em>in dem = im</em> (im Hotel) ; <em>in das = ins</em> (ins Hotel)."
+    },
+    {
+      "title": "Woher? Wo? Wohin?",
+      "body": "• <strong>Woher?</strong> (d'où ?) porte sur le lieu d'où l'on vient. Ex. : <em>Woher kommt dieses Muster?</em><br>• <strong>Wo?</strong> (où ?) porte sur le lieu où l'on est, marque un état. Ex. : <em>Wo ist die Kasse?</em><br>• <strong>Wohin?</strong> (où ?) porte sur le lieu où l'on va, marque une direction. Ex. : <em>Wohin führt diese Treppe?</em><br><strong>Remarque :</strong> À la question <em>wo?</em> les neuf prépositions mixtes gouvernent le datif ; à la question <em>wohin?</em> elles gouvernent l'accusatif."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Datif ou Accusatif ? (Exercice B.7) : « Das Auto steht in ___ Garage neben ___ Hotel. »",
+      "prompt": "(Exercice A.2) Formez la question correspondant à « Herr Müller kommt aus Berlin. » :",
       "options": [
-        "der / dem",
-        "die / das",
-        "der / das",
-        "die / dem"
+        "Woher kommt Herr Müller?",
+        "Wo kommt Herr Müller?",
+        "Wohin kommt Herr Müller?",
+        "Woher wohnt Herr Müller?"
       ],
-      "answer": "der / dem",
-      "hint": "Il n'y a pas de déplacement (question wo? = position) → Datif pour les deux !",
-      "explanation": "in der Garage (fém. datif) neben dem Hotel (neutre datif)."
+      "answer": "Woher kommt Herr Müller?",
+      "hint": "On demande le lieu d'où l'on vient (provenance).",
+      "explanation": "Corrigé A.2 : « Woher kommt Herr Müller? » (D'où Monsieur Müller vient-il ?). Woher? porte sur le lieu d'où l'on vient."
     },
     {
       "type": "choice",
-      "prompt": "Direction wohin? (Exercice B.9) : « Wir gehen in ___ Stadt, in ___ Kino. »",
+      "prompt": "(Exercice A.3) Formez la question correspondant à « Er führt seinen Freund in ein Gasthaus. » :",
       "options": [
-        "die / das",
-        "der / dem",
-        "die / dem",
-        "der / das"
+        "Wohin führt er seinen Freund?",
+        "Wo führt er seinen Freund?",
+        "Woher führt er seinen Freund?",
+        "Wohin sitzt er seinen Freund?"
       ],
-      "answer": "die / das",
-      "hint": "« Wir gehen » indique un mouvement vers un lieu (wohin?) → Accusatif !",
-      "explanation": "in die Stadt, in das (= ins) Kino."
+      "answer": "Wohin führt er seinen Freund?",
+      "hint": "Le verbe führen indique une direction vers un lieu.",
+      "explanation": "Corrigé A.3 : « Wohin führt er seinen Freund? » (Où conduit-il son ami ?). Wohin? marque la direction."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.7) Complétez par l'article défini au bon cas (Datif ou Accusatif) : « Das Auto steht in ___ Garage neben dem Hotel. »",
+      "answer": "der",
+      "hint": "stehen est un verbe de position (wo? → datif) et Garage est féminin (die Garage).",
+      "explanation": "Corrigé B.7 : « in der Garage neben dem Hotel. » (L'auto est dans le garage, à côté de l'hôtel.) Position = datif, die → der."
     },
     {
       "type": "choice",
-      "prompt": "Quel interrogatif convient ? (Exercice A.2) : « ___ kommt Herr Müller? — Er kommt aus Berlin. »",
+      "prompt": "(Exercice B.9) Complétez au bon cas : « Wir gehen ___ Stadt, ins Kino, auf den Kongreß. »",
       "options": [
-        "Woher",
-        "Wo",
-        "Wohin",
-        "Wann"
+        "in die",
+        "in der",
+        "in dem",
+        "in das"
       ],
-      "answer": "Woher",
-      "hint": "« aus Berlin » indique la provenance (d'où ?).",
-      "explanation": "Woher kommt Herr Müller?"
+      "answer": "in die",
+      "hint": "gehen indique un changement de lieu (wohin? → accusatif) et Stadt est féminin.",
+      "explanation": "Corrigé B.9 : « in die Stadt, in das (= ins) Kino, auf den Kongreß. » (Nous allons en ville, au cinéma, au congrès.) Direction = accusatif."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.10) Complétez par l'article défini au bon cas : « Wir sind in der Stadt, in dem Kino, auf ___ Kongreß. »",
+      "answer": "dem",
+      "hint": "sein exprime un état sans déplacement (wo? → datif) et Kongreß est masculin (der Kongreß).",
+      "explanation": "Corrigé B.10 : « in der Stadt, in dem Kino, auf dem Kongreß. » (Nous sommes en ville, au cinéma, au congrès.) Datif masculin : der → dem."
     },
     {
       "type": "order",
-      "prompt": "Traduisez (Exercice C.13) : « Les enfants sont assis sur la terrasse (die Terrasse). »",
+      "prompt": "(Exercice C.11) Traduisez en remettant les mots dans l'ordre : « La maison se trouve dans un jardin. »",
       "words": [
-        "Die",
-        "Kinder",
-        "sitzen",
-        "auf",
-        "der",
-        "Terrasse."
+        "Das",
+        "Haus",
+        "steht",
+        "in",
+        "einem",
+        "Garten."
       ],
-      "answer": "Die Kinder sitzen auf der Terrasse.",
-      "hint": "sitzen exprime une position immobile → Datif (auf der Terrasse).",
-      "explanation": "Die Kinder sitzen auf der Terrasse."
+      "answer": "Das Haus steht in einem Garten.",
+      "hint": "Utilisez le verbe de position stehen et le datif après in (der Garten → einem Garten).",
+      "explanation": "Corrigé C.11 : « Das Haus steht in einem Garten. » (position, datif)."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.14) Traduisez en remettant les mots dans l'ordre : « Heddy assied sa poupée sur le lit. »",
+      "words": [
+        "Heddy",
+        "setzt",
+        "ihre",
+        "Puppe",
+        "auf",
+        "das",
+        "Bett."
+      ],
+      "answer": "Heddy setzt ihre Puppe auf das Bett.",
+      "hint": "Utilisez le verbe factitif setzen (direction → accusatif après auf, das Bett).",
+      "explanation": "Corrigé C.14 : « Heddy setzt ihre Puppe auf das Bett. » (verbe factitif, direction, accusatif)."
     }
   ]
 }

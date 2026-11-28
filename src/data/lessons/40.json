@@ -2,31 +2,61 @@
   "id": "40",
   "series": 2,
   "authentic": true,
-  "titleDe": "Le Subjonctif 1 et le Subjonctif 2 (Conditionnel)",
-  "titleFr": "Expression de l'irréel, du souhait et du discours indirect",
-  "proverbDe": "Wenn das Wörtchen wenn nicht wär, wär mein Vater Millionär.",
-  "proverbFr": "Si « si » n'existait pas, mon père serait millionnaire.",
+  "titleDe": "Das Frühstück",
+  "titleFr": "Le petit déjeuner",
+  "proverbDe": "Spinne am Morgen, Kummer und Sorgen.",
+  "proverbFr": "Araignée du matin, chagrin (et soucis)",
   "paragraphs": [
     {
-      "de": "Ich hatte verlangt, daß man das Frühstück aufs Zimmer bringe. Man bediene mich etwas schneller! Man sagt, er diene als Kellner.",
-      "fr": "J'avais exigé qu'on monte le petit déjeuner dans la chambre. Qu'on me serve un peu plus vite ! On dit qu'il sert comme garçon de café."
+      "de": "Gestern abend hatte ich gebeten, daß man uns das Frühstück um acht Uhr aufs Zimmer bringe. Wir haben noch nichts bekommen. Sicherlich ist es vergessen worden. — Einen Augenblick, ich verbinde Sie mit dem Restaurant. — Guten Morgen, mein Herr! Womit kann ich Ihnen dienen? — Können Sie uns bitte sofort das Frühstück heraufbringen? Wir warten schon zwanzig Minuten darauf. Ich hatte es für acht Uhr bestellt. — Ach! Entschuldigen Sie, bitte, man hat mir nichts gesagt.",
+      "fr": "J'avais demandé hier au soir qu'on nous monte le petit déjeuner à huit heures. Nous n'avons encore rien reçu. On a certainement oublié. — Un instant, je vous passe le restaurant (mot à mot : je vous relie...). — Bonjour Monsieur. Qu'y a-t-il pour votre service? — Pouvez-vous nous monter le petit déjeuner tout de suite, s'il vous plaît? Voici vingt minutes que nous l'attendons. Je l'avais commandé pour huit heures. — Ah! Excusez, je vous prie, on ne m'a rien dit."
     },
     {
-      "de": "Wenn er doch käme! Er tut, als ob er krank wäre. Ich nähme Kaffee und äße warme Hörnchen mit Marmelade.",
-      "fr": "Si seulement il venait ! Il fait comme s'il était malade. Je prendrais du café et je mangerais des croissants chauds avec de la confiture."
+      "de": "— Was möchten Sie? — Zweimal Orangensaft, einen Kaffee und einen Tee, mit Brot, Butter und Marmelade. — Tee mit Milch oder mit Zitrone? — Mit Zitrone. — Wollen Sie geröstete Brotschnitten (Toaste) oder Hörnchen? Vielleicht auch Honig? — Bringen Sie mir bitte Zwieback und auch etwas Honig. — Es wird Ihnen sogleich hinaufgebracht, mein Herr.",
+      "fr": "— Que désirez-vous? — Deux jus d'orange, un café et un thé avec du pain, du beurre et de la confiture. — Thé au lait ou au citron? — Au citron. — Voulez-vous du pain grillé ou des croissants? Peut-être aussi du miel? — Apportez-moi des biscottes et un peu de miel également. — On vous montera cela tout de suite, Monsieur."
     }
   ],
-  "pronunciation": "Au Subjonctif 2 des verbes forts, le radical du prétérit prend l'inflexion (Umlaut) si possible : kam → käme, trug → trüge, gab → gäbe, aß → äße.",
+  "pronunciation": "Die Orange et das Restaurant se prononcent comme en français. Mais pour les deux mots, il faut articuler la marque du pluriel : die Orangen — die Restaurants. Indications phonétiques du texte : das Frühstück [fru-chtuk], vergessen [fèrgèçen'], Orangensaft [orangen' zaft], Zitrone [tçitrone], geröstete [géreuçtete], Brotschnitten [brot-chniten'], Toaste [toçte], vielleicht [filaécht], Honig [honich], Zwieback [tçvibak].",
   "vocab": [
     {
-      "de": "der Kellner (-)",
-      "fr": "le garçon de café, serveur",
+      "de": "der Honig",
+      "fr": "le miel",
       "info": "Masculin"
     },
     {
-      "de": "der Geschäftsführer (-)",
-      "fr": "le gérant, directeur",
+      "de": "der Saft (¨-e)",
+      "fr": "le jus",
       "info": "Masculin"
+    },
+    {
+      "de": "der Tee (s)",
+      "fr": "le thé",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Zwieback (-e)",
+      "fr": "la biscotte",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Marmelade (n)",
+      "fr": "la confiture",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Orange (n) = die Apfelsine (n)",
+      "fr": "l'orange",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Schnitte (n)",
+      "fr": "1. la tranche de pain. 2. la tartine",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Zitrone (n)",
+      "fr": "le citron",
+      "info": "Féminin"
     },
     {
       "de": "das Hörnchen (-)",
@@ -34,50 +64,139 @@
       "info": "Neutre"
     },
     {
-      "de": "ich käme / ich trüge",
-      "fr": "je viendrais / je porterais",
-      "info": "Subjonctif 2 (irréel)"
+      "de": "dienen",
+      "fr": "servir",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "rösten",
+      "fr": "griller",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "verlangen",
+      "fr": "demander, exiger",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "verbinden (a, u)",
+      "fr": "lier, relier",
+      "info": "Verbe fort"
     }
   ],
   "grammar": [
     {
-      "title": "Formation du Subjonctif 1 et du Subjonctif 2",
-      "body": "• <strong>Subjonctif 1</strong> (discours indirect, souhait) : radical de l'infinitif + <em>-e, -est, -e, -en, -et, -en</em> (<em>er wohne, er trage, er sei</em>).<br>• <strong>Subjonctif 2</strong> (irréel, conditionnel) : réguliers = prétérit (<em>ich wohnte</em>) ; forts = radical du prétérit + Umlaut + terminaisons du subj. 1 (<em>ich käme, er gäbe, es vergäße</em>)."
+      "title": "Le subjonctif et le présent du subjonctif 1",
+      "body": "<strong>Ich hatte verlangt, daß man das Frühstück aufs Zimmer bringe.</strong><br><em>Daß man bringe</em> qui rapporte ici un ordre ou un souhait, est au subjonctif.<br><em>Man bediene mich etwas schneller!</em> qu'on me serve un peu plus vite!<br><em>Man sagt, er diene als Kellner</em>, on dit qu'il sert comme garçon de café.<br><em>Wenn er doch käme!</em> si seulement il venait!<br><em>Er tut, als ob er krank sei (ou : wäre)</em>, il fait comme s'il était malade.<br><br>Dans ces exemples, nous constatons que le subjonctif sert à exprimer ce qui est irréel, incertain, douteux. L'allemand dispose de deux subjonctifs (1 et 2), chacun ayant un présent, un passé et un futur. Les trois temps du subjonctif 1 sont formés sur le radical de l'infinitif (infinitif du verbe considéré, ou infinitif de ses auxiliaires de temps). Les trois temps du subjonctif 2 sont formés, eux, sur le radical du passé. Voici la conjugaison de <em>wohnen</em>, habiter, verbe régulier, et de <em>tragen</em>, porter, verbe irrégulier, au présent du subjonctif 1 :<br><strong>wohnen :</strong> ich wohne (que j'habite), du wohnest, er (sie, es) wohne, wir wohnen, ihr wohnet, sie (Sie) wohnen.<br><strong>tragen :</strong> ich trage (que je porte), du tragest, er (sie, es) trage, wir tragen, ihr traget, sie (Sie) tragen.<br><br><strong>Remarque :</strong> Les verbes réguliers et irréguliers ont la même terminaison. La voyelle radicale de ces derniers n'est pas modifiée."
+    },
+    {
+      "title": "Le présent du subjonctif 2 (verbes réguliers et irréguliers)",
+      "body": "<strong>a)</strong> Le présent du subjonctif 2 des verbes réguliers a la même forme que le prétérit de l'indicatif : <em>ich wohnte, du wohntest</em>, (voir Leçon 14).<br><br><strong>b)</strong> <em>Wenn er käme...</em> s'il venait... <em>Wenn ich trüge...</em>, si je portais... Le présent du subjonctif 2 des verbes irréguliers se forme sur le radical du passé (<em>kommen, kam; tragen, trug</em>); on y ajoute l'inflexion si possible, et les terminaisons du subjonctif présent.<br><strong>kommen :</strong> ich käme (je viendrais), du kämest, er (sie, es) käme, wir kämen, ihr kämet, sie (Sie) kämen.<br><strong>tragen :</strong> ich trüge (je porterais), du trügest, er trüge, wir trügen, ihr trüget, sie trügen.<br><br>Nous verrons ultérieurement les emplois du subjonctif particuliers à l'allemand. Notez que le présent du subjonctif 2 sert souvent de conditionnel."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Mettez au Subjonctif 2 présent (Exercice B.2) : « Emma vergißt das Frühstück. » (vergessen → vergaß)",
+      "prompt": "Transformez en subordonnée interrogative avec « ob » au subjonctif 1 présent : « Der Gast fragt : ‹ Fährt dieses Taxi in die Stadt? › » (Exercice A.1)",
       "options": [
-        "Emma vergäße das Frühstück.",
-        "Emma vergißte das Frühstück.",
-        "Emma vergesse das Frühstück.",
-        "Emma vergaß das Frühstück."
+        "Der Gast fragt, ob dieses Taxi in die Stadt fahre.",
+        "Der Gast fragt, ob dieses Taxi in die Stadt fährt.",
+        "Der Gast fragt, ob dieses Taxi in die Stadt fähre.",
+        "Der Gast fragt, ob dieses Taxi in die Stadt führe."
       ],
-      "answer": "Emma vergäße das Frühstück.",
-      "hint": "Prétérit « vergaß » + Umlaut sur a + -e final → vergäße.",
-      "explanation": "Emma vergäße das Frühstück. (Emma oublierait le petit déjeuner)."
-    },
-    {
-      "type": "choice",
-      "prompt": "Subjonctif 1 (Exercice A.1) : « Der Gast fragt, ob Emma das Frühstück bald ___ . » (bringen)",
-      "options": [
-        "bringe",
-        "bringt",
-        "brächte",
-        "gebracht"
-      ],
-      "answer": "bringe",
-      "hint": "Radical de l'infinitif bring- + terminaison -e à la 3e pers. sg.",
-      "explanation": "...ob Emma das Frühstück bald bringe."
+      "answer": "Der Gast fragt, ob dieses Taxi in die Stadt fahre.",
+      "hint": "Au subjonctif 1 présent, le radical de l'infinitif ne subit pas d'inflexion : fahren → er/sie/es fahre.",
+      "explanation": "Corrigé (Exercice A.1) : « Der Gast fragt, ob Emma das Frühstück bald bringe, ob der Briefträger heute komme, ob dieses Taxi in die Stadt fahre. » (La voyelle radicale n'est pas modifiée au subjonctif 1)."
     },
     {
       "type": "fill",
-      "prompt": "Traduisez au conditionnel (Exercice C.11) : « Je prendrais du café. » (nehmen → nahm)",
+      "prompt": "Mettez au présent du subjonctif 2 (conditionnel) : « Emma vergißt das Frühstück. » (Exercice B.2)",
+      "answer": "Emma vergäße das Frühstück.",
+      "hint": "Le prétérit de « vergessen » est « vergaß ». Ajoutez l'inflexion (ä) et la terminaison -e.",
+      "explanation": "Corrigé (Exercice B.2) : « Emma vergäße das Frühstück. » (Emma oublierait le petit déjeuner)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au présent du subjonctif 2 : « Der Gast ruft an. » (Le client téléphonerait.) (Exercice B.3)",
+      "options": [
+        "Der Gast riefe an.",
+        "Der Gast rufe an.",
+        "Der Gast rufte an.",
+        "Der Gast rüfe an."
+      ],
+      "answer": "Der Gast riefe an.",
+      "hint": "Le prétérit du verbe fort « anrufen » est « rief an » ; au subjonctif 2, on ajoute -e au radical du passé (pas d'inflexion sur ie).",
+      "explanation": "Corrigé (Exercice B.3) : « Der Gast riefe an. » (Le client téléphonerait)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au présent du subjonctif 2 : « Man gibt ihm Honig. » (On lui donnerait du miel.) (Exercice B.5)",
+      "answer": "Man gäbe ihm Honig.",
+      "hint": "Le prétérit de « geben » est « gab » ; avec l'inflexion et la terminaison -e, cela donne « gäbe ».",
+      "explanation": "Corrigé (Exercice B.5) : « Man gäbe ihm Honig. » (On lui donnerait du miel)."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en remettant les mots dans l'ordre : « Mon petit déjeuner a été commandé hier soir à neuf heures. » (Exercice C.7)",
+      "words": [
+        "Mein",
+        "Frühstück",
+        "ist",
+        "gestern",
+        "abend",
+        "um",
+        "neun",
+        "Uhr",
+        "bestellt",
+        "worden."
+      ],
+      "answer": "Mein Frühstück ist gestern abend um neun Uhr bestellt worden.",
+      "hint": "Employez le passé composé du passif (« ist ... bestellt worden ») vu à la leçon 39.",
+      "explanation": "Corrigé (Exercice C.7) : « Mein Frühstück ist gestern abend um neun Uhr bestellt worden. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en remettant les mots dans l'ordre : « Passez-moi immédiatement le gérant. » (Exercice C.8)",
+      "words": [
+        "Verbinden",
+        "Sie",
+        "mich",
+        "sofort",
+        "mit",
+        "dem",
+        "Geschäftsführer."
+      ],
+      "answer": "Verbinden Sie mich sofort mit dem Geschäftsführer.",
+      "hint": "L'impératif de politesse commence par « Verbinden Sie mich ... mit » + datif.",
+      "explanation": "Corrigé (Exercice C.8) : « Verbinden Sie mich sofort mit dem Geschäftsführer. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment traduit-on « Je prendrais du café. » au subjonctif 2 ? (Exercice C.11)",
+      "options": [
+        "Ich nähme Kaffee.",
+        "Ich nehme Kaffee.",
+        "Ich nahm Kaffee.",
+        "Ich nehmete Kaffee."
+      ],
       "answer": "Ich nähme Kaffee.",
-      "hint": "Subjonctif 2 de nehmen : ich nähme.",
-      "explanation": "Ich nähme Kaffee."
+      "hint": "Le prétérit de « nehmen » est « nahm » ; au subjonctif 2 présent, le « a » prend l'inflexion (« nähme »).",
+      "explanation": "Corrigé (Exercice C.11) : « Ich nähme Kaffee. » (Le présent du subjonctif 2 sert souvent de conditionnel)."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en remettant les mots dans l'ordre : « Je mangerais des croissants chauds avec de la confiture. » (Exercice C.12)",
+      "words": [
+        "Ich",
+        "äße",
+        "warme",
+        "Hörnchen",
+        "mit",
+        "Marmelade."
+      ],
+      "answer": "Ich äße warme Hörnchen mit Marmelade.",
+      "hint": "Le subjonctif 2 de « essen » (prétérit « aß ») est « ich äße ».",
+      "explanation": "Corrigé (Exercice C.12) : « Ich äße warme Hörnchen mit Marmelade. »"
     }
   ]
 }

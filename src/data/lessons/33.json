@@ -1,0 +1,244 @@
+{
+  "id": "33",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Ankunft auf dem Schiff",
+  "titleFr": "L'arrivée à bord",
+  "proverbDe": "Die Ratten verlassen das sinkende Schiff.",
+  "proverbFr": "Quand le navire fait eau, les rats déménagent (Les rats abandonnent le navire qui sombre).",
+  "paragraphs": [
+    {
+      "de": "— Fahrscheine vorzeigen, bitte! — Welches ist die Nummer Ihrer Kajüte? Lassen Sie Ihr Gepäck hier, der Steward wird es Ihnen bringen — Bitte, folgen Sie mir.",
+      "fr": "— Veuillez présenter vos billets! — Quel numéro de cabine avez-vous? Laissez vos bagages ici, le steward vous les apportera. — Suivez-moi, s'il vous plaît."
+    },
+    {
+      "de": "— Treten Sie bitte ein. Hier ist das Licht für die obere Koje. Jener Schalter ist für die untere Koje. Wenn Sie rufen wollen, klingeln Sie hier. Da sind Ihre Rettungsringe, deren Gebrauchsvorschrift Sie lesen sollten. Was die Mahlzeiten anbetrifft, wenden Sie sich an den Steward. Er wird Ihnen einen Platz im Speisesaal anweisen.",
+      "fr": "— Entrez s'il vous plaît. Voici la lumière pour la couchette du haut. Cet interrupteur-là est pour la couchette du bas. Pour appeler, sonnez ici. Voilà vos bouées de sauvetage, dont vous devriez lire les instructions (= le mode d'emploi). Quant aux repas (m. à m. : en ce qui concerne les repas), adressez-vous au steward. C'est lui qui vous placera dans la salle à manger."
+    },
+    {
+      "de": "— Ich möchte Zigarren. — Der Verkauf beginnt erst nach dem Auslaufen. — Mit wieviel Zigaretten darf man das Schiff verlassen? — Die Zollbeamten lassen gewöhnlich zweihundert Zigaretten und vierzig Zigarren zu. — Werden auch andere zollfreie Artikel verkauft?",
+      "fr": "— Je voudrais des cigares. — La vente commence seulement après l'appareillage. — Avec combien de cigarettes a-t-on le droit de débarquer? — Les douaniers tolèrent en général 200 cigarettes et 40 cigares. — Est-ce qu'on vendra d'autres articles exempts de douane?"
+    },
+    {
+      "de": "— Ich möchte zwei Liegestühle. — Backbord oder steuerbord? — Backbord, bitte, wegen der Sonne.",
+      "fr": "— Je voudrais deux chaises longues. — À bâbord ou à tribord? — À bâbord s'il vous plaît, à cause du soleil."
+    },
+    {
+      "de": "— Könnten Sie mir keine größere Kajüte geben? — Ich glaube, es wird möglich sein. Ich werde es Ihnen gegen sechs Uhr bestätigen. — Das ist sehr nett von Ihnen. Besten Dank.",
+      "fr": "— Est-ce que vous ne pourriez pas me donner une cabine plus grande? — Je crois que ce sera possible. Je vous le confirmerai vers six heures. — C'est très gentil de votre part; je vous remercie beaucoup."
+    }
+  ],
+  "pronunciation": "Indications phonétiques du manuel : 1. Ankunft [an'kounft] (accent sur le préfixe An-) ; Kajüte [ka-yute] (u long accentué). 2. Koje [ko-ye] (o long, j prononcé comme un y) ; Gebrauchsvorschrift [gébraorç-forschrift] (ch dur après au, o de vor- long). 3. Zigarren [tçigaren'] (z initial = ts, accent sur -gar-) ; Zollbeamten [tçol-bé-am'ten'] (z = ts, accent principal sur Zoll- et accent secondaire sur -am-).",
+  "vocab": [
+    {
+      "de": "der Beamte (n, n)",
+      "fr": "l'employé, le fonctionnaire",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Gebrauch (-e)",
+      "fr": "l'usage",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Ring (e)",
+      "fr": "l'anneau",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Verkauf (¨-e)",
+      "fr": "la vente",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Zoll",
+      "fr": "la douane",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Kajüte (n)",
+      "fr": "la cabine",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Koje (n)",
+      "fr": "la couchette",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Nummer (n)",
+      "fr": "le numéro",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Rettung (en)",
+      "fr": "le sauvetage",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Vorschrift (en)",
+      "fr": "l'ordre, les instructions",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Zigarre (n)",
+      "fr": "le cigare",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Zigarette (n)",
+      "fr": "la cigarette",
+      "info": "Féminin"
+    },
+    {
+      "de": "bestätigen",
+      "fr": "confirmer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "folgen (+ datif)",
+      "fr": "suivre",
+      "info": "Verbe (+ datif)"
+    },
+    {
+      "de": "klingeln",
+      "fr": "sonner",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "retten",
+      "fr": "sauver",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "ausschiffen",
+      "fr": "débarquer (q. q. c.)",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "anweisen (ie, ie)",
+      "fr": "indiquer",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "auslaufen (ie, au; äu)",
+      "fr": "quitter le port",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "zulassen (ie, a; ä)",
+      "fr": "admettre",
+      "info": "Verbe fort séparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Die Rettungsringe, deren Gebrauchsvorschrift Sie lesen sollten.",
+      "body": "<strong>Les pronoms relatifs au génitif</strong> sont :<br>Masc. : <strong><em>dessen</em></strong> — Fém. : <strong><em>deren</em></strong> — Ntre. : <strong><em>dessen</em></strong> — Pluriel : <strong><em>deren</em></strong> (dont).<br>De même que <em>wessen</em> (L. 10), ces génitifs sont directement suivis du nom complété, et celui-ci perd son article.<br><em>Das Schiff, <strong>dessen</strong> Speisesaal so prachtvoll ist, fährt heute aus</em>, le bateau dont la salle à manger est si luxueuse, appareille aujourd'hui.<br><em>Die Kajüte, <strong>deren</strong> Kojen sehr hübsch sind...</em>, la cabine, dont les couchettes sont très jolies...<br>Ce génitif saxon peut être précédé d'une préposition :<br><em>Der Dampfer, <strong>in dessen</strong> Kajüten sie reisten...</em>, le vapeur, dans les cabines duquel ils voyageaient...<br><strong>Remarque générale sur le pronom relatif :</strong> Il a les mêmes formes que l'article défini, sauf au génitif, et au datif pluriel (voir L 32)."
+    },
+    {
+      "title": "Fahrscheine vorzeigen!",
+      "body": "<strong>Formes particulières de l'impératif</strong> (voir L. 10).<br>Pour donner un ordre bref et énergique, on peut employer :<br>• l'infinitif : <em><strong>Eintreten!</strong></em> entrez!<br>• le participe passé : <em><strong>Eingetreten!</strong></em> entrez!<br>• une simple particule séparable : <em><strong>Herein!</strong></em> entrez!<br>La première personne du pluriel se rend ainsi :<br>• <em><strong>Treten wir ein!</strong></em> entrons!<br>• <em><strong>Wir wollen eintreten!</strong></em> entrons!<br>• <em><strong>Laßt uns eintreten!</strong></em> entrons!"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.1) Reliez les propositions avec un pronom relatif au génitif (« Der Passagier wartet im Büro; sein Fahrschein ist nicht mehr gültig. ») : « Der Passagier, ___ Fahrschein nicht mehr gültig ist, wartet im Büro. »",
+      "options": [
+        "dessen",
+        "deren",
+        "dem",
+        "den"
+      ],
+      "answer": "dessen",
+      "hint": "L'antécédent « der Passagier » est masculin singulier.",
+      "explanation": "Corrigé A.1 : « Der Passagier, dessen Fahrschein nicht mehr gültig ist, wartet im Büro. » (Le passager dont le billet n'est plus valable, attend au bureau.) Au masculin singulier, le pronom relatif au génitif est « dessen »."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.2) Complétez la subordonnée relative au génitif (« Die Zigarren kommen aus Brasilien; ihr Verkauf beginnt bald. ») : « Die Zigarren, ___ Verkauf bald beginnt, kommen aus Brasilien. »",
+      "options": [
+        "deren",
+        "dessen",
+        "denen",
+        "die"
+      ],
+      "answer": "deren",
+      "hint": "L'antécédent « die Zigarren » est au pluriel.",
+      "explanation": "Corrigé A.2 : « Die Zigarren, deren Verkauf bald beginnt, kommen aus Brasilien. » (Les cigares, dont la vente commencera bientôt, viennent du Brésil.) Au pluriel, le relatif au génitif est « deren »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.4) Complétez avec le pronom relatif au génitif (« Wir helfen der Dame; ihr Koffer ist schwer. ») : « Wir helfen der Dame, ___ Koffer schwer ist. »",
+      "answer": "deren",
+      "hint": "L'antécédent « der Dame » est féminin singulier.",
+      "explanation": "Corrigé A.4 : « Wir helfen der Dame, deren Koffer schwer ist. » (Nous aidons la dame, dont la malle est lourde.) Au féminin singulier, le relatif au génitif est « deren »."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice B.5) Parmi ces formes d'impératif de « hinabgehen » (2e personne du pluriel : descendez !), laquelle utilise le participe passé pour donner un ordre bref et énergique ?",
+      "options": [
+        "Hinabgegangen!",
+        "Hinabgehen!",
+        "Geht hinab!",
+        "Hinab!"
+      ],
+      "answer": "Hinabgegangen!",
+      "hint": "Le participe passé d'un verbe séparable place « -ge- » entre la particule et le radical.",
+      "explanation": "Corrigé B.5 : « geht hinab! hinabgehen! hinabgegangen! hinab! » (descendez !). La forme « hinabgegangen! » emploie le participe passé pour un ordre bref et énergique."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.6) Complétez l'une des trois façons de rendre l'impératif à la 1re personne du pluriel de « arbeiten » (« travaillons ! ») : « Wir ___ arbeiten! »",
+      "answer": "wollen",
+      "hint": "On utilise le verbe de modalité « wollen » conjugué à la 1re personne du pluriel.",
+      "explanation": "Corrigé B.6 : « arbeiten wir! wir wollen arbeiten! laßt uns arbeiten! » (travaillons !)."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.7) Traduisez en remettant les mots dans l'ordre : « Quand il arriva à bord, il chercha aussitôt (= sogleich) sa cabine. »",
+      "words": [
+        "Als",
+        "er",
+        "an",
+        "Bord",
+        "kam,",
+        "suchte",
+        "er",
+        "sogleich",
+        "seine",
+        "Kajüte."
+      ],
+      "answer": "Als er an Bord kam, suchte er sogleich seine Kajüte.",
+      "hint": "« Als » rejette le verbe « kam » en fin de subordonnée, et la principale commence par le verbe conjugué « suchte ».",
+      "explanation": "Corrigé C.7 : « Als er an Bord kam, suchte er sogleich seine Kajüte. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice C.8) Complétez la traduction de « Il demande aux douaniers s'il peut emporter deux cents cigarettes » : « Er fragt die Zollbeamten, ___ er zweihundert Zigaretten mitnehmen darf. »",
+      "answer": "ob",
+      "hint": "Quelle conjonction introduit une interrogation indirecte (« si ») ?",
+      "explanation": "Corrigé C.8 : « Er fragt die Zollbeamten, ob er zweihundert Zigaretten mitnehmen darf. » (« fragen » se construit avec l'accusatif, et « ob » introduit l'interrogation indirecte)."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.10) Traduisez en remettant les mots dans l'ordre : « Après avoir loué (mieten) une chaise-longue, elle lut son journal. »",
+      "words": [
+        "Nachdem",
+        "sie",
+        "einen",
+        "Liegestuhl",
+        "gemietet",
+        "hatte,",
+        "las",
+        "sie",
+        "ihre",
+        "Zeitung."
+      ],
+      "answer": "Nachdem sie einen Liegestuhl gemietet hatte, las sie ihre Zeitung.",
+      "hint": "« Nachdem » entraîne le plus-que-parfait (antériorité par rapport au prétérit « las ») avec rejet de l'auxiliaire « hatte » en fin de subordonnée.",
+      "explanation": "Corrigé C.10 : « Nachdem sie einen Liegestuhl gemietet hatte, las sie ihre Zeitung. »"
+    }
+  ]
+}

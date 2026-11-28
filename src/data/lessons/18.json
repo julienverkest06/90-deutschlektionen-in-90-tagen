@@ -1,0 +1,204 @@
+{
+  "id": "18",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Camping",
+  "titleFr": "Le camping",
+  "proverbDe": "Hunger ist der beste Koch.",
+  "proverbFr": "Il n'est sauce que d'appétit (La faim est le meilleur cuisinier).",
+  "paragraphs": [
+    {
+      "de": "Das Camping hat heute viele Anhänger. Auch Hans und Werner, die Söhne des Nachbars, wollen einige Ferientage auf einem Zeltplatz verbringen. Die Jungen haben ein Zelt, einen Gaskocher, zwei Luftmatratzen, und alles, was zum Camping gehört.",
+      "fr": "De nos jours, le camping a beaucoup de partisans. Hans et Werner, les fils du voisin, veulent aussi passer quelques jours de vacances sur un terrain de camping. Les garçons ont une tente, un réchaud à gaz, deux matelas pneumatiques et tout ce qu'il faut pour le camping."
+    },
+    {
+      "de": "— Wohin fahren wir denn, Hans? — Möchtest du nicht nach Overath? Es liegt nur 26 (sechsundzwanzig) Kilometer von hier. Dort gibt es einen schönen Zeltplatz. — Womit fahren wir, mit dem Bus? — Nein, mit dem Fahrrad, es ist viel interessanter!",
+      "fr": "— Où donc irons-nous, Hans? (mot à mot : allons-nous). — Ne voudrais-tu pas (aller) à Overath? Ce n'est qu'à 26 kilomètres d'ici. Il y a un beau terrain de camping là-bas. — Comment (y) allons-nous, en autocar? — Non, à bicyclette, c'est beaucoup plus intéressant!"
+    },
+    {
+      "de": "Werner will nie sehr weit fahren und der Zeltplatz an der Agger gefällt ihm. Er wird für das Essen sorgen. Aber Hans mag keine Konserven. — Wann werden wir in Overath ankommen? — Vor Mittag noch, so gegen elf Uhr. — Nun, da werden wir noch einen angenehmen Platz finden.",
+      "fr": "Werner ne veut jamais rouler très loin, et le terrain au bord de (mot à mot : à) l'Agger lui plaît. C'est lui qui s'occupera de la nourriture. Mais Hans n'aime pas les conserves. — Quand arriverons-nous à Overath? — Avant midi encore, vers onze heures. — Eh bien, alors, nous trouverons encore une place agréable."
+    }
+  ],
+  "pronunciation": "Dans les noms composés, c'est le premier terme qui porte l'accent principal ; le deuxième porte l'accent secondaire, moins marqué. Lisez à haute voix : Zeltplatz — Gaskocher — Luftmatratzen. Repères phonétiques du texte : Anhänger [anhènger], Ferientage [férien'tage], Zeltplatz [tçèltplatç], verbringen [fèrbringen], Gaskocher [gaçkorer], Luftmatratzen [louftmatratçen'], Fahrrad [farrat], Konserven [kon'çèrven'].",
+  "vocab": [
+    {
+      "de": "der Anhänger (-)",
+      "fr": "le partisan",
+      "info": "Masculin"
+    },
+    {
+      "de": "das Camping",
+      "fr": "le camping",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Kocher (-)",
+      "fr": "le réchaud",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Ferien (plur.)",
+      "fr": "les vacances",
+      "info": "Pluriel"
+    },
+    {
+      "de": "die Konserve (n)",
+      "fr": "la conserve",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Luft (¨-e)",
+      "fr": "l'air",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Matratze (n)",
+      "fr": "le matelas",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Fahrrad (¨-er)",
+      "fr": "la bicyclette",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Gas (e)",
+      "fr": "le gaz",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Rad (¨-er)",
+      "fr": "la roue",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Zelt (-e)",
+      "fr": "la tente",
+      "info": "Neutre"
+    },
+    {
+      "de": "kochen",
+      "fr": "cuire",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "sorgen für",
+      "fr": "s'occuper de",
+      "info": "Expression"
+    },
+    {
+      "de": "verbringen",
+      "fr": "passer (son temps)",
+      "info": "Verbe irrégulier"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Werner will nie weit fahren. — Hans mag keine Konserven.",
+      "body": "Les verbes <em>wollen</em> et <em>mögen</em> signifient « vouloir ». <em>Wollen</em> indique une volonté ferme, <em>mögen</em> veut dire « vouloir bien, désirer, avoir envie de ».<br>Aux trois personnes du singulier du présent de l'indicatif, ces deux verbes ont la forme d'un ancien prétérit fort. Au pluriel et au prétérit, ils sont réguliers (avec une exception pour <em>mögen</em>, qui fait <em>ich mochte</em>).<br><strong>Wollen — Présent :</strong> <em>ich will</em> (je veux), <em>du willst</em>, <em>er (sie, es) will</em>, <em>wir wollen</em>, <em>ihr wollt</em>, <em>sie, Sie wollen</em>.<br><strong>Wollen — Prétérit :</strong> <em>ich wollte</em> (je voulais, voulus), <em>du wolltest</em>, <em>er wollte</em>, <em>wir wollten</em>, <em>ihr wolltet</em>, <em>sie wollten</em>.<br><strong>Mögen — Présent :</strong> <em>ich mag</em> (je désire), <em>du magst</em>, <em>er mag</em>, <em>wir mögen</em>, <em>ihr mögt</em>, <em>sie mögen</em>.<br><strong>Mögen — Prétérit :</strong> <em>ich mochte</em> (je désirai(s)), <em>du mochtest</em>, <em>er mochte</em>, <em>wir mochten</em>, <em>ihr mochtet</em>, <em>sie mochten</em>.<br><strong>Remarques :</strong> 1. Le verbe <em>mögen</em> s'emploie beaucoup au conditionnel : <em>Ich möchte ein Bier</em>, je voudrais une bière.<br>2. Il y a 6 verbes comme <em>wollen</em> et <em>mögen</em>, appelés auxiliaires de mode. Nous étudierons les autres dans les leçons suivantes."
+    },
+    {
+      "title": "Womit fahren wir dorthin? — Les interrogatifs composés",
+      "body": "<em>Womit</em>, avec quoi, correspond à <em>mit was</em>. On forme ces interrogatifs avec <em>wo?</em>, quoi ? suivi de la préposition voulue. Lorsque celle-ci commence par une voyelle, elle est reliée à <em>wo?</em> par un <strong>r</strong>.<br><strong>Exemple :</strong> <em>durch</em>, <em>wodurch?</em> par où ? ; <em>für</em>, <em>wofür?</em> pourquoi, dans quel but ? ; <em>auf</em>, <em>worauf?</em> sur quoi ?<br><strong>Remarque :</strong> Ces interrogatifs composés ne s'emploient que pour des choses."
+    },
+    {
+      "title": "La numération",
+      "body": "30, <em>dreißig</em> — 40, <em>vierzig</em> — 50, <em>fünfzig</em> — 60, <em>sechzig</em> — 70, <em>siebzig</em> — 80, <em>achtzig</em> — 90, <em>neunzig</em> — 100, <em>hundert</em> — 1000, <em>tausend</em>.<br>Les nombres se forment comme en français, mais l'unité précède la dizaine.<br><strong>Exemple :</strong> 45, <em>fünfundvierzig</em> ; 73, <em>dreiundsiebzig</em> ; 629, <em>sechshundertneunundzwanzig</em>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.1) Complétez au présent avec « wollen » : « Ich ___ Deutsch lernen. » (Je veux apprendre l'allemand.)",
+      "answer": "will",
+      "hint": "Au singulier du présent, wollen change de voyelle et n'a pas de terminaison à la 1re personne.",
+      "explanation": "Corrigé A.1 : « will. Je veux apprendre l'allemand. » Au présent : ich will, du willst, er will."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.4) Complétez au prétérit avec « mögen » : « Du ___ diesen Wein nicht. »",
+      "options": [
+        "mochtest",
+        "mögtest",
+        "magtest",
+        "wolltest"
+      ],
+      "answer": "mochtest",
+      "hint": "Au prétérit, mögen perd son inflexion (Umlaut) et change son g en ch.",
+      "explanation": "Corrigé A.4 (prétérit) : « mochtest ». Au prétérit, mögen fait : ich mochte, du mochtest, er mochte..."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.5) Complétez au présent avec « mögen » : « Heddy ___ gern Schokolade. » (Heddy aime bien le chocolat.)",
+      "answer": "mag",
+      "hint": "À la 3e personne du singulier du présent, mögen a la même forme qu'à la 1re personne.",
+      "explanation": "Corrigé A.5 : « mag. Heddy aime bien le chocolat. » (ich mag, du magst, er/sie mag)."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice B.8) Posez la question portant sur « bei seinem Onkel » dans : « Er wohnt bei seinem Onkel. »",
+      "options": [
+        "Bei wem wohnt er?",
+        "Wobei wohnt er?",
+        "Wovon wohnt er?",
+        "Für wen wohnt er?"
+      ],
+      "answer": "Bei wem wohnt er?",
+      "hint": "Les interrogatifs composés (wo + préposition) ne s'emploient que pour des choses, jamais pour des personnes.",
+      "explanation": "Corrigé B.8 : « Bei wem wohnt er? Chez qui habite-t-il? » Comme l'oncle est une personne, on utilise la préposition bei + le datif de wer (wem)."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.9) Posez la question avec un interrogatif composé pour : « Sie sprachen von Berlin. » (De quoi parlaient-ils ?)",
+      "answer": "Wovon sprachen sie?",
+      "hint": "Berlin est une chose (une ville) : combinez wo + la préposition von.",
+      "explanation": "Corrigé B.9 : « Wovon sprachen sie? De quoi parlaient-ils? » On forme l'interrogatif composé wo + von → wovon."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.11) Traduisez à la 2e personne du pluriel : « N'oubliez pas votre réchaud à gaz et votre matelas pneumatique ! »",
+      "words": [
+        "Vergeßt",
+        "euren",
+        "Gaskocher",
+        "und",
+        "eure",
+        "Luftmatratze",
+        "nicht!"
+      ],
+      "answer": "Vergeßt euren Gaskocher und eure Luftmatratze nicht!",
+      "hint": "Commencez par l'impératif 2e pers. plur. Vergeßt et placez la négation nicht à la fin.",
+      "explanation": "Corrigé C.11 : « Vergeßt euren Gaskocher und eure Luftmatratze nicht! » (euren à l'accusatif masculin, eure à l'accusatif féminin)."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.14) Traduisez : « De quoi les garçons parleront-ils sous (= dans) la tente ? »",
+      "words": [
+        "Wovon",
+        "werden",
+        "die",
+        "Jungen",
+        "im",
+        "Zelt",
+        "sprechen?"
+      ],
+      "answer": "Wovon werden die Jungen im Zelt sprechen?",
+      "hint": "Utilisez l'interrogatif composé Wovon, l'auxiliaire du futur werden en 2e position et l'infinitif sprechen en fin de phrase.",
+      "explanation": "Corrigé C.14 : « Wovon werden die Jungen im Zelt sprechen? »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice C.15) Traduisez : « Werner voulait la plus belle bicyclette. »",
+      "options": [
+        "Werner wollte das schönste Fahrrad.",
+        "Werner will das schönste Fahrrad.",
+        "Werner mochte der schönste Fahrrad.",
+        "Werner wolltet das schönste Fahrrad."
+      ],
+      "answer": "Werner wollte das schönste Fahrrad.",
+      "hint": "Employez le prétérit de wollen (er wollte) et le genre neutre pour Fahrrad.",
+      "explanation": "Corrigé C.15 : « Werner wollte das schönste Fahrrad. » Fahrrad est neutre (das Fahrrad) et wollte est le prétérit de wollen à la 3e pers. sing."
+    }
+  ]
+}

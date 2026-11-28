@@ -1,0 +1,199 @@
+{
+  "id": "2",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Der Kongreß in Köln",
+  "titleFr": "Le congrès à Cologne",
+  "proverbDe": "Wie die Arbeit, so der Lohn.",
+  "proverbFr": "À chacun selon ses mérites (mot à mot : Comme le travail, ainsi le salaire).",
+  "paragraphs": [
+    {
+      "de": "Der Park ist in Köln – Köln ist eine Stadt. – Wohnt Paul Dumont in Köln? – Nein, er wohnt in Paris. Aber er ist hier auf einem Kongreß. – Wie lange dauert der Kongreß? – Er dauert eine Woche.",
+      "fr": "Le parc est à Cologne – Cologne est une ville. – Paul Dumont habite-t-il à Cologne? – Non, il habite à Paris. Mais il est ici à (= sur) un congrès. – Combien de temps (mot à mot : combien longtemps) dure le congrès? – Il dure une semaine."
+    },
+    {
+      "de": "Paul Dumont arbeitet in Paris. Seine Firma kauft oft Artikel in Deutschland. – Wo arbeitet Paul Dumont? – Er arbeitet in Paris – Arbeitet er in Köln auch? – Ja, er arbeitet hier auch.",
+      "fr": "Paul Dumont travaille à Paris. Sa firme achète souvent des articles en Allemagne. – Où Paul Dumont travaille-t-il? – Il travaille à Paris – Travaille-t-il à Cologne également? – Oui, ici, il travaille également."
+    },
+    {
+      "de": "Herr Müller ist ein Freund; er wohnt in Köln. Köln ist eine große Stadt. Das Hotel ist modern.",
+      "fr": "Monsieur Müller est un ami; il habite à Cologne. Il conduit Paul Dumont dans un hôtel. Cologne est une grande ville. L'hôtel est moderne."
+    }
+  ],
+  "pronunciation": "1. Wohnen Sie... . L'« s » de Sie est sonore, comme dans « rose » ; mais dans große, Kongreß, le signe ß représente un « s » dur, sourd. 2. ö se prononce « eu » ; ainsi : Köln [keuln]. 3. Il est essentiel de toujours prononcer le « h » en début de mot (soufflez, comme pour couvrir une vitre de buée). Par exemple : hier [hir] ; Herr [hèr] ; Hotel [hotèl]. On distinguera nettement la prononciation de Herr, [hèr] (monsieur), de celle de er [ér] (il). 4. Nous trouvons ici plusieurs diphtongues : eine [aéne] ; auf [aof] ; dauert [daoert] ; arbeitet [arbaétet] ; kauft [kaoft] ; Deutschland [doeutchlant]. Il faut les prononcer brièvement, en une seule émission de voix, et en accentuant la première voyelle. 5. Lisez les textes à haute voix, toujours ; marquez fortement les accents (voyelles imprimées en gras) ; articulez bien les consonnes, par exemple dans Freund, [froeunt]. Repères phonétiques du texte : Stadt [chtat], Kongreß [kon'grèç], Woche [vore], führt [furt], große [groçe], modern [modèrn].",
+  "vocab": [
+    {
+      "de": "der Artikel",
+      "fr": "l'article",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Freund",
+      "fr": "l'ami",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Herr",
+      "fr": "le monsieur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Kongreß",
+      "fr": "le congrès",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Firma",
+      "fr": "la firme",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Stadt",
+      "fr": "la ville",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Woche",
+      "fr": "la semaine",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Hotel",
+      "fr": "l'hôtel",
+      "info": "Neutre"
+    },
+    {
+      "de": "arbeiten",
+      "fr": "travailler",
+      "info": "Verbe régulier"
+    },
+    {
+      "de": "führen",
+      "fr": "conduire",
+      "info": "Verbe régulier"
+    },
+    {
+      "de": "kaufen",
+      "fr": "acheter",
+      "info": "Verbe régulier"
+    },
+    {
+      "de": "wohnen",
+      "fr": "habiter",
+      "info": "Verbe régulier"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Köln ist eine Stadt, Cologne est une ville (L'article indéfini)",
+      "body": "<em>der Freund, ein Freund</em>, un ami — <em>die Stadt, eine Stadt</em>, une ville — <em>das Hotel, ein Hotel</em>, un hôtel.<br>Les articles indéfinis sont <strong>ein</strong> (masculin), <strong>eine</strong> (féminin), <strong>ein</strong> (neutre) ; ils correspondent à <em>der, die, das</em>."
+    },
+    {
+      "title": "Er wohnt in Köln, il habite Cologne (Le verbe régulier ou « faible »)",
+      "body": "Exemple : <strong>wohnen</strong>, habiter — Radical : <em>wohn</em><br><strong>ich wohn-e</strong>, <em>j'habite</em> — <strong>wir wohn-en</strong>, <em>nous habitons</em><br><strong>er wohn-t</strong>, <em>il habite</em> — <strong>sie wohn-en</strong>, <em>ils habitent</em><br><strong>sie wohn-t</strong>, <em>elle habite</em> — <strong>Sie wohn-en</strong>, <em>vous habitez</em> (forme de politesse).<br><strong>es wohn-t</strong>, <em>il habite</em> (neutre)<br><em>Ich wohne und ich arbeite in Köln. Er wohnt und er arbeitet in Köln.</em><br><strong>Remarque :</strong> on ne pourrait avoir <em>arbeitt</em>, aussi on intercale un <em>e</em> entre les deux <em>t</em> (entre celui du radical et celui de la terminaison). C'est ce qu'on fait régulièrement lorsque le radical d'un verbe régulier se termine par <em>t, d</em>, ou par un groupe de consonnes difficiles à prononcer."
+    },
+    {
+      "title": "Ist er in Köln? – Ist Paul in Köln? (L'interrogation directe)",
+      "body": "<em>Est-il à Cologne? – Paul est-il à Cologne?</em><br>Notez que le verbe, dans l'interrogation directe, est en première place. Autre exemple :<br><em>Kauft seine Firma oft Artikel in Deutschland?</em><br>Est-ce que sa firme achète souvent des articles en Allemagne?"
+    },
+    {
+      "title": "Wo arbeiten Sie? Où travaillez-vous? (La forme de politesse)",
+      "body": "C'est la 3e personne du pluriel qui sert de forme de politesse, et non la 2e, comme en français. Le pronom sujet s'écrit alors avec une majuscule : <strong>Sie</strong>, vous."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Remplacez l'article défini par l'article indéfini : « die Stadt » (Exercice A.3)",
+      "options": [
+        "eine Stadt",
+        "ein Stadt",
+        "einen Stadt",
+        "einer Stadt"
+      ],
+      "answer": "eine Stadt",
+      "hint": "« die Stadt » est féminin : quel article indéfini correspond à « die »?",
+      "explanation": "Corrigé A.3 : « eine Stadt » (une ville). L'article indéfini féminin est « eine »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Remplacez l'article défini par l'article indéfini : « das Hotel » (Exercice A.2)",
+      "options": [
+        "ein Hotel",
+        "eine Hotel",
+        "eines Hotel",
+        "einen Hotel"
+      ],
+      "answer": "ein Hotel",
+      "hint": "Au neutre (das), l'article indéfini a la même forme qu'au masculin.",
+      "explanation": "Corrigé A.2 : « ein Hotel » (un hôtel). Les articles indéfinis sont « ein » (masculin), « eine » (féminin), « ein » (neutre)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez avec le verbe « arbeiten » conjugué : « ___ er auch? » (Travaille-t-il aussi?) (Exercice B.10)",
+      "answer": "Arbeitet",
+      "hint": "Le radical « arbeit- » se termine par un t : pensez au « e » intercalaire avant la terminaison « -t ».",
+      "explanation": "Corrigé B.10 : « Arbeitet er auch? » (travaille-t-il aussi?). On intercale un « e » entre le « t » du radical et la terminaison « -t »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez avec le verbe « wohnen » conjugué : « Wo ___ Sie? » (Où habitez-vous?) (Exercice B.11)",
+      "answer": "wohnen",
+      "hint": "La forme de politesse « Sie » utilise la 3e personne du pluriel.",
+      "explanation": "Corrigé B.11 : « Wo wohnen Sie? » (Où habitez-vous?). La forme de politesse « Sie » prend la terminaison « -en »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Posez la question directe correspondant à : « Ja, Paul Dumont arbeitet in Paris. » (Exercice C.14)",
+      "options": [
+        "Arbeitet Paul Dumont in Paris?",
+        "Paul Dumont arbeitet in Paris?",
+        "Arbeiten Paul Dumont in Paris?",
+        "Wo arbeitet Paul Dumont in Paris?"
+      ],
+      "answer": "Arbeitet Paul Dumont in Paris?",
+      "hint": "Dans l'interrogation directe, le verbe conjugué se place en première position.",
+      "explanation": "Corrigé C.14 : « Arbeitet Paul Dumont in Paris? » (Paul Dumont travaille-t-il à Paris?)."
+    },
+    {
+      "type": "order",
+      "prompt": "Posez la question directe correspondant à : « Ja, das Hotel ist modern. » (Exercice C.16)",
+      "words": [
+        "Ist",
+        "das",
+        "Hotel",
+        "modern?"
+      ],
+      "answer": "Ist das Hotel modern?",
+      "hint": "Mettez le verbe « Ist » en première place, suivi du sujet « das Hotel ».",
+      "explanation": "Corrigé C.16 : « Ist das Hotel modern? » (L'hôtel est-il moderne?)."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Il travaille aussi à Cologne. » (Exercice D.17)",
+      "words": [
+        "Er",
+        "arbeitet",
+        "auch",
+        "in",
+        "Köln."
+      ],
+      "answer": "Er arbeitet auch in Köln.",
+      "hint": "Sujet + verbe conjugué + « auch » + complément de lieu « in Köln ».",
+      "explanation": "Corrigé D.17 : « Er arbeitet auch in Köln. »."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Apprend-elle aussi l'allemand? » (Exercice D.20)",
+      "words": [
+        "Lernt",
+        "sie",
+        "auch",
+        "Deutsch?"
+      ],
+      "answer": "Lernt sie auch Deutsch?",
+      "hint": "Dans l'interrogation directe, placez « Lernt » en premier, suivi du pronom féminin « sie » (minuscule).",
+      "explanation": "Corrigé D.20 : « Lernt sie auch Deutsch? »."
+    }
+  ]
+}

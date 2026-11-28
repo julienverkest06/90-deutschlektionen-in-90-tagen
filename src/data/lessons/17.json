@@ -5,7 +5,7 @@
   "titleDe": "Ein Gewitter",
   "titleFr": "Un orage",
   "proverbDe": "Auf Regen folgt Sonnenschein.",
-  "proverbFr": "Après la pluie, le beau temps.",
+  "proverbFr": "Après la pluie, le beau temps (À la pluie succède la lumière du soleil)",
   "paragraphs": [
     {
       "de": "Das Wetter ist nicht immer angenehm hier. Gestern hatten wir ein heftiges Gewitter. Es standen graue Wolken am Himmel. Es blitzte und es donnerte. Ein starker Regen fiel auf die Stadt.",
@@ -16,20 +16,20 @@
       "fr": "Paul Dumont se tenait à la fenêtre et regardait au-dehors. Quelques hommes ou femmes seulement allaient dans la rue. Les véhicules roulaient plus lentement."
     },
     {
-      "de": "— Wie gefällt Ihnen Köln heute, lieber Kollege? — Sehen Sie dort, das kleine, blonde Mädchen mit dem großen Regenschirm? Sein Nachbar zeigte es ihm.",
-      "fr": "— Comment Cologne vous plaît-elle aujourd'hui, cher collègue ? — Voyez-vous là-bas la petite fille blonde avec le grand parapluie ? Son voisin la lui montra."
+      "de": "— Wie gefällt Ihnen Köln heute, lieber Kollege? — Nun, bei uns kennen wir dieses Wetter auch. — Sehen Sie dort, das kleine, blonde Mädchen mit dem großen Regenschirm? Sein Nachbar zeigte es ihm. — Ach wie nett! Es bringt ein wenig Sonne in die graue, kalte Straße.",
+      "fr": "— Comment (la ville de) Cologne vous plaît-elle aujourd'hui, cher collègue? — Ma foi, nous connaissons ce temps chez nous également. — Voyez-vous là-bas la petite fille blonde au (avec le) grand parapluie? Son voisin la lui montra. — Que c'est gentil! C'est un peu de soleil dans la rue grise et froide (m. à m. : cela apporte...)."
     },
     {
       "de": "— Gehen Sie heute auch zu Fuß in Ihr Hotel zurück? Haben Sie einen Regenschirm? Ich fahre Sie gern mit dem Auto zurück. — Danke schön! Das ist sehr lieb von Ihnen.",
-      "fr": "— Rentrez-vous aujourd'hui également à pied à votre hôtel ? Avez-vous un parapluie ? Je vous reconduis volontiers en voiture. — Merci bien ! C'est très aimable de vous."
+      "fr": "— Est-ce que vous rentrerez aujourd'hui également à pied à votre hôtel? Avez-vous un parapluie? Je me fais un plaisir (mot à mot : je vous conduis volontiers...) de vous reconduire en voiture. — Merci bien. Vous êtes très aimable (mot à mot : c'est très aimable de vous)."
     }
   ],
-  "pronunciation": "Dans « Gewitter » et « gefällt », la syllabe ge- est atone et prononcée faiblement. Attention : das Mädchen (neutre) reprend le possessif « sein » !",
+  "pronunciation": "Dans les mots Gewitter, gefällt, la syllabe ge doit être prononcée faiblement, de même que dans gehören, Gericht. Repères phonétiques du texte : Gewitter [gévîter], Wetter [vèter], Himmel [himel], blitzte [blitçte], schaute [chaote], Regenschirm [régen'chirm'], Sonne [zone], Danke schön [daⁿke cheun'], sehr lieb [zér lîp].",
   "vocab": [
     {
-      "de": "das Gewitter (-)",
-      "fr": "l'orage",
-      "info": "Neutre"
+      "de": "der Himmel (-)",
+      "fr": "le ciel",
+      "info": "Masculin"
     },
     {
       "de": "der Regen",
@@ -42,67 +42,165 @@
       "info": "Masculin"
     },
     {
-      "de": "die Wolke (-n)",
+      "de": "die Sonne (n)",
+      "fr": "le soleil",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Wolke (n)",
       "fr": "le nuage",
       "info": "Féminin"
     },
     {
-      "de": "blitzen / donnern",
-      "fr": "faire des éclairs / tonner",
-      "info": "Verbes impersonnels (es)"
+      "de": "die Zeit (-en)",
+      "fr": "le temps, l'époque",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Gewitter (-)",
+      "fr": "l'orage",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Wetter",
+      "fr": "le temps (qu'il fait)",
+      "info": "Neutre"
+    },
+    {
+      "de": "donnern",
+      "fr": "tonner",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "schauen",
+      "fr": "regarder",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "fallen (er fällt)",
+      "fr": "tomber",
+      "info": "Verbe fort (avec sein)"
     },
     {
       "de": "gefallen (er gefällt)",
-      "fr": "plaire (+ Datif)",
-      "info": "Verbe fort"
+      "fr": "plaire",
+      "info": "Verbe fort (+ datif)"
+    },
+    {
+      "de": "blitzen",
+      "fr": "faire des éclairs",
+      "info": "Verbe faible"
     }
   ],
   "grammar": [
     {
-      "title": "Place des pronoms personnels compléments",
-      "body": "Lorsque deux pronoms compléments se suivent, l'<strong>accusatif précède le datif</strong> (contrairement aux noms) : <em>Sein Nachbar zeigte <strong>es ihm</strong></em> (il la lui montra)."
+      "title": "Er stand am Fenster.",
+      "body": "Le prétérit des verbes de position et des verbes factitifs.<br>• Les verbes de position sont irréguliers ; au prétérit, ils ont la forme suivante :<br><em>stehen → er stand</em>, il était debout<br><em>sitzen → er saß</em>, il était assis<br><em>liegen → er lag</em>, il était couché<br><em>hangen → er hing</em>, il était accroché<br>(Conjugaison : voir leçon 15).<br>• Les verbes factitifs sont réguliers :<br><em>stellen → er stellte</em>, il mit ou mettait (debout)<br><em>setzen → er setzte</em>, il assit<br><em>legen → er legte</em>, il posa<br><em>hängen → er hängte</em>, il accrocha<br>(Conjugaison : voir leçon 14)."
+    },
+    {
+      "title": "Sein Nachbar zeigte ihm das Mädchen : er zeigte es ihm.",
+      "body": "La place des pronoms compléments.<br>• Construction habituelle : Le complément d'attribution (datif) précède le complément d'objet direct (accusatif). Exemple :<br><em>Der Nachbar zeigte Paul das Mädchen</em>, le voisin montra la fillette à Paul.<br>• Cependant, le pronom complément se place avant le nom complément. Exemple :<br><em>Er zeigte <strong>es</strong> Paul</em>, il la montra à Paul.<br>• Quand il y a deux pronoms compléments, l'accusatif vient avant le datif. Exemple :<br><em>Er zeigte <strong>es ihm</strong></em>, il la lui montra.<br>Notez que le verbe, réclamant la deuxième place, précède les pronoms compléments."
+    },
+    {
+      "title": "Es gab ein Gewitter; es blitzte.",
+      "body": "Le pronom <em>es</em> est souvent sujet d'un verbe impersonnel :<br><em>Es regnet</em>, il pleut ; <em>es donnert</em>, il tonne.<br>On l'emploie également dans des tournures comme : <em>es gefällt mir</em>, il (cela) me plaît ; <em>es geht mir gut</em>, je vais bien ; <em>es gibt</em> (+ accusatif), il y a (m. à m. : cela donne)."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Comment dit-on « Il faisait des éclairs et il tonnait » ?",
+      "prompt": "Mettez au prétérit : « Er stellt den Wagen in die Garage und legt die Mappe auf den Tisch. » (Exercice A.1)",
       "options": [
-        "Es blitzte und es donnerte.",
-        "Es blitzt und es donnert.",
-        "Er blitzte und er donnerte.",
-        "Es blitzen und es donnern."
+        "Er stellte den Wagen in die Garage und legte die Mappe auf den Tisch.",
+        "Er stand den Wagen in die Garage und lag die Mappe auf den Tisch.",
+        "Er stellte den Wagen in die Garage und lag die Mappe auf den Tisch.",
+        "Er stand den Wagen in die Garage und legte die Mappe auf den Tisch."
       ],
-      "answer": "Es blitzte und es donnerte.",
-      "hint": "Verbes réguliers au prétérit avec le sujet impersonnel « es ».",
-      "explanation": "Es blitzte und es donnerte."
+      "answer": "Er stellte den Wagen in die Garage und legte die Mappe auf den Tisch.",
+      "hint": "stellen et legen sont des verbes factitifs, donc réguliers au prétérit.",
+      "explanation": "Corrigé A.1 : « Er stellte... und legte... » (Il mit la voiture au garage et posa la serviette sur la table)."
     },
     {
-      "type": "order",
-      "prompt": "Remettez en ordre : « Son voisin la lui montra. » (das Mädchen = es)",
-      "words": [
-        "Sein",
-        "Nachbar",
-        "zeigte",
-        "es",
-        "ihm."
-      ],
-      "answer": "Sein Nachbar zeigte es ihm.",
-      "hint": "Entre deux pronoms, l'accusatif (es) passe avant le datif (ihm).",
-      "explanation": "Sein Nachbar zeigte es ihm."
+      "type": "fill",
+      "prompt": "Mettez « stehen » au prétérit : « Du liegst im Garten, dein Freund steht neben dir. » → « Du lagst im Garten, dein Freund ___ neben dir. » (Exercice A.3)",
+      "answer": "stand",
+      "hint": "stehen est un verbe de position irrégulier au prétérit.",
+      "explanation": "Corrigé A.3 : « Du lagst..., dein Freund stand... » (Tu étais couché au jardin, ton ami se tenait debout à côté de toi)."
     },
     {
       "type": "choice",
-      "prompt": "Traduisez : « Auf Regen folgt Sonnenschein. »",
+      "prompt": "Mettez au prétérit : « Sie sitzen am Schreibtisch; eine Uhr hängt vor ihnen. » (Exercice A.4)",
       "options": [
-        "Après la pluie, le beau temps.",
-        "Il pleut et il y a du soleil.",
-        "Le soleil est derrière les nuages.",
-        "Prenez votre parapluie sous la pluie."
+        "Sie saßen am Schreibtisch; eine Uhr hing vor ihnen.",
+        "Sie setzten am Schreibtisch; eine Uhr hängte vor ihnen.",
+        "Sie saßen am Schreibtisch; eine Uhr hängte vor ihnen.",
+        "Sie sitzen am Schreibtisch; eine Uhr hing vor ihnen."
       ],
-      "answer": "Après la pluie, le beau temps.",
-      "hint": "Proverbe figurant au bas de la page 78 du livre.",
-      "explanation": "Auf Regen folgt Sonnenschein."
+      "answer": "Sie saßen am Schreibtisch; eine Uhr hing vor ihnen.",
+      "hint": "sitzen et hangen (état/position) sont irréguliers au prétérit : saßen, hing.",
+      "explanation": "Corrigé A.4 : « Sie saßen..., eine Uhr hing... » (Ils étaient assis au bureau, une pendule était accrochée devant eux)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Remplacez les deux compléments par des pronoms personnels : « Emil bringt seinem Kollegen ein Buch. » (Exercice B.5)",
+      "options": [
+        "Emil bringt es ihm.",
+        "Emil bringt ihm es.",
+        "Emil es ihm bringt.",
+        "Emil bringt ihn ihm."
+      ],
+      "answer": "Emil bringt es ihm.",
+      "hint": "Quand il y a deux pronoms compléments, l'accusatif (es, neutre pour das Buch) précède le datif (ihm).",
+      "explanation": "Corrigé B.5c : « Emil bringt es ihm. » Le verbe reste en 2e position, suivi de l'accusatif puis du datif."
+    },
+    {
+      "type": "fill",
+      "prompt": "Remplacez les deux compléments par des pronoms personnels : « Wir zeigen dieser Dame den Rhein. » → « Wir zeigen ___. » (Exercice B.6)",
+      "answer": "ihn ihr",
+      "hint": "Accusatif masculin (den Rhein → ihn) avant le datif féminin (dieser Dame → ihr).",
+      "explanation": "Corrigé B.6c : « wir zeigen ihn ihr. » (Nous le lui montrons)."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Hier il faisait des éclairs et il tonnait. » (Exercice C.8)",
+      "words": [
+        "Gestern",
+        "blitzte",
+        "es",
+        "und",
+        "es",
+        "donnerte."
+      ],
+      "answer": "Gestern blitzte es und es donnerte.",
+      "hint": "Après Gestern en tête de phrase, il y a inversion sujet-verbe (blitzte es).",
+      "explanation": "Corrigé C.8 : « Gestern blitzte es (inversion) und es donnerte. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez au prétérit : « Son parapluie (à elle) était accroché à côté du manteau. » → « Ihr Regenschirm ___ neben ihrem Mantel. » (Exercice C.10)",
+      "answer": "hing",
+      "hint": "Il s'agit d'un état (être accroché) : prétérit irrégulier de hangen.",
+      "explanation": "Corrigé C.10 : « Ihr Regenschirm hing neben ihrem Mantel. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Les enfants étaient assis sur la terrasse et regardaient vers le Rhin. » (Exercice C.12)",
+      "words": [
+        "Die",
+        "Kinder",
+        "saßen",
+        "auf",
+        "der",
+        "Terrasse",
+        "und",
+        "schauten",
+        "nach",
+        "dem",
+        "Rhein."
+      ],
+      "answer": "Die Kinder saßen auf der Terrasse und schauten nach dem Rhein.",
+      "hint": "Prétérit de sitzen → saßen ; regarder vers = schauen nach (+ datif).",
+      "explanation": "Corrigé C.12 : « Die Kinder saßen auf der Terrasse und schauten nach dem Rhein. »"
     }
   ]
 }

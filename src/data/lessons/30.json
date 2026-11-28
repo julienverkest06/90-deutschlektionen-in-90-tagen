@@ -2,58 +2,100 @@
   "id": "30",
   "series": 2,
   "authentic": true,
-  "titleDe": "Frühstück im Sonderzug",
-  "titleFr": "Le petit déjeuner en train spécial",
-  "proverbDe": "Reisen bildet.",
-  "proverbFr": "Les voyages forment la jeunesse.",
+  "titleDe": "Die Eisenbahn",
+  "titleFr": "Le chemin de fer",
+  "proverbDe": "Besser Neider als Mitleider.",
+  "proverbFr": "Il vaut mieux faire envie que pitié.",
   "paragraphs": [
     {
-      "de": "Können Sie mir sagen, ob dieser Zug einen Speisewagen hat? Jemand fragte den Schaffner, wann der Zug abfahren wird.",
-      "fr": "Pouvez-vous me dire si ce train a un wagon-restaurant ? Quelqu'un demanda au contrôleur quand le train partirait."
+      "de": "Man löst die Fahrkarte entweder auf dem Bahnhof oder in einem Reisebüro. Man kann auch eine Platzkarte lösen. Für die Vorortszüge reicht es noch, wenn man seine Karte kurz vor der Abfahrt löst. Die Rückfahrkarten sind mehrere Tage gültig. Manche Züge sind zuschlagspflichtig; gewöhnlich sind es Schnellzüge oder Luxuszüge.",
+      "fr": "On prend son billet soit à la gare, soit dans une agence; on peut également louer sa place. Pour les trains de banlieue, il suffit (encore) de prendre (m. à m. : si l'on prend) son billet peu de temps avant le départ. Les aller et retour sont valables plusieurs jours. Pour certains trains, il faut payer un supplément; ce sont en général des rapides ou des trains de luxe."
     },
     {
-      "de": "Der Speisewagen hält für 1 000 Personen in fünfzehn Wagen das Frühstück bereit. Pagen servieren es den Sonderzuggästen auf Wunsch im Abteil.",
-      "fr": "Au wagon-restaurant, on tient prêt le petit déjeuner pour un millier de personnes dans quinze wagons. Des garçons le servent aux clients du train spécial sur souhait dans leur compartiment."
+      "de": "Die Nachtzüge haben gewöhnlich einen oder mehrere Liegewagen (erster oder zweiter Klasse). Manchmal haben sie auch Schlafwagen. Dort hat jedes Abteil ein Bett, oder zwei übereinander gestellte Betten und ein Waschbecken (einen Lavabo).",
+      "fr": "Les trains de nuit ont en général une ou plusieurs voitures-couchettes (de 1re ou de 2e classe). Parfois ils ont aussi des wagons-lits. Chaque compartiment comporte alors un lit, ou deux lits superposés, et un lavabo."
+    },
+    {
+      "de": "Jemand fragte den Schaffner: — Können Sie mir sagen, ob dieser Zug einen Speisewagen hat? — Natürlich; die meisten großen Züge haben einen. In einem Pullmanwagen werden Sie sogar an Ihrem Platz bedient.",
+      "fr": "Quelqu'un demanda au contrôleur : — Pouvez-vous me dire, si ce train a un wagon-restaurant? — Naturellement; la plupart des grands trains en ont un. Dans une voiture Pullman l'on vous sert même à votre place (m. à m. : vous êtes même servi...)."
+    },
+    {
+      "de": "Lecture — Frühstück im Sonderzug : Der Speisewagen hält für 1 000 Personen in fünfzehn Wagen das Frühstück bereit. Pagen servieren es den Sonderzuggästen auf Wunsch im Abteil, ebenso andere Mahlzeiten, vorläufig allerdings nur kalte Gerichte, jedoch warme Würstchen und Eierspeisen eingeschlossen. Für später sind auch warme Menüs in der Art des Bordservice in Flugzeugen vorgesehen. Aber der Wagen verfügt auch über 30 Plätze für Gäste, die später frühstücken oder außer der Reihe etwas essen und trinken wollen. Der neue Speisewagentyp ist ein Einfall der Reiseunternehmer, der der Bundesbahn zugute kommen wird, weil er geeignet ist, die Sonderzugreise angenehmer zu machen und dadurch mehr Gäste zu gewinnen. (Aus der Wochenzeitung « Die Zeit », Hamburg.)",
+      "fr": "Lecture — Le petit déjeûner en train spécial : Au wagon-restaurant, on tient prêt le petit déjeûner pour un millier de personnes dans quinze wagons. Des garçons le servent aux clients du train spécial dans leur compartiment, si ceux-ci le désirent (m. à m. : sur souhait); ils leur servent également d'autres repas, mais pour l'instant des plats froids seulement, ajoutons-y toutefois des saucisses chaudes et des œufs (m. à m. : des mets aux œufs). Pour plus tard, on prévoit aussi (m. à m. : sont prévus) des menus chauds, dans le genre des services à bord des avions. Mais le wagon dispose également de plus de 30 places pour les clients qui veulent prendre leur petit-déjeûner plus tard, ou qui veulent manger et boire quelque chose en dehors du service (m. à m. : du tour, du rang). Ce nouveau type de wagon-restaurant est une idée des agences de voyages (m. à m. : des entrepreneurs de voyages), qui profitera aux Chemins de Fer Fédéraux, parce qu'elle permet (m. à m. : est propre à) de rendre plus agréable les voyages en train spécial, et ainsi de gagner davantage de clients."
     }
   ],
-  "pronunciation": "Lecture authentique tirée de l'hebdomadaire « Die Zeit » (Hambourg). Notez la construction « auf Wunsch » (sur demande).",
+  "pronunciation": "L'x allemand, ainsi que le groupe chs, se prononcent [ks]. Exemples : der Luxus ; die Axt, la hache ; die Kalbshaxe, le jarret de veau ; der Ochs, le bœuf ; der Lachs, le saumon. Repères phonétiques du texte : Eisenbahn [aézen'ban], entweder [èn'tvéder], Bahnhof [ban'-hof], Vorortszüge [for-ortç-tçuge], zuschlagspflichtig [tçouchlakç-pflich-tich], Luxuszüge [loukçouç-tçuge], Abteil [aptaél], übereinander [uber-aénan'der], gestellte [gechtèlte], Jemand [yéman't], Schaffner [chafner], Speisewagen [chpaéze-vagen], sogar [zogar], bedient [bedint].",
   "vocab": [
     {
-      "de": "der Speisewagen (-)",
-      "fr": "le wagon-restaurant",
+      "de": "der Platz (¨-e)",
+      "fr": "la place",
       "info": "Masculin"
     },
     {
-      "de": "der Schaffner (-)",
-      "fr": "le contrôleur",
+      "de": "der Vorort (-e)",
+      "fr": "la banlieue",
       "info": "Masculin"
     },
     {
-      "de": "die Fahrkarte (-n)",
-      "fr": "le billet de train",
+      "de": "der Zug (¨-e)",
+      "fr": "le train",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Zuschlag (¨-e)",
+      "fr": "le supplément",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Eisenbahn (-en)",
+      "fr": "le chemin de fer",
       "info": "Féminin"
     },
     {
-      "de": "jemand / niemand",
-      "fr": "quelqu'un / personne",
-      "info": "Pronoms indéfinis"
+      "de": "die Pflicht (-en)",
+      "fr": "le devoir, l'obligation",
+      "info": "Féminin"
     },
     {
-      "de": "etwas / nichts",
-      "fr": "quelque chose / rien",
-      "info": "Pronoms indéfinis"
+      "de": "die Speise (-n)",
+      "fr": "l'aliment",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Waschbecken (-)",
+      "fr": "la cuvette",
+      "info": "Neutre"
+    },
+    {
+      "de": "bedienen",
+      "fr": "servir (quelqu'un)",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "aussteigen (ie, ie)",
+      "fr": "descendre de voiture",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "einsteigen (ie, ie)",
+      "fr": "monter en voiture",
+      "info": "Verbe fort séparable"
     }
   ],
   "grammar": [
     {
-      "title": "La subordonnée interrogative indirecte",
-      "body": "Introduite par <em>ob</em> (si) ou un mot interrogatif (<em>wer, was, wann, wo, womit...</em>), elle rejette le verbe conjugué tout à la fin : <em>Ich weiß nicht, wann er nach Köln gekommen ist.</em>"
+      "title": "Können Sie mir sagen, ob dieser Zug einen Speisewagen hat? — La subordonnée interrogative",
+      "body": "<em>Ob</em>, si (dubitatif ou interrogatif), introduit une subordonnée et entraîne le rejet du verbe (voir leçon 25).<br>Les autres interrogatifs, tels que <em>wer?</em>, qui?, <em>was?</em>, quoi?, <em>wann?</em>, quand?, <em>wo?</em>, où?, <em>womit?</em>, avec quoi? etc. peuvent également introduire une interrogation indirecte, avec rejet du verbe.<br><strong>Exemples :</strong><br><em>Ich weiß nicht, ob ich genug Geld habe</em>, je ne sais pas, si j'ai assez d'argent.<br><em>Ich weiß nicht, wann er nach Köln gekommen ist</em>, je ne sais pas, quand il est venu à Cologne."
+    },
+    {
+      "title": "Jemand fragte den Schaffner... — Les pronoms indéfinis",
+      "body": "• <strong>man</strong>, on (au datif : <em>einem</em>, à l'accusatif <em>einen</em>).<br><em>Er sieht einen nicht einmal</em>, il ne vous voit même pas.<br>• <strong>einer</strong>, un, l'un, <strong>keiner</strong>, aucun, se déclinent sur l'article défini.<br><em>Keiner will ihm helfen</em>, aucun ne veut l'aider.<br>• <strong>jemand</strong>, quelqu'un, <strong>niemand</strong>, personne.<br>• <strong>etwas</strong>, quelque chose, <strong>nichts</strong>, rien."
     }
   ],
   "exercises": [
     {
       "type": "order",
-      "prompt": "Transformez en interrogation indirecte (Exercice A.1) : « Ich frage meinen Freund: Was steht in der Zeitung? »",
+      "prompt": "Remplacez la proposition interrogative par une subordonnée (Exercice A.1) : Ich frage meinen Freund : « Was steht in der Zeitung? »",
       "words": [
         "Ich",
         "frage",
@@ -66,21 +108,85 @@
         "steht."
       ],
       "answer": "Ich frage meinen Freund, was in der Zeitung steht.",
-      "hint": "Le mot interrogatif « was » rejette « steht » à la fin.",
-      "explanation": "Ich frage meinen Freund, was in der Zeitung steht."
+      "hint": "L'interrogatif « was » introduit une subordonnée et rejette le verbe conjugué « steht » à la fin.",
+      "explanation": "Corrigé A.1 : « Ich frage meinen Freund, was in der Zeitung steht. » (Je demande à mon ami ce qu'il y a dans le journal.)"
     },
     {
       "type": "choice",
-      "prompt": "Traduisez (Exercice B.7) : « Personne n'a voyagé dans le deuxième wagon-lit (der Schlafwagen). »",
+      "prompt": "Remplacez par une subordonnée interrogative (Exercice A.2) : Ich frage Hans : « Hast du deine Fahrkarte gelöst? »",
+      "options": [
+        "Ich frage Hans, ob er seine Fahrkarte gelöst hat.",
+        "Ich frage Hans, wenn er seine Fahrkarte gelöst hat.",
+        "Ich frage Hans, ob hat er seine Fahrkarte gelöst.",
+        "Ich frage Hans, ob er hat seine Fahrkarte gelöst."
+      ],
+      "answer": "Ich frage Hans, ob er seine Fahrkarte gelöst hat.",
+      "hint": "Le « si » interrogatif se traduit par « ob », qui rejette l'auxiliaire conjugué « hat » à la fin de la subordonnée.",
+      "explanation": "Corrigé A.2 : « Ich frage Hans, ob er seine Fahrkarte gelöst hat. » (Je demande à Hans s'il a pris son billet.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la subordonnée interrogative (Exercice A.3) : « Wo wohnt Rainer jetzt? » « Ich weiß es nicht. » → Ich weiß nicht, ...",
+      "answer": "wo Rainer jetzt wohnt.",
+      "hint": "Après l'interrogatif « wo », placez le verbe conjugué « wohnt » en fin de proposition.",
+      "explanation": "Corrigé A.3 : « Ich weiß nicht, wo Rainer jetzt wohnt. » (Je ne sais pas où Rainer habite maintenant.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand (Exercice B.4) : « Je me demande quand ce train partira. »",
+      "words": [
+        "Ich",
+        "frage",
+        "mich,",
+        "wann",
+        "dieser",
+        "Zug",
+        "abfahren",
+        "wird."
+      ],
+      "answer": "Ich frage mich, wann dieser Zug abfahren wird.",
+      "hint": "L'interrogatif « wann » rejette l'auxiliaire du futur « wird » en toute fin de proposition, après l'infinitif « abfahren ».",
+      "explanation": "Corrigé B.4 : « Ich frage mich, wann dieser Zug abfahren wird. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Quelle est la traduction exacte de : « Je ne sais plus qui m'avait indiqué cette agence de voyage. » ? (Exercice B.5)",
+      "options": [
+        "Ich weiß nicht mehr, wer mir dieses Reisebüro angegeben hatte.",
+        "Ich weiß nicht mehr, wer hatte mir dieses Reisebüro angegeben.",
+        "Ich weiß nicht mehr, ob mir dieses Reisebüro angegeben hatte.",
+        "Ich weiß nicht mehr, wen mir dieses Reisebüro angegeben hatte."
+      ],
+      "answer": "Ich weiß nicht mehr, wer mir dieses Reisebüro angegeben hatte.",
+      "hint": "« qui » sujet se traduit par « wer » et entraîne le rejet de l'auxiliaire « hatte » en fin de proposition.",
+      "explanation": "Corrigé B.5 : « Ich weiß nicht mehr, wer mir dieses Reisebüro angegeben hatte. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la traduction de : « Paul ne savait pas, si son billet était encore valable. » (Exercice B.6) — Paul wußte nicht, ... seine Fahrkarte noch gültig war.",
+      "answer": "ob",
+      "hint": "Quelle conjonction traduit « si » dubitatif ou interrogatif en allemand ?",
+      "explanation": "Corrigé B.6 : « Paul wußte nicht, ob seine Fahrkarte noch gültig war. » On utilise toujours « ob » pour introduire une interrogation indirecte."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez en allemand (Exercice B.7) : « Personne n'a voyagé dans le deuxième wagon-lit. »",
       "options": [
         "Niemand ist im zweiten Schlafwagen gereist.",
         "Jemand ist im zweiten Schlafwagen gereist.",
         "Nichts ist im zweiten Schlafwagen gereist.",
-        "Keiner ist im zweiten Schlafwagen gereisen."
+        "Keiner hat im zweiten Schlafwagen gereist."
       ],
       "answer": "Niemand ist im zweiten Schlafwagen gereist.",
-      "hint": "personne = niemand ; reisen prend l'auxiliaire sein.",
-      "explanation": "Niemand ist im zweiten Schlafwagen gereist."
+      "hint": "« Personne » se traduit par le pronom indéfini « niemand », et le verbe de mouvement « reisen » se conjugue au parfait avec « sein ».",
+      "explanation": "Corrigé B.7 : « Niemand ist im zweiten Schlafwagen gereist. » (Comparez avec B.8 : « Hat jemand meine Rückfahrkarte gesehen? »)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Donnez le participe passé du verbe séparable « einsteigen » pour traduire « je suis monté en voiture » (Exercice sur les mots 2) : Ich bin ...",
+      "answer": "eingestiegen",
+      "hint": "Verbe fort séparable : einsteigen (ie, ie) → le préfixe « ein- » précède « -ge- ».",
+      "explanation": "Corrigé (Exercice sur les mots 2) : « Ich steige ein; ich bin eingestiegen; ich stieg ein; ich werde einsteigen. »"
     }
   ]
 }

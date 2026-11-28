@@ -3,80 +3,147 @@
   "series": 1,
   "authentic": true,
   "titleDe": "Ein kleiner Ausflug (2)",
-  "titleFr": "Une petite excursion (2) — Le prétérit fort",
-  "proverbDe": "Stille Wasser sind tief.",
-  "proverbFr": "Il n'est pire eau que l'eau qui dort.",
+  "titleFr": "Une petite excursion (2)",
+  "proverbDe": "Der Wein erfreut des Menschen Herz.",
+  "proverbFr": "Le vin est ami du cœur (Le vin réjouit le cœur de l'homme).",
   "paragraphs": [
     {
-      "de": "Sie tranken Wein oder Bier und aßen Kuchen. Paul schrieb einen Brief und las noch ein wenig.",
-      "fr": "Ils burent du vin ou de la bière et mangèrent du gâteau. Paul écrivit une lettre et lut encore un peu."
+      "de": "Viele Gäste saßen im Saal des Gasthofs. Einige tranken Wein, andere tranken Bier und aßen ein kaltes Gericht. An allen Tischen hörte man lachen und erzählen. Es herrschte eine frohe Stimmung.",
+      "fr": "Beaucoup de clients étaient assis dans la salle du restaurant. Quelques-uns buvaient du vin, d'autres buvaient de la bière et mangeaient un plat froid. À toutes les tables, on entendait rire et raconter. Il régnait une joyeuse ambiance."
     },
     {
-      "de": "Ist dieser Wein so gut wie die französischen Weine? Hans ist so groß wie Karl, aber Heddy ist nicht so groß wie Karl.",
-      "fr": "Ce vin est-il aussi bon que les vins français ? Jean est aussi grand que Charles, mais Heddy n'est pas aussi grande que Charles."
+      "de": "— Finden Sie unseren Wein so gut wie die französischen Weine? fragte man Paul Dumont. — Er ist nicht so stark, aber angenehm zu trinken, antwortete dieser. Man sprach noch lange von den Weinbergen und Weingärten am Rhein, an der Mosel, am Neckar und am Bodensee, und von ihrem Reiz.",
+      "fr": "— Trouvez-vous notre vin aussi bon que les vins français ? demanda-t-on à Paul Dumont. — Il n'est pas aussi fort, mais il est agréable à boire, répondit celui-ci. On parla longtemps encore des vignobles et des vignes sur les bords du Rhin, de la Moselle, du Neckar et près du lac de Constance, et de leur charme."
+    },
+    {
+      "de": "Um sieben Uhr fuhren sie nach Köln zurück. Der Bus fuhr schnell; sie kamen bald an. — Ein schöner Nachmittag, nicht wahr? — Ja, ich werde ihn so bald nicht vergessen.",
+      "fr": "À sept heures, ils retournèrent à Cologne. L'autocar roulait vite ; ils arrivèrent bientôt. — Une belle après-midi, n'est-ce pas ? — Oui, je ne l'oublierai pas de sitôt."
     }
   ],
-  "pronunciation": "Numération 1 à 12 : 1 eins, 2 zwei, 3 drei, 4 vier, 5 fünf, 6 sechs [zèkç], 7 sieben, 8 acht, 9 neun, 10 zehn, 11 elf, 12 zwölf.",
+  "pronunciation": "Vous ne confondez plus, maintenant, ie, qui est un i long [i], et ei qui est une diphtongue [aé]. Nous rencontrons aujourd'hui ce i long dans : viele, Bier, wie, die, dieser, sieben. La diphtongue ei, que l'on prononce brièvement, en accentuant le a, [aé], se trouve dans : klein, einige, Wein, ein, seinen, Reiz. Repères phonétiques du texte : saßen [zaçen'], tranken [trangken'], herrschte [hèrchte], frohe [fro/e], Stimmung [chtimoung], stark [chtark], Mosel [mozel], Neckar [nèkar], Bodensee [boden'zé], Uhr [our], zurück [tçouruck], nicht wahr [nicht var].",
   "vocab": [
     {
-      "de": "trinken → trank",
-      "fr": "boire (prétérit)",
+      "de": "der Reiz (-e)",
+      "fr": "le charme",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Stimmung (-en)",
+      "fr": "l'ambiance",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Uhr (-en)",
+      "fr": "la montre",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Bier (-e)",
+      "fr": "la bière",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Gericht (-e)",
+      "fr": "le plat, les mets",
+      "info": "Neutre"
+    },
+    {
+      "de": "antworten",
+      "fr": "répondre",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "fragen (suivi de l'acc. de la personne)",
+      "fr": "demander",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "herrschen",
+      "fr": "régner",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "fahren (er fuhr)",
+      "fr": "aller (en véhicule)",
       "info": "Verbe fort"
     },
     {
-      "de": "essen → aß",
-      "fr": "manger (prétérit)",
+      "de": "finden (er fand)",
+      "fr": "trouver",
       "info": "Verbe fort"
-    },
-    {
-      "de": "schreiben → schrieb",
-      "fr": "écrire (prétérit)",
-      "info": "Verbe fort"
-    },
-    {
-      "de": "fahren → fuhr",
-      "fr": "aller en véhicule (prétérit)",
-      "info": "Verbe fort"
-    },
-    {
-      "de": "geben → gab",
-      "fr": "donner (prétérit)",
-      "info": "Verbe fort"
-    },
-    {
-      "de": "so ... wie",
-      "fr": "aussi ... que",
-      "info": "Comparatif d'égalité"
     }
   ],
   "grammar": [
     {
-      "title": "Le prétérit du verbe irrégulier (ou fort)",
-      "body": "Au prétérit, le radical du verbe fort change de voyelle (<em>trinken → trank, fahren → fuhr, geben → gab</em>). À la 1re et à la 3e personne du singulier, il n'y a <strong>aucune terminaison</strong> : <em>ich gab, du gabst, er gab, wir gaben, ihr gabt, sie gaben</em>."
+      "title": "Sie tranken Wein oder Bier. — Le prétérit du verbe irrégulier (ou fort)",
+      "body": "Au prétérit, le radical du verbe fort est changé. Le plus souvent, ce changement n'affecte que la voyelle (<em>trinken &gt; er trank</em> ; <em>fahren &gt; er fuhr</em>). Parfois, les consonnes sont modifiées également (<em>sitzen &gt; er saß</em>).<br><br>À la 1re et à la 3e personne du singulier, le verbe fort au prétérit n'a pas de terminaison. Ailleurs, ce sont les mêmes terminaisons qu'au présent.<br><br><strong>Conjugaison du verbe <em>geben</em> (donner) au prétérit :</strong><br><em>Ich gab</em>, je donnais — <em>Wir gab-en</em>, nous donnions<br><em>Du gab-st</em>, tu donnais — <em>Ihr gab-t</em>, vous donniez<br><em>Er (sie, es) gab</em>, il donnait — <em>sie (Sie) gab-en</em>, ils donnaient<br><br><strong>Prétérit de quelques verbes déjà rencontrés :</strong><br>Il est nécessaire d'apprendre les verbes forts avec leur prétérit (et, ultérieurement, avec leur participe passé).<br><em>schreiben</em>, er schrieb<br><em>tragen</em>, er trug<br><em>laufen</em>, er lief<br><em>sprechen</em>, er sprach<br><em>ausziehen</em>, er zog aus<br><em>schlafen</em>, er schlief<br><em>kommen</em>, er kam.<br><br>En cas d'hésitation, recherchez le prétérit dans le Mémento (§ 78)."
     },
     {
-      "title": "Comparatif d'égalité et d'infériorité",
-      "body": "Égalité : <strong>so + adjectif + wie</strong> (<em>so groß wie Karl</em>). Infériorité : <strong>nicht so + adjectif + wie</strong>."
+      "title": "Ist dieser Wein so gut wie die französischen Weine? — La comparaison : comparatif d'égalité et d'infériorité",
+      "body": "<strong>Le comparatif d'égalité</strong> se rend par <strong>so... wie</strong> (aussi... que).<br><em>Hans ist <strong>so</strong> groß <strong>wie</strong> Karl</em>, Jean est aussi grand que Charles.<br><br><strong>Le comparatif d'infériorité</strong> se rend par <strong>nicht so... wie</strong> (pas aussi... que) :<br><em>Heddy ist <strong>nicht so</strong> groß <strong>wie</strong> Karl</em>, Heddy n'est pas aussi grande que Charles."
+    },
+    {
+      "title": "La numération (1 à 12)",
+      "body": "1 <strong>eins</strong> — 2 <strong>zwei</strong> — 3 <strong>drei</strong><br>4 <strong>vier</strong> — 5 <strong>fünf</strong> — 6 <strong>sechs</strong> [zèkç]<br>7 <strong>sieben</strong> — 8 <strong>acht</strong> — 9 <strong>neun</strong><br>10 <strong>zehn</strong> — 11 <strong>elf</strong> — 12 <strong>zwölf</strong>"
     }
   ],
   "exercises": [
     {
-      "type": "fill",
-      "prompt": "Mettez au prétérit (Exercice A.1) : « Er trinkt Bier. » → Er ___ Bier.",
-      "answer": "trank",
-      "hint": "trinken fait « trank » au prétérit (sans terminaison à la 3e pers. sg.).",
-      "explanation": "Er trank Bier. (Il but de la bière)."
+      "type": "choice",
+      "prompt": "(Exercice A.2) Mettez la phrase au prétérit : « Ich esse Kuchen. » (Je mangeai du gâteau.)",
+      "options": [
+        "Ich aß Kuchen.",
+        "Ich esste Kuchen.",
+        "Ich aßte Kuchen.",
+        "Ich eß Kuchen."
+      ],
+      "answer": "Ich aß Kuchen.",
+      "hint": "« essen » est un verbe fort ; à la 1re personne du singulier au prétérit, le verbe fort n'a pas de terminaison.",
+      "explanation": "Corrigé A.2 : « Ich aß Kuchen. » (Je mangeai du gâteau.)"
     },
     {
       "type": "fill",
-      "prompt": "Mettez au prétérit (Exercice A.2) : « Ich esse Kuchen. » → Ich ___ Kuchen.",
-      "answer": "aß",
-      "hint": "essen fait « aß » au prétérit.",
-      "explanation": "Ich aß Kuchen. (Je mangeai du gâteau)."
+      "prompt": "(Exercice A.3) Mettez le verbe au prétérit : « Ihr schreibt einen Brief. » → Ihr ___ einen Brief. (Vous écriviez une lettre.)",
+      "answer": "schriebt",
+      "hint": "Le prétérit de « schreiben » a pour radical schrieb- ; avec ihr, on ajoute la terminaison -t.",
+      "explanation": "Corrigé A.3 : « Ihr schriebt einen Brief. » (Vous écriviez une lettre.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.4) Mettez le verbe au prétérit : « Du sprichst gut. » → Du ___ gut. (Tu parlais bien.)",
+      "answer": "sprachst",
+      "hint": "Le prétérit de « sprechen » est er sprach ; ajoutez la terminaison -st pour du.",
+      "explanation": "Corrigé A.4 : « Du sprachst gut. » (Tu parlais bien.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.8) Mettez la phrase au prétérit : « Wir ziehen den Mantel an. » (Nous avons mis le manteau.)",
+      "options": [
+        "Wir zogen den Mantel an.",
+        "Wir ziehten den Mantel an.",
+        "Wir zogen an den Mantel.",
+        "Wir zogten den Mantel an."
+      ],
+      "answer": "Wir zogen den Mantel an.",
+      "hint": "« anziehen » est un verbe fort séparable (radical prétérit : zog-) dont la particule an reste à la fin.",
+      "explanation": "Corrigé A.8 : « Wir zogen den Mantel an. » (Nous avons mis / mîmes le manteau.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice sur les mots 2) Traduisez : « Tu me demandes. »",
+      "options": [
+        "Du fragst mich.",
+        "Du fragst mir.",
+        "Du antwortest mich.",
+        "Du fragst dich."
+      ],
+      "answer": "Du fragst mich.",
+      "hint": "Selon le vocabulaire de la leçon, « fragen » est suivi de l'accusatif de la personne.",
+      "explanation": "Corrigé Exercice sur les mots 2 : « Du fragst mich. » (fragen régit l'accusatif de la personne, contrairement à antworten qui régit le datif)."
     },
     {
       "type": "order",
-      "prompt": "Formez le comparatif d'égalité (Exercice B.9) : « Notre jardin est aussi vert que ce parc. »",
+      "prompt": "(Exercice B.9) Formez un comparatif d'égalité : « Notre jardin est aussi vert que ce parc. »",
       "words": [
         "Unser",
         "Garten",
@@ -88,21 +155,31 @@
         "Park."
       ],
       "answer": "Unser Garten ist so grün wie dieser Park.",
-      "hint": "Structure : so + adjectif + wie.",
-      "explanation": "Unser Garten ist so grün wie dieser Park."
+      "hint": "Le comparatif d'égalité se rend par « so... wie » (aussi... que).",
+      "explanation": "Corrigé B.9 : « Unser Garten ist so grün wie dieser Park. »"
     },
     {
-      "type": "choice",
-      "prompt": "Quel est le prétérit de « fahren » (aller en véhicule) avec « sie » (pluriel) ?",
-      "options": [
-        "sie fuhren",
-        "sie fahrten",
-        "sie fuhr",
-        "sie fohren"
+      "type": "fill",
+      "prompt": "(Exercice C.12) Traduisez : « Ils trouvaient l'ambiance très gaie. » → Sie ___ die Stimmung sehr froh.",
+      "answer": "fanden",
+      "hint": "« finden » est un verbe fort (er fand) ; au pluriel (sie), on ajoute -en.",
+      "explanation": "Corrigé C.12 : « Sie fanden die Stimmung sehr froh. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.15) Traduisez en remettant les mots dans l'ordre : « Il dormit aussi bien qu'à Paris. »",
+      "words": [
+        "Er",
+        "schlief",
+        "so",
+        "gut",
+        "wie",
+        "in",
+        "Paris."
       ],
-      "answer": "sie fuhren",
-      "hint": "fahren → er fuhr → sie fuhren.",
-      "explanation": "Sie fuhren nach Paris."
+      "answer": "Er schlief so gut wie in Paris.",
+      "hint": "Prétérit de schlafen (er schlief) + comparatif d'égalité (so gut wie).",
+      "explanation": "Corrigé C.15 : « Er schlief so gut wie in Paris. »"
     }
   ]
 }

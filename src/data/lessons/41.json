@@ -1,0 +1,236 @@
+{
+  "id": "41",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Mittagessen in aller Eile",
+  "titleFr": "Un déjeuner expédié",
+  "proverbDe": "Einem leeren Magen ist nicht gut predigen.",
+  "proverbFr": "Ventre affamé n'a pas d'oreilles (Il est malaisé de prêcher un estomac vide).",
+  "paragraphs": [
+    {
+      "de": "(der Herr : H; die Dame : D; der Oberkellner : O) H — Herr Ober, bitte! Zeigen Sie uns die Speisekarte. Wir haben es eilig. Was haben Sie bereit? O — Heute gibt es Fisch mit Kapernsoße. Sie müßten aber ein wenig warten, somit geht es nicht. D — Oh! Doch! Fisch — wir sind am Meer; hier muß er frisch sein. H — Wir haben keine Zeit. Wir wollen heute abend besser essen. O — Unter diesen Umständen schlage ich Ihnen Rinderbraten mit Rosenkohl und Kartoffelbrei vor. D — Ja, das sagt mir zu. O — Und womit wollen Sie beginnen? H — Mit einer Vorspeise : Butter, Radieschen und geräuchertem Lachs.",
+      "fr": "(Le monsieur : M; la dame : D; le garçon : G) M — Garçon, s'il vous plaît, montrez-nous le menu. Nous sommes pressés. Qu'est-ce qu'il y a de prêt? G — Aujourd'hui il y a du poisson avec une sauce aux câpres. Mais vous devriez attendre un peu, aussi cela ne va pas. D — Ah! si, du poisson — nous sommes à la mer; il doit être frais ici. M — Nous n'avons pas le temps. Nous mangerons mieux ce soir. G — Dans ces conditions, je vous propose du rôti de bœuf avec des choux de Bruxelles et de la purée de pomme de terre. D — Oui, cela me convient. G — Et par quoi voulez-vous commencer? M — Par un hors-d'œuvre : du beurre, des radis et du saumon fumé."
+    },
+    {
+      "de": "O — Möchten Sie etwas trinken? D — Ja, Mineralwasser. H — Ein wenig Wein, trotzdem. Eine halbe Flasche Rheinwein. O — Und als Nachtisch? D — Das werden wir nachher sehen.",
+      "fr": "G — Désirez-vous boire quelque chose? D — Oui, de l'eau minérale. M — Un peu de vin, quand même. Une demi-bouteille de vin du Rhin. G — Et pour le dessert? D — On verra tout à l'heure."
+    },
+    {
+      "de": "— Ich möchte Brot, bitte. — Haben Sie Senf, Salz und Pfeffer? — Bringen Sie den nächsten Gang, bitte.",
+      "fr": "— Je voudrais du pain, s'il vous plaît. — Avez-vous de la moutarde, du sel et du poivre? — Vous nous apportez la suite, s'il vous plaît (m. à m. : le service suivant)."
+    },
+    {
+      "de": "Lecture — Der Sieger : In einem gutgeleiteten Restaurant bestellte sich Max Reger einen Hummer. Als der Kellner den zehnfüßigen Krebs brachte, fiel dem Komponisten auf, daß der Hummer nur eine Schere hatte. Auf seine Beanstandung erklärte der herbeigeeilte Geschäftsführer indigniert : « Es kommt vor, mein Herr, daß die Hummer miteinander kämpfen, und da reißt der eine dem anderen manchmal eine Schere aus ». « Also so ist das », lächelte Max Reger freundlich, « nun gut, dann lassen Sie mir bitte den Sieger servieren ». Aus der Wochenzeitung « Rheinischer Merkur » (Köln).",
+      "fr": "Lecture — Le vainqueur : Dans un restaurant bien géré, Max Reger commanda un homard. Lorsque le garçon apporta le crustacé décapode, le compositeur remarqua que le homard n'avait qu'une pince. À la suite de sa réclamation, le gérant accourut et expliqua avec indignation : « Il arrive, Monsieur, que les homards se combattent, et parfois l'un arrache à l'autre une pince ». « Ah, c'est donc ainsi, dit Max Reger avec un sourire aimable, eh bien, dans ce cas, faites-moi servir le vainqueur, je vous prie. »"
+    }
+  ],
+  "pronunciation": "Indications phonétiques du manuel : 1. Speisekarte [chpaéze-karte] ; Umständen [oum'chtèn'den'] ; Radieschen [radiç-chen'] (ne pas confondre s + suffixe -chen avec sch) ; Lachs [lakç] (le groupe chs se prononce « ks »). 2. Nachtisch [nartich] (ach-Laut après a, puis sch final). Accentuez le premier élément dans Rinderbraten, Rosenkohl, Kartoffelbrei et Rheinwein.",
+  "vocab": [
+    {
+      "de": "der Braten (-)",
+      "fr": "le rôti",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Brei (-e)",
+      "fr": "la purée",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Lachs (-e)",
+      "fr": "le saumon",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Nachtisch (-e), das Dessert (s)",
+      "fr": "le dessert",
+      "info": "Masculin / Neutre"
+    },
+    {
+      "de": "der Ober(kellner) (-)",
+      "fr": "le maître d'hôtel, le garçon",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Pfeffer",
+      "fr": "le poivre",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Senf",
+      "fr": "la moutarde",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Umstand (¨e)",
+      "fr": "la circonstance",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Flasche (n)",
+      "fr": "la bouteille",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kaper (n)",
+      "fr": "le câpre",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Soße (n) = die Sauce (n)",
+      "fr": "la sauce",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Vorspeise (n)",
+      "fr": "le hors-d'œuvre",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Meer (-e)",
+      "fr": "la mer",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Radieschen (-)",
+      "fr": "le radis",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Rind (-er)",
+      "fr": "le bœuf, la génisse",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Salz (-e)",
+      "fr": "le sel",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Wasser (-)",
+      "fr": "l'eau",
+      "info": "Neutre"
+    },
+    {
+      "de": "zusagen (+ datif)",
+      "fr": "accepter, plaire",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "vorschlagen (u, a; ä)",
+      "fr": "proposer",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "ich habe es eilig",
+      "fr": "je suis pressé",
+      "info": "Expression"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "« Il y a » = es gibt (+ accusatif)",
+      "body": "<strong>Heute gibt es Fisch mit Kapernsoße.</strong><br>Notre tournure « il y a », dans le sens de « il existe », est rendue par <strong>es gibt (+ accusatif)</strong>.<br><br>• <em>Es gibt nichts Neues unter der Sonne</em>, il n'y a rien de nouveau sous le soleil.<br>• <em>Es gab Lachs</em>, il y eut du saumon ;<br>• <em>Es wird Braten geben</em>, il y aura du rôti."
+    },
+    {
+      "title": "« Il y a » avec une idée de lieu : verbe de position",
+      "body": "<strong>Ein schöner Schrank steht dort</strong>, il y a une belle armoire là-bas.<br>Avec une idée de lieu, de position, « il y a » est rendu par un <strong>verbe de position</strong> (<em>stehen, liegen, hängen, sitzen</em> — voir L. 12)."
+    },
+    {
+      "title": "« Il y a » pour préciser le nombre : es ist / es sind",
+      "body": "<strong>Es sind noch drei Flaschen im Kühlschrank</strong>, il y a encore trois bouteilles dans le réfrigérateur.<br>Pour préciser le nombre, on emploie : <strong>es ist...</strong> ou <strong>es sind...</strong>. Le verbe s'accorde avec le sujet réel (<em>drei Flaschen</em>)."
+    },
+    {
+      "title": "« Il y a » au sens temporel : vor (+ datif) et seit (+ datif)",
+      "body": "• <strong>Ich erfuhr es vor einem Jahr</strong>, je l'ai appris il y a un an.<br>Au sens temporel, « il y a » = <strong>vor (+ datif)</strong> pour une action terminée dans le passé.<br><br>• <strong>Ich weiß es seit einem Jahr</strong>, il y a un an que je le sais.<br>L'action commencée dans le passé dure encore : « il y a » = <strong>seit (+ datif)</strong>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "(Exercice 1) Traduisez en allemand : « Il y a du bon vin ici. »",
+      "answer": "Es gibt guten Wein hier.",
+      "hint": "Utilisez « es gibt » suivi de l'accusatif masculin sans article (« guten Wein »).",
+      "explanation": "Corrigé 1 : « Es gibt guten Wein hier. » Au sens général d'existence, « il y a » se rend par « es gibt » + accusatif."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice 2) Traduisez : « Sur la table, il y avait quelques tasses. »",
+      "options": [
+        "Auf dem Tisch standen einige Tassen.",
+        "Auf dem Tisch gab es einige Tassen.",
+        "Auf dem Tisch lagen einige Tassen.",
+        "Auf dem Tisch war einige Tassen."
+      ],
+      "answer": "Auf dem Tisch standen einige Tassen.",
+      "hint": "Des tasses posées verticalement sur une table : employez le verbe de position « stehen » au prétérit.",
+      "explanation": "Corrigé 2 : « Auf dem Tisch standen einige Tassen. » Avec une idée de lieu et de position, « il y a » est rendu par un verbe de position (stehen → standen)."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice 3) Reconstituez la traduction de : « Il y a de beaux tableaux (das Gemälde, -) dans cette pièce. »",
+      "words": [
+        "Es",
+        "hängen",
+        "schöne",
+        "Gemälde",
+        "in",
+        "diesem",
+        "Zimmer."
+      ],
+      "answer": "Es hängen schöne Gemälde in diesem Zimmer.",
+      "hint": "Des tableaux accrochés au mur exigent le verbe de position « hängen ».",
+      "explanation": "Corrigé 3 : « Es hängen schöne Gemälde in diesem Zimmer. » Le verbe de position « hängen » s'accorde au pluriel avec « schöne Gemälde »."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice 4) Traduisez : « Il y avait dix personnes à la grande table. »",
+      "options": [
+        "Es waren zehn Personen am großen Tisch.",
+        "Es war zehn Personen am großen Tisch.",
+        "Es gab zehn Personen am großen Tisch.",
+        "Es standen zehn Personen am großen Tisch."
+      ],
+      "answer": "Es waren zehn Personen am großen Tisch.",
+      "hint": "Pour préciser un nombre, on emploie « sein » accordé avec le sujet réel (« zehn Personen »).",
+      "explanation": "Corrigé 4 : « Es waren zehn Personen am großen Tisch. » Pour préciser le nombre, on emploie « es ist / es sind » (au prétérit : « es waren ») accordé avec le sujet réel."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice 5) Complétez la traduction de « Il y a une heure (que) nous attendons. » : « ___ einer Stunde warten wir. »",
+      "answer": "Seit",
+      "hint": "L'action commencée dans le passé dure encore dans le présent.",
+      "explanation": "Corrigé 5 : « Seit einer Stunde warten wir. » Lorsque l'action commencée dans le passé dure encore, « il y a ... que » se traduit par « seit » (+ datif)."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice 6) Reconstituez la traduction de : « Il y a deux semaines, nous avons mangé au « Weißen Rößl » (= Cheval Blanc). »",
+      "words": [
+        "Vor",
+        "zwei",
+        "Wochen",
+        "haben",
+        "wir",
+        "im",
+        "« Weißen Rößl »",
+        "gegessen."
+      ],
+      "answer": "Vor zwei Wochen haben wir im « Weißen Rößl » gegessen.",
+      "hint": "Action terminée dans le passé : utilisez « vor » (+ datif pluriel) en tête de phrase, puis inversion verbe-sujet.",
+      "explanation": "Corrigé 6 : « Vor zwei Wochen haben wir im « Weißen Rößl » gegessen. » Pour une action achevée dans le passé, « il y a » temporel se traduit par « vor » (+ datif)."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Dialogue 1 & Vocabulaire) Comment la dame répond-elle « Oui, cela me convient » avec le verbe séparable « zusagen (+ datif) » ?",
+      "options": [
+        "Ja, das sagt mir zu.",
+        "Ja, das sagt mich zu.",
+        "Ja, das zusagt mir.",
+        "Ja, das schlägt mir vor."
+      ],
+      "answer": "Ja, das sagt mir zu.",
+      "hint": "« zusagen » est séparable (la particule « zu » passe en fin de proposition) et régit le datif (« mir »).",
+      "explanation": "Dans le dialogue 1 : « Ja, das sagt mir zu. » Le verbe séparable « zusagen (+ datif) » signifie « plaire, convenir, accepter »."
+    }
+  ]
+}

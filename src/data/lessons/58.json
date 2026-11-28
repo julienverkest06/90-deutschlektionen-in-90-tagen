@@ -1,0 +1,256 @@
+{
+  "id": "58",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Ausflüge",
+  "titleFr": "Excursions",
+  "proverbDe": "Unter den Blinden ist der Einäugige König.",
+  "proverbFr": "Au royaume des aveugles, les borgnes sont roi (Parmi les aveugles, le borgne est roi).",
+  "paragraphs": [
+    {
+      "de": "— Heute ist das Wetter wirklich schön. Seit zwei Tagen regnet es nicht mehr; die Sonne scheint; der Boden ist wohl trocken. Heute nachmittag können wir ein Picknick im Grünen machen, oder wir werden uns ins « Wirtshaus zur Linde » begeben. Bereiten Sie uns doch ein kaltes Mahl, einige belegte Brötchen, Obst, Kaffee in einer Isolierflasche. Wir werden alles in den Rucksack stecken, und Hans wird ihn tragen.",
+      "fr": "Aujourd'hui il fait vraiment beau. Depuis deux jours, il ne pleut plus; le soleil brille; le sol doit être sec (m. à m. : est sans doute sec). Cet après-midi, nous pourrons déjeuner sur l'herbe (m. à m. : faire un pique-nique dans la verdure) ou bien nous nous rendrons dans l'« Auberge du Tilleul ». Préparez-nous donc un repas froid, quelques sandwiches, des fruits, du café dans une bouteille Thermos. Nous mettrons tout cela dans le sac à dos et Jean le portera."
+    },
+    {
+      "de": "— Vergessen Sie Ihre Badehose nicht! — Leider habe ich keine mitgebracht. Könnten Sie mir eine leihen? — Selbstverständlich. Aber fragen Sie doch Hans danach. Er hat ungefähr Ihre Größe. — Kann man hier tauchen? — Gewiß! Hier ist der See drei Meter tief.",
+      "fr": "— N'oubliez pas votre caleçon de bain. — Je n'en ai pas emporté, malheureusement. Pourriez-vous m'en prêter un? — Naturellement. Mais demandez-le donc à Jean. Il a à peu près votre taille. — Est-ce qu'on peut plonger ici? — Certainement. Ici, le lac a une profondeur de trois mètres (m. à m. : est profond de trois mètres)."
+    },
+    {
+      "de": "— Können Sie Schi laufen? — Ist es schon lange her, daß Sie es gelernt haben? — Es hat geschneit. Schade, daß ich meine Schistiefel nicht mitgebracht habe. Die Bahn ist prächtig, und der Schilift ist schon in Betrieb! — Wenn ich das gewußt hätte!",
+      "fr": "— Est-ce que vous savez skier? — Y a-t-il longtemps que vous l'avez appris? — Il a neigé. C'est dommage que je n'ai pas apporté mes chaussures (m. à m. : bottes) de ski. La piste est magnifique, et le téléski fonctionne déjà! (m. à m. : est déjà en fonction). — Si j'avais su (cela)!"
+    }
+  ],
+  "pronunciation": "Notes phonétiques du texte : 1) Mahl [mal] (a long, h muet d'allongement) ; Isolierflasche [izolir-flache] (i long et accentué dans -lier-). 2) Selbstverständlich [zèlbçt-fèrchtèn'tlich] (s initial sonore, v = f, st = cht, accent principal sur -stän-). 3) Schi [chi] (sch = ch, i long). Remarquez aussi le groupe sch dans Schistiefel et Schilift, ainsi que la diphtongue au dans tauchen.",
+  "vocab": [
+    {
+      "de": "der Betrieb (-e)",
+      "fr": "l'activité",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Boden (¨)",
+      "fr": "le sol",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Rucksack (¨-e)",
+      "fr": "le sac à dos",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schi (-er)",
+      "fr": "le ski",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schilift (e)",
+      "fr": "le téléski",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schnee",
+      "fr": "la neige",
+      "info": "Masculin"
+    },
+    {
+      "de": "der See (s, n)",
+      "fr": "le lac",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Stiefel (-)",
+      "fr": "la botte",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Badehose (n)",
+      "fr": "le caleçon de bain",
+      "info": "Féminin"
+    },
+    {
+      "de": "der Badeanzug (¨-e)",
+      "fr": "le maillot de bain",
+      "info": "Masculin"
+    },
+    {
+      "de": "die See (n)",
+      "fr": "la mer",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Bad (¨-er)",
+      "fr": "le bain",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Mahl (-e)",
+      "fr": "le repas",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Obst (sing.)",
+      "fr": "les fruits",
+      "info": "Neutre"
+    },
+    {
+      "de": "baden",
+      "fr": "(se) baigner",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "belegen",
+      "fr": "garnir, couvrir",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "bereiten",
+      "fr": "préparer",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "schneien",
+      "fr": "neiger",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "stecken",
+      "fr": "mettre, enfoncer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "untertauchen",
+      "fr": "plonger",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "emportauchen",
+      "fr": "émerger",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "leihen (ie, ie)",
+      "fr": "prêter, emprunter",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Wenn ich das gewußt hätte! — Le passé du subjonctif 2",
+      "body": "Dans cette phrase, le verbe est au <strong>passé du subjonctif 2</strong>. Cette forme ressemble au plus-que-parfait de l'indicatif (L. 20), cependant, au lieu de <em>ich hatte</em> ou <em>ich war</em>, on se sert de <em>ich hätte</em> ou <em>ich wäre</em> (subjonctif 2)."
+    },
+    {
+      "title": "Le subjonctif dans la phrase exclamative (souhait et regret)",
+      "body": "Le subjonctif peut s'employer dans une phrase exclamative.<br><strong>a) Au présent, 2e forme, il exprime un souhait :</strong><br><em>Wenn ich es nur wüßte!</em> si seulement je le savais!<br><em>Wenn ich nur meine Badehose hätte!</em> si seulement j'avais mon caleçon de bain!<br><em>Wenn ich doch Schi laufen könnte!</em> si seulement je savais faire du ski!<br><strong>Remarque :</strong> Dans ces phrases, on peut également sous-entendre <em>wenn</em>, en faisant l'inversion (cf. L. 38) :<br><em>Wüßte ich es nur! Hätte ich nur meine Badehose!</em><br><br><strong>b) Au passé, 2e forme, il exprime un regret :</strong><br><em>Wenn wir das gewußt hätten!</em> si nous l'avions su!<br><em>Wenn das Wetter doch schöner gewesen wäre!</em> ah! si le temps avait été plus beau!<br><em>Wenn es nur mehr geschneit hätte!</em> si seulement il avait neigé davantage!<br>Là aussi, on peut employer l'inversion :<br><em>Hätte es nur mehr geschneit!</em>"
+    },
+    {
+      "title": "La phrase conditionnelle au passé",
+      "body": "Le <strong>passé du subjonctif 2</strong> s'emploie aussi dans la phrase conditionnelle au passé (cf. L. 45) :<br><em>Wenn es nicht geregnet hätte, hätten wir im Freien gegessen</em>, s'il n'avait pas plu, nous aurions mangé en plein air.<br><em>Wenn Hans nicht gekommen wäre, hätte Ilse den Rucksack getragen</em>, si Hans n'était pas venu, (c'est) Ilse (qui) aurait porté le sac à dos.<br><em>Wenn es geschneit hätte, hätten wir unsere Schier mitgenommen</em>, s'il avait neigé, nous aurions emporté nos skis.<br><em>Wenn der Bademeister nicht untergetaucht wäre, wäre der Junge ertrunken</em>, si le maître-nageur n'avait pas plongé, le garçon se serait noyé."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Exprimez un souhait au subjonctif 2 présent avec le verbe « sein » : « Wenn meine Freunde nur schon da ___! » (Si seulement mes amis étaient déjà là!) (Exercice A.1)",
+      "answer": "wären",
+      "hint": "Conjuguez « sein » au subjonctif 2 présent à la 3e personne du pluriel.",
+      "explanation": "Corrigé (A.1) : « Wenn meine Freunde nur schon da wären! » (Si seulement mes amis étaient déjà là!)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment exprime-t-on le souhait « Ah! s'il y avait davantage de poissons ici! » en sous-entendant « wenn » avec le verbe « geben » ? (Exercice A.2)",
+      "options": [
+        "Gäbe es nur mehr Fische hier!",
+        "Gab es nur mehr Fische hier!",
+        "Gibt es nur mehr Fische hier!",
+        "Es gäbe nur mehr Fische hier!"
+      ],
+      "answer": "Gäbe es nur mehr Fische hier!",
+      "hint": "Sans « wenn », on place le verbe au subjonctif 2 (« gäbe ») en tête de phrase (inversion).",
+      "explanation": "Corrigé (A.2) : « Gäbe es nur mehr Fische hier! » (Ah! s'il y avait davantage de poissons ici!)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Exprimez un souhait au subjonctif 2 présent avec le verbe « leihen » : « Wenn er mir doch seine Schier ___! » (Si seulement il me prêtait ses skis!) (Exercice A.3)",
+      "answer": "liehe",
+      "hint": "Le prétérit de « leihen » est « lieh » ; ajoutez la terminaison du subjonctif 2 à la 3e personne du singulier.",
+      "explanation": "Corrigé (A.3) : « Wenn er mir doch seine Schier liehe! » (Si seulement il me prêtait ses skis!)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Exprimez le regret « Si seulement je n'avais pas oublié mon appareil photographique! » avec « vergessen ». (Exercice B.4)",
+      "options": [
+        "Wenn ich doch meine Kamera nicht vergessen hätte!",
+        "Wenn ich doch meine Kamera nicht vergäße!",
+        "Wenn ich doch meine Kamera nicht vergessen hatte!",
+        "Wenn ich doch meine Kamera nicht vergessen wäre!"
+      ],
+      "answer": "Wenn ich doch meine Kamera nicht vergessen hätte!",
+      "hint": "Le regret s'exprime au passé du subjonctif 2 : participe passé + « hätte ».",
+      "explanation": "Corrigé (B.4) : « Wenn ich doch meine Kamera nicht vergessen hätte! » (Si seulement je n'avais pas oublié mon appareil photographique!)"
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez le regret « Que n'avons-nous trouvé cette clairière tout de suite. » (sans « wenn », avec inversion) (Exercice B.5)",
+      "words": [
+        "Hätten",
+        "wir",
+        "doch",
+        "diese",
+        "Lichtung",
+        "gleich",
+        "gefunden!"
+      ],
+      "answer": "Hätten wir doch diese Lichtung gleich gefunden!",
+      "hint": "Placez l'auxiliaire « Hätten » en première position suivi du sujet « wir » et du participe passé à la fin.",
+      "explanation": "Corrigé (B.5) : « Hätten wir doch diese Lichtung gleich gefunden! » (Que n'avons-nous trouvé cette clairière tout de suite.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Faites une phrase conditionnelle au passé : « Si j'avais emporté mon caleçon de bain, j'aurais nagé dans le lac. » (Exercice C.7)",
+      "options": [
+        "Wenn ich meine Badehose mitgebracht hätte, wäre ich im See geschwommen.",
+        "Wenn ich meine Badehose mitgebracht hatte, war ich im See geschwommen.",
+        "Wenn ich meine Badehose mitgebracht wäre, hätte ich im See geschwommen.",
+        "Wenn ich meine Badehose mitbringen würde, wäre ich im See geschwommen."
+      ],
+      "answer": "Wenn ich meine Badehose mitgebracht hätte, wäre ich im See geschwommen.",
+      "hint": "« mitbringen » se conjugue avec « haben » (« hätte ») et « schwimmen » avec « sein » (« wäre »).",
+      "explanation": "Corrigé (C.7) : « Wenn ich meine Badehose mitgebracht hätte, wäre ich im See geschwommen. » Les deux propositions sont au passé du subjonctif 2."
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez la traduction de « Si seulement le sac à dos n'était pas si lourd! » (Exercice D.10)",
+      "words": [
+        "Wenn",
+        "der",
+        "Rucksack",
+        "nur",
+        "nicht",
+        "so",
+        "schwer",
+        "wäre!"
+      ],
+      "answer": "Wenn der Rucksack nur nicht so schwer wäre!",
+      "hint": "Commencez par « Wenn der Rucksack nur » et rejetez le subjonctif 2 « wäre! » à la fin.",
+      "explanation": "Corrigé (D.10) : « Wenn der Rucksack nur nicht so schwer wäre! »"
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez la traduction de « Si le lac avait été plus profond, nous aurions plongé. » (Exercice D.12)",
+      "words": [
+        "Wenn",
+        "der",
+        "See",
+        "tiefer",
+        "gewesen",
+        "wäre,",
+        "wären",
+        "wir",
+        "getaucht."
+      ],
+      "answer": "Wenn der See tiefer gewesen wäre, wären wir getaucht.",
+      "hint": "Utilisez le passé du subjonctif 2 avec l'auxiliaire « sein » (« gewesen wäre » / « wären ... getaucht »).",
+      "explanation": "Corrigé (D.12) : « Wenn der See tiefer gewesen wäre, wären wir getaucht. » (On peut aussi dire sans « wenn » : « Wäre der See tiefer gewesen, wären wir getaucht. »)"
+    }
+  ]
+}

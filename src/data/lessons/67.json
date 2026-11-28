@@ -3,34 +3,29 @@
   "series": 2,
   "authentic": true,
   "titleDe": "Unterhalt, Sauberkeit",
-  "titleFr": "Entretien, propreté (Parfumerie, teinturerie, droguerie)",
+  "titleFr": "Entretien, propreté",
   "proverbDe": "Neue Besen kehren gut.",
-  "proverbFr": "Tout nouveau, tout beau (Les balais neufs nettoient bien).",
+  "proverbFr": "Tout nouveau, tout beau (Balais neufs nettoient bien).",
   "paragraphs": [
     {
-      "de": "(In der Parfümerie) — Ich möchte Zahnpaste, bitte. — Was für eine Marke? Eine kleine oder eine große Tube? — Geben Sie mir auch eine Zahnbürste, aber ja keine aus Nylon. — Je härter sie ist, desto besser putzt sie, meinen viele Käufer.",
-      "fr": "(Dans la parfumerie) — Je voudrais de la pâte dentifrice, s'il vous plaît. — Quelle marque ? Un petit ou un grand tube ? — Donnez-moi également une brosse à dents, mais pas en nylon surtout. — Plus elle est dure, mieux elle nettoie, pensent beaucoup d'acheteurs."
+      "de": "(In der Parfümerie) — Ich möchte Zahnpaste, bitte. — Was für eine Marke? Eine kleine oder eine große Tube? — Geben Sie mir auch eine Zahnbürste, aber ja keine aus Nylon. — Ich kann Ihnen einen ausgezeichneten Artikel anbieten. Soll sie hart oder eher weich sein? Je härter sie ist, desto besser putzt sie, meinen viele Käufer.",
+      "fr": "(Dans la parfumerie) — Je voudrais de la pâte dentifrice, s'il vous plaît. — Quelle marque ? un petit ou un grand tube ? — Donnez-moi également une brosse à dents, mais pas en nylon surtout. — Je puis vous offrir un excellent article. Doit-elle être dure ou plutôt douce ? Plus elle est dure, mieux elle nettoie, pensent beaucoup d'acheteurs."
     },
     {
-      "de": "(In der Färberei) — Hier bringe ich einen Anzug. — Was ist zu tun? — Reinigen und bügeln. Von Hand, bitte. — O! hier sehe ich Flecken. Es sind keine Fettflecken; ich glaube, es sind Obstflecken.",
-      "fr": "(Dans la teinturerie) — Voici un complet. — Que faut-il faire ? — Le nettoyer et le repasser. À la main, s'il vous plaît. — Ah ! je vois ici des taches. Ce ne sont pas des taches de graisse ; je crois que ce sont des taches de fruit."
+      "de": "(In der Färberei) — Hier bringe ich einen Anzug. — Was ist zu tun? — Reinigen und bügeln. Von Hand, bitte. — O! hier sehe ich Flecken. Es sind keine Fettflecken. Wissen Sie, was es ist? — Ich glaube, es sind Obstflecken. Ich habe nichts damit versucht, aus Angst, ich könnte Schaden anrichten. Ich lasse Ihnen auch ein Paar Handschuhe und einen Schal zum Reinigen zurück. Wollen Sie dann noch diese Hose aufbügeln; achten Sie bitte auf eine gute Bügelfalte. Aber bürsten Sie sie vorher gründlich aus.",
+      "fr": "(Dans la teinturerie) — Voici un complet (m. à m. : ici j'apporte...) — Que faut-il faire ? — (Le) nettoyer et (le) repasser. À la main, s'il vous plaît. — Ah ! je vois ici des taches. Ce ne sont pas des taches de graisse. Savez-vous ce que c'est ? — Je crois que ce sont des taches de fruit. Je n'y ai pas touché (m. à m. : je n'ai rien essayé avec) de peur de causer des dégâts (m. à m. : que je puisse causer... (suppression de daß)). Je vous laisse aussi une paire de gants et un châle à détacher. Puis, veuillez donner également un coup de fer à ce pantalon ; faites attention à bien marquer le pli. Mais auparavant, donnez un bon coup de brosse."
     },
     {
-      "de": "(Beim Drogisten) — Ich möchte einen Fleckenreiniger, bitte. Eine Creme wäre mir lieber. — Hier habe ich ein neues Mittel. Die Gebrauchsanweisung liegt bei.",
-      "fr": "(Chez le droguiste) — Je voudrais un détachant s'il vous plaît. Je préférerais une crème. — Voici quelque chose de nouveau. La notice d'emploi est jointe."
+      "de": "(Beim Drogisten) — Ich möchte einen Fleckenreiniger, bitte. — Eine Creme oder eine Flüssigkeit? — Eine Creme wäre mir lieber. — Hier habe ich ein neues Mittel. Ich glaube, es ist sehr wirksam. Die Gebrauchsanweisung liegt bei. — Was für ein Pflegemittel für Lederwaren haben Sie? Und was für ein Waschmittel für Diolen-Hemden? — Wo könnte ich meine Wäsche waschen lassen?",
+      "fr": "(Chez le droguiste) — Je voudrais un détachant s'il vous plaît. — Une crème ou un liquide ? — Je préférerais une crème. — Voici quelque chose de nouveau. Je crois que c'est très efficace. La notice d'emploi est jointe. — Qu'est-ce que vous avez pour entretenir les cuirs ? (m. à m. : Quel produit d'entretien pour les cuirs avez-vous ?) Et quelle lessive pour chemises de Tergal ? — Où pourrais-je faire blanchir mon linge ?"
     }
   ],
-  "pronunciation": "Notez l'expression proportionnelle : « Je härter sie ist, desto besser putzt sie » (Plus elle est dure, mieux elle nettoie).",
+  "pronunciation": "Points d'attention de cette leçon : les noms en -ie, -erei et -ist portent l'accent tonique sur la finale (« die Parfümerie », « die Färberei », « der Drogist »). Distinguez bien les voyelles longues et brèves dans « bügeln » (ü long) face à « bürsten » et « die Flüssigkeit » (ü bref). La terminaison -ig devant consonne dans « die Flüssigkeit » se prononce comme -ich ([ɪç]), comme dans « gründlich ». Enfin, dans les composés longs (« die Gebrauchsanweisung », « der Fleckenreiniger », « die Bügelfalte »), l'accent principal reste sur le premier élément.",
   "vocab": [
     {
-      "de": "die Zahnpaste / Zahnbürste",
-      "fr": "le dentifrice / la brosse à dents",
-      "info": "Féminin"
-    },
-    {
-      "de": "die Färberei (-en)",
-      "fr": "la teinturerie, le pressing",
-      "info": "Féminin"
+      "de": "der Drogist (en, en)",
+      "fr": "le droguiste",
+      "info": "Masculin faible"
     },
     {
       "de": "der Flecken (-)",
@@ -38,48 +33,164 @@
       "info": "Masculin"
     },
     {
-      "de": "bügeln / bürsten",
-      "fr": "repasser / brosser",
-      "info": "Verbes réguliers"
+      "de": "der Handschuh (-e)",
+      "fr": "le gant",
+      "info": "Masculin"
     },
     {
-      "de": "die Gebrauchsanweisung",
-      "fr": "le mode d'emploi, la notice",
+      "de": "der Schaden (¨)",
+      "fr": "le dommage",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Färberei (en)",
+      "fr": "la teinturerie",
       "info": "Féminin"
+    },
+    {
+      "de": "das Paar (-e)",
+      "fr": "la paire, le couple",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Gebrauch (¨-e)",
+      "fr": "l'usage",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Anweisung (en)",
+      "fr": "l'indication",
+      "info": "Féminin"
+    },
+    {
+      "de": "bügeln",
+      "fr": "repasser",
+      "info": "Verbe"
+    },
+    {
+      "de": "bürsten",
+      "fr": "brosser",
+      "info": "Verbe"
+    },
+    {
+      "de": "zurückgeben (a, e, i)",
+      "fr": "rendre",
+      "info": "Verbe fort séparable"
     }
   ],
   "grammar": [
     {
-      "title": "La proportionnelle : je + comparatif ... desto + comparatif",
-      "body": "<em>Je härter sie ist, desto besser putzt sie</em> (Plus elle est dure, mieux elle nettoie). Le verbe est rejeté après <em>je</em>, et placé juste après <em>desto + comparatif</em>."
+      "title": "Verbes irréguliers en ie-o-o (Ich kann Ihnen diesen Artikel anbieten.)",
+      "body": "<em>An/bieten, bieten</em>, offrir, proposer. Prétérit : <em>ich bot (an)</em>, j'offris, j'offrais. Passé composé : <em>ich habe (an)geboten</em>, j'ai offert.<br><br>Appartiennent au groupe de verbes irréguliers en <strong>ie-o-o</strong> (l'astérisque * signale l'auxiliaire <em>sein</em>) :<br><strong>biegen (o, o)</strong>, plier — <strong>schießen (o, o)</strong>, tirer (arme)<br><strong>*fliegen (o, o)</strong>, voler — <strong>schließen (o, o)</strong>, fermer<br><strong>*fliehen (o, o)</strong>, fuir — <strong>*sprießen (o, o)</strong>, bourgeonner<br><strong>*fließen (o, o)</strong>, couler — <strong>verdrießen (o, o)</strong>, contrarier<br><strong>frieren (o, o)</strong>, geler — <strong>verlieren (o, o)</strong>, perdre<br><strong>genießen (o, o)</strong>, jouir — <strong>wiegen (o, o)</strong>, peser<br><strong>gießen (o, o)</strong>, verser — <strong>ziehen (o, o)</strong>, tirer ; s'en aller<br><strong>*kriechen (o, o)</strong>, ramper — <strong>betrügen (o, o)</strong>, tromper<br><strong>riechen (o, o)</strong>, sentir — <strong>lügen (o, o)</strong>, mentir<br><strong>schieben (o, o)</strong>, pousser"
+    },
+    {
+      "title": "Remarque : auxiliaire de ziehen (haben ou sein)",
+      "body": "<em>Das Pferd hat den Wagen gezogen</em>, le cheval a tiré la voiture (verbe <strong>transitif</strong>, auxiliaire <strong>haben</strong>).<br><br><em>Die Schwalben sind nach Süden gezogen</em>, les hirondelles sont parties vers le sud (verbe <strong>intransitif de direction</strong> : auxiliaire <strong>sein</strong>)."
+    },
+    {
+      "title": "La corrélation je..., desto... (Je härter sie ist, desto besser putzt sie.)",
+      "body": "<strong>Je...</strong> (subordonnée), <strong>desto...</strong> (principale) : <em>plus... plus...</em><br><br>Après <em>je..., desto...</em>, on emploie le <strong>comparatif</strong> :<br><em>Je höher wir stiegen, desto blauer wurde der Himmel</em>, plus nous montions, plus le ciel devenait bleu.<br>Notez le <strong>rejet du verbe</strong> après <em>je</em>, et l'<strong>inversion</strong> après <em>desto</em>.<br><br>Avec un verbe, on emploie <strong>je mehr..., desto mehr...</strong> :<br><em>Je mehr sie sprach, desto mehr lächelten die Zollbeamten</em>, plus elle parlait, plus les douaniers souriaient."
+    },
+    {
+      "title": "Les noms féminins en -keit / -heit (Die Flüssigkeit)",
+      "body": "<em>Die Flüssigkeit</em>, le liquide.<br>Avec le suffixe <strong>-keit</strong> (ou : <strong>-heit</strong>) on forme des <strong>noms féminins</strong> qui marquent un état.<br><br>Exemples : <em>die Dankbarkeit</em>, la reconnaissance ; <em>die Schönheit</em>, la beauté."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Que signifie « bügeln » dans le dialogue chez le teinturier ?",
+      "prompt": "(Exercice A.1) Mettez au passé composé : « Der Laden schloß um halb sieben. »",
       "options": [
-        "Repasser",
-        "Brosser",
-        "Teindre",
-        "Blanchir"
+        "Der Laden hat um halb sieben geschlossen.",
+        "Der Laden ist um halb sieben geschlossen.",
+        "Der Laden hat um halb sieben geschloßen.",
+        "Der Laden hat um halb sieben geschließt."
       ],
-      "answer": "Repasser",
-      "hint": "« Reinigen und bügeln » = nettoyer et repasser.",
-      "explanation": "bügeln = repasser."
+      "answer": "Der Laden hat um halb sieben geschlossen.",
+      "hint": "schließen (o, o) prend l'auxiliaire haben ; après voyelle brève devant -en, on écrit ss (geschlossen).",
+      "explanation": "Corrigé A.1 : « Le magasin fermait à 6 h 1/2. a) Der Laden schließt um halb sieben. b) Der Laden hat um halb sieben geschlossen. »"
     },
     {
       "type": "choice",
-      "prompt": "Traduisez le proverbe : « Neue Besen kehren gut. »",
+      "prompt": "(Exercice A.4) Mettez au passé composé : « Sie zogen in ferne Länder. »",
       "options": [
-        "Les balais neufs nettoient bien (Tout nouveau, tout beau).",
-        "Il faut balayer devant sa porte.",
-        "La propreté est une vertu.",
-        "Les taches de fruits partent vite."
+        "Sie sind in ferne Länder gezogen.",
+        "Sie haben in ferne Länder gezogen.",
+        "Sie sind in ferne Länder gezieht.",
+        "Sie haben in ferne Länder gezogt."
       ],
-      "answer": "Les balais neufs nettoient bien (Tout nouveau, tout beau).",
-      "hint": "der Besen = le balai ; kehren = balayer.",
-      "explanation": "Neue Besen kehren gut."
+      "answer": "Sie sind in ferne Länder gezogen.",
+      "hint": "Ici, ziehen est intransitif de direction (« partir vers ») : il prend donc l'auxiliaire sein.",
+      "explanation": "Corrigé A.4 : « Ils sont partis dans des pays lointains. a) Sie ziehen in ferne Länder. b) Sie sind in ferne Länder gezogen. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.5) Mettez au passé composé : « Du zogst das Boot an das Ufer. »",
+      "answer": "Du hast das Boot an das Ufer gezogen.",
+      "hint": "Ici, ziehen a un complément d'objet direct (das Boot) : verbe transitif, donc auxiliaire haben.",
+      "explanation": "Corrigé A.5 : « Tu as tiré la barque sur la berge. a) Du ziehst das Boot an das Ufer. b) Du hast das Boot an das Ufer gezogen. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.6) Formez une phrase avec « je ..., desto ... » : « Er wird alt; er wird bescheiden. »",
+      "answer": "Je älter er wird, desto bescheidener wird er.",
+      "hint": "Comparatif de alt = älter ; rejet du verbe après je et inversion après desto.",
+      "explanation": "Corrigé B.6 : « Je älter er wird, desto bescheidener wird er. Plus il prend de l'âge, plus il est modeste. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.8) Reliez avec « je ..., desto ... » : « Die Sonne scheint warm; der Wein wird gut. »",
+      "words": [
+        "Je",
+        "wärmer",
+        "die",
+        "Sonne",
+        "scheint,",
+        "desto",
+        "besser",
+        "wird",
+        "der",
+        "Wein."
+      ],
+      "answer": "Je wärmer die Sonne scheint, desto besser wird der Wein.",
+      "hint": "warm → wärmer ; gut → besser. Verbe en fin de subordonnée après je, puis verbe conjugué juste après desto besser.",
+      "explanation": "Corrigé B.8 : « Je wärmer die Sonne scheint, desto besser wird der Wein. Plus le soleil est chaud, plus le vin sera bon. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.10) Traduisez : « Où avez-vous perdu votre gant neuf ? »",
+      "words": [
+        "Wo",
+        "haben",
+        "Sie",
+        "Ihren",
+        "neuen",
+        "Handschuh",
+        "verloren?"
+      ],
+      "answer": "Wo haben Sie Ihren neuen Handschuh verloren?",
+      "hint": "verlieren (o, o) ne prend pas de ge- (préfixe inséparable ver-) ; der Handschuh est masculin accusatif.",
+      "explanation": "Corrigé C.10 : « Wo haben Sie Ihren neuen Handschuh verloren? »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice C.11) Traduisez au passif futur : « Quand mon pantalon sera-t-il repassé ? »",
+      "options": [
+        "Wann wird meine Hose gebügelt werden?",
+        "Wann wird meine Hose gebügelt?",
+        "Wann ist meine Hose gebügelt worden?",
+        "Wann werde meine Hose gebügelt werden?"
+      ],
+      "answer": "Wann wird meine Hose gebügelt werden?",
+      "hint": "Passif au futur : werden (conjugué) + participe passé (gebügelt) + werden (infinitif).",
+      "explanation": "Corrigé C.11 : « Wann wird meine Hose gebügelt werden? (passif). »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice C.12) Complétez le participe passé de « lügen » : « Du hast mich sehr verdrossen, aber ich weiß, du hast nicht ___. »",
+      "answer": "gelogen",
+      "hint": "lügen appartient au groupe en (o, o) : lügen, log, gelogen.",
+      "explanation": "Corrigé C.12 : « Du hast mich sehr verdrossen, aber ich weiß, du hast nicht gelogen. » (Tu m'as beaucoup contrarié, mais je sais que tu n'as pas menti.)"
     }
   ]
 }

@@ -2,84 +2,188 @@
   "id": "23",
   "series": 1,
   "authentic": true,
-  "titleDe": "Déclinaison forte de l'adjectif et subordonnée (daß)",
-  "titleFr": "Adjectif sans article et conjonction « que »",
-  "proverbDe": "Frische Luft macht frisches Blut.",
-  "proverbFr": "L'air frais fait le sang frais.",
+  "titleDe": "Das Fernsehen",
+  "titleFr": "La télévision",
+  "proverbDe": "Erst die Arbeit, dann das Spiel.",
+  "proverbFr": "D'abord le travail, ensuite le jeu.",
   "paragraphs": [
     {
-      "de": "Es gibt oft lange Diskussionen. Sie trinken guten Wein oder frisches Bier. Frische Luft und rote Rosen erfreuen das Herz.",
-      "fr": "Il y a souvent de longues discussions. Ils boivent du bon vin ou de la bière fraîche. L'air frais et les roses rouges réjouissent le cœur."
+      "de": "Darf ich Sie heute abend zum Fernsehen einladen? — Ja, vielen Dank. Was steht auf dem Programm? — Es ist eine interessante Sendung über die Tierwelt im Abendprogramm. — Da dürfen Ihre Kinder wohl auch fernsehen? — Ja, solche Sendungen sind oft lehrreich.",
+      "fr": "— Puis-je vous inviter ce soir à (venir regarder) la télévision? — Oui, merci beaucoup. Qu'y a-t-il au programme? (mot à mot : qu'est-ce qui se trouve sur le programme?) — Au programme de la soirée, il y a une émission intéressante sur le monde des animaux. — Alors vos enfants pourront (mot à mot : ont le droit de) sans doute également (la) regarder? — Oui, de telles émissions sont souvent instructives."
     },
     {
-      "de": "Er sagt, daß er nach Paris fahren will. Wir sahen, daß wir keine Sklaven geworden waren.",
-      "fr": "Il dit qu'il veut aller à Paris. Nous vîmes que nous n'étions pas devenus des esclaves."
+      "de": "Lange wollten wir das Fernsehen nicht haben, weil wir nur die Nachteile sahen. Man sagte uns, daß die Kinder keine Lust zur Arbeit mehr haben. Wir hörten auch, daß das Fernsehen das Gespräch in den Familien unmöglich macht. Aber wir hatten schon lange ein Radio, später auch ein Koffergerät, und wir sahen, daß wir keine Sklaven der Technik geworden waren.",
+      "fr": "Longtemps, nous ne voulions pas (avoir) la télévision, parce que nous ne (= n'en) voyions que les inconvénients. On nous disait que les enfants n'ont plus aucune envie de travailler (mot à mot : envie pour le travail). Nous entendions également que la télévision rend impossible les conversations dans les familles. Mais nous avions déjà longtemps une radio, plus tard également un poste portatif, et nous avons remarqué que nous n'étions pas devenus des esclaves de la technique."
+    },
+    {
+      "de": "— Eine gewisse Disziplin gehört aber doch dazu! — Natürlich! Wir wählen unser Programm sorgfältig aus. Wir erfreuen uns an schönen Theaterstücken oder Filmen. Oft gibt es dann lange Diskussionen über diese oder jene Sendung. An manchen Tagen aber machen wir das Gerät gar nicht an. So haben wir nicht den Eindruck, daß fremde Stimmen in unserem Hause herrschen.",
+      "fr": "— Mais il y faut quand même une certaine discipline! — Bien sûr. Nous choisissons notre programme soigneusement. Nous prenons plaisir à de belles pièces de théâtre ou à de beaux films. Souvent, il y a de longues discussions ensuite sur telle ou telle (mot à mot : celle-ci ou celle-là) émission. Certains jours nous n'allumons même pas l'appareil. Aussi nous n'avons pas l'impression que des voix étrangères règnent dans notre maison."
     }
   ],
-  "pronunciation": "Le « j » allemand (ja, jedes Jahr, die Jüngeren) ne se prononce jamais comme le j français, mais comme le « y » dans « yeux ».",
+  "pronunciation": "Le son de notre « j » français (« jouer, jamais ») n'existe pas dans les mots allemands, sauf dans les mots étrangers, comme « Ingenieur ». La lettre j se prononce comme le « y » dans « yeux ». Vous le prononcerez ainsi dans : ja, jedes Jahr, die Jüngeren. Repères phonétiques du texte : Fernsehen [fèrn'zé/en'], Sendung [zèn'doung], lehrreich [lér/raéch] ; Nachteile [nartaéle], Gespräch [géchprèch], unmöglich [oun'/meuglich], Sklaven [çklafen'] ; Disziplin [diçtçiplin], wählen [vèlen'], sorgfältig [zorkfèltich], Theaterstücken [téater/chtuken'].",
   "vocab": [
     {
-      "de": "daß (dass)",
-      "fr": "que (conjonction)",
-      "info": "Rejet du verbe à la fin"
+      "de": "der Eindruck (¨-e)",
+      "fr": "l'impression",
+      "info": "Masculin"
     },
     {
-      "de": "das Fernsehgerät (-e)",
-      "fr": "le poste de télévision",
-      "info": "Neutre"
+      "de": "der Koffer (-)",
+      "fr": "la malle",
+      "info": "Masculin"
     },
     {
-      "de": "die Sendung (-en)",
-      "fr": "l'émission",
+      "de": "der Nachteil (-e)",
+      "fr": "l'inconvénient",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Sklave (n)",
+      "fr": "l'esclave",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Vorteil (-e)",
+      "fr": "l'avantage",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Diskussion (en)",
+      "fr": "la discussion",
       "info": "Féminin"
     },
     {
-      "de": "stehen → stand, gestanden",
-      "fr": "être debout (temps primitifs)",
-      "info": "Auxiliaire haben"
+      "de": "die Disziplin",
+      "fr": "la discipline",
+      "info": "Féminin"
     },
     {
-      "de": "sitzen → saß, gesessen",
-      "fr": "être assis (temps primitifs)",
-      "info": "Auxiliaire haben"
+      "de": "die Lust",
+      "fr": "l'envie, le plaisir",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Sendung (-en)",
+      "fr": "l'émission, l'envoi",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Stimme (n)",
+      "fr": "la voix",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Technik",
+      "fr": "la technique",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Fernsehen",
+      "fr": "la télévision",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Gespräch (-e)",
+      "fr": "la conversation",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Gerät (-e)",
+      "fr": "l'appareil",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Programm (-e)",
+      "fr": "le programme",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Radio (s)",
+      "fr": "la radio",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Stück (-e)",
+      "fr": "la pièce",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Tier (-e)",
+      "fr": "l'animal",
+      "info": "Neutre"
+    },
+    {
+      "de": "anmachen",
+      "fr": "allumer (radio)",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "ausmachen",
+      "fr": "fermer (radio)",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "auswählen",
+      "fr": "choisir",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "schauen",
+      "fr": "regarder",
+      "info": "Verbe faible"
     }
   ],
   "grammar": [
     {
-      "title": "La déclinaison forte de l'adjectif épithète",
-      "body": "Quand l'adjectif n'est précédé d'aucun article, il prend les terminaisons de l'article défini (<em>der, die, das; die</em>), sauf au génitif masc./neutre où il prend <strong>-en</strong> : <em>guter Wein</em> (N.m), <em>frisches Bier</em> (N/A.n), <em>rote Rosen</em> (N/A.pl), <em>bei schönem Wetter</em> (D.n)."
+      "title": "Es gibt oft lange Diskussionen. — La déclinaison forte de l'adjectif épithète",
+      "body": "Quand l'adjectif épithète n'est pas précédé d'un article ou d'un déterminatif, il prend partout les terminaisons de l'article défini (<em>der, die, das ; die</em>) sauf au génitif masculin et neutre singulier, où il prend <em>-en</em>. Dans ces tournures, l'adjectif remplace en quelque sorte l'article.<br><br><strong>Déclinaison (Masculin / Féminin / Neutre / Pluriel) :</strong><br><strong>N.</strong> <em>guter</em> / <em>gute</em> / <em>gutes</em> / <em>gute</em><br><strong>G.</strong> <strong><em>guten</em></strong> / <em>guter</em> / <strong><em>guten</em></strong> / <em>guter</em><br><strong>D.</strong> <em>gutem</em> / <em>guter</em> / <em>gutem</em> / <em>guten</em><br><strong>A.</strong> <em>guten</em> / <em>gute</em> / <em>gutes</em> / <em>gute</em><br><br>La déclinaison forte s'emploie surtout avec des noms pris dans un sens partitif, ou au pluriel indéfini. Exemples :<br><em>Guter Wein</em> (Masc. : nominatif), du bon vin<br><em>Frische Luft</em> (Fém.), de l'air frais<br><em>Helles Bier</em> (Ntre), de la bière blonde (= claire)<br><em>Rote Rosen</em> (plur.), des roses rouges"
+    },
+    {
+      "title": "Wir sahen, daß wir keine Sklaven geworden waren. — La subordonnée introduite par daß, que",
+      "body": "Beaucoup de propositions subordonnées sont introduites par <em>daß</em>, que. La construction est la même qu'après <em>weil</em>, parce que, et qu'après tout autre terme subordonnant : le verbe est rejeté à la fin de la proposition (voir L. 22)."
+    },
+    {
+      "title": "Temps primitifs des verbes forts (voir L. 20)",
+      "body": "<em>stehen</em>, être debout — <em>stand, gestanden</em><br><em>sitzen</em>, être assis — <em>saß, gesessen</em><br><em>liegen</em>, être couché — <em>lag, gelegen</em><br><em>hängen</em>, être accroché — <em>hing, gehangen</em><br><br>Au passé composé, ces verbes prennent l'auxiliaire <em>haben</em>. Ex. :<br><em>Der Wagen hat lange in der Garage gestanden</em>, la voiture est restée (mot à mot : a été debout) longtemps au garage."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Déclinaison forte (Exercice A.1) : « Sie trinken ___ Wein oder ___ Bier. » (der Wein / das Bier)",
-      "options": [
-        "guten / frisches",
-        "guter / frisches",
-        "guten / frische",
-        "gutem / frischem"
-      ],
-      "answer": "guten / frisches",
-      "hint": "Accusatif sans article : masculin → -en (guten), neutre → -es (frisches).",
-      "explanation": "guten Wein oder frisches Bier."
-    },
-    {
-      "type": "choice",
-      "prompt": "Déclinaison forte au datif (Exercice A.3) : « Bei ___ Wetter machen wir Camping. » (das Wetter)",
+      "prompt": "Complétez l'adjectif à la déclinaison forte : Bei ___ Wetter machen wir Camping. (Exercice A.3)",
       "options": [
         "schönem",
-        "schönes",
         "schönen",
+        "schönes",
         "schöner"
       ],
       "answer": "schönem",
-      "hint": "« bei » + datif neutre sans article → terminaison -em.",
-      "explanation": "Bei schönem Wetter."
+      "hint": "La préposition « bei » régit le datif, et « das Wetter » est neutre singulier sans article.",
+      "explanation": "Corrigé A.3 : Bei schönem Wetter machen wir Camping. (Par beau temps nous faisons du camping.) À la déclinaison forte, le datif neutre singulier prend -em (comme « dem »)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez avec l'adjectif décliné : Sie trinken ___ Wein oder frisches Bier. (Exercice A.1)",
+      "answer": "guten",
+      "hint": "« der Wein » est masculin singulier, complément d'objet direct (accusatif) sans article.",
+      "explanation": "Corrigé A.1 : Sie trinken guten Wein oder frisches Bier. (Ils boivent du bon vin ou de la bière fraîche.) À l'accusatif masculin singulier, la déclinaison forte prend -en."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quelle forme complète correctement la phrase : ___ Äpfel hingen am Baum. ? (Exercice A.5)",
+      "options": [
+        "Gelbe",
+        "Gelben",
+        "Gelber",
+        "Gelbes"
+      ],
+      "answer": "Gelbe",
+      "hint": "« Äpfel » est au nominatif pluriel indéfini (sans article).",
+      "explanation": "Corrigé A.5 : Gelbe Äpfel hingen am Baum. (Des pommes jaunes étaient suspendues à l'arbre.) Au nominatif pluriel de la déclinaison forte, l'adjectif prend -e."
     },
     {
       "type": "order",
-      "prompt": "Réunissez par daß (Exercice B.6) : « Er will nach Paris fahren; er sagt es. »",
+      "prompt": "Réunissez les deux propositions par « daß » en supprimant « es » : Er will nach Paris fahren; er sagt es. (Exercice B.6)",
       "words": [
         "Er",
         "sagt,",
@@ -91,8 +195,63 @@
         "will."
       ],
       "answer": "Er sagt, daß er nach Paris fahren will.",
-      "hint": "Supprimez « es » et rejetez le verbe conjugué « will » à la fin.",
-      "explanation": "Er sagt, daß er nach Paris fahren will."
+      "hint": "Dans une subordonnée introduite par « daß », le verbe conjugué (« will ») est rejeté tout à la fin.",
+      "explanation": "Corrigé B.6 : Er sagt, daß er nach Paris fahren will. (Il dit qu'il veut aller à Paris.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Réunissez les deux propositions par « daß » en supprimant « es » : Die Sendung wird interessant sein; er glaubt es. (Exercice B.8)",
+      "words": [
+        "Er",
+        "glaubt,",
+        "daß",
+        "die",
+        "Sendung",
+        "interessant",
+        "sein",
+        "wird."
+      ],
+      "answer": "Er glaubt, daß die Sendung interessant sein wird.",
+      "hint": "Supprimez « es » et placez l'auxiliaire conjugué « wird » tout à la fin, après « sein ».",
+      "explanation": "Corrigé B.8 : Er glaubt, daß die Sendung interessant sein wird. (Il croit que l'émission sera intéressante.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au passé composé : Das Fernsehgerät steht auf dem Tisch. → Das Fernsehgerät hat auf dem Tisch ___. (Exercice C.9)",
+      "answer": "gestanden",
+      "hint": "Temps primitifs de « stehen » : stehen – stand – gestanden.",
+      "explanation": "Corrigé C.9 : b) Das Fernsehgerät hat auf dem Tisch gestanden. (Prétérit : Das Fernsehgerät stand auf dem Tisch.) Les verbes stehen, sitzen, liegen et hängen prennent l'auxiliaire haben."
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment met-on « Ich sitze vor dem Radio. » a) au prétérit et b) au passé composé ? (Exercice C.11)",
+      "options": [
+        "Ich saß vor dem Radio. / Ich habe vor dem Radio gesessen.",
+        "Ich sitzte vor dem Radio. / Ich bin vor dem Radio gesitzt.",
+        "Ich saß vor dem Radio. / Ich bin vor dem Radio gesessen.",
+        "Ich stand vor dem Radio. / Ich habe vor dem Radio gestanden."
+      ],
+      "answer": "Ich saß vor dem Radio. / Ich habe vor dem Radio gesessen.",
+      "hint": "Temps primitifs de « sitzen » : sitzen – saß – gesessen, avec l'auxiliaire « haben ».",
+      "explanation": "Corrigé C.11 : a) Ich saß vor dem Radio. b) Ich habe vor dem Radio gesessen. (Je suis assis devant la radio.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez : « Avez-vous l'impression que ce film est vieux ? » (Exercice D.14)",
+      "words": [
+        "Haben",
+        "Sie",
+        "den",
+        "Eindruck,",
+        "daß",
+        "dieser",
+        "Film",
+        "alt",
+        "ist?"
+      ],
+      "answer": "Haben Sie den Eindruck, daß dieser Film alt ist?",
+      "hint": "« avoir l'impression » = den Eindruck haben ; rejetez « ist » à la fin après « daß ».",
+      "explanation": "Corrigé D.14 : Haben Sie den Eindruck, daß dieser Film alt ist?"
     }
   ]
 }

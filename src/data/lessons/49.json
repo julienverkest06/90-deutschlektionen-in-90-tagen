@@ -1,0 +1,315 @@
+{
+  "id": "49",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Der Arzt",
+  "titleFr": "Le médecin",
+  "proverbDe": "Man soll den Teufel nicht an die Wand malen.",
+  "proverbFr": "Il ne faut pas tenter le diable (On ne doit pas peindre le diable au mur).",
+  "paragraphs": [
+    {
+      "de": "Wenn wir uns nicht wohl fühlen, können wir uns meistens selbst pflegen. Gegen Kopfschmerzen nehmen wir eine Tablette. Haben wir uns erkältet und husten wir, so kaufen wir Hustenbonbons. In allen Apotheken werden Heilmittel gegen Grippe und Schnupfen verkauft, sowie Thermometer, um das Fieber zu messen. Gegen Schmerzen oder Rheuma gibt es Flüssigkeiten, mit denen wir uns einreiben können. Mit Kapseln oder mit Pulver, das im Wasser aufgelöst wird, lindern wir die Magenschmerzen.",
+      "fr": "Lorsque nous ne sommes (m. à m. : nous sentons) pas bien, nous sommes le plus souvent capables de nous soigner nous-mêmes. Pour les maux de tête, nous prenons un comprimé. Si nous avons pris froid et que nous toussons, nous achetons des bonbons contre la toux. Dans toutes les pharmacies, on vend des remèdes contre la grippe et le rhume de cerveau, ainsi que des thermomètres pour prendre la fièvre. Pour les douleurs ou les rhumatismes, il existe des liquides et des pommades, avec lesquelles nous pouvons nous frictionner. Avec des cachets et des poudres à dissoudre dans l'eau, nous soulageons les maux d'estomac."
+    },
+    {
+      "de": "Wenn wir richtig krank sind, ziehen wir lieber einen Arzt zu Rate, vor allem wenn wir die Berufstätigkeit unterbrechen müssen. Können wir unsere Wohnung verlassen, so suchen wir den Arzt zu den Sprechzeiten in seiner Praxis auf. Wenn wir aber das Zimmer hüten müssen, bitten wir ihn, zu uns nach Hause zu kommen.",
+      "fr": "Si nous sommes vraiment malades, nous préférons consulter un médecin, surtout si nous devons interrompre nos activités professionnelles. Si nous pouvons nous déplacer, nous allons voir le médecin dans son cabinet aux heures de consultation. Mais si nous devons garder la chambre, nous le prions de venir (nous voir) à domicile."
+    },
+    {
+      "de": "Der Arzt verschreibt ein Rezept. Darauf notiert er die Arzneien, die wir einnehmen müssen; manchmal müssen wir eine Diät einhalten. Der Apotheker fertigt das Rezept an.",
+      "fr": "Le médecin rédige une ordonnance. Il y note les médicaments que nous devons prendre; parfois nous devons nous mettre au régime (m. à m. : tenir un régime). C'est le pharmacien qui exécute l'ordonnance."
+    },
+    {
+      "de": "Lecture — Neuralgie : Ein bekannter Arzt wird zu seinem Verdruß von eingebildeten Kranken aus der sogenannten besten Gesellschaft geradezu überlaufen. Insbesondere belästigt ihn oft eine Dame mit ihren imaginären Leiden. Eines Tages aber ist sie tatsächlich erkrankt. « Sie haben Neuralgie », stellt der Professor fest. « Ach, wie interessant... Aber woher kommt Neuralgie? » fragt sie, bereits unter der Tür. « Aus dem Griechischen! » knurrt der Arzt und schiebt sie sanft hinaus. (Aus der Schweizer Illustrierten Zeitung.)",
+      "fr": "Lecture — Neuralgie : A son grand déplaisir, un médecin renommé est littéralement assiégé par des malades imaginaires venant de la soi-disant bonne (m. à m. : meilleure) société. Une dame en particulier l'importune souvent de ses maux imaginaires. Mais voici qu'un jour elle est réellement tombée malade. « Vous avez de la neuralgie », constate le médecin. « Ah! comme c'est intéressant... Mais d'où vient donc la neuralgie? » demande-t-elle, déjà sur le pas de la porte. « Du grec! » grogne le médecin en la poussant doucement en dehors."
+    }
+  ],
+  "pronunciation": "Indications phonétiques de la leçon : 1. Arzt [artçt] (a long) ; Kopfschmerzen [kopf-chmèrtçen'] ; Schnupfen [chnou-pfen'] — 2. Berufstätigkeit [béroufç-tètichkaét] (ä long) — 3. Rezept [rétçèpt] ; Arzneien [artçnaé-en']. Remarquez la prononciation affriquée de « z » [tç] (ts) dans Arzt, Schmerzen, Rezept, Arzneien et du groupe « pf » dans Kopfschmerzen et Schnupfen.",
+  "vocab": [
+    {
+      "de": "der Apotheker (-)",
+      "fr": "le pharmacien",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Arzt (¨-e)",
+      "fr": "le médecin",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Magen (-)",
+      "fr": "l'estomac",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Rat (die Ratschläge)",
+      "fr": "le conseil (avis)",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schmerz (es, en)",
+      "fr": "la douleur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schnupfen (-)",
+      "fr": "le rhume de cerveau",
+      "info": "Masculin"
+    },
+    {
+      "de": "das Heilmittel (-)",
+      "fr": "le remède",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Pulver (-)",
+      "fr": "la poudre",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Rezept (-e)",
+      "fr": "l'ordonnance",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Rheuma",
+      "fr": "le rhumatisme",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Sprechzimmer (-)",
+      "fr": "le cabinet de consultation",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Thermometer (-)",
+      "fr": "le thermomètre",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Apotheke (n)",
+      "fr": "la pharmacie",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Arznei (-en)",
+      "fr": "le médicament",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Diät (-en)",
+      "fr": "le régime",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Flüssigkeit (-en)",
+      "fr": "le liquide",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Grippe",
+      "fr": "la grippe",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kapsel (n)",
+      "fr": "le cachet",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Salbe (n)",
+      "fr": "la pommade",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Tätigkeit (-en)",
+      "fr": "l'activité",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Bonbon (s)",
+      "fr": "le bonbon",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Fieber (-)",
+      "fr": "la fièvre",
+      "info": "Neutre"
+    },
+    {
+      "de": "anfertigen",
+      "fr": "fabriquer",
+      "info": "Verbe faible séparable"
+    },
+    {
+      "de": "auflösen",
+      "fr": "dissoudre",
+      "info": "Verbe faible séparable"
+    },
+    {
+      "de": "sich erkälten",
+      "fr": "prendre froid",
+      "info": "Verbe réfléchi"
+    },
+    {
+      "de": "fühlen",
+      "fr": "sentir",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "hüten",
+      "fr": "garder",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "husten",
+      "fr": "tousser",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "lindern",
+      "fr": "soulager",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "pflegen",
+      "fr": "soigner",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "verzeichnen",
+      "fr": "noter",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "einnehmen (a, o; i)",
+      "fr": "prendre, avaler",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "einreiben (ie, ie)",
+      "fr": "frictionner",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "messen (a, e; i)",
+      "fr": "mesurer",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "unterwerfen (a, o; i)",
+      "fr": "soumettre",
+      "info": "Verbe fort inséparable"
+    },
+    {
+      "de": "verlassen (ie, a; ä)",
+      "fr": "quitter",
+      "info": "Verbe fort inséparable"
+    },
+    {
+      "de": "verschreiben (ie, ie)",
+      "fr": "prescrire",
+      "info": "Verbe fort inséparable"
+    },
+    {
+      "de": "ziehen (zog, gezogen)",
+      "fr": "tirer, tracer; s'en aller",
+      "info": "Verbe fort (avec sein au sens de « s'en aller »)"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Wir ziehen lieber einen Arzt zu Rate.",
+      "body": "Nous préférons consulter un médecin (m. à m. : nous prenons plus volontiers conseil d'un médecin).<br><em>Lieber</em>, plus volontiers, est le comparatif irrégulier de <em>gern</em>, volontiers (voir L. 16). Le superlatif est : <em>am liebsten</em>, de préférence. Avec un verbe, <em>gern, lieber, am liebsten</em> se traduisent généralement par aimer; aimer mieux; aimer le mieux. Exemples :<br><br><em>Ich esse gern Pflaumen</em>, j'aime (bien) les prunes.<br><em>Ich esse lieber Trauben</em>, j'aime mieux le raisin.<br><em>Ich esse am liebsten Kirschen</em>, j'aime le mieux = ce que je préfère, ce sont les cerises."
+    },
+    {
+      "title": "Autres comparatifs et superlatifs irréguliers",
+      "body": "<strong><em>Viel, mehr, am meisten</em></strong>, beaucoup, plus, le plus.<br><em>Hans hat viel Geld</em> (argent).<br><em>Fritz hat mehr Geld.</em><br><em>Kurt hat am meisten.</em><br><br><strong><em>Hoch, höher, am höchsten</em></strong>, haut, plus haut, le plus haut.<br><em>Karl springt</em> (saute) <em>hoch.</em><br><em>Max springt höher.</em><br><em>Moritz springt am höchsten.</em><br><br><strong><em>Nah, näher, am nächsten</em></strong>, proche.<br><br>Révisez également les degrés de <em>gut</em> dans la leçon 16."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Complétez la traduction de « J'aime boire de l'eau (= je bois volontiers...) » : « Ich trinke ___ Wasser. » (Exercice 1)",
+      "answer": "gern",
+      "hint": "En allemand, « aimer faire quelque chose » s'exprime avec l'adverbe « volontiers ».",
+      "explanation": "Corrigé 1 : « Ich trinke gern Wasser. » Avec un verbe, « gern » se traduit généralement par « aimer (bien) »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment traduit-on « J'aime mieux boire de la bière. » ? (Exercice 2)",
+      "options": [
+        "Ich trinke lieber Bier.",
+        "Ich trinke gerner Bier.",
+        "Ich trinke mehr Bier.",
+        "Ich trinke am liebsten Bier."
+      ],
+      "answer": "Ich trinke lieber Bier.",
+      "hint": "Utilisez le comparatif irrégulier de « gern ».",
+      "explanation": "Corrigé 2 : « Ich trinke lieber Bier. » Le comparatif irrégulier de « gern » est « lieber » (= aimer mieux)."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez « J'aime le mieux boire du vin. » en remettant les mots dans l'ordre. (Exercice 3)",
+      "words": [
+        "Am",
+        "liebsten",
+        "trinke",
+        "ich",
+        "Wein."
+      ],
+      "answer": "Am liebsten trinke ich Wein.",
+      "hint": "Commencez par le superlatif « Am liebsten », suivi immédiatement du verbe conjugué.",
+      "explanation": "Corrigé 3 : « Am liebsten trinke ich Wein. » Le superlatif de « gern » est « am liebsten » ; placé en tête de phrase, il entraîne l'inversion verbe-sujet."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez la traduction de « Ce médecin-ci a beaucoup de clients. Celui-là (en) a davantage. » : « Dieser Arzt hat viele Patienten. Jener hat ___. » (Exercices 4 et 5)",
+      "options": [
+        "mehr",
+        "vieler",
+        "am meisten",
+        "lieber"
+      ],
+      "answer": "mehr",
+      "hint": "Quel est le comparatif irrégulier de « viel » (beaucoup) ?",
+      "explanation": "Corrigé 4–5 : « Dieser Arzt hat viele Patienten. Jener hat mehr. » Les degrés de « viel » sont : viel, mehr, am meisten."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la traduction de « Notre médecin de famille (en) a le plus. » : « Unser Familienarzt hat ___. » (Exercice 6)",
+      "answer": "am meisten",
+      "hint": "Utilisez le superlatif irrégulier de « viel ».",
+      "explanation": "Corrigé 6 : « Unser Familienarzt hat am meisten. » Le superlatif de « viel » est « am meisten »."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez « J'avais pris froid et je toussais. » en remettant les mots dans l'ordre. (Exercice 7)",
+      "words": [
+        "Ich",
+        "hatte",
+        "mich",
+        "erkältet",
+        "und",
+        "ich",
+        "hustete."
+      ],
+      "answer": "Ich hatte mich erkältet und ich hustete.",
+      "hint": "Plus-que-parfait du verbe réfléchi « sich erkälten » (« hatte mich erkältet »), puis prétérit de « husten » (« hustete »).",
+      "explanation": "Corrigé 7 : « Ich hatte mich erkältet und ich hustete. » Notez que « sich erkälten » est un verbe réfléchi conjugué avec « haben »."
+    },
+    {
+      "type": "choice",
+      "prompt": "D'après la grammaire de la leçon, quelle est la forme correcte du comparatif de « hoch » dans « Max saute plus haut » (« Max springt ___ ») ?",
+      "options": [
+        "höher",
+        "hocher",
+        "höcher",
+        "am höchsten"
+      ],
+      "answer": "höher",
+      "hint": "Attention : le « c » disparaît au comparatif de « hoch », mais réapparaît au superlatif !",
+      "explanation": "Grammaire : « Hoch, höher, am höchsten » — « Karl springt hoch. Max springt höher. Moritz springt am höchsten. »"
+    }
+  ]
+}

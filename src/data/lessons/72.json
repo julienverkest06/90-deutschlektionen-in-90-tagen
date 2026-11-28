@@ -1,0 +1,223 @@
+{
+  "id": "72",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Kinder und Schule",
+  "titleFr": "Les enfants et l'école",
+  "proverbDe": "Aus Kindern werden Leute.",
+  "proverbFr": "Petit poisson deviendra grand (Les enfants deviendront de grandes personnes).",
+  "paragraphs": [
+    {
+      "de": "Unser Sohn Hans wird nächstens elf Jahre alt. Seit fünf Jahren, von seinem sechsten Lebensjahr an, geht er in die Schule. Als er sechs Jahre alt war, hatte er schon ein Jahr lang den Kindergarten besucht. Dort hatte er seine ersten Lieder gelernt, seine ersten Zeichnungen gemacht. Er war bei fröhlichem Spiel an Ordnung gewöhnt worden. Den Nachmittag hatte er damit verbracht, mit seinen kleinen Kameraden herumzuspringen.",
+      "fr": "Notre fils Jean aura prochainement onze ans. Il va à l'école depuis cinq ans, depuis l'âge de six ans. A cet âge, il avait fréquenté l'école maternelle depuis un an déjà. Il y avait appris ses premiers chants, (il y avait) fait ses premiers dessins. Il avait été habitué à l'ordre, tout en jouant gaiement. Il avait passé les après-midis à s'ébattre avec ses petits camarades."
+    },
+    {
+      "de": "Seither hat er lesen und schreiben gelernt. Man hat ihn in Erdkunde und Geschichte unterrichtet. Er kann zusammenzählen, abziehen, vervielfachen und teilen. Er macht Rechenaufgaben und Aufsätze. Er hat einige Kenntnisse in Naturkunde. Auch mit dem Erlernen einer Fremdsprache hat er bereits begonnen. Zu dem, was ihn seine Lehrer in der Schule lehren, muß er noch nachmittags zu Hause arbeiten. Er muß seine Lektionen lernen und seine Aufgaben machen.",
+      "fr": "Depuis, il a appris à lire et à écrire. On lui a enseigné la géographie, l'histoire. Il sait faire des additions, des soustractions, des multiplications et des divisions (m. à m. : il sait additionner, soustraire,...). Il fait des problèmes et des rédactions. Il a quelques connaissances en science naturelle. Il a également commencé déjà l'étude d'une langue (vivante) étrangère. En plus de ce que ses maîtres lui apprennent à l'école, il doit travailler encore l'après-midi, chez nous. Il faut qu'il apprenne ses leçons et qu'il fasse ses devoirs."
+    },
+    {
+      "de": "Er geht gern in die Schule. Während der ersten Ferientage wird ihm die Zeit lang und er sehnt sich nach seinen Kameraden. Aber danach fahren wir ans Meer, manchmal auch aufs Land. Dort macht er neue Bekanntschaften. Er spielt, er läuft und springt den ganzen Tag hin und her. Er verbringt die Regentage, indem er Abenteuerromane liest. Jeden Tag übt er mindestens eine halbe Stunde lang Klavier.",
+      "fr": "Il aime aller en classe. Pendant les premiers jours de vacances, il trouve le temps long et s'ennuie de ses camarades. Mais ensuite, nous allons au bord de la mer, parfois aussi à la campagne. Là, il se fait de nouvelles connaissances. Il joue, court, saute à longueur de journée (de-ci, de-là). Il passe les journées de pluie en lisant des romans d'aventures. Tous les jours, il étudie son piano pendant une demi-heure au moins."
+    }
+  ],
+  "pronunciation": "Points de prononciation de la leçon : notez l'accentuation des verbes composés : séparables « zusammenzählen » (accent sur « -sam- »), « abziehen » (accent sur « ab- », « ie » long) ; inséparables « vervielfachen » (accent sur « viel- ») et « unterrichten » (accent sur « -rich- », sans « ge- » au participe passé « unterrichtet »). Le mot d'emprunt « das Klavier » porte l'accent sur la finale « -vier » [klaˈviːɐ̯]. Soignez les voyelles longues suivies d'un « h » muet (« lehren », « sich sehnen », « während », « fröhlich », « gewöhnt ») et l'accent initial des composés scolaires (« der Kindergarten », « die Rechenaufgaben », « die Erdkunde », « die Fremdsprache », « die Abenteuerromane »).",
+  "vocab": [
+    {
+      "de": "der Aufsatz (¨-e)",
+      "fr": "la rédaction",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Aufgabe (n)",
+      "fr": "le devoir",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Erdkunde",
+      "fr": "la géographie",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Geschichte (n)",
+      "fr": "l'histoire",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kenntnis (se)",
+      "fr": "la connaissance",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Schule (n)",
+      "fr": "l'école",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Übung (en)",
+      "fr": "l'exercice",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Zeichnung (en)",
+      "fr": "le dessin",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Klavier (e)",
+      "fr": "le piano",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Spiel (e)",
+      "fr": "le jeu",
+      "info": "Neutre"
+    },
+    {
+      "de": "gewöhnen (an)",
+      "fr": "habituer (à)",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "lehren (+ acc.)",
+      "fr": "apprendre, enseigner",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "rechnen",
+      "fr": "calculer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "sich sehnen (nach)",
+      "fr": "désirer ardemment",
+      "info": "Verbe réfléchi"
+    },
+    {
+      "de": "unterrichten",
+      "fr": "enseigner",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "beginnen (a, o) (mit)",
+      "fr": "commencer",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "springen (a, u)",
+      "fr": "sauter",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Bei fröhlichem Spiel — Indem er Romane liest.",
+      "body": "(En jouant gaiement. — En lisant des romans.)<br>Notre participe présent (jouant, lisant) est rendu différemment en allemand.<br><br>• En chantant, <em>beim Singen</em>; en mangeant, <em>beim Essen</em>.<br>Donc, <em>beim (bei dem)</em> + infinitif substantivé (leçon 34), si l'infinitif n'a pas de complément.<br><br>• En chantant un air populaire, il... <em>Indem er eine Volksweise singt,...</em><br>En mangeant des fruits, nous... <em>Indem (ou : wenn, ou während) wir Obst essen,...</em><br>Quand notre participe présent a un complément, on forme le plus souvent une subordonnée introduite par la conjonction qui convient selon le sens : <em>indem</em>, tandis que; <em>während</em>, pendant que; <em>wenn</em>, quand; <em>als</em>, quand; <em>da</em>, puisque, etc.<br>Arrivant en retard, il ne trouva plus de place, <em>da er zu spät kam, fand er keinen Platz mehr.</em><br><br>• Nous avons vu, dans la leçon 28, que le participe présent allemand s'emploie surtout comme adjectif ou comme adverbe :<br><em>Ein lachendes Kind</em>, un enfant riant.<br><em>Es kommt lachend</em>, il vient en riant."
+    },
+    {
+      "title": "Zu dem, was...",
+      "body": "Le pronom relatif <em>was</em>, ce qui, ce que, s'emploie pour désigner une chose; <em>wer</em>, celui qui, une personne.<br><br><em>Was schön ist, (das) bewundert man immer</em>, ce qui est beau, on l'admire toujours.<br><em>Wer heute kauft, (der) kauft billig</em>, celui qui (quiconque) achète aujourd'hui, achète avantageusement (m. à m. : à bas prix).<br><br>Les pronoms <em>das</em> ou <em>der</em> peuvent être employés comme corrélatifs."
+    },
+    {
+      "title": "Notez le régime des verbes suivants :",
+      "body": "<em>Er lehrt ihn Deutsch</em>, il lui apprend l'allemand.<br><em>Es beginnt mit Musik</em>, cela commence par de la musique.<br><em>Er gewöhnt sich an das Wetter</em>, il s'habitue au temps.<br><em>Er unterrichtet sie in Erdkunde</em>, il leur enseigne la géographie.<br><br>(Mémento, n° 74 à 77)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.1) Traduisez : « Während er zeichnete, dachte er an sein Vaterhaus. »",
+      "options": [
+        "En dessinant, il pensait à sa maison paternelle.",
+        "Après avoir dessiné, il pensait à sa maison paternelle.",
+        "Avant de dessiner, il pensa à sa maison paternelle.",
+        "Bien qu'il dessinât, il pensait à sa maison paternelle."
+      ],
+      "answer": "En dessinant, il pensait à sa maison paternelle.",
+      "hint": "Une subordonnée introduite par « während » correspond souvent à un gérondif français (« en + participe présent »).",
+      "explanation": "Corrigé A.1 : « En dessinant, il pensait à sa maison paternelle. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.5) Traduisez : « Da er seine Rechenaufgabe vergessen hatte, wurde er bestraft. »",
+      "options": [
+        "Ayant oublié son problème, il fut puni.",
+        "En oubliant son problème, il sera puni.",
+        "Parce qu'il fait son problème, il est récompensé.",
+        "Quand il aura oublié sa rédaction, il sera puni."
+      ],
+      "answer": "Ayant oublié son problème, il fut puni.",
+      "hint": "« da » exprime la cause (« puisque ») ; avec le plus-que-parfait, on traduit par un participe passé composé français.",
+      "explanation": "Corrigé A.5 : « Ayant oublié son problème, il fut puni. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.6) Transformez la phrase en employant « wer » ou « was » : « Wenn einer es wagt, so gewinnt er. » → « ___ wagt, gewinnt. »",
+      "answer": "Wer",
+      "hint": "Il s'agit d'une personne (« celui qui ») : utilisez « wer » avec majuscule en début de phrase.",
+      "explanation": "Corrigé B.6 : « Wer wagt, gewinnt (proverbe). Celui qui ose, gagne. (La fortune sourit aux audacieux). »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.7) Transformez en employant « wer » : « Wenn einer den andern eine Grube gräbt, fällt er selbst hinein. »",
+      "words": [
+        "Wer",
+        "andern",
+        "eine",
+        "Grube",
+        "gräbt,",
+        "fällt",
+        "selbst",
+        "hinein."
+      ],
+      "answer": "Wer andern eine Grube gräbt, fällt selbst hinein.",
+      "hint": "« wer » remplace « wenn einer » et rejette le verbe « gräbt » en fin de subordonnée ; la principale commence par le verbe « fällt ».",
+      "explanation": "Corrigé B.7 : « Wer andern eine Grube gräbt, (der) fällt selbst hinein (prov.). Quiconque creuse une fosse pour les autres, y tombe lui-même. (Tel est pris qui croyait prendre). »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.8) Transformez la phrase en employant « wer » ou « was » : « Ich weiß es nicht; es macht mich nicht heiß. » → « ___ ich nicht weiß, macht mich nicht heiß. »",
+      "answer": "Was",
+      "hint": "Il s'agit d'une chose (« ce que ») : on emploie « was ».",
+      "explanation": "Corrigé B.8 : « Was ich nicht weiß, macht mich nicht heiß (prov.). Ce que je ne sais pas, ne me touche pas (m. à m. : ne m'échaude pas). »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice B.9) Transformez en employant « wer » ou « was » : « Es neckt sich; es liebt sich. »",
+      "options": [
+        "Was sich neckt, das liebt sich.",
+        "Wer sich neckt, der liebt sich.",
+        "Was sich neckt, der liebt sich.",
+        "Wer sich neckt, das liebt sich."
+      ],
+      "answer": "Was sich neckt, das liebt sich.",
+      "hint": "Le sujet neutre « es » appelle le relatif « was » et son corrélatif « das ».",
+      "explanation": "Corrigé B.9 : « Was sich neckt, das liebt sich (prov.). Ce qui se taquine (bien) s'aime (bien). »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice C.10) Complétez la traduction de « Il nous avait enseigné l'histoire en nous montrant des centaines de gravures. » : « Er hatte uns Geschichte gelehrt, ___ er uns hunderte von Bildern zeigte. »",
+      "answer": "indem",
+      "hint": "Le participe présent français avec complément (« en nous montrant... ») exprimant le moyen se rend par la conjonction « indem ».",
+      "explanation": "Corrigé C.10 : « Er hatte uns Geschichte gelehrt (ou : in G. unterrichtet), indem er uns hunderte von Bildern zeigte. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.11) Traduisez : « En faisant attention, tu t'habitueras vite au froid. »",
+      "words": [
+        "Wenn",
+        "du",
+        "aufpaßt,",
+        "gewöhnst",
+        "du",
+        "dich",
+        "schnell",
+        "an",
+        "die",
+        "Kälte."
+      ],
+      "answer": "Wenn du aufpaßt, gewöhnst du dich schnell an die Kälte.",
+      "hint": "Employez « wenn » pour la condition (« en faisant attention » = si tu fais attention) et « sich gewöhnen an + acc. ».",
+      "explanation": "Corrigé C.11 : « Wenn du aufpaßt, gewöhnst du dich schnell an die Kälte. »"
+    }
+  ]
+}

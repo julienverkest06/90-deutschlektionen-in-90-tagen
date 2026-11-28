@@ -1,0 +1,181 @@
+{
+  "id": "5",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Herr Beckmann, der Dolmetscher",
+  "titleFr": "Monsieur Beckmann, l'interprète",
+  "proverbDe": "Rom ist nicht an einem Tag erbaut worden.",
+  "proverbFr": "Rome ne s'est pas faite en un jour (m. à m. : n'a pas été construite...)",
+  "paragraphs": [
+    {
+      "de": "— Haben Sie viel Arbeit in Köln, Herr Dumont? — Ja, aber dieser Kongreß ist sehr interessant. Wir haben einen Dolmetscher. Er spricht gut Französisch.",
+      "fr": "— Avez-vous beaucoup de travail à Cologne, Monsieur Dumont ? — Oui, mais ce congrès est très intéressant. Nous avons un interprète. Il parle bien le français."
+    },
+    {
+      "de": "Der Dolmetscher heißt Herr Beckmann. Er spricht mehrere Sprachen: Französisch, Englisch, Spanisch. Er kennt viele Städte in Europa und liest viel. Jeder Dolmetscher liest viel.",
+      "fr": "L'interprète s'appelle Monsieur Beckmann. Il parle plusieurs langues : le français, l'anglais, l'espagnol. Il connaît beaucoup de villes en Europe et lit beaucoup. Chaque interprète lit beaucoup."
+    },
+    {
+      "de": "Herr Beckmann: — Guten Tag, Herr Dumont. Sprechen Sie jetzt ein wenig Deutsch? Paul Dumont: — Ein wenig nur, Herr Beckmann. Aber ich kenne jetzt Köln. Diese Stadt ist so schön! Ich gehe oft an den Rhein.",
+      "fr": "Monsieur Beckmann : — Bonjour, Monsieur Dumont. Parlez-vous maintenant un peu l'allemand ? Paul Dumont : — Un peu seulement, Monsieur Beckmann. Mais je connais maintenant Cologne. Cette ville est si belle ! Je vais souvent au (bord du) Rhin."
+    }
+  ],
+  "pronunciation": "Les nasales n'existent pas en allemand ; dans « interessant », on prononce donc « an », comme dans le français « Anne » ; bien sûr, le t final se prononce aussi. L'r final est très faible et sourd ; ne prononcez pas la dernière syllabe de « aber, Dolmetscher, dieser » comme « eur » dans notre mot « beurre », mais très faiblement : l'r doit tout juste être perceptible. Enfin, l's est sonore dans « Sie, dieser, sehr, Französisch, so » ; nous le représentons par [z] comme dans « zèbre ». Repères phonétiques : Dolmetscher [dolmètcher], Kongreß [kon'grèç], Französisch [fran'tçeuzich], Städte [chtète], Rhein [raén'].",
+  "vocab": [
+    {
+      "de": "der Dolmetscher (-)",
+      "fr": "l'interprète",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Arbeit (-en)",
+      "fr": "le travail",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Sprache (n)",
+      "fr": "la langue",
+      "info": "Féminin"
+    },
+    {
+      "de": "Europa",
+      "fr": "l'Europe",
+      "info": "Nom propre (neutre)"
+    },
+    {
+      "de": "gehen",
+      "fr": "aller",
+      "info": "Verbe fort (aux. sein)"
+    },
+    {
+      "de": "heißen",
+      "fr": "s'appeler",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "kennen",
+      "fr": "connaître",
+      "info": "Verbe mixte"
+    },
+    {
+      "de": "lesen (er liest)",
+      "fr": "lire",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "sprechen (er spricht)",
+      "fr": "parler",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Le pluriel des noms : les féminins (Er spricht mehrere Sprachen und kennt viele Städte.)",
+      "body": "• La plupart des noms féminins prennent au pluriel la terminaison <strong>-en</strong> (ou <strong>-n</strong> s'ils sont déjà terminés par <em>-e</em>), et pas d'inflexion :<br><em>Die Sprache, die Sprachen</em> — <em>die Arbeit, die Arbeiten</em> — <em>die Woche, die Wochen</em>.<br><br>• Certains féminins prennent la terminaison <strong>-e</strong> et l'inflexion sur le radical :<br><em>Die Stadt, die Städte</em> — <em>die Hand, die Hände</em>, la main."
+    },
+    {
+      "title": "Le verbe irrégulier ou « fort » (Er spricht gut Französisch.)",
+      "body": "Les verbes irréguliers dont la voyelle radicale est <strong>-e-</strong> changent au présent cet <em>-e-</em> en <strong>-i-</strong> aux deuxième et troisième personnes du singulier.<br><em>Ich sprech-e</em>, je parle — <em>wir sprechen</em>, nous parlons<br><em>er (sie, es) sprich-t</em>, il parle — <em>sie (Sie) sprechen</em>, ils parlent, vous parlez.<br><br>Dans certains verbes, cette voyelle <em>-i-</em> est longue et s'écrit <strong>-ie-</strong> :<br><em>Lesen, er liest</em> (lire)<br><em>Sehen, er sieht</em> (voir).<br><br>Remarquez cependant cette exception : <em>gehen, er geht</em> (aller)."
+    },
+    {
+      "title": "Les déterminatifs (Dieser Kongreß ist sehr interessant.)",
+      "body": "<em>dieser</em>, ce ; cette ; ce...ci ; celui-ci ; <em>jeder</em>, chaque, chacun ; <em>welcher</em>, quel ? lequel ? ; <em>einige</em>, quelques ; quelques-uns ; <em>mehrere</em>, plusieurs, ont les mêmes terminaisons que l'article défini <strong>der, die, das</strong>. Ils peuvent être adjectifs (placés devant le nom) ou pronoms (remplaçant le nom). Exemples :<br>a) Masculin : <em>dieser Brief, jeder Brief, welcher Brief? einige Briefe</em> (pluriel), <em>mehrere Briefe</em> (pluriel).<br>b) Féminin : <em>diese Stadt, jede Stadt</em>, etc.<br>c) Neutre : <em>dieses Hotel, jedes Hotel</em>, etc.<br>d) Pluriel (commun) : <em>diese Briefe, welche Städte?</em><br><br>À l'accusatif masculin (article : <strong>den</strong>), nous aurons donc :<br><em>diesen Brief, jeden Brief, welchen Brief, einige Briefe</em> (pluriel), <em>mehrere Briefe</em> (pluriel)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Mettez la phrase au pluriel (Exercice A.2) : « Welche Stadt ist schön? »",
+      "options": [
+        "Welche Städte sind schön?",
+        "Welche Stadten sind schön?",
+        "Welche Stadte sind schön?",
+        "Welcher Städte sind schön?"
+      ],
+      "answer": "Welche Städte sind schön?",
+      "hint": "« die Stadt » fait partie des féminins qui prennent -e et l'inflexion (¨) au pluriel.",
+      "explanation": "Corrigé A.2 : Welche Städte sind schön? (Quelles villes sont belles ?)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez la phrase au pluriel (Exercice A.1) : « Diese Sprache ist nicht schwer. »",
+      "answer": "Diese Sprachen sind nicht schwer.",
+      "hint": "Le pluriel de « die Sprache » prend -n (sans inflexion) et « ist » devient « sind ».",
+      "explanation": "Corrigé A.1 : Diese Sprachen sind nicht schwer. (Ces langues ne sont pas difficiles.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Faites accorder les verbes avec leur sujet (Exercices B.8 et B.10) : « Hans ___ Deutsch und er ___ auch viel. » (sprechen / lesen)",
+      "options": [
+        "spricht / liest",
+        "sprecht / lest",
+        "spricht / lest",
+        "sprecht / liest"
+      ],
+      "answer": "spricht / liest",
+      "hint": "À la 3e personne du singulier, le -e- radical de « sprechen » devient -i- et celui de « lesen » devient -ie-.",
+      "explanation": "Corrigé B.8 & B.10 : Hans spricht Deutsch ; er liest auch viel."
+    },
+    {
+      "type": "fill",
+      "prompt": "Faites accorder le verbe « lesen » au présent (Exercice B.10) : « Er ___ auch viel. »",
+      "answer": "liest",
+      "hint": "« lesen » est un verbe fort dont le -e- long devient -ie- à la 3e personne du singulier.",
+      "explanation": "Corrigé B.10 : Er liest auch viel. (Il lit beaucoup également.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Quelle est la conjugaison correcte du verbe « lesen » au présent (Exercice C.12) ?",
+      "options": [
+        "ich lese, er liest, wir lesen, sie (Sie) lesen",
+        "ich liest, er lest, wir lesen, sie (Sie) lesen",
+        "ich lese, er lest, wir lesen, sie (Sie) lesen",
+        "ich lise, er list, wir lesen, sie (Sie) lesen"
+      ],
+      "answer": "ich lese, er liest, wir lesen, sie (Sie) lesen",
+      "hint": "Seules les 2e et 3e personnes du singulier changent le -e- radical en -ie-.",
+      "explanation": "Corrigé C : Ich lese, er (sie, es) liest, wir lesen, sie (Sie) lesen."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand (Exercice D.13) : « Nous avons beaucoup de travail, mais ce travail est intéressant. »",
+      "words": [
+        "Wir",
+        "haben",
+        "viel",
+        "Arbeit,",
+        "aber",
+        "diese",
+        "Arbeit",
+        "ist",
+        "interessant."
+      ],
+      "answer": "Wir haben viel Arbeit, aber diese Arbeit ist interessant.",
+      "hint": "« die Arbeit » est féminin en allemand, donc « ce travail » se traduit par « diese Arbeit ».",
+      "explanation": "Corrigé D.13 : Wir haben viel Arbeit, aber diese Arbeit ist interessant."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand (Exercice D.14) : « Ils n'ont pas d'interprète ; ils parlent (l')espagnol. »",
+      "words": [
+        "Sie",
+        "haben",
+        "keinen",
+        "Dolmetscher;",
+        "sie",
+        "sprechen",
+        "Spanisch."
+      ],
+      "answer": "Sie haben keinen Dolmetscher; sie sprechen Spanisch.",
+      "hint": "« der Dolmetscher » est masculin : à l'accusatif, « pas d'interprète » donne « keinen Dolmetscher ».",
+      "explanation": "Corrigé D.14 : Sie haben keinen Dolmetscher; sie sprechen Spanisch."
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand (Exercice D.15) : « Quelle langue est difficile ? »",
+      "answer": "Welche Sprache ist schwer?",
+      "hint": "« die Sprache » est féminin, le déterminatif « welcher » prend donc la terminaison -e.",
+      "explanation": "Corrigé D.15 : Welche Sprache ist schwer?"
+    }
+  ]
+}

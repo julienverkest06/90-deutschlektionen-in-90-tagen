@@ -1,0 +1,212 @@
+{
+  "id": "8",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Ein Tag in Köln",
+  "titleFr": "Une journée à Cologne",
+  "proverbDe": "Alles zu seiner Zeit.",
+  "proverbFr": "Chaque chose en son temps.",
+  "paragraphs": [
+    {
+      "de": "Morgens ißt man gut in Deutschland. Aber Paul Dumont trinkt nur ein wenig Kaffee. Der Vormittag ist dann für die Arbeit im Kongreß. Mittags geht er in ein Gasthaus.",
+      "fr": "Le matin, on mange bien en Allemagne. Mais Paul Dumont ne boit qu'un peu de café. Ensuite, la matinée est pour le travail au congrès. À midi il va dans un restaurant."
+    },
+    {
+      "de": "Nachmittags arbeitet er nicht immer. Oft geht er den Rhein entlang oder durch die Stadt. Er wird so schnell nicht müde; er geht gern zu Fuß. Er wird auch aufs Land fahren. So lernt er Land und Leute kennen.",
+      "fr": "L'après-midi, il ne travaille pas toujours. Souvent, il longe le Rhin (mot à mot : il va le long du...) ou bien il passe par la ville (mot à mot : il va à travers...). Il ne se fatigue pas si vite (mot à mot : il ne devient pas si vite fatigué); il aime la marche à pied (mot à mot : il va volontiers à pied). Il ira aussi (en véhicule) à la campagne. Ainsi, il apprend à connaître (le) pays et (ses) habitants."
+    },
+    {
+      "de": "Heute abend wird er ins Kino gehen. Dann wird er noch einen Brief schreiben. Es wird ein langer Tag werden. Aber nachts schläft man ruhig in der Vorstadt.",
+      "fr": "Ce soir, il ira au cinéma (mot à mot : aujourd'hui soir...). Ensuite il écrira encore une lettre. Ce sera une longue journée (m. à m. : deviendra). Mais la nuit, on dort paisiblement, en banlieue."
+    }
+  ],
+  "pronunciation": "Er geht gern zu Fuß. En tête de mot, g a toujours un son guttural dur, comme dans « guérir, guêtre ». Rappelez-vous que dans l'orthographe phonétique, nous le marquons par [g], quelle que soit la voyelle suivante. ißt, Kongreß, Fuß : la lettre ß [èçtçèt'] correspond toujours à notre « s » dur de laisser. Repères phonétiques du texte : Ein Tag in Köln [aén' tak in keuln'], morgens [morgenç], Deutschland [doeutchlan't], wenig [vénich], Vormittag [formitak], Gasthaus [gaçthaoç], nachmittags [narmitakç], durch [dourch], müde [mude], zu Fuß [tçou fouç], heute abend [hoeute aben't], schläft [chlèft], ruhig [rouich], Vorstadt [forchtat].",
+  "vocab": [
+    {
+      "de": "der Abend (-e)",
+      "fr": "le soir",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Fuß (¨-e)",
+      "fr": "le pied",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Kaffee",
+      "fr": "le café",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Mittag (e)",
+      "fr": "le midi",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Morgen (-)",
+      "fr": "le matin",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Nachmittag (-e)",
+      "fr": "l'après-midi",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Tag (-e)",
+      "fr": "le jour",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Leute (plur.)",
+      "fr": "les gens",
+      "info": "Pluriel"
+    },
+    {
+      "de": "die Nacht (¨-e)",
+      "fr": "la nuit",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Gasthaus (¨-er)",
+      "fr": "le restaurant",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Kino (s)",
+      "fr": "le cinéma",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Land (¨-er)",
+      "fr": "le pays",
+      "info": "Neutre"
+    },
+    {
+      "de": "gehen",
+      "fr": "aller",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "trinken",
+      "fr": "boire",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "essen (er ißt)",
+      "fr": "manger",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Er geht durch die Stadt oder den Rhein entlang. — Prépositions suivies de l'accusatif",
+      "body": "Les prépositions suivantes sont toujours suivies de l'accusatif : <strong><em>durch</em></strong>, par, à travers ; <strong><em>für</em></strong>, pour ; <strong><em>gegen</em></strong>, contre, vers, envers ; <strong><em>ohne</em></strong>, sans ; <strong><em>um</em></strong>, autour de ; <strong><em>entlang</em></strong>, le long de. (Cette dernière préposition est placée après le complément).<br><br><strong>Exemples :</strong><br><em>Er kauft es für seinen Freund</em>, il l'achète pour son ami.<br><em>Sein Zimmer liegt gegen die Stadt</em>, sa chambre donne (se trouve) vers la ville.<br><em>Sie gehen um das Hotel</em>, ils vont autour (font le tour) de l'hôtel."
+    },
+    {
+      "title": "Morgens ißt man gut hier. — Adverbes et compléments de temps",
+      "body": "À partir du nom <em>der Morgen</em>, le matin, on forme l'adverbe de temps <strong><em>morgens</em></strong>, le, au matin. De même, <em>der Vormittag</em> donne <strong><em>vormittags</em></strong>, dans la matinée.<br><br>Cependant, on peut aussi employer un complément avec préposition : <em>morgens</em> ou <em>am Morgen</em>, le matin ; <em>mittags</em> ou <em>am Mittag</em>, à midi ; <em>nachmittags</em> ou <em>am Nachmittag</em>, (dans) l'après-midi ; <em>abends</em> ou <em>am Abend</em>, le soir.<br><br><strong>Exception :</strong> <em>nachts</em> ou <em>in der Nacht</em>, la nuit.<br>Notez que les adverbes sont d'un emploi plus fréquent, et qu'ils ne prennent pas de majuscule."
+    },
+    {
+      "title": "Er wird so schnell nicht müde. — L'auxiliaire werden (devenir)",
+      "body": "<em>ich werde</em>, je deviens · <em>wir werden</em>, nous devenons<br><em>er (sie, es) wird</em>, il devient · <em>sie werden</em>, ils deviennent<br><br><strong>Remarque :</strong> notez la forme irrégulière : <em>er wird</em>."
+    },
+    {
+      "title": "Er wird ins Kino gehen. — Formation du futur",
+      "body": "Le futur se forme avec <strong><em>werden</em></strong> et l'infinitif du verbe à conjuguer ; cet infinitif se place à la fin de la proposition principale ou indépendante.<br><br><strong>Exemples :</strong><br><em>Ich werde eine Karte kaufen</em>, j'achèterai une carte.<br><em>Diese Tanne wird groß werden</em>, ce sapin deviendra grand.<br><em>Mittags werden wir gut essen</em>, à midi, nous mangerons bien.<br><em>Abends werden sie (Sie) müde sein</em>, le soir ils seront (vous serez) fatigués."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Complétez : Sie kommt nicht ohne ... Bruder. (Elle ne vient pas sans son frère.) (Exercice A.1)",
+      "options": [
+        "ihren",
+        "ihr",
+        "ihre",
+        "ihrem"
+      ],
+      "answer": "ihren",
+      "hint": "La préposition ohne est toujours suivie de l'accusatif, et der Bruder est masculin.",
+      "explanation": "Corrigé A.1 : « ihren ». Après ohne (accusatif), le masculin singulier prend la terminaison -en : ohne ihren Bruder."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez par l'article défini qui convient : Sie gehen ... Garten entlang. (Ils longent le jardin.) (Exercice A.5)",
+      "answer": "den",
+      "hint": "La préposition entlang, placée après le complément, régit l'accusatif ; der Garten est masculin.",
+      "explanation": "Corrigé A.5 : « den ». Ils longent le jardin : Sie gehen den Garten entlang."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez par le complément de temps avec préposition correspondant à (die Nacht) : ... schlafe ich gut. (Exercice B.8a)",
+      "options": [
+        "In der Nacht",
+        "Am Nacht",
+        "An der Nacht",
+        "Auf der Nacht"
+      ],
+      "answer": "In der Nacht",
+      "hint": "La nuit est une exception par rapport à am Morgen, am Mittag, am Abend.",
+      "explanation": "Corrigé B.8a : « in der Nacht » (ou l'adverbe « nachts »). La nuit je dors bien."
+    },
+    {
+      "type": "fill",
+      "prompt": "Remplacez (der Abend) par l'adverbe de temps correspondant : Er schreibt ... einige Briefe. (Exercice B.7b)",
+      "answer": "abends",
+      "hint": "Les adverbes de temps en -s s'écrivent sans majuscule en milieu de phrase.",
+      "explanation": "Corrigé B.7b : « abends ». Le soir, il écrit quelques lettres (on peut aussi dire : am Abend)."
+    },
+    {
+      "type": "order",
+      "prompt": "Mettez la phrase au futur : « Er ruft seinen Freund. » (« Il appellera son ami. ») (Exercice C.9)",
+      "words": [
+        "Er",
+        "wird",
+        "seinen",
+        "Freund",
+        "rufen."
+      ],
+      "answer": "Er wird seinen Freund rufen.",
+      "hint": "Conjuguez werden à la 3e personne (er wird) et rejetez l'infinitif rufen à la fin.",
+      "explanation": "Corrigé C.9 : « Er wird seinen Freund rufen. » (Il appellera son ami.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au futur : Ich ziehe den Mantel aus. (J'ôterai mon manteau.) (Exercice C.10)",
+      "options": [
+        "Ich werde den Mantel ausziehen.",
+        "Ich werde ausziehen den Mantel.",
+        "Ich werde den Mantel ziehen aus.",
+        "Ich wird den Mantel ausziehen."
+      ],
+      "answer": "Ich werde den Mantel ausziehen.",
+      "hint": "À l'infinitif, la particule séparable reste attachée au verbe (ausziehen), placé en fin de proposition.",
+      "explanation": "Corrigé C.10 : « Ich werde den Mantel ausziehen. » (J'ôterai mon manteau.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez au futur : « J'achèterai une carte postale pour mon ami. » (Exercice D.17)",
+      "words": [
+        "Ich",
+        "werde",
+        "eine",
+        "Postkarte",
+        "für",
+        "meinen",
+        "Freund",
+        "kaufen."
+      ],
+      "answer": "Ich werde eine Postkarte für meinen Freund kaufen.",
+      "hint": "für régit l'accusatif (für meinen Freund) et l'infinitif kaufen se place à la fin.",
+      "explanation": "Corrigé D.17 : « Ich werde eine Postkarte für meinen Freund kaufen. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand en utilisant l'adverbe de temps : « La nuit, le faubourg est tranquille. » (Exercice D.18)",
+      "answer": "Nachts ist die Vorstadt ruhig.",
+      "hint": "Nachts en tête de phrase entraîne l'inversion du verbe (ist) et du sujet (die Vorstadt).",
+      "explanation": "Corrigé D.18 : « Nachts ist die Vorstadt ruhig. »"
+    }
+  ]
+}

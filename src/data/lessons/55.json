@@ -3,83 +3,215 @@
   "series": 2,
   "authentic": true,
   "titleDe": "Höflichkeit",
-  "titleFr": "Politesse, correspondance et vœux",
+  "titleFr": "Politesse",
   "proverbDe": "Mit Sanftmut kommt man auch zum Ziel.",
-  "proverbFr": "Plus fait douceur que violence.",
+  "proverbFr": "Plus fait douceur que violence. (Avec de la douceur également, on atteint son but.)",
   "paragraphs": [
     {
-      "de": "— Guten Abend, mein Herr, wie geht es Ihnen? — Danke, sehr gut, und Ihnen? — Es freut mich sehr, Sie zu treffen. Darf ich Ihnen meinen Bruder vorstellen? — Ich freue mich, Ihre Bekanntschaft zu machen.",
-      "fr": "— Bonsoir Monsieur, comment allez-vous ? — Merci, très bien, et vous ? — Je suis très heureux de vous rencontrer. Permettez-moi de vous présenter mon frère ? — Je suis heureux de faire votre connaissance."
+      "de": "— Guten Abend, mein Herr, wie geht es Ihnen? — Danke, sehr gut, und Ihnen? — Es freut mich sehr, Sie zu treffen. Darf ich Ihnen meinen Bruder vorstellen? Ihr Gatte kennt ihn recht gut. — Ich freue mich, Ihre Bekanntschaft zu machen. — Guten Tag, mein Herr; mein Mann hat mir in der Tat schon viel von Ihnen erzählt.",
+      "fr": "— Bonsoir Monsieur, comment allez-vous? — Merci, très bien, et vous? — Je suis très heureux de vous rencontrer. Permettez-moi de vous présenter mon frère; votre époux le connaît fort bien. — Je suis heureux de faire votre connaissance. — Bonjour Monsieur, en effet mon mari m'a beaucoup parlé de vous."
     },
     {
-      "de": "Im Briefverkehr: a) Lieber Herr Meier! Mit freundlichem Gruß, Ihr Peter Lang. b) Sehr geehrter Herr Direktor! Hochachtungsvoll, Peter Lang.",
-      "fr": "Dans la correspondance : a) Cher Monsieur Meier ! Croyez à mes sentiments très amicaux, votre Peter Lang. b) Monsieur le Directeur ! Veuillez agréer l'expression de ma considération distinguée, Peter Lang."
+      "de": "— ... Ich habe noch gar nicht nach Ihren Kindern gefragt: was machen sie denn? — Danke, es geht allen gut. — Und wie geht es Ihrem Herrn Vater? — Nicht besonders gut. Er erholt sich nur langsam von seiner Krankheit. — Richten Sie ihm bitte viele Grüße aus; ich wünsche ihm eine baldige Genesung. — Ich will es gern ausrichten. — Was ich noch sagen wollte, haben Sie Nachricht von Ihrem Freund Setzer?",
+      "fr": "— ... Je ne vous ai pas demandé encore comment allaient vos enfants? (m. à m. : je ne me suis pas informé encore de...). — Merci, ils vont tous bien. — Et Monsieur votre père? — Moyennement. Il ne se remet que lentement de sa maladie. — Vous lui transmettrez mes amitiés et mes vœux de prompt rétablissement (m. à m. : Je lui souhaite ...). — Je n'y manquerai pas (m. à m. : je vais le lui faire savoir volontiers). — À propos, avez-vous des nouvelles de votre ami Setzer?"
     },
     {
-      "de": "Ich wünsche Ihnen ein glückliches neues Jahr. Fröhliche Weihnachten; viel Glück zum neuen Jahr. Herzliches Beileid.",
-      "fr": "Je vous souhaite une bonne année. Joyeux Noël ; meilleurs vœux de bonne année. Sincères condoléances."
+      "de": "Im Briefverkehr : a) Lieber Herr Meier! b) Sehr geehrter Herr Direktor! c) Sehr geehrte Herren! Schlußformeln : a) Mit freundlichem Gruß, Ihr Peter Lang. b) Mit verbindlichen Empfehlungen, Peter Lang. c) Hochachtungsvoll, Peter Lang.",
+      "fr": "Dans la correspondance : a) Cher Monsieur Meier, b) Monsieur le Directeur, (m. à m. : Très honoré...) c) Messieurs. Formules finales : a) Croyez à mes sentiments très amicaux, votre Peter Lang. b) Je vous prie d'agréer, Messieurs, l'expression de mes sentiments distingués. c) Veuillez agréer, Monsieur, l'expression de ma considération distinguée."
+    },
+    {
+      "de": "a) Ich wünsche Ihnen ein glückliches neues Jahr. b) Fröhliche Weihnachten; viel Glück zum neuen Jahr. c) Wir gratulieren und wünschen dem jungen Paar recht viel Glück. d) Herzliches Beileid.",
+      "fr": "a) Je vous souhaite une bonne année. b) Joyeux Noël; meilleurs vœux de bonne année (m. à m. : beaucoup de bonheur pour le nouvel an). c) Félicitations et vœux de bonheur aux jeunes mariés. d) Sincères condoléances."
     }
   ],
-  "pronunciation": "Dans les lettres allemandes, on met un point d'exclamation après l'appel (Sehr geehrter Herr Direktor!) et on commence le texte de la lettre par une minuscule (ou majuscule si c'est Sie).",
+  "pronunciation": "Points de prononciation et d'accentuation à retenir dans cette leçon : « Höflichkeit » (HÖF-lich-keit) comporte un « ö » long et fermé, un « ch » palatal (« ich-Laut ») et la diphtongue « ei » [aɪ] ; dans « Bekanntschaft » (Be-KANNT-schaft) et « Genesung » (Ge-NE-sung, avec « s » sonore [z]), les préfixes inséparables « be- » et « ge- » sont toujours atones ; dans « Weihnachten » (WEIH-nach-ten), le « h » est muet et le « ch » après « a » est vélaire (« ach-Laut ») ; enfin, dans « Hochachtungsvoll » (HOCH-achtungs-voll) et « Empfehlungen » (Emp-FEH-lungen), le « h » allonge le « e » fermé de « -fehl- ».",
   "vocab": [
     {
-      "de": "der Gatte (-n) / die Gattin",
-      "fr": "l'époux / l'épouse",
-      "info": "Style soutenu"
+      "de": "der Gatte (n)",
+      "fr": "l'époux",
+      "info": "Masculin"
     },
     {
-      "de": "sich erholen",
-      "fr": "se rétablir, se reposer",
-      "info": "Verbe réfléchi"
+      "de": "der Tod",
+      "fr": "la mort",
+      "info": "Masculin"
     },
     {
-      "de": "die Genesung",
-      "fr": "la guérison, le rétablissement",
+      "de": "die Gattin (nen)",
+      "fr": "l'épouse",
       "info": "Féminin"
     },
     {
-      "de": "gratulieren (+ Datif)",
-      "fr": "féliciter",
-      "info": "Verbe régulier"
+      "de": "das Glück",
+      "fr": "le bonheur, la chance",
+      "info": "Neutre"
     },
     {
-      "de": "Herzliches Beileid",
-      "fr": "Sincères condoléances",
-      "info": "Formule consacrée"
+      "de": "gratulieren",
+      "fr": "féliciter",
+      "info": "Verbe"
+    },
+    {
+      "de": "sich erholen",
+      "fr": "se rétablir",
+      "info": "Verbe pronominal"
+    },
+    {
+      "de": "die Genesung (-en)",
+      "fr": "le rétablissement",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Höflichkeit (-en)",
+      "fr": "la politesse",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Krankheit (-en)",
+      "fr": "la maladie",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Leid (-en)",
+      "fr": "la peine",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Beileid",
+      "fr": "les condoléances",
+      "info": "Neutre"
+    },
+    {
+      "de": "verehren",
+      "fr": "respecter, vénérer",
+      "info": "Verbe"
+    },
+    {
+      "de": "vorstellen",
+      "fr": "présenter",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "zusetzen (+ Datif)",
+      "fr": "tourmenter",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "aussprechen (a, o, i)",
+      "fr": "exprimer",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "treffen (a, o, i)",
+      "fr": "atteindre, rencontrer",
+      "info": "Verbe fort"
     }
   ],
   "grammar": [
     {
-      "title": "Formules de politesse et correspondance",
-      "body": "En allemand, le pronom de politesse <strong>Sie / Ihnen / Ihr</strong> prend toujours une majuscule. Pour saluer à la fin d'une lettre commerciale : <em>Mit freundlichen Grüßen</em> ou <em>Hochachtungsvoll</em>."
+      "title": "Wie geht es Ihnen? – Es freut mich...",
+      "body": "Nous avons vu (L. 17) que <em>es</em> peut être le sujet d'un verbe impersonnel tel que <em>es regnet</em>, il pleut. Nous avons retrouvé <em>es</em> sujet de « il y a » : <em>es gibt, es ist, es steht</em>, etc. (L. 41). Dans <em>Wie geht es Ihnen?</em> Comment allez-vous? – <em>Es freut mich...</em> Je suis heureuse... (m. à m. : cela me réjouit), <em>es</em> est employé comme sujet de tournures impersonnelles.<br><br><em>Es wundert mich</em> (accusatif), j'en suis étonné.<br><em>Es ärgert mich</em>, j'en suis irrité.<br><em>Es langweilt mich</em>, je m'ennuie.<br><em>Es hungert mich</em>, j'ai faim.<br><em>Es friert mich</em>, j'ai froid (<em>frieren</em> ; o, o).<br><em>Es tut mir</em> (datif) <em>leid</em>, j'en suis désolé.<br><em>Es schmeckt mir</em>, je trouve cela bon ; c'est bon.<br><em>Es geht mir gut</em>, je vais bien.<br><em>Es scheint mir, als ob</em>, il me semble que (<em>scheinen</em> ; ie, ie).<br><em>Es ist, als ob...</em>, on dirait que (m. à m. : c'est comme si).<br><em>Es ist kalt ; warm</em>, il fait froid ; chaud.<br><em>Es klopft</em>, on frappe."
+    },
+    {
+      "title": "Le complément indique le sujet",
+      "body": "C'est le complément qui nous indique le sujet :<br><em>Es freut ihn</em>, il en est heureux.<br><em>Es ärgert sie</em>, elle en est irritée.<br><em>Es wundert uns</em>, nous en sommes étonnés.<br><em>Schmeckt's Ihnen?</em> le trouvez-vous bon? est-ce bon?"
+    },
+    {
+      "title": "Es en tête de proposition principale",
+      "body": "Enfin, <em>es</em> se trouve souvent au début d'une proposition principale dont le verbe est suivi du sujet réel :<br><em>Es kamen zwei Züge an</em>, deux trains arrivèrent.<br><em>Es fahren viele Schiffe auf dem Rhein</em>, beaucoup de bateaux naviguent sur le Rhin.<br><br><strong>Notez</strong> que dans ces phrases, le verbe s'accorde avec le sujet réel."
     }
   ],
   "exercises": [
     {
-      "type": "choice",
-      "prompt": "Comment souhaite-t-on « Joyeux Noël » en allemand ?",
-      "options": [
-        "Fröhliche Weihnachten!",
-        "Herzliches Beileid!",
-        "Hochachtungsvoll!",
-        "Gute Besserung!"
-      ],
-      "answer": "Fröhliche Weihnachten!",
-      "hint": "Formule 4b du texte : Fröhliche Weihnachten; viel Glück zum neuen Jahr.",
-      "explanation": "Fröhliche Weihnachten!"
+      "type": "fill",
+      "prompt": "(Exercice A.3) Mettez au prétérit : « Es wundert mich nicht, daß er so spät kommt. »",
+      "answer": "Es wunderte mich nicht, daß er so spät kam.",
+      "hint": "wundern est faible (wunderte) et kommen est fort (kam).",
+      "explanation": "Corrigé A.3 : « Es wunderte mich nicht, daß er so spät kam. » (Je n'étais pas étonné de ce qu'il vînt si tard.)"
     },
     {
       "type": "choice",
-      "prompt": "Que signifie « Gute Besserung » / « eine baldige Genesung » ?",
+      "prompt": "(Exercice A.5) Mettez au prétérit : « Es tut ihm leid. »",
       "options": [
-        "Un prompt rétablissement",
-        "Sincères condoléances",
-        "Félicitations aux mariés",
-        "Bon voyage"
+        "Es tat ihm leid.",
+        "Es tute ihm leid.",
+        "Es tat ihn leid.",
+        "Es tutet ihm leid."
       ],
-      "answer": "Un prompt rétablissement",
-      "hint": "Expression utilisée dans le dialogue 2 au sujet du père malade.",
-      "explanation": "Ich wünsche ihm eine baldige Genesung."
+      "answer": "Es tat ihm leid.",
+      "hint": "Le prétérit du verbe irrégulier tun est tat, et leid tun se construit avec le datif (ihm).",
+      "explanation": "Corrigé A.5 : « Es tat ihm leid. » (Il le regrettait.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.7) Mettez au prétérit : « Es ist kalt, und es wird Nacht. »",
+      "options": [
+        "Es war kalt, und es wurde Nacht.",
+        "Es war kalt, und es wird Nacht.",
+        "Es ist kalt gewesen, und es wurde Nacht.",
+        "Es war kalt, und es wardet Nacht."
+      ],
+      "answer": "Es war kalt, und es wurde Nacht.",
+      "hint": "Prétérit de sein = war ; prétérit de werden = wurde.",
+      "explanation": "Corrigé A.7 : « Es war kalt, und es wurde Nacht. » (Il faisait froid et la nuit tombait.)"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.9) Traduisez : « Comment va Madame votre mère ? »",
+      "words": [
+        "Wie",
+        "geht",
+        "es",
+        "Ihrer",
+        "Frau",
+        "Mutter?"
+      ],
+      "answer": "Wie geht es Ihrer Frau Mutter?",
+      "hint": "Utilisez la tournure impersonnelle « Wie geht es + datif ? ».",
+      "explanation": "Corrigé B.9 : « Wie geht es Ihrer Frau Mutter? » (datif féminin : Ihrer Frau Mutter)."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.11) Traduisez : « Nous n'avons pas de nouvelles de sa famille. »",
+      "answer": "Wir haben keine Nachricht von seiner Familie.",
+      "hint": "En allemand, Nachricht s'emploie ici au singulier avec keine et von + datif.",
+      "explanation": "Corrigé B.11 : « Wir haben keine Nachricht von seiner Familie. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.12) Traduisez : « Nous nous réjouissons tous de votre visite. »",
+      "words": [
+        "Wir",
+        "freuen",
+        "uns",
+        "alle",
+        "auf",
+        "Ihren",
+        "Besuch."
+      ],
+      "answer": "Wir freuen uns alle auf Ihren Besuch.",
+      "hint": "sich freuen auf + accusatif (Ihren Besuch).",
+      "explanation": "Corrigé B.12 : « Wir freuen uns alle auf Ihren Besuch. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice C.13) Employez « wundern » dans une tournure impersonnelle avec le pronom complément à la 3e pers. du sing., masc. (« Il en est étonné. »)",
+      "answer": "Es wundert ihn.",
+      "hint": "wundern régit l'accusatif (ihn).",
+      "explanation": "Corrigé C.13 : « Es wundert ihn. » (Il en est étonné.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice C.17 & C.19) Parmi ces tournures impersonnelles à la 3e pers. du sing. masc., laquelle emploie correctement le datif « ihm » ?",
+      "options": [
+        "Es tut ihm leid.",
+        "Es wundert ihm.",
+        "Es ärgert ihm.",
+        "Es friert ihm."
+      ],
+      "answer": "Es tut ihm leid.",
+      "hint": "wundern, ärgern et frieren se construisent avec l'accusatif (ihn), tandis que leid tun et gut gehen exigent le datif (ihm).",
+      "explanation": "Corrigé C.19 : « Es tut ihm leid. » (Il le regrette.) Les verbes wundern, ärgern et frieren demandent l'accusatif : Es wundert ihn, Es ärgert ihn, Es friert ihn."
     }
   ]
 }

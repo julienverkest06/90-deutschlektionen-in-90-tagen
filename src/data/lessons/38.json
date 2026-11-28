@@ -2,31 +2,69 @@
   "id": "38",
   "series": 2,
   "authentic": true,
-  "titleDe": "Suppression de wenn et nuances de sollen",
-  "titleFr": "Inversion conditionnelle et emplois de « sollen »",
-  "proverbDe": "Man soll den Tag nicht vor dem Abend loben.",
-  "proverbFr": "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.",
+  "titleDe": "Ankunft im Hotel",
+  "titleFr": "Arrivée à l'hôtel",
+  "proverbDe": "Wer den Pfennig nicht ehrt, ist des Talers nicht wert.",
+  "proverbFr": "Il n'y a pas de petites économies. (Celui qui n'honore pas le pfennig ne mérite pas le thaler)",
   "paragraphs": [
     {
-      "de": "Benötigen Sie etwas, so brauchen Sie nur zu klingeln. Reservieren Sie ein Zimmer, so schreiben Sie früh genug.",
-      "fr": "Si vous avez besoin de quelque chose, vous n'avez qu'à sonner. Si vous réservez une chambre, écrivez assez tôt."
+      "de": "— Vor acht Tagen habe ich ein Zimmer reserviert.\n(Der Angestellte sucht im Fremdenbuch nach).\n— Ach ja! Sie haben Nummer fünfzig. Es ist ein großes Zimmer mit Bad, im fünften Stock.",
+      "fr": "— J'ai réservé une chambre voici huit jours.\n(L'employé cherche dans son registre).\n— Ah! oui. Vous avez le n° 50. C'est une grande chambre avec salle de bain, au 5e étage."
     },
     {
-      "de": "Dieses Hotel soll sehr modern sein. Sollte es regnen, so bleibe ich auf meinem Zimmer.",
-      "fr": "On dit que cet hôtel est très moderne. S'il venait à pleuvoir, je resterai dans ma chambre."
+      "de": "— Möchten Sie bitte den Meldezettel ausfüllen. Wenn Sie mir Ihren Paß lassen wollen, werde ich es für Sie tun.\n— Ist Post für mich da, bitte?\n— Ich will nachsehen, aber ich glaube nicht. Nein, es ist nichts da für Sie.",
+      "fr": "— Veuillez remplir votre fiche, Monsieur. Si vous voulez bien me laisser votre passeport, je le ferai pour vous.\n— Est-ce que j'ai du courrier, s'il vous plaît?\n— Je vais voir, mais je ne crois pas. Non, Monsieur, il n'y a rien pour vous."
+    },
+    {
+      "de": "(Der Gepäckträger führt den Gast zum Fahrstuhl).\n— Wollen Sie bitte einsteigen! Ihr Koffer kommt mit dem Gepäckaufzug nach.\n— Es ist schönes Wetter heute, nicht wahr? Das Barometer steht auf schön. Es soll die ganze Woche hindurch so bleiben.\n— Hoffentlich!",
+      "fr": "(Le porteur conduit le client à l'ascenseur).\n— Prenez la peine d'entrer, Monsieur. Votre malle arrivera (suivra) par le monte-charge.\n— Il fait beau aujourd'hui, n'est-ce pas? Le baromètre est au beau fixe. Il paraît que cela va rester ainsi toute la semaine.\n— Espérons-le."
+    },
+    {
+      "de": "— Hier ist Ihr Zimmer; links ist der Wandschrank und rechts das Badezimmer.\n(Der Gepäckträger macht das Licht an und stellt die Handkoffer hin. Der Gast gibt ihm ein Trinkgeld).\n— Danke schön. Benötigen Sie etwas, so brauchen Sie nur zu klingeln.",
+      "fr": "— Voici votre chambre; le placard est à gauche et la salle de bain à droite.\n(Le porteur ouvre l'électricité et dépose les valises. Le client lui donne un pourboire).\n— Merci bien. Si vous avez besoin de quelque chose, vous n'avez qu'à sonner."
     }
   ],
-  "pronunciation": "Lorsqu'on supprime « wenn » en tête de phrase, la proposition principale est souvent introduite par « so » ou « da » qui ne se traduit pas en français.",
+  "pronunciation": "Pas de rubrique Prononciation dans le livre pour cette leçon. Points d'attention dans le texte : dans les mots composés Fremdenbuch, Meldezettel, Gepäckträger et Gepäckaufzug, l'accent tonique porte sur le premier élément (dans Gepäck-, l'accent tombe sur -päck- car ge- est un préfixe inaccentué). Dans Fahrstuhl [fa:r-chtoul], le « h » allonge le « a » et « st » initial du second composant se prononce « cht ». Dans Barometer, l'accent tonique porte sur « -me- » [ba-ro-mé-ter]. Dans benötigen, le préfixe « be- » est inaccentué et « ö » se prononce comme « eu » fermé.",
   "vocab": [
     {
-      "de": "benötigen",
-      "fr": "avoir besoin de",
-      "info": "Synonyme de brauchen"
+      "de": "der Aufzug (¨-e)",
+      "fr": "l'ascenseur",
+      "info": "Masculin"
     },
     {
-      "de": "klingeln",
-      "fr": "sonner",
-      "info": "Verbe régulier"
+      "de": "der Fahrstuhl (¨-e)",
+      "fr": "l'ascenseur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Fremde (n)",
+      "fr": "l'étranger",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schrank (¨-e)",
+      "fr": "l'armoire",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Wandschrank (¨-e)",
+      "fr": "le placard",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Wand (¨-e)",
+      "fr": "la cloison",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Barometer (-)",
+      "fr": "le baromètre",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Fremdenbuch (¨-er)",
+      "fr": "le registre (des voyageurs)",
+      "info": "Neutre"
     },
     {
       "de": "das Trinkgeld (-er)",
@@ -34,30 +72,47 @@
       "info": "Neutre"
     },
     {
-      "de": "das Fremdenbuch (¨-er)",
-      "fr": "le registre des voyageurs",
-      "info": "Neutre"
+      "de": "benötigen",
+      "fr": "avoir besoin de",
+      "info": "Verbe faible"
     },
     {
-      "de": "die Zentralheizung",
-      "fr": "le chauffage central",
-      "info": "Féminin"
+      "de": "melden",
+      "fr": "annoncer",
+      "info": "Verbe faible"
     }
   ],
   "grammar": [
     {
-      "title": "1. La suppression de wenn (inversion conditionnelle)",
-      "body": "Quand la subordonnée conditionnelle précède la principale, on peut supprimer <em>wenn</em> en plaçant le <strong>verbe en 1re position</strong> : <em>Wenn das Zimmer kalt ist → <strong>Ist</strong> das Zimmer kalt, <strong>so</strong> stellt er die Heizung an.</em>"
+      "title": "Benötigen Sie etwas, so brauchen Sie nur zu klingeln. — La suppression de wenn",
+      "body": "On peut sous-entendre la conjonction <strong>wenn</strong>, quand la proposition subordonnée précède la principale. Dans ce cas, on fait l'inversion au début de la subordonnée et la principale est introduite par <strong>so</strong> ou <strong>da</strong> qui n'ont pas à être traduits.<br><br><em>Wenn Sie ein Zimmer reservieren, schreiben Sie früh genug</em> = <em>Reservieren Sie ein Zimmer, so schreiben Sie früh genug</em>, si vous réservez une chambre, écrivez assez tôt.<br><br><strong>Remarque :</strong> Il ne faut pas oublier de rendre ce <em>wenn</em> sous-entendu, par « si » ou « quand » dans la traduction."
     },
     {
-      "title": "2. Les nuances du verbe sollen",
-      "body": "• Obligation morale : <em>Er soll langsamer fahren.</em><br>• Assertion d'autrui (« on dit que / il paraît que ») : <em>Dieses Hotel <strong>soll</strong> modern sein.</em><br>• Éventualité (« venir à ») : <em><strong>Sollte</strong> es regnen...</em>"
+      "title": "Es soll die ganze Woche hindurch so bleiben. — Les nuances du verbe sollen",
+      "body": "Le verbe <strong>sollen</strong> marque habituellement une obligation morale. (Voir L. 19). Il peut également exprimer :<br><br>• <strong>une assertion d'autrui</strong> (on dit que, il paraît que).<br><em>Dieses Hotel soll sehr modern sein</em>, on dit que cet hôtel est très moderne.<br><br>• <strong>un ordre</strong>, à la 3e personne.<br><em>Er soll ja nicht kommen!</em> surtout, qu'il ne vienne pas!<br><br>• <strong>une éventualité</strong> (en français : venir à).<br><em>Wenn er sterben sollte,...</em> = <em>Sollte er sterben,...</em>, s'il venait à mourir..."
+    },
+    {
+      "title": "Exercice sur les mots : der Fremde, anmachen / ausmachen, benötigen",
+      "body": "• <strong>der Fremde</strong> suit la déclinaison de l'adjectif épithète : <em>Die Fremde</em> (l'étrangère) ; <em>ein Fremder</em> (un étranger) ; <em>eine Fremde</em> (une étrangère) ; <em>Fremde</em> (des étrangers).<br>• <strong>anmachen</strong> (allumer) / <strong>ausmachen</strong> (éteindre) : <em>Er hat... angemacht</em> (il a allumé...) ; <em>Er wird... ausmachen</em> (il éteindra).<br>• <strong>benötigen</strong> (= <em>brauchen</em>, avoir besoin de) : <em>Sie benötigt (= braucht) nichts; sie benötigte (= brauchte) etwas</em> (elle n'a besoin de rien ; elle avait besoin de quelque chose)."
     }
   ],
   "exercises": [
     {
+      "type": "choice",
+      "prompt": "Comment traduit-on « un étranger » en allemand ? (Exercice sur les mots 1)",
+      "options": [
+        "ein Fremder",
+        "ein Fremde",
+        "einen Fremder",
+        "ein Fremdes"
+      ],
+      "answer": "ein Fremder",
+      "hint": "Le substantif der Fremde suit la déclinaison de l'adjectif épithète au masculin nominatif après ein.",
+      "explanation": "Corrigé (Exercice sur les mots 1) : « ein Fremder » (déclinaison de l'adjectif épithète : Die Fremde ; ein Fremder ; eine Fremde ; Fremde)."
+    },
+    {
       "type": "order",
-      "prompt": "Supprimez wenn (Exercice A.1) : « Wenn das Zimmer zu kalt ist, stellt er die Zentralheizung an. »",
+      "prompt": "Supprimez « wenn » dans la phrase (Exercice A.1) : « Wenn das Zimmer zu kalt ist, stellt er die Zentralheizung an. »",
       "words": [
         "Ist",
         "das",
@@ -72,21 +127,83 @@
         "an."
       ],
       "answer": "Ist das Zimmer zu kalt, so stellt er die Zentralheizung an.",
-      "hint": "Placez « Ist » en tout début de phrase et introduisez la principale par « so ».",
-      "explanation": "Ist das Zimmer zu kalt, so stellt er die Zentralheizung an."
+      "hint": "Sans wenn, on fait l'inversion au début de la subordonnée (verbe en tête) et on introduit la principale par so.",
+      "explanation": "Corrigé A.1 : « Ist das Zimmer zu kalt, so stellt er die Zentralheizung an. » (Si la chambre est trop froide, il ouvre le chauffage central.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Supprimez « wenn » dans la phrase (Exercice A.2) : « Wenn Sie nicht schlafen können, machen Sie das Fenster zu. »",
+      "answer": "Können Sie nicht schlafen, so machen Sie das Fenster zu.",
+      "hint": "Placez l'auxiliaire können en tête de la subordonnée, puis introduisez la principale par so.",
+      "explanation": "Corrigé A.2 : « Können Sie nicht schlafen, so machen Sie das Fenster zu. » (Si vous ne pouvez pas dormir, fermez la fenêtre.)"
     },
     {
       "type": "choice",
-      "prompt": "Que signifie « soll » dans « Diese Dame soll sehr reich sein » (Exercice B.5) ?",
+      "prompt": "Quelle est la traduction correcte de « Sollte es regnen, so bleibe ich auf meinem Zimmer. » ? (Exercice B.4)",
+      "options": [
+        "S'il venait à pleuvoir, je resterai dans ma chambre.",
+        "Il doit pleuvoir, alors je reste dans ma chambre.",
+        "On dit qu'il pleut, donc je reste dans ma chambre.",
+        "S'il a plu, je suis resté dans ma chambre."
+      ],
+      "answer": "S'il venait à pleuvoir, je resterai dans ma chambre.",
+      "hint": "Sollte + infinitif avec suppression de wenn exprime une éventualité (venir à).",
+      "explanation": "Corrigé B.4 : « S'il venait à pleuvoir, je resterai dans ma chambre » (Gram. 2 c : éventualité)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Quelle est la traduction de « Diese Dame soll sehr reich sein. » ? (Exercice B.5)",
       "options": [
         "On dit que cette dame est très riche.",
-        "Cette dame doit être riche.",
-        "Cette dame veut être riche.",
-        "Cette dame était riche."
+        "Cette dame doit devenir très riche.",
+        "Que cette dame soit très riche !",
+        "Si cette dame venait à être très riche."
       ],
       "answer": "On dit que cette dame est très riche.",
-      "hint": "Nuance d'assertion d'autrui (on dit que / il paraît que).",
-      "explanation": "On dit que cette dame est très riche."
+      "hint": "Ici, sollen exprime une assertion d'autrui (on dit que, il paraît que).",
+      "explanation": "Corrigé B.5 : « On dit que cette dame est très riche » (Gram. 2 a : assertion d'autrui)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez en français (Exercice B.6) : « Er soll langsamer fahren. »",
+      "options": [
+        "Qu'il conduise plus lentement!",
+        "Il paraît qu'il conduit plus lentement.",
+        "S'il venait à conduire plus lentement.",
+        "Il voulait conduire plus lentement."
+      ],
+      "answer": "Qu'il conduise plus lentement!",
+      "hint": "Sollen à la 3e personne peut exprimer un ordre transmis.",
+      "explanation": "Corrigé B.6 : « Qu'il conduise plus lentement! » (Gram. 2 b : un ordre, à la 3e personne)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand (Exercice C.9) : « Votre nom ne se trouve pas dans le registre des voyageurs. »",
+      "answer": "Ihr Name steht nicht im Fremdenbuch.",
+      "hint": "Utilisez stehen (se trouver écrit) et im Fremdenbuch (dans le registre des voyageurs).",
+      "explanation": "Corrigé C.9 : « Ihr Name steht nicht im Fremdenbuch. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand sans « wenn » (Exercice C.10) : « Si vous voulez une chambre au premier étage, écrivez-le nous, s'il vous plaît. »",
+      "words": [
+        "Wollen",
+        "Sie",
+        "ein",
+        "Zimmer",
+        "im",
+        "ersten",
+        "Stock,",
+        "so",
+        "schreiben",
+        "Sie",
+        "es",
+        "uns,",
+        "bitte."
+      ],
+      "answer": "Wollen Sie ein Zimmer im ersten Stock, so schreiben Sie es uns, bitte.",
+      "hint": "Commencez par le verbe Wollen (suppression de wenn), puis introduisez la principale par so.",
+      "explanation": "Corrigé C.10 : « Wollen Sie ein Zimmer im ersten Stock, so schreiben Sie es uns, bitte. »"
     }
   ]
 }

@@ -1,0 +1,221 @@
+{
+  "id": "61",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Einkäufe in einem Lebensmittelgeschäft",
+  "titleFr": "Achats dans un magasin d'alimentation",
+  "proverbDe": "Wie der Preis, so die Ware.",
+  "proverbFr": "Tel prix, telle marchandise.",
+  "paragraphs": [
+    {
+      "de": "(In einem Selbstbedienungsladen) — Wo ist die Käseabteilung, bitte? — Ganz hinten links, neben den Wurstwaren. — Ich suche vergebens nach dem Gebäck. — Schauen Sie bitte auf das blaue Schild, hinter Ihnen! — Ich sehe den Preis nicht. Er ist wohl nicht angegeben? — Fragen Sie bitte den Abteilungsleiter.",
+      "fr": "(Dans un magasin de libre-service). — Où sont les fromages, s'il vous plaît? (m. à m. : le rayon des fromages). — Tout au fond à gauche, à côté de la charcuterie. — Je cherche en vain (le rayon) des gâteaux. — Veuillez consulter l'écriteau bleu, derrière vous. — Je ne vois pas le prix. Il ne semble pas indiqué. — Demandez s'il vous plaît au chef de rayon."
+    },
+    {
+      "de": "(Beim Kleinhändler) — Ich möchte Butter, bitte. — Wieviel? — Zwei Pfund. — Ist es recht so? Wünschen Sie sonst noch etwas? — Nein, das wäre alles. — Haben Sie ein Einkaufsnetz? Oder darf ich Ihnen mit einer Papiertasche aushelfen? — Ja, sehr gern. Besten Dank. — Bitte schön!",
+      "fr": "(Chez le détaillant). — Je voudrais du beurre, s'il vous plaît. — Combien, Madame? — Deux livres. — Est-ce que cela ira comme ceci? (m. à m. : est-ce bien ainsi?) Et avec cela? (m. à m. : voulez-vous autre chose encore?) — Non, c'est tout (m. à m. : ce serait) — Avez-vous un filet (à provisions)? Ou — si cela peut vous rendre service — voulez-vous que je vous donne un sac de papier? (puis-je vous aider...) — Oui, très volontiers. Merci bien. — A votre service."
+    },
+    {
+      "de": "Ich habe mir alles aufgeschrieben, was ich einzukaufen hatte. Einen Augenblick, ich will nachsehen, ob ich nichts vergessen habe. — Ach, ich muß zurückkehren. Ich habe den Kaffee und die Schokolade vergessen. Wo kann ich das nur finden? — In welcher Abteilung sind die Geschirrspülmittel und die Waschmittel? — Sie finden sie in der Abteilung für Reinigungsmittel.",
+      "fr": "— J'ai tout noté ce qu'il fallait que j'achète. Un instant, je vais voir, si je n'ai rien oublié. — Ah! je suis obligée de retourner. J'ai oublié le café et le chocolat. Où donc pourrai-je trouver cela? — A quel rayon se trouvent les produits pour faire la vaisselle, et les poudres à laver le linge? — Vous les trouverez au rayon des produits d'entretien."
+    }
+  ],
+  "pronunciation": "Mots composés et accents toniques de la leçon : dans les longs noms composés, l'accent principal porte sur le premier élément — « Lebensmittelgeschäft » [LÉ:-bens-mit-tel-ge-chèft], « Selbstbedienungsladen » [ZÈLPST-be-di:-noungs-la:den], « Käseabteilung » [KÈ:-ze-ap-tay-loung], « Geschirrspülmittel » [ge-CHIR-chpü:l-mit-tel], « Reinigungsmittel » [RAY-ni-goungs-mit-tel] ; dans « Gebäck » [ge-BÈK] et « zurückkehren » [tsou-RÜK-ké:ren], la syllabe radicale est accentuée ; « Pfund » [pfount] fait entendre nettement l'affriquée pf et le d final assourdi en [t].",
+  "vocab": [
+    {
+      "de": "der Einkauf (¨-e)",
+      "fr": "l'achat",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Handel",
+      "fr": "le commerce",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Händler (-)",
+      "fr": "le commerçant",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Käse (-)",
+      "fr": "le fromage",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schinken (-)",
+      "fr": "le jambon",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Abteilung",
+      "fr": "le service, le rayon",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Selbstbedienung (-en)",
+      "fr": "le libre-service",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Tasche (n)",
+      "fr": "la poche, le sac",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Wäsche (n)",
+      "fr": "la lessive",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Gebäck (sing)",
+      "fr": "les gâteaux",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Geschirr (sing)",
+      "fr": "la vaisselle",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Mittel (-)",
+      "fr": "le moyen",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Netz (e)",
+      "fr": "le filet",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Pfund",
+      "fr": "la livre",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Schild (-er)",
+      "fr": "l'enseigne",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Waschmittel (-)",
+      "fr": "la lessive (poudre)",
+      "info": "Neutre"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Wo ist die Gebäckabteilung? Wo sind die Waschmittel? — Verbes irréguliers du groupe a — u — a",
+      "body": "Dans <em>Gebäck</em> et dans <em>Waschmittel</em>, nous retrouvons les verbes <em>backen</em> et <em>waschen</em>, qui appartiennent au groupe <strong>a — u — a</strong> des verbes irréguliers. Exemples :<br><strong>Backen</strong>, cuire (au four) : <em>er buk</em>, il cuisait ; <em>er hat ... gebacken</em>, il a cuit ; <em>er bäckt</em>, il cuit (au prétérit, également : <em>er backte</em>).<br><strong>Waschen</strong>, laver ; <em>er wusch</em>, il lavait ; <em>er hat ... gewaschen</em>, il a lavé ; <em>er wäscht</em>, il lave.<br><strong>Autres verbes irréguliers de ce groupe :</strong><br>• <em>fahren (u, a ; ä)</em>, aller (en voiture) ;<br>• <em>graben (u, a ; ä)</em>, creuser ;<br>• <em>schlagen (u, a ; ä)</em>, frapper, battre ;<br>• <em>tragen (u, a ; ä)</em>, porter ;<br>• <em>wachsen (u, a ; ä)</em>, pousser, croître ;<br>• <em>laden (u, a ; er lädt</em> ou <em>er ladet)</em>, charger, inviter ;<br>• <em>schaffen (u, a ; er schafft)</em>, créer.<br><strong>Remarques :</strong><br>a) Au sens de : faire, travailler, <em>schaffen</em> est régulier.<br>b) Les verbes irréguliers en <em>a</em> ont tous un participe passé en <em>a</em> (voir L. 59)."
+    },
+    {
+      "title": "Alles, was ich einzukaufen hatte. — L'idée de devoir avec haben / sein + zu + infinitif",
+      "body": "(m. à m. : tout ce que j'avais à acheter.)<br>Le verbe <strong>haben</strong> employé avec un infinitif complément, exprime une idée de devoir.<br><em>Ich habe noch ein Kilo Reis zu kaufen</em>, il me faut encore acheter un kilo de riz.<br><em>Das hat nichts zu sagen</em>, cela ne veut rien dire.<br>L'idée de devoir peut aussi s'exprimer par <strong>sein</strong> suivi d'un infinitif complément.<br><em>Es ist noch Mehl zu kaufen</em>, il faut acheter de la farine encore."
+    },
+    {
+      "title": "Ich möchte zwei Pfund Reis. — Invariabilité des noms de mesure masculins et neutres",
+      "body": "<em>Das Pfund</em>, la livre, est <strong>invariable après un nombre</strong>. Il en est ainsi des noms de mesure masculins ou neutres : <em>das Kilo</em> ; <em>das Liter</em> ; <em>das Glas</em>, le verre ; <em>das Stück</em>, la pièce ; <em>der Mann</em>, l'homme (comme « mesure militaire »), etc. Exemples :<br>• <em>Drei Kilo Fleisch</em>, 3 kilos de viande ;<br>• <em>Zwei Glas Wasser</em>, 2 verres d'eau ;<br>• <em>Seine Kompanie zählte 100 Mann</em>, sa compagnie avait 100 hommes.<br>Mais on dira : <em>3 Flaschen Wein</em>, 3 bouteilles de vin, en mettant <em>die Flasche</em>, nom féminin, au pluriel."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.1) Mettez « Sie buk guten Kuchen. » (Elle faisait du bon gâteau) au présent et au passé composé :",
+      "options": [
+        "Sie bäckt guten Kuchen. / Sie hat guten Kuchen gebacken.",
+        "Sie backt guten Kuchen. / Sie hat guten Kuchen gebuckt.",
+        "Sie bäckt guten Kuchen. / Sie ist guten Kuchen gebacken.",
+        "Sie bückt guten Kuchen. / Sie hat guten Kuchen gebacken."
+      ],
+      "answer": "Sie bäckt guten Kuchen. / Sie hat guten Kuchen gebacken.",
+      "hint": "Le verbe fort « backen » suit le modèle a — u — a avec inflexion ä au présent (er/sie bäckt) et participe passé en -a (gebacken).",
+      "explanation": "Corrigé A.1 : « Elle faisait du bon gâteau. a) Sie bäckt guten Kuchen. b) Sie hat guten Kuchen gebacken. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.3) Mettez « Das Gemüse wuchs schön. » (Les légumes poussaient bien) au présent : « Das Gemüse ___ schön. »",
+      "answer": "wächst",
+      "hint": "Le verbe « wachsen (u, a ; ä) » prend un Umlaut (ä) à la 3e personne du singulier au présent.",
+      "explanation": "Corrigé A.3 : « Les légumes poussaient bien. a) Das Gemüse wächst schön. b) Das Gemüse ist schön gewachsen. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.4) Mettez « Der Blitz schlug in den Baum ein. » (La foudre tomba sur l'arbre) au passé composé : « Der Blitz hat in den Baum ___ . »",
+      "answer": "eingeschlagen",
+      "hint": "Verbe séparable « einschlagen (u, a ; ä) » : -ge- s'intercale entre « ein » et le participe passé « schlagen ».",
+      "explanation": "Corrigé A.4 : « La foudre tomba sur l'arbre. a) Der Blitz schlägt in den Baum ein. b) Der Blitz hat in den Baum eingeschlagen. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.6) Mettez « Sie luden mich zu Tisch ein. » (Ils m'invitèrent à dîner) au passé composé :",
+      "options": [
+        "Sie haben mich zu Tisch eingeladen.",
+        "Sie haben mich zu Tisch eingeluden.",
+        "Sie sind mich zu Tisch eingeladen.",
+        "Sie haben mich zu Tisch geladet."
+      ],
+      "answer": "Sie haben mich zu Tisch eingeladen.",
+      "hint": "« einladen » appartient au groupe a — u — a : le participe passé retrouve la voyelle a (eingeladen) avec l'auxiliaire « haben ».",
+      "explanation": "Corrigé A.6 : « Ils m'invitèrent à dîner (= à table). a) Sie laden mich zu Tisch ein. b) Sie haben mich zu Tisch eingeladen. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.7) Formez une infinitive avec « haben » à partir de « Wir müssen heute abend noch Brot kaufen. » (Il nous faut encore acheter du pain ce soir.)",
+      "words": [
+        "Wir",
+        "haben",
+        "heute",
+        "abend",
+        "noch",
+        "Brot",
+        "zu",
+        "kaufen."
+      ],
+      "answer": "Wir haben heute abend noch Brot zu kaufen.",
+      "hint": "Remplacez « müssen » par « haben » conjugué et placez « zu » devant l'infinitif final « kaufen ».",
+      "explanation": "Corrigé B.7 : « Wir haben heute abend noch Brot zu kaufen. Il nous faut encore acheter du pain ce soir. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.9) Transformez avec « haben ... zu » : « Der Händler muß die Preise angeben. » (Le marchand doit indiquer ses prix.) → « Der Händler hat die Preise ___ . »",
+      "answer": "anzugeben",
+      "hint": "Avec le verbe séparable « angeben », « zu » s'intercale entre la particule « an » et le radical « geben ».",
+      "explanation": "Corrigé B.9 : « Der Händler hat die Preise anzugeben. Le marchand doit indiquer ses prix. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.13) Traduisez : « Donnez-moi deux livres de boudin (die Blutwurst), trois bouteilles de bière et deux kilos de pain bis (= noir). »",
+      "words": [
+        "Geben",
+        "Sie",
+        "mir",
+        "zwei",
+        "Pfund",
+        "Blutwurst,",
+        "drei",
+        "Flaschen",
+        "Bier",
+        "und",
+        "zwei",
+        "Kilo",
+        "Schwarzbrot."
+      ],
+      "answer": "Geben Sie mir zwei Pfund Blutwurst, drei Flaschen Bier und zwei Kilo Schwarzbrot.",
+      "hint": "« Pfund » et « Kilo » (neutres) restent invariables après un nombre, mais « Flasche » (féminin) se met au pluriel : « drei Flaschen ».",
+      "explanation": "Corrigé C.13 : « Geben Sie mir zwei Pfund Blutwurst, drei Flaschen Bier und zwei Kilo Schwarzbrot. » Les noms de mesure neutres et masculins sont invariables après un nombre, contrairement aux féminins."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice C.14) Choisissez la traduction exacte de : « Pourriez-vous me dire à quelle heure le magasin ferme ? »",
+      "options": [
+        "Könnten Sie mir sagen, wann das Geschäft geschlossen wird?",
+        "Könnten Sie mir sagen, wann wird das Geschäft geschlossen?",
+        "Können Sie mich sagen, wann das Geschäft geschlossen wird?",
+        "Könnten Sie mir sagen, wann das Geschäft geschlossen ist?"
+      ],
+      "answer": "Könnten Sie mir sagen, wann das Geschäft geschlossen wird?",
+      "hint": "Dans la subordonnée interrogative indirecte introduite par « wann », l'auxiliaire passif « wird » se place tout à la fin ; « sagen » demande le datif « mir ».",
+      "explanation": "Corrigé C.14 : « Könnten Sie mir sagen, wann das Geschäft geschlossen wird? »"
+    }
+  ]
+}

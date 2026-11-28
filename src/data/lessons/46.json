@@ -1,0 +1,192 @@
+{
+  "id": "46",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Auf der Bank",
+  "titleFr": "A la banque",
+  "proverbDe": "Unrecht Gut gedeiht nicht.",
+  "proverbFr": "Bien mal acquis ne profite jamais.",
+  "paragraphs": [
+    {
+      "de": "— Ich möchte deutsches Geld. Wie ist der Wechselkurs heute? — Die Mark gilt 1,... F (einen Franc, ... Centimes); mit der Bankprovision macht es 5 Centimes mehr. — Ach! Sie ist teurer als das letzte Mal, als ich Geld umwechselte. — Das mag sein. Mit dem Andrang der Touristen steigen die Preise. In einem Monat haben wir wieder den üblichen Kurs. — Geben Sie mir also 2.000 (zweitausend) Mark, oder geben Sie mir besser deutsches Geld für 3.000 Francs. Wie lange wird es wohl dauern? — Höchstens fünf Minuten. — Wo löst man bitte die Schecks ein? — Am Schalter 16.",
+      "fr": "— Je voudrais acheter des marks (mot à mot : je voudrais de la monnaie allemande). Quel est le cours du change aujourd'hui? — Le mark vaut 1,... F; avec la commission de banque, cela fait 5 centimes de plus. — Tiens! Il est plus cher que la dernière fois où j'ai changé de l'argent. — C'est possible. Avec l'afflux des touristes, les prix montent. D'ici un mois nous aurons de nouveau le cours normal. — Donnez-moi donc 2.000 marks, ou plutôt donnez-moi pour 3.000 francs de marks. Combien de temps cela va-t-il prendre? — Tout au plus cinq minutes. — Où touche-t-on les chèques, s'il vous plaît? — Au guichet 16."
+    },
+    {
+      "de": "— Könnte ich diesen Scheck einlösen, bitte? (Der Angestellte schaut sich den Scheck an und liest den Namen des Zahlungsempfängers) — Sind Sie Herr Dumont? — Ja. — Haben Sie einen Ausweis, bitte, z. B. (zum Beispiel) Ihren Paß? — Unterschreiben Sie bitte auf der Rückseite! Hier ist eine Marke. Wenn Ihre Nummer ausgerufen wird, gehen Sie an die Kasse, Schalter 7.",
+      "fr": "Est-ce que je pourrais toucher ce chèque, s'il vous plaît? (L'employé regarde le chèque et lit le nom du bénéficiaire) — Vous êtes Monsieur Dumont? — Oui — Avez-vous une pièce d'identité, s'il vous plaît, votre passeport, par exemple? — Veuillez signer au dos! Voici un jeton. Quand on appellera votre numéro, vous vous présenterez à la caisse, guichet 7."
+    },
+    {
+      "de": "— (Der Kassierer ruft die Nummer auf, die auf der Marke steht) — Was für Scheine wollen Sie, Zehn-, Fünfzig- oder Hundertmarkscheine? — Geben Sie mir bitte Fünfzigmarkscheine, und für fünfzig Mark Kleingeld. — ...und fünfzig macht zweitausend. So, mein Herr. Wollen Sie bitte nachzählen. — Besten Dank, auf Wiedersehen. — Bitte schön!",
+      "fr": "(Le caissier appelle le numéro porté sur le jeton) — Quelle sorte de coupures voulez-vous, des billets de 10, 50 ou 100 marks? — Donnez-moi, s'il vous plaît, des billets de 50 marks, et 50 marks de petite monnaie. — ... et 50 qui font 2.000. Voici, Monsieur; recomptez s'il vous plaît — Merci bien; au revoir — A votre service."
+    }
+  ],
+  "pronunciation": "Points de prononciation de cette leçon : dans « Wechselkurs », le groupe « chs » se prononce [ks] et l'accent tonique porte sur « Wech- ». Dans les longs mots composés (« Zahlungsempfänger », « Fünfzigmarkscheine », « Hundertmarkscheine »), l'accent principal reste toujours sur le premier élément. Les emprunts « Bankprovision » et « Kassierer » portent l'accent sur les finales « -sion » et « -sie- ». Distinguez nettement la voyelle non infléchie du prétérit et la voyelle infléchie brève du subjonctif 2 : « konnte / könnte », « durfte / dürfte », « mußte / müßte », « mochte / möchte » ; dans « Paß », le « a » est bref devant « ß » [s].",
+  "vocab": [
+    {
+      "de": "der Andrang",
+      "fr": "l'affluence",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Wechselkurs (-e)",
+      "fr": "le cours du change",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Banknote (n)",
+      "fr": "le billet de banque",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Marke (n)",
+      "fr": "la marque, le jeton",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Provision (-en)",
+      "fr": "la commission",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kommission (-en)",
+      "fr": "la commission",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Rückseite (n)",
+      "fr": "le verso",
+      "info": "Féminin"
+    },
+    {
+      "de": "nachzählen",
+      "fr": "recompter",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "umwechseln",
+      "fr": "changer",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "gelten (a, o; i)",
+      "fr": "valoir",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "steigen (ie, ie)",
+      "fr": "monter",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "die Mark",
+      "fr": "le mark",
+      "info": "Féminin"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Ich möchte deutsches Geld. — Könnte ich diesen Scheck einlösen?",
+      "body": "Nous avons étudié les six verbes auxiliaires de mode dans les leçons 18, 19, 20. Dans ces deux exemples, <em>mögen</em> et <em>können</em> sont au présent du subjonctif 2, qui leur sert de conditionnel. Nous nous rappelons qu'au prétérit de l'indicatif, aucun de ces verbes ne gardait l'inflexion (ni, du reste, au participe passé). Cependant, au présent du subjonctif 2, l'inflexion reparaît pour les 4 verbes qui la possèdent à l'infinitif. Exemples :<br><br><strong>können :</strong> <em>ich konnte</em>, je pouvais ; <em>ich könnte</em>, je pourrais ; (<em>ich habe gekonnt</em>)<br><strong>dürfen :</strong> <em>ich durfte</em>, j'avais le droit de ; <em>ich dürfte</em>, j'aurais le droit de ; (<em>ich habe gedurft</em>)<br><strong>müssen :</strong> <em>ich mußte</em>, il fallait que je... ; <em>ich müßte</em>, il faudrait que je... ; (<em>ich habe gemußt</em>)<br><strong>mögen :</strong> <em>ich mochte</em>, je désirais ; <em>ich möchte</em>, je désirerais ; (<em>ich habe gemocht</em>)<br><strong>wollen :</strong> <em>ich wollte</em>, je voulais ; <em>ich wollte</em>, je voudrais ; (<em>ich habe gewollt</em>)<br><strong>sollen :</strong> <em>ich sollte</em>, je devais ; <em>ich sollte</em>, je devrais ; (<em>ich habe gesollt</em>)."
+    },
+    {
+      "title": "Remarques sur le subjonctif 2 des auxiliaires de mode",
+      "body": "Notez que pour les deux derniers verbes (<em>wollen</em> et <em>sollen</em>), l'expression du conditionnel ne diffère pas du prétérit de l'indicatif. Seul le contexte en éclaire le sens.<br><br>Au présent du subjonctif 2, ces auxiliaires de mode prennent les terminaisons du verbe faible au prétérit (voir leçon 14)."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Mettez la phrase au présent du subjonctif 2 : « Er darf nicht so viel Geld wechseln. » (Exercice A.2)",
+      "options": [
+        "Er dürfte nicht so viel Geld wechseln.",
+        "Er durfte nicht so viel Geld wechseln.",
+        "Er darfte nicht so viel Geld wechseln.",
+        "Er dürfe nicht so viel Geld wechseln."
+      ],
+      "answer": "Er dürfte nicht so viel Geld wechseln.",
+      "hint": "Au présent du subjonctif 2, l'inflexion reparaît pour « dürfen ».",
+      "explanation": "Corrigé A.2 : « Er dürfte nicht so viel Geld wechseln. » (Il ne pourrait pas / n'aurait pas le droit de changer autant d'argent.) L'inflexion reparaît sur le radical du prétérit « durfte » → « dürfte »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez le verbe de « Ich muß ein Bankkonto haben. » au présent du subjonctif 2 (orthographe 1970) : « Ich ___ ein Bankkonto haben. » (Exercice A.3)",
+      "answer": "müßte",
+      "hint": "Partez du prétérit « mußte » et rétablissez l'inflexion de « müssen ».",
+      "explanation": "Corrigé A.3 : « Ich müßte ein Bankkonto haben. » (Il faudrait que j'aie / je devrais avoir un compte en banque.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au présent du subjonctif 2 : « Wir sollen immer Kleingeld haben. » (Exercice A.5)",
+      "options": [
+        "Wir sollten immer Kleingeld haben.",
+        "Wir söllten immer Kleingeld haben.",
+        "Wir sollen immer Kleingeld gehabt.",
+        "Wir werden immer Kleingeld sollen."
+      ],
+      "answer": "Wir sollten immer Kleingeld haben.",
+      "hint": "« sollen » n'a pas d'inflexion à l'infinitif.",
+      "explanation": "Corrigé A.5 : « Wir sollten immer Kleingeld haben. » (Nous devrions toujours avoir de la monnaie.) Pour « wollen » et « sollen », le présent du subjonctif 2 est identique au prétérit de l'indicatif."
+    },
+    {
+      "type": "order",
+      "prompt": "Commencez la phrase « Ich frage nach dem Wechselkurs. » par « Ich möchte » (Je voudrais demander quel est le cours du change). (Exercice B.8)",
+      "words": [
+        "Ich",
+        "möchte",
+        "nach",
+        "dem",
+        "Wechselkurs",
+        "fragen."
+      ],
+      "answer": "Ich möchte nach dem Wechselkurs fragen.",
+      "hint": "Avec un auxiliaire de mode en 2e position, l'infinitif se place en fin de proposition.",
+      "explanation": "Corrigé B.8 : « Ich möchte nach dem Wechselkurs fragen. » (Je voudrais demander [quel est] le cours du change.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Reformulez « Ich fahre mit dem Taxi zurück. » en commençant par « Ich möchte » (Je voudrais retourner en taxi). (Exercice B.10)",
+      "answer": "Ich möchte mit dem Taxi zurückfahren.",
+      "hint": "L'infinitif d'un verbe séparable (« zurückfahren ») s'écrit en un seul mot à la fin de la phrase.",
+      "explanation": "Corrigé B.10 : « Ich möchte mit dem Taxi zurückfahren. » (Je voudrais retourner en taxi.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez : « À quel guichet pouvait-il avoir des marks (= de la monnaie allemande) ? » (Exercice C.11)",
+      "options": [
+        "An welchem Schalter konnte er deutsches Geld haben?",
+        "An welchem Schalter könnte er deutsches Geld haben?",
+        "An welchen Schalter konnte er deutsches Geld haben?",
+        "Auf welchem Schalter wollte er deutsches Geld haben?"
+      ],
+      "answer": "An welchem Schalter konnte er deutsches Geld haben?",
+      "hint": "« pouvait-il » est au prétérit de l'indicatif (sans inflexion) et « an » + lieu régit le datif.",
+      "explanation": "Corrigé C.11 : « An welchem Schalter konnte er deutsches Geld haben? » (Prétérit de l'indicatif « konnte », contrairement au conditionnel « könnte » de la phrase C.12.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez : « Je lui ai dit que je voudrais toucher un chèque. » (Exercice C.14)",
+      "words": [
+        "Ich",
+        "habe",
+        "ihm",
+        "gesagt,",
+        "daß",
+        "ich",
+        "einen",
+        "Scheck",
+        "einlösen",
+        "möchte."
+      ],
+      "answer": "Ich habe ihm gesagt, daß ich einen Scheck einlösen möchte.",
+      "hint": "Dans la subordonnée introduite par « daß », le verbe conjugué « möchte » rejette l'infinitif juste avant lui en fin de phrase.",
+      "explanation": "Corrigé C.14 : « Ich habe ihm gesagt, daß ich einen Scheck einlösen möchte. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez : « Après avoir signé le chèque, il attendit devant la caisse. » (Exercice C.15)",
+      "answer": "Nachdem er den Scheck unterschrieben hatte, wartete er vor der Kasse.",
+      "hint": "Employez la conjonction « Nachdem » suivie du plus-que-parfait, puis le prétérit dans la principale.",
+      "explanation": "Corrigé C.15 : « Nachdem er den Scheck unterschrieben hatte, wartete er vor der Kasse. » La subordonnée en tête entraîne l'inversion du sujet (« wartete er »)."
+    }
+  ]
+}

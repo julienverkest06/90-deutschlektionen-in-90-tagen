@@ -2,86 +2,208 @@
   "id": "52",
   "series": 2,
   "authentic": true,
-  "titleDe": "Im Museum (Le double infinitif et von)",
-  "titleFr": "Au musée : le double infinitif au passé et le complément d'origine",
-  "proverbDe": "Kunst bringt Gunst.",
-  "proverbFr": "L'art attire la faveur.",
+  "titleDe": "Im Museum",
+  "titleFr": "Au musée",
+  "proverbDe": "Das Werk lobt den Meister.",
+  "proverbFr": "C'est à l'œuvre qu'on reconnaît l'artisan (l'œuvre loue le maître).",
   "paragraphs": [
     {
-      "de": "Ich habe es nirgends finden können. Er hat das Museum besichtigen wollen. Max hatte lange warten müssen.",
-      "fr": "Je n'ai pu le trouver nulle part. Il a voulu visiter le musée. Max avait dû attendre longtemps."
+      "de": "— Ist das Museum heute geöffnet, bitte?\n— Ja, das Museum ist jeden Tag, außer Dienstag, geöffnet.\n— Welches sind die Besuchszeiten?\n— Morgens von zehn bis zwölf und nachmittags von vierzehn bis siebzehn Uhr. Am Mittwoch und am Freitag abend von zwanzig bis zweiundzwanzig Uhr.",
+      "fr": "— Le musée est-il ouvert aujourd'hui, s'il vous plaît ?\n— Oui, le musée est ouvert tous les jours à l'exception du mardi.\n— Quelles sont les heures de visite ?\n— De 10 h à 12 h le matin et de 14 h à 17 h l'après-midi. Les mercredi et vendredi soirs de 20 h à 22 h."
     },
     {
-      "de": "Wo sind die Gemälde von Schwind? Der Besuch von Museen ist lehrreich.",
-      "fr": "Où sont les tableaux de Schwind ? La visite de musées est instructive."
+      "de": "— Was kostet der Eintritt, bitte? Ich bin Student; habe ich ein Anrecht auf Preisermäßigung?\n— Jawohl. Sie bezahlen den halben Preis, wie die Besuchergruppen.\n— Könnten Sie mir sagen, wo sich die Gemälde von Schwind befinden?\n— Die Räume, die ihnen gewidmet sind, werden zur Zeit umgebaut. Vorübergehend werden die Gemälde im Untergeschoß ausgestellt. Steigen Sie nach dem Bildersaal der Expressionisten die Treppe hinab; nehmen Sie danach den ersten Gang links; Sie kommen dann in die romanische Skulpturengalerie.",
+      "fr": "— Quel est le prix d'entrée, s'il vous plaît ? Je suis étudiant ; ai-je droit à une réduction (de prix) ?\n— Parfaitement, vous payez demi-tarif, comme les groupes (de visiteurs).\n— Pouvez-vous me dire où se trouvent les (tableaux de) Schwind ?\n— Les salles qui leur sont consacrées sont actuellement en travaux. Les toiles sont temporairement exposées au sous-sol. Descendez l'escalier après la galerie des expressionnistes ; prenez ensuite le premier couloir à gauche ; vous arrivez alors dans la galerie des sculptures romanes."
+    },
+    {
+      "de": "— Wo kann man Reproduktionen erstehen?\n— Im Erdgeschoß, hinter dem Teesalon, links.\n— Ich hätte gern das Selbstbildnis von Rembrandt. Ich habe es nirgends finden können. Sie haben es hier in weiß und schwarz, ich hätte es aber gern farbig.\n— Leider haben wir es nicht farbig, aber wir haben Dias, wenn Sie das wünschen.",
+      "fr": "— Où peut-on se procurer des reproductions ?\n— Au rez-de-chaussée, à gauche, derrière le salon de thé.\n— Je voudrais le portrait de Rembrandt peint par lui-même. Je n'ai pu le trouver nulle part. Vous l'avez ici en noir et blanc, mais je le voudrais en couleur.\n— Malheureusement nous ne l'avons pas en couleur, mais si vous le désirez, nous avons des diapositives."
     }
   ],
-  "pronunciation": "Règle du double infinitif : lorsqu'un auxiliaire de mode au passé composé accompagne un autre infinitif, son participe passé prend la forme de l'infinitif (Ich habe finden können, et non gekonnt).",
+  "pronunciation": "Indications phonétiques de la leçon : 1. Besuchszeiten [bézouchç-tçaéten']. 2. Preisermäßigung [praéç-èrmèçigouⁿg]. 3. Selbstbildnis [zèlbçt-biltniç]. Notez la prononciation de « ch » après « u » (son dur ach-Laut) dans Besuchszeiten, du « z » [ts], du « ß » [s] sourd dans Preisermäßigung, Erdgeschoß et Untergeschoß, ainsi que de la finale « -ng » nasale [ŋ].",
   "vocab": [
+    {
+      "de": "der Besucher (-)",
+      "fr": "le visiteur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Eintritt (-e)",
+      "fr": "l'entrée",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Student (-en)",
+      "fr": "l'étudiant",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Ausstellung (-en)",
+      "fr": "l'exposition",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Ermäßigung (-en)",
+      "fr": "la réduction",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Dia (-s)",
+      "fr": "la diapositive",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Erdgeschoß (-sse)",
+      "fr": "le rez-de-chaussée",
+      "info": "Neutre"
+    },
     {
       "de": "das Gemälde (-)",
       "fr": "le tableau, la peinture",
       "info": "Neutre"
     },
     {
-      "de": "der Dom (-e)",
-      "fr": "la cathédrale",
-      "info": "Masculin"
+      "de": "das Selbstbildnis (-se)",
+      "fr": "le portrait du peintre par lui-même",
+      "info": "Neutre"
     },
     {
-      "de": "der Saal (Säle)",
-      "fr": "la salle",
-      "info": "Masculin"
+      "de": "das Untergeschoß (-sse)",
+      "fr": "le sous-sol",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Gruppe (-n)",
+      "fr": "le groupe",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Anrecht (-e) (auf)",
+      "fr": "le droit (à)",
+      "info": "Neutre"
     },
     {
       "de": "umbauen",
-      "fr": "transformer (un bâtiment)",
-      "info": "Particule séparable : um"
+      "fr": "transformer (construction)",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "widmen",
+      "fr": "consacrer",
+      "info": "Verbe faible"
     },
     {
       "de": "vorübergehen (i, a)",
-      "fr": "passer devant",
-      "info": "Particule séparable : vorüber"
+      "fr": "passer",
+      "info": "Verbe fort séparable"
     }
   ],
   "grammar": [
     {
-      "title": "Le double infinitif (auxiliaires de mode et lassen)",
-      "body": "Au passé composé et plus-que-parfait, si l'auxiliaire de mode a un infinitif complément, on emploie l'infinitif à la place du participe passé : <em>Er hat das Museum besichtigen <strong>wollen</strong></em>. S'il n'y a pas d'infinitif complément, on garde le participe normal : <em>Ich habe es nicht <strong>gewollt</strong></em>."
+      "title": "Ich habe es nirgends finden können.",
+      "body": "Le verbe de cette phrase est au passé composé : <em>Ich habe... können</em>, j'ai pu. Or, à la place du participe passé habituel <em>gekonnt</em>, auquel nous nous attendrions normalement, nous trouvons ici un participe passé à forme d'infinitif. Cette substitution se fait chaque fois qu'un auxiliaire de mode (L. 18, 19, 20) à un temps composé du passé, a pour complément un infinitif (dans notre exemple, cet infinitif complément est <em>finden</em>, trouver).<br><br>• <em>Er hat das Museum besichtigen wollen</em> — il a voulu visiter le musée.<br>• <em>Helga hat nicht kommen mögen</em> — Helga n'a pas eu envie de venir.<br>• <em>Max hatte lange warten müssen</em> — Max avait dû attendre longtemps.<br>• <em>Er hatte nicht vorgehen dürfen</em> — il n'avait pas eu le droit de passer le premier (m. à m. : devant).<br><br>Cette règle du <strong>« double infinitif »</strong> s'applique aussi au verbe <em>lassen</em>, laisser, faire, et, facultativement, à quelques autres verbes comme <em>sehen</em>, voir ; <em>hören</em>, entendre ; <em>helfen</em>, aider.<br><br>• <em>Er hat den Wächter kommen lassen</em> — il a fait venir le gardien.<br>• <em>Er hat ihn die Treppe heraufkommen hören (ou gehört)</em> — il l'a entendu monter l'escalier."
     },
     {
-      "title": "Emploi de von (+ Datif) au lieu du génitif",
-      "body": "<em>von</em> s'emploie pour l'origine/l'auteur (<em>Ein Roman von Kafka</em>) et remplace obligatoirement le génitif pluriel sans article (<em>Der Besuch von Museen</em>)."
+      "title": "Wo sind die Gemälde von Schwind?",
+      "body": "• Le complément du nom, <em>von Schwind</em>, n'exprime pas, ici, la possession (= génitif), mais l'origine, la provenance. Dans ce cas, on emploie une préposition : <strong>von (+ Datif)</strong>, de.<br><strong>Exemples :</strong><br>• <em>Ein Roman von Kafka</em> — un roman de Kafka.<br>• <em>Der Zug von Köln</em> — le train (venant) de Cologne.<br><br>• Dans la langue courante, on emploie parfois <em>von</em> là où le génitif serait de rigueur.<br><strong>Exemple :</strong> <em>Ein Freund von Karl</em>, un ami de Charles, au lieu de <em>Ein Freund Karls</em>.<br><br>• Cependant, <strong>von</strong> remplace obligatoirement le génitif pluriel sans article.<br><strong>Exemple :</strong> <em>Der Besuch eines Museums</em>, mais au pluriel : <em>der Besuch von Museen</em>, la visite de musées."
     }
   ],
   "exercises": [
     {
-      "type": "order",
-      "prompt": "Mettez au passé composé (Exercice A.1) : « Der Student kann schön malen. »",
-      "words": [
-        "Der",
-        "Student",
-        "hat",
-        "schön",
-        "malen",
-        "können."
-      ],
+      "type": "fill",
+      "prompt": "Mettez au passé composé : « Der Student kann schön malen. » (Exercice A.1)",
       "answer": "Der Student hat schön malen können.",
-      "hint": "Double infinitif en fin de phrase : malen können.",
-      "explanation": "Der Student hat schön malen können."
+      "hint": "Auxiliaire « haben » + double infinitif en fin de phrase (« malen können »).",
+      "explanation": "Corrigé A.1 : « Der Student hat schön malen können. » (L'étudiant a bien su peindre.) L'auxiliaire de mode accompagné d'un infinitif complément prend la forme de l'infinitif."
     },
     {
       "type": "choice",
-      "prompt": "Mettez au passé composé sans infinitif complément (Exercice A.6) : « Ich will es nicht. »",
+      "prompt": "Mettez au passé composé : « Hilde läßt sich die Dias präsentieren. » (Exercice A.4)",
+      "options": [
+        "Hilde hat sich die Dias präsentieren lassen.",
+        "Hilde hat sich die Dias präsentieren gelassen.",
+        "Hilde ist sich die Dias präsentieren lassen.",
+        "Hilde hat sich die Dias gelassen präsentieren."
+      ],
+      "answer": "Hilde hat sich die Dias präsentieren lassen.",
+      "hint": "La règle du double infinitif s'applique aussi au verbe « lassen » accompagné d'un infinitif.",
+      "explanation": "Corrigé A.4 : « Hilde hat sich die Dias präsentieren lassen. » (Hilde s'est fait présenter les diapositives.) Avec un infinitif complément, « lassen » reste à l'infinitif au lieu de « gelassen »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au passé composé : « Ich will es nicht. » (Exercice A.6)",
       "options": [
         "Ich habe es nicht gewollt.",
         "Ich habe es nicht wollen.",
         "Ich bin es nicht gewollt.",
-        "Ich hatte es nicht wollen."
+        "Ich habe es nicht wollen gekonnt."
       ],
       "answer": "Ich habe es nicht gewollt.",
-      "hint": "Il n'y a pas d'autre infinitif → participe passé normal « gewollt ».",
-      "explanation": "Ich habe es nicht gewollt."
+      "hint": "Regardez bien : y a-t-il un infinitif complément dans cette phrase ?",
+      "explanation": "Corrigé A.6 : « Ich habe es nicht gewollt. » (Je ne l'ai pas voulu.) Comme il n'y a pas d'infinitif complément, on emploie le participe passé normal « gewollt »."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez l'expression entre parenthèses au pluriel : « Der Wert (eines Gemäldes) » — La valeur de tableaux. (Exercice B.7)",
+      "answer": "Der Wert von Gemälden",
+      "hint": "Au pluriel sans article, « von » (+ datif pluriel en -n) remplace obligatoirement le génitif.",
+      "explanation": "Corrigé B.7 : « Der Wert von Gemälden. » (La valeur de tableaux.) Le génitif pluriel sans article est obligatoirement remplacé par « von » + datif pluriel."
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez l'expression entre parenthèses au pluriel : « Der Kauf (eines Führers) » — L'achat de guides. (Exercice B.8)",
+      "options": [
+        "Der Kauf von Führern",
+        "Der Kauf von Führer",
+        "Der Kauf der Führern",
+        "Der Kauf Führer"
+      ],
+      "answer": "Der Kauf von Führern",
+      "hint": "« von » régit le datif ; n'oubliez pas la marque « -n » du datif pluriel.",
+      "explanation": "Corrigé B.8 : « Der Kauf von Führern. » (L'achat de guides.) « von » remplace le génitif pluriel sans article et impose le datif pluriel « Führern »."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez : « Nous n'avons pu visiter toutes les salles. » (Exercice C.10)",
+      "words": [
+        "Wir",
+        "haben",
+        "nicht",
+        "alle",
+        "Säle",
+        "besuchen",
+        "können."
+      ],
+      "answer": "Wir haben nicht alle Säle besuchen können.",
+      "hint": "Placez le double infinitif « besuchen können » tout à la fin de la phrase.",
+      "explanation": "Corrigé C.10 : « Wir haben nicht alle Säle besuchen können. » Le double infinitif rejette l'infinitif de l'auxiliaire de mode en toute dernière position."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez : « Avez-vous pu rester longtemps ? » (Exercice C.12)",
+      "words": [
+        "Haben",
+        "Sie",
+        "lange",
+        "bleiben",
+        "können?"
+      ],
+      "answer": "Haben Sie lange bleiben können?",
+      "hint": "Phrase interrogative : auxiliaire « Haben » en tête, puis le double infinitif « bleiben können » à la fin.",
+      "explanation": "Corrigé C.12 : « Haben Sie lange bleiben können? » Le double infinitif « bleiben können » clôt la question."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez : « Dans cette salle, il y a de beaux tableaux de Schwind, peintre romantique allemand. » (Exercice C.14)",
+      "options": [
+        "In diesem Saal gibt es schöne Gemälde von Schwind, einem romantischen deutschen Maler.",
+        "In diesem Saal gibt es schöne Gemälde von Schwind, ein romantischer deutscher Maler.",
+        "In diesem Saal gibt es schöne Gemälde von Schwind, romantischen deutschen Maler.",
+        "In diesem Saal gibt es schöne Gemälde Schwinds, einen romantischen deutschen Maler."
+      ],
+      "answer": "In diesem Saal gibt es schöne Gemälde von Schwind, einem romantischen deutschen Maler.",
+      "hint": "« von Schwind » est au datif ; l'apposition (L. 51) doit donc aussi être au datif masculin avec l'article indéfini.",
+      "explanation": "Corrigé C.14 : « In diesem Saal gibt es schöne Gemälde von Schwind, einem romantischen deutschen Maler. » Combinaison de « von » (+ datif) pour l'origine/l'auteur et de l'apposition au même cas (datif) avec article."
     }
   ]
 }

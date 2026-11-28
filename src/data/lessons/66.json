@@ -1,0 +1,225 @@
+{
+  "id": "66",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Beim Frisör",
+  "titleFr": "Chez le coiffeur",
+  "proverbDe": "Bei Nacht sind alle Katzen grau.",
+  "proverbFr": "La nuit, tous les chats sont gris.",
+  "paragraphs": [
+    {
+      "de": "— Wohin gehen Sie? — Ich gehe zum Frisör. Ich habe mich auf neun Uhr vormerken lassen. Es wird etwa eine halbe Stunde dauern. Ich werde mich auch rasieren lassen; ich komme nicht dazu, es selbst zu machen.",
+      "fr": "— Où allez-vous ? — Je vais chez le coiffeur. J'ai pris un rendez-vous pour 9 heures. Cela durera une demi-heure à peu près. Je me ferai également raser ; je n'arrive pas à le faire moi-même."
+    },
+    {
+      "de": "— Wer ist an der Reihe? — Ich bin dran. — Wie soll ich Ihnen das Haar schneiden? — Nicht zu kurz, aber auch nicht zu lang. Hauptsächlich im Nacken und an den Seiten. — Bitte, Haarwaschen, und Kopfmassage. — Was für ein Haarpflegemittel wünschen Sie? und was für ein Haaröl? — Soll ich den Scheitel links oder rechts ziehen?",
+      "fr": "— À qui le tour ? — C'est à moi. — Comment voulez-vous que je vous coupe les cheveux ? — Ni trop court, ni trop long non plus. Surtout dans la nuque et aux côtés. — Un shampooing, s'il vous plaît. Ensuite une friction. — Que désirez-vous comme lotion tonique ? et comme brillantine ? — Dois-je faire la raie à gauche ou à droite ?"
+    },
+    {
+      "de": "(Im Damensalon) — Möchten Sie ein Shampoo gegen sprödes Haar oder gegen Schuppen und fettes Haar? — Reichen Sie mir bitte die Haarnadeln. Da steht die Schachtel. — Setzen Sie sich bitte unter die Trockenhaube. — Was den Haarschnitt betrifft, möchte ich eine Stirnlocke rechts, und einen Knoten im Nacken. Dauerwellen mag ich nicht. Ich finde, sie eignen sich nicht für mein Haar. — Brauchen Sie keine Schönheitsmittel? eine Toilettenseife? eine Tages-, Nacht- oder Reinigungscreme? Wir haben auch sehr moderne Lippenstifte und Kölnisches Wasser in Zerstäubern.",
+      "fr": "(Au salon de dames) — Désirez-vous un shampooing contre les cheveux secs (m. à m. : cassants) ou contre les pellicules et les cheveux gras ? — Voulez-vous me passer les épingles s'il vous plaît ? — Voici la boîte. — Placez-vous sous le séchoir, s'il vous plaît. — Pour (ce qui concerne) la coupe, je désirerais une boucle sur le front, à droite, et un chignon dans la nuque. Je n'aime pas la permanente. Je trouve qu'elle ne convient pas à mes cheveux. — Est-ce qu'il ne vous faut pas de produits de beauté ? Un savon de toilette ? une crème de base, une crème nourrissante ou une crème à nettoyer ? Nous avons également des bâtons de rouge à lèvres très modernes, et de l'eau de Cologne en vaporisateur."
+    },
+    {
+      "de": "Lecture — Wetterbericht : Am Freitag wird die Besserung anhalten. Veränderliches Wetter mit ziemlich schönen Aufheiterungen und vereinzelten örtlichen Schauern. Schwacher Wind aus nord-westlicher Richtung. Höchsttemperaturen zwischen 22 und 26 Grad. Wetteraussichten für das Wochenende: Sommerliches Wetter mit angenehmen Temperaturen. Abflauender Wind.",
+      "fr": "Lecture — Bulletin météorologique : L'amélioration se poursuivra vendredi. Temps variable avec d'assez belles éclaircies et rares averses locales. Vent faible de secteur nord-ouest. Températures maximales comprises entre 22° et 26°. Prévision pour la fin de semaine : temps estival s'accompagnant de températures agréables. Vent plus modéré."
+    },
+    {
+      "de": "Lecture — Humor : Fritz in der Konditorei: « Ich möchte ein Stück Apfelkuchen. » — Nachdem der Konditor ihm den Teller gebracht hat, erklärt Fritz, er zöge eine Tasse Schokolade vor. Er bekommt sie, trinkt sie aus und will den Teeraum verlassen. Der Konditor: « Hallo, bezahlen! » — Fritz: « Was denn? » — « Die Schokolade. » — « Dafür habe ich Ihnen doch den Apfelkuchen gegeben. » — « Den haben Sie auch nicht bezahlt. » — « Ja, hab' ich ihn denn gegessen? »",
+      "fr": "Lecture — Humour : Frédéric dans la pâtisserie : « Je voudrais un morceau de tarte aux pommes. » — Après que le pâtissier lui a apporté l'assiette, Frédéric déclare qu'il préfère une tasse de chocolat. Il la reçoit, la vide et s'apprête à quitter le salon de thé. Le pâtissier : « Hola ! il faut payer ! » — Frédéric : « Quoi donc ? » — « Le chocolat. » — « Mais je vous ai donné en retour la tarte aux pommes. » — « Celle-ci non plus, vous ne l'avez pas payée. » — « Ah mais ! l'ai-je donc mangée ? »"
+    }
+  ],
+  "pronunciation": "Points d'attention de cette leçon : les emprunts au français conservent leur accentuation finale — « der Frisör » (voyelle longue sur -ör), « die Massage » (accent sur -sa- et consonne douce [ʒ]) et « die Konditorei » (accent sur -ei). Les verbes en -ieren comme « rasieren » portent toujours l'accent tonique sur -ie- (long). Dans les noms composés comme « das Haarpflegemittel », « die Trockenhaube », « die Reinigungscreme » ou « die Wetteraussichten », l'accent principal tombe toujours sur le premier élément (HÁARpflegemittel, TRÓCKenhaube, RÉINigungscreme).",
+  "vocab": [
+    {
+      "de": "der Frisör (e)",
+      "fr": "le coiffeur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Knoten (-)",
+      "fr": "le nœud",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Nacken (-)",
+      "fr": "la nuque",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Scheitel (-)",
+      "fr": "la raie",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Stift (e)",
+      "fr": "le crayon",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Zerstäuber (-)",
+      "fr": "le vaporisateur",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Lippe (n)",
+      "fr": "la lèvre",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Locke (n)",
+      "fr": "la boucle",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Massage (n)",
+      "fr": "le massage, la friction",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Nadel (n)",
+      "fr": "l'aiguille",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Reihe (n)",
+      "fr": "le rang",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Reinigung (en)",
+      "fr": "le nettoyage",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Schuppe (n)",
+      "fr": "l'écaille ; la pellicule",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Stirn (en)",
+      "fr": "le front",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Welle (n)",
+      "fr": "la vague ; l'ondulation",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Haar (e)",
+      "fr": "le cheveu ; la chevelure",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Shampoon (s)",
+      "fr": "le shampooing",
+      "info": "Neutre"
+    },
+    {
+      "de": "rasieren",
+      "fr": "raser",
+      "info": "Verbe"
+    },
+    {
+      "de": "trocknen",
+      "fr": "sécher",
+      "info": "Verbe"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Verbes irréguliers en i-a-u (Ich finde, sie eignen sich nicht für mein Haar.)",
+      "body": "Le verbe <em>finden</em>, trouver, fait au prétérit <strong>fand</strong>, et au participe passé <strong>gefunden</strong>.<br><br>Appartiennent au groupe de verbes irréguliers en <strong>i-a-u</strong> (l'astérisque * signale l'auxiliaire <em>sein</em>) :<br><strong>binden (a, u)</strong>, lier — <strong>*sinken (a, u)</strong>, s'enfoncer<br><strong>*dringen (a, u)</strong>, pénétrer — <strong>*springen (a, u)</strong>, sauter<br><strong>*gelingen (a, u)</strong>, réussir — <strong>stinken (a, u)</strong>, puer<br><strong>klingen (a, u)</strong>, résonner — <strong>trinken (a, u)</strong>, boire<br><strong>ringen (a, u)</strong>, lutter — <strong>*verschwinden (a, u)</strong>, disparaître<br><strong>schlingen (a, u)</strong>, enlacer — <strong>winden (a, u)</strong>, tordre<br><strong>schwingen (a, u)</strong>, brandir — <strong>zwingen (a, u)</strong>, forcer<br><strong>singen (a, u)</strong>, chanter"
+    },
+    {
+      "title": "Remarque : emploi impersonnel de gelingen",
+      "body": "<strong>gelingen</strong> s'emploie surtout comme verbe impersonnel, avec le <strong>datif</strong> (et l'auxiliaire <em>sein</em> aux temps composés).<br><br><em>Es gelingt mir, den Motor zu reparieren</em>, je réussis à réparer le moteur.<br><em>Es gelingt dir...</em>, tu réussis...<br><em>Es gelingt ihm...</em>, il réussit..."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.1) Mettez au prétérit : « Wir trinken aus einem Kelchglas. »",
+      "answer": "Wir tranken aus einem Kelchglas.",
+      "hint": "Le verbe trinken appartient au groupe i-a-u : prétérit trank.",
+      "explanation": "Corrigé A.1 : « Nous buvons dans une coupe ; a) Wir tranken aus einem Kelchglas. ; b) Wir haben aus einem Kelchglas getrunken. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.2) Mettez au passé composé : « Es gelingt ihnen zu fliehen. »",
+      "options": [
+        "Es ist ihnen gelungen zu fliehen.",
+        "Es hat ihnen gelungen zu fliehen.",
+        "Es ist ihnen gelingt zu fliehen.",
+        "Es hat ihnen gelingt zu fliehen."
+      ],
+      "answer": "Es ist ihnen gelungen zu fliehen.",
+      "hint": "gelingen (a, u) se conjugue avec l'auxiliaire sein et ne prend pas de ge- (préfixe inséparable ge-).",
+      "explanation": "Corrigé A.2 : « Ils réussissent à fuir ; a) Es gelang ihnen zu fliehen. ; b) Es ist ihnen gelungen zu fliehen. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.3) Mettez au prétérit : « Sie bindet ein Band um die Blumen. »",
+      "answer": "Sie band ein Band um die Blumen.",
+      "hint": "binden fait partie du groupe i-a-u : binden, band, gebunden.",
+      "explanation": "Corrigé A.3 : « Elle noue un ruban autour des fleurs ; a) Sie band ein Band um die Blumen. ; b) Sie hat ein Band um die Blumen gebunden. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.4) Mettez au passé composé : « Das Wasser dringt in das Schiff. »",
+      "options": [
+        "Das Wasser ist in das Schiff gedrungen.",
+        "Das Wasser hat in das Schiff gedrungen.",
+        "Das Wasser ist in das Schiff gedringt.",
+        "Das Wasser hat in das Schiff gedrangt."
+      ],
+      "answer": "Das Wasser ist in das Schiff gedrungen.",
+      "hint": "*dringen (a, u) indique un mouvement et se conjugue avec sein.",
+      "explanation": "Corrigé A.4 : « L'eau pénètre dans le navire ; a) Das Wasser drang in das Schiff. ; b) Das Wasser ist in das Schiff gedrungen. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.5) Mettez au passé composé : « Das Schiff versinkt. »",
+      "answer": "Das Schiff ist versunken.",
+      "hint": "Attention au préfixe inséparable ver- (pas de ge-) et à l'auxiliaire sein (*sinken).",
+      "explanation": "Corrigé A.5 : « Le navire sombre ; a) Das Schiff versank. ; b) Das Schiff ist versunken. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.6) Mettez au prétérit : « Das klingt sonderbar. »",
+      "answer": "Das klang sonderbar.",
+      "hint": "klingen appartient au groupe i-a-u : klingen, klang, geklungen.",
+      "explanation": "Corrigé A.6 : « Cela paraît (m. à m. : résonne) étrange ; a) Das klang sonderbar. ; b) Das hat sonderbar geklungen. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.7) Traduisez : « Voudriez-vous me tailler également la barbe ? »",
+      "words": [
+        "Wollen",
+        "Sie",
+        "mir",
+        "bitte",
+        "auch",
+        "den",
+        "Bart",
+        "schneiden?"
+      ],
+      "answer": "Wollen Sie mir bitte auch den Bart schneiden?",
+      "hint": "Employez Wollen Sie mir bitte... avec l'infinitif schneiden en fin de phrase.",
+      "explanation": "Corrigé B.7 : « Wollen Sie mir bitte auch den Bart schneiden? » Le pronom datif mir indique la personne concernée."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.8) Traduisez : « C'est bien ainsi. »",
+      "words": [
+        "Es",
+        "ist",
+        "so",
+        "recht."
+      ],
+      "answer": "Es ist so recht.",
+      "hint": "Tournure idiomatique courante avec so recht.",
+      "explanation": "Corrigé B.8 : « Es ist so recht. »"
+    }
+  ]
+}

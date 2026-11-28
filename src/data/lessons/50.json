@@ -2,80 +2,175 @@
   "id": "50",
   "series": 2,
   "authentic": true,
-  "titleDe": "Beim Arzt (La déclinaison des noms et das Herz)",
-  "titleFr": "Chez le médecin : genre, génitif et pluriel des noms",
-  "proverbDe": "Gesundheit ist der größte Reichtum.",
-  "proverbFr": "La santé est la plus grande richesse.",
+  "titleDe": "Beim Arzt – Beim Zahnarzt",
+  "titleFr": "Chez le médecin – Chez le dentiste",
+  "proverbDe": "Das Übel kommt geritten – und geht weg mit Schritten.",
+  "proverbFr": "Le mal vient à cheval – et s'en va à pied.",
   "paragraphs": [
     {
-      "de": "— Wo haben Sie Schmerzen? — Danke, nicht sehr gut: mein Großvater fühlt sich nicht wohl. Er klagt über Magenschmerzen. Oft hat er auch Kopfschmerzen.",
-      "fr": "— Où avez-vous mal ? — Merci, pas très bien : mon grand-père ne se sent pas bien. Il se plaint de maux d'estomac. Souvent il a aussi des maux de tête."
+      "de": "– Was fehlt Ihnen? Wo haben Sie Schmerzen? – Ich habe Magenschmerzen; nach dem Mittagessen bin ich schläfrig; ich kann nur mühsam arbeiten. Oft habe ich Migräne. – Wie alt sind Sie? – Ich bin vierzig Jahre alt. – Rauchen Sie? Trinken Sie Alkohol? Verschaffen Sie sich Bewegung? Schlafen Sie gut? Wieviel Stunden? Haben Sie ein geordnetes Leben? Hatten Sie letzten Winter Grippe? Leiden Sie nicht an Verstopfung?",
+      "fr": "– Qu'est-ce qui ne va pas (m. à m. : vous manque)? Où avez-vous mal? – J'ai mal à l'estomac; j'ai sommeil après le déjeuner; je ne puis travailler que difficilement. J'ai des migraines fréquentes. – Quel âge avez-vous? – J'ai quarante ans (mot à mot : je suis de 40 ans âgé). – Est-ce que vous fumez? Buvez-vous de l'alcool? Prenez-vous de l'exercice? Dormez-vous bien? Combien d'heures? Avez-vous une vie régulière? Avez-vous été grippé, l'hiver dernier? N'êtes-vous pas constipé (m. à m. : ne souffrez-vous pas de constipation)?"
     },
     {
-      "de": "Er hat sich erkältet; er hat Halsschmerzen. Es ist nicht schlimm; hier ist ein Rezept; morgen geht es ihm schon besser.",
-      "fr": "Il a pris froid ; il a mal à la gorge. Ce n'est pas grave ; voici une ordonnance ; demain, il ira déjà mieux."
+      "de": "– Kleiden Sie sich aus, damit ich Sie untersuche. Legen Sie sich auf dieses Sofa. Tue ich Ihnen weh? Diese Körperstelle ist etwas empfindlich. Gut! Atmen Sie tief. Das Herz ist in Ordnung. Der Blutdruck ist normal.",
+      "fr": "– Déshabillez-vous que je vous examine. Allongez-vous sur ce divan. Je ne vous fais pas mal? Cette région est un peu sensible. Bien! Respirez fort. Le cœur va bien. La tension artérielle est normale."
+    },
+    {
+      "de": "Meiner Meinung nach sind die Leber und die Gallenblase etwas träge. Wir wollen eine Blut- und Harnanalyse vornehmen. Ich werde Sie erst in Behandlung nehmen, wenn wir das Ergebnis kennen. Essen Sie inzwischen leicht verdauliche Kost. Meiden Sie alles, was schwer im Magen liegt und fett ist. Es wird nicht schlimm sein, aber Sie müssen trotzdem aufpassen.",
+      "fr": "Je pense que le foie et la vésicule biliaire sont un peu paresseux. Nous allons faire une analyse de sang et une analyse d'urine. Je ne vous donnerai votre traitement que lorsque nous aurons le résultat. Entre temps, mangez légèrement (m. à m. : de la nourriture facile à digérer). Évitez tout ce qui est lourd (m. à m. : à l'estomac) et gras. Ce n'est pas grave, sans doute, mais il faut tout de même faire attention."
+    },
+    {
+      "de": "(Beim Zahnarzt) – Hallo! Herr Doktor? Könnten Sie mich heute nachmittag empfangen? – Oh! Das wird leider kaum möglich sein. Bis halb neun, heute abend, sind Patienten vorbestellt. Haben Sie Zahnweh? – Ja, ich habe seit zwei Stunden rasende Zahnschmerzen. Au! – Nun gut, dann kommen Sie eben um sechs Uhr. – Ich danke Ihnen bestens, Herr Doktor. Bis gleich.",
+      "fr": "(Chez le dentiste) – Allô Docteur? Est-ce que vous pourriez me prendre cet après-midi? – Oh! Cela va être difficile (m. à m. : cela sera hélas à peine possible). J'ai des rendez-vous jusqu'à 8 h 30 ce soir. Avez-vous mal aux dents? – Oui, j'ai une rage de dents depuis deux heures. Pouh! – Eh bien, dans ce cas, venez donc à six heures. – Je vous en remercie, Docteur. À tout à l'heure!"
     }
   ],
-  "pronunciation": "Le nom « das Herz » (le cœur) suit une déclinaison unique : das Herz, des Herzens, dem Herzen, das Herz (pluriel : die Herzen).",
+  "pronunciation": "Points d'attention de la leçon : dans « Arzt » et « Zahnarzt », le « a » est long devant le « r » affaibli et « zt » se prononce [tst], l'accent principal portant sur « Zahn- ». Dans les mots d'emprunt « Migräne » et « Patienten », l'accent porte sur la syllabe pénultième (Mi-grä-ne ; Pa-tsièn-ten, où « ti » se prononce [tsj]). Dans « Harnanalyse », « y » se prononce comme un « u » français long ([yː]) et porte l'accent de « Analyse ». Les préfixes inséparables « ver- » et « emp- » (« verdaulich », « empfindlich », « empfangen ») restent inaccentués, tandis que la finale « -lich » se prononce avec le ich-Laut [ç].",
   "vocab": [
     {
-      "de": "der Schmerz (-es, -en)",
-      "fr": "la douleur",
-      "info": "Masculin mixte"
+      "de": "atmen",
+      "fr": "respirer",
+      "info": "Verbe faible"
     },
     {
-      "de": "das Rezept (-e)",
-      "fr": "l'ordonnance (ou la recette)",
-      "info": "Neutre"
+      "de": "aufpassen (+ auf + accusatif)",
+      "fr": "faire attention à",
+      "info": "Verbe séparable"
     },
     {
-      "de": "sich erkälten",
-      "fr": "prendre froid, s'enrhumer",
-      "info": "Verbe réfléchi"
+      "de": "auskleiden",
+      "fr": "déshabiller",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "behandeln",
+      "fr": "traiter",
+      "info": "Verbe faible"
     },
     {
       "de": "untersuchen",
-      "fr": "examiner (un patient)",
+      "fr": "examiner",
       "info": "Verbe inséparable"
     },
     {
-      "de": "das Herz (des Herzens)",
-      "fr": "le cœur",
-      "info": "Déclinaison particulière"
+      "de": "meiden (ie, ie)",
+      "fr": "éviter",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "vornehmen (a, o, i)",
+      "fr": "entreprendre",
+      "info": "Verbe fort séparable"
     }
   ],
   "grammar": [
     {
-      "title": "Les 6 règles d'or de la déclinaison des noms",
-      "body": "1. Tous les neutres prennent <strong>-s</strong> au génitif sg. (<em>des Bluts</em>).<br>2. La plupart des masculins prennent <strong>-s</strong> (<em>des Körpers</em>) ; les masculins faibles prennent <strong>-n/-en</strong> (<em>des Patienten</em>).<br>3. Tous les féminins sont invariables au singulier (<em>die/der Frau</em>).<br>4. Au datif pluriel, tous les noms ajoutent <strong>-n</strong> (sauf ceux finissant déjà par -n ou -s)."
+      "title": "Wo haben Sie Schmerzen? – Kommen Sie in einer Woche wieder.",
+      "body": "Le genre et la variabilité des noms est une des difficultés de la langue allemande. Cependant, pour être capable de bien employer un nom, il suffit de connaître son article défini et son pluriel, et, pour certains, le génitif singulier. Les principes généraux suivants doivent nous guider :<br><br><strong>1</strong> Tous les neutres prennent <em>s</em> au génitif singulier : <em>des Bluts</em>, du sang ; <em>des Sofas</em>, du canapé. (Mémento, n° 11 à 14).<br><br><strong>2</strong> La plupart des masculins prennent <em>s</em> au génitif singulier : <em>des Körpers</em> (du corps) ; les autres prennent <em>-n</em> ou <em>-en</em> : <em>des Patienten</em> (du malade). (Mémento, n° 5 à 10).<br><br><strong>3</strong> Les noms masculins et neutres qui ajoutent <em>s</em> au génitif singulier ne prennent pas de terminaison aux autres cas du singulier : <em>der Körper</em>, le corps ; <em>dem Körper</em>, au corps ; <em>den Körper</em>, le corps.<br><br><strong>4</strong> Tous les féminins sont invariables au singulier : <em>die Kost</em>, la nourriture ; <em>der Kost</em>, de (à) la nourriture. (Mémento n° 15 et 16).<br><br><strong>5</strong> Au pluriel, le nominatif, le génitif et l'accusatif sont toujours semblables : <em>die, der, die Ärzte</em>, les, des, les médecins.<br><br><strong>6</strong> Au datif pluriel, tous les noms ajoutent <em>-n</em> à la terminaison du nominatif pluriel : <em>die Ärzte</em>, les médecins ; <em>den Ärzten</em>, aux médecins ; <em>die Kinder</em>, les enfants ; <em>den Kindern</em>, aux enfants.<br>Cependant, si le nom a déjà une terminaison en <em>-n</em> ou <em>-en</em> au nominatif pluriel, les quatre cas du pluriel sont semblables : <em>die, der, den, die Schmerzen</em>, les, des, aux, les douleurs.<br>On apprendra les noms toujours de la façon suivante : <em>der Arm, die Arme</em>, le bras ; <em>der Schmerz, des Schmerzes, die Schmerzen</em>, la douleur (masculin mixte ; voir L. 11)."
+    },
+    {
+      "title": "Das Herz ist in Ordnung. Aus der Tiefe des Herzens.",
+      "body": "(Le cœur va bien. Du fond du cœur).<br>Le nom <em>Herz</em> (cœur) suit au singulier une déclinaison qui lui est particulière : <em>das Herz, des Herzens, dem Herzen, das Herz</em>.<br>Pluriel : <em>die, der, den, die Herzen</em>."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Nominatif sg., génitif sg., nominatif pl. de « der Flug » (Exercice A.1) :",
+      "prompt": "Quelle est la déclinaison correcte (nominatif singulier, génitif singulier, nominatif pluriel) pour « Mensch » (l'être humain) ? (Exercice A.6)",
       "options": [
-        "der Flug, des Flugs, die Flüge",
-        "der Flug, der Flug, die Fluge",
-        "das Flug, des Flugs, die Flüge",
-        "der Flug, des Flugen, die Flügen"
+        "Der Mensch, des Menschen, die Menschen",
+        "Der Mensch, des Menschs, die Menschen",
+        "Das Mensch, des Menschen, die Menschen",
+        "Der Mensch, des Menschens, die Mensche"
       ],
-      "answer": "der Flug, des Flugs, die Flüge",
-      "hint": "Masculin fort : génitif en -s, pluriel avec Umlaut et -e.",
-      "explanation": "der Flug, des Flugs, die Flüge."
+      "answer": "Der Mensch, des Menschen, die Menschen",
+      "hint": "« Mensch » est un nom masculin faible qui prend « -en » au génitif singulier comme au pluriel.",
+      "explanation": "Corrigé A.6 : « Der Mensch, des Menschen, die Menschen, l'être humain. » Certains masculins (noms faibles) prennent -n ou -en au génitif singulier (règle 2)."
     },
     {
       "type": "choice",
-      "prompt": "Quel est le génitif singulier de « das Herz » ?",
+      "prompt": "Choisissez la série correcte (nominatif singulier, génitif singulier, nominatif pluriel) pour « Haus » (la maison) : (Exercice A.5)",
       "options": [
-        "des Herzens",
-        "des Herzes",
-        "der Herz",
-        "dem Herzen"
+        "Das Haus, des Hauses, die Häuser",
+        "Der Haus, des Hauses, die Häuser",
+        "Das Haus, des Haus, die Hause",
+        "Die Haus, der Haus, die Häuser"
       ],
-      "answer": "des Herzens",
-      "hint": "Expression du livre : « Aus der Tiefe des Herzens » (Du fond du cœur).",
-      "explanation": "des Herzens."
+      "answer": "Das Haus, des Hauses, die Häuser",
+      "hint": "« Haus » est neutre ; son génitif singulier prend « -es » et son pluriel prend l'Umlaut et « -er ».",
+      "explanation": "Corrigé A.5 : « Das Haus, des Hauses, die Häuser, la maison. » Tous les noms neutres prennent -s/-es au génitif singulier (règle 1)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ajoutez l'article défini au nominatif singulier, au génitif singulier et au nominatif pluriel pour « Hand » (la main) : (Exercice A.2)",
+      "answer": "Die Hand, der Hand, die Hände",
+      "hint": "« Hand » est féminin (invariable au singulier) et son pluriel prend un Umlaut + -e.",
+      "explanation": "Corrigé A.2 : « Die Hand, der Hand, die Hände, la main. » Tous les noms féminins sont invariables au singulier (règle 4)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez le verbe au prétérit : « Wie geht es Ihrem Großvater? » → « Wie ___ es Ihrem Großvater? » (Exercice B.11)",
+      "answer": "ging",
+      "hint": "« gehen » est un verbe fort dont le radical change au prétérit.",
+      "explanation": "Corrigé B.11 : « Comment va votre grand-père ? Wie ging es... » Le prétérit de gehen est ging."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez la phrase entière au prétérit : « Er hat keinen Appetit und atmet schwer. » (Exercice B.14)",
+      "answer": "Er hatte keinen Appetit und atmete schwer.",
+      "hint": "Au prétérit, « hat » devient « hatte » et « atmet » (radical en -tm-) prend « -ete ».",
+      "explanation": "Corrigé B.14 : « Il n'a pas d'appétit et respire péniblement. Er hatte... und atmete... »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Docteur, voudriez-vous examiner mon fils ? » (Exercice C.16)",
+      "words": [
+        "Herr",
+        "Doktor,",
+        "möchten",
+        "Sie",
+        "meinen",
+        "Sohn",
+        "untersuchen?"
+      ],
+      "answer": "Herr Doktor, möchten Sie meinen Sohn untersuchen?",
+      "hint": "L'infinitif « untersuchen » se place en fin de phrase après le verbe de modalité « möchten ».",
+      "explanation": "Corrigé C.16 : « Herr Doktor, möchten Sie meinen Sohn untersuchen? » (« meinen Sohn » est à l'accusatif masculin)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment traduit-on : « Il a pris froid ; il a mal à la gorge » ? (Exercice C.17)",
+      "options": [
+        "Er hat sich erkältet; er hat Halsschmerzen.",
+        "Er ist sich erkältet; er hat Halsschmerz.",
+        "Er hat erkältet; er hat der Halsschmerzen.",
+        "Er hat sich erkältet; er hat Schmerzen an Hals."
+      ],
+      "answer": "Er hat sich erkältet; er hat Halsschmerzen.",
+      "hint": "« Prendre froid » se dit « sich erkälten » (auxiliaire haben), et « mal à la gorge » forme le composé « Halsschmerzen ».",
+      "explanation": "Corrigé C.17 : « Er hat sich erkältet; er hat Halsschmerzen. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Ce n'est pas grave ; voici une ordonnance ; demain, il ira déjà mieux. » (Exercice C.18)",
+      "words": [
+        "Es",
+        "ist",
+        "nicht",
+        "schlimm;",
+        "hier",
+        "ist",
+        "ein",
+        "Rezept;",
+        "morgen",
+        "geht",
+        "es",
+        "ihm",
+        "schon",
+        "besser."
+      ],
+      "answer": "Es ist nicht schlimm; hier ist ein Rezept; morgen geht es ihm schon besser.",
+      "hint": "Attention à l'inversion après « morgen » et au datif « ihm » dans la tournure « es geht ihm besser ».",
+      "explanation": "Corrigé C.18 : « Es ist nicht schlimm; hier ist ein Rezept; morgen geht es ihm schon besser. »"
     }
   ]
 }

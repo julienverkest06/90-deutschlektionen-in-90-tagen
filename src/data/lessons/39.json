@@ -1,0 +1,250 @@
+{
+  "id": "39",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Die Mahlzeiten",
+  "titleFr": "Les repas",
+  "proverbDe": "Salz und Brot macht die Wangen rot.",
+  "proverbFr": "Frugalité est mère de santé (Sel et pain font les joues roses)",
+  "paragraphs": [
+    {
+      "de": "Das Frühstück kann immer im Hotel eingenommen werden. Man kann es auf sein Zimmer bringen lassen; in gewissen Hotels muß man dafür einen Zuschlag zahlen. Manchmal ist der Preis des Frühstücks im Zimmerpreis einbegriffen.",
+      "fr": "Le petit déjeuner peut toujours se prendre à l'hôtel. On peut le faire monter dans sa chambre; dans certains hôtels, il faut alors payer un supplément. Parfois, le prix du petit déjeuner est compris dans celui de la chambre."
+    },
+    {
+      "de": "Oft geben die Hotels weder Mittag- noch Abendessen, auch kein Vesperbrot. Dann muß man in eine Gastwirtschaft, in einen Gasthof oder in ein Café gehen. Manche Gaststätten haben Selbstbedienung. Will man Kuchen essen, so geht man in eine Konditorei.",
+      "fr": "Souvent les hôtels ne servent ni le déjeuner, ni le dîner, non plus que le goûter. Alors, il faut aller dans une auberge, un restaurant ou un café. Certains restaurants ont un libre-service. Si l'on veut manger des gâteaux, on va dans une pâtisserie."
+    },
+    {
+      "de": "Wir essen von einem Teller und trinken aus einem Glas. Mit dem Löffel essen wir die Suppe oder die Sahnespeisen, mit der Gabel die anderen Speisen. Das Fleisch wird mit dem Messer geschnitten. In den Gasthäusern sind die Teller aus Steingut oder aus Porzellan; die Mundtücher (Servietten) sowie die Tischtücher sind aus Lein. Neulich ist Paul zu einem Picknick eingeladen worden. Da benützte man Teller und Gläser aus Pappe und Papierservietten.",
+      "fr": "Nous mangeons dans une assiette et nous buvons dans un verre. C'est avec la cuiller que nous mangeons le potage ou les crèmes, avec la fourchette les autres mets. L'on coupe la viande avec le couteau. Dans les restaurants, les assiettes sont en faïence ou en porcelaine; les serviettes ainsi que les nappes sont en toile. Dernièrement Paul a été invité à un pique-nique; on y a utilisé des assiettes et des verres en carton et des serviettes en papier."
+    },
+    {
+      "de": "Lecture — Küchenzettel für April : Sonntag : Kressesalat ; Schweineschnitzel mit Erbsen und Reis ; Obstsalat mit Schlagsahne. Montag : Sardinenbrötchen ; Gemüsesuppe mit Würstchen ; Vanillepudding mit Himbeersoße. Dienstag : 1 Glas Orangenmilch ; Eierravioli mit grünem Salat ; Ananas mit Sahnetupfen. Mittwoch : Frühlingssuppe ; Gebratene Leber mit grünen Bohnen und Kartoffeln ; Obsttörtchen. Donnerstag : Tomatentoast mit Kräutern ; Sauerkraut mit Schweinerippchen und Püree ; Mirabellenkompott. Freitag : Nudelsuppe mit Zwiebeln ; Kabeljaufilet mit Kapern, Salzkartoffeln ; Rhabarber mit Eisschneehaube. Samstag : 1 Glas Orangensaft ; Kalbsnieren mit Kartoffelbällchen und Spinat ; Apfelmus. (Aus der Zeitschrift « BURDA MODEN »)",
+      "fr": "Lecture — Menus pour le mois d'avril : Dimanche : Salade de cresson ; Escalope de porc, petits pois et riz ; Salade de fruits, crème fouettée. Lundi : Canapés aux sardines ; Soupe de légumes et saucisses ; Pudding à la vanille et crème de framboises. Mardi : 1 verre de lait à l'orange ; Raviolis aux œufs, salade verte ; Ananas (garnis) à la crème. Mercredi : Potage printanier ; Foie grillé, haricots verts et pommes de terre ; Tartelettes aux fruits. Jeudi : Toasts aux tomates et fines herbes ; Choucroute, côtelettes de porc et purée ; Compote de mirabelles. Vendredi : Soupe aux pâtes et aux oignons ; Filet de cabillaud aux câpres, pommes vapeur ; Rhubarbe meringuée. Samedi : 1 verre de jus d'orange ; Rognons de veau, croquettes de pommes de terre et épinards ; Compote de pommes."
+    }
+  ],
+  "pronunciation": "Indications phonétiques du livre : die Mahlzeiten [di mal-tçaéten'] (accent sur « mal » et « tçaé »), Zuschlag [tçouchlak] (accent sur « tçouch »), Selbstbedienung [zélbçt-bédinoung] (accent sur « zélbçt »), Papierservietten [papir-zèrvièten'] (accent sur « pir »). Notez que dans les mots composés allemands, l'accent principal porte sur le premier élément (Mahlzeiten, Zuschlag, Selbstbedienung, Vesperbrot, Mundtücher, Tischtücher), tandis que dans les mots empruntés comme Konditorei ou Papier, l'accent frappe la syllabe finale du radical étranger.",
+  "vocab": [
+    {
+      "de": "der Löffel (-)",
+      "fr": "la cuiller",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Mund (-e)",
+      "fr": "la bouche",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Teller (-)",
+      "fr": "l'assiette",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Lein",
+      "fr": "le lin",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Gabel (n)",
+      "fr": "la fourchette",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Leinwand (¨-e)",
+      "fr": "la toile, l'écran",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Pappe",
+      "fr": "le carton",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Sahne (n)",
+      "fr": "la crème",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Selbstbedienung",
+      "fr": "le libre-service",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Serviette (n)",
+      "fr": "la serviette",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Suppe (n)",
+      "fr": "la soupe",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Brot (-e)",
+      "fr": "le pain",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Fleisch",
+      "fr": "la viande",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Glas (¨-er)",
+      "fr": "le verre",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Messer (-)",
+      "fr": "le couteau",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Mundtuch (¨-er)",
+      "fr": "la serviette (de table)",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Porzellan (-)",
+      "fr": "la porcelaine",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Steingut (¨-er)",
+      "fr": "la faïence",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Tischtuch (¨-er)",
+      "fr": "la nappe",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Vesperbrot (-e)",
+      "fr": "le goûter",
+      "info": "Neutre"
+    },
+    {
+      "de": "schneiden (schnitt, geschnitten)",
+      "fr": "couper",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Le passé composé et le plus-que-parfait du passif",
+      "body": "<strong>Neulich ist Paul zu einem Picknick eingeladen worden.</strong><br>Notez cette forme surcomposée du verbe ; c'est le passé composé du passif (<em>ist... eingeladen worden</em>). Autres exemples :<br><em>Ich bin in eine Konditorei geführt worden</em>, j'ai été conduit dans une pâtisserie = on m'a conduit dans une pâtisserie.<br><br>En employant <em>war</em> au lieu de <em>ist</em>, nous formons le plus-que-parfait :<br><em>Ich war... geführt worden</em>, j'avais été conduit.<br><em>Sie war... eingeladen worden</em>, elle avait été invitée."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Comment traduit-on « Il a coupé du pain. » ? (Exercice sur les mots 4)",
+      "options": [
+        "Er hat Brot geschnitten.",
+        "Er hat Brot geschneidet.",
+        "Er ist Brot geschnitten.",
+        "Er hat Brot schnitt."
+      ],
+      "answer": "Er hat Brot geschnitten.",
+      "hint": "Le verbe fort « schneiden » a pour participe passé « geschnitten » et se conjugue avec « haben ».",
+      "explanation": "Corrigé (Exercice sur les mots 4) : « Er hat Brot geschnitten. » (schneiden, schnitt, geschnitten)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au passé composé du passif : « In diesem Hotel wird kein Mittagessen gegeben. » (Exercice A.1)",
+      "answer": "In diesem Hotel ist kein Mittagessen gegeben worden.",
+      "hint": "Remplacez « wird » par « ist » et ajoutez « worden » tout à la fin de la phrase.",
+      "explanation": "Corrigé (Exercice A.1) : « In diesem Hotel ist kein Mittagessen gegeben worden. » (Dans cet hôtel on n'a pas donné de déjeuner / mot à mot : n'a pas été donné...)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au passé composé du passif : « Dieser Kuchen wird in einer Konditorei gekauft. » (Exercice A.2)",
+      "options": [
+        "Dieser Kuchen ist in einer Konditorei gekauft worden.",
+        "Dieser Kuchen hat in einer Konditorei gekauft worden.",
+        "Dieser Kuchen ist in einer Konditorei gekauft geworden.",
+        "Dieser Kuchen war in einer Konditorei gekauft worden."
+      ],
+      "answer": "Dieser Kuchen ist in einer Konditorei gekauft worden.",
+      "hint": "Le passé composé du passif se forme avec « sein » au présent + participe passé + « worden ».",
+      "explanation": "Corrigé (Exercice A.2) : « Dieser Kuchen ist in einer Konditorei gekauft worden. » (Ce gâteau a été acheté dans une pâtisserie)."
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez au passé composé du passif la phrase « La chambre a été réservée par Émile. » (Exercice A.3)",
+      "words": [
+        "Das",
+        "Zimmer",
+        "ist",
+        "von",
+        "Emil",
+        "reserviert",
+        "worden."
+      ],
+      "answer": "Das Zimmer ist von Emil reserviert worden.",
+      "hint": "Sujet + « ist » + complément d'agent (« von Emil ») + participe passé + « worden ».",
+      "explanation": "Corrigé (Exercice A.3) : « Das Zimmer ist von Emil reserviert worden. » (La chambre a été réservée par Émile)."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en remettant les mots dans l'ordre : « Le supplément que vous avez payé, n'est pas très élevé. » (Exercice B.4)",
+      "words": [
+        "Der",
+        "Zuschlag,",
+        "den",
+        "Sie",
+        "bezahlt",
+        "haben,",
+        "ist",
+        "nicht",
+        "sehr",
+        "hoch."
+      ],
+      "answer": "Der Zuschlag, den Sie bezahlt haben, ist nicht sehr hoch.",
+      "hint": "Dans la proposition relative introduite par « den » (accusatif masculin), le verbe conjugué « haben » se place en fin de relative.",
+      "explanation": "Corrigé (Exercice B.4) : « Der Zuschlag, den Sie bezahlt haben, ist nicht sehr hoch. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand : « Il voudrait savoir si ce restaurant a un libre-service. » (Exercice B.5)",
+      "answer": "Er möchte wissen, ob dieses Gasthaus Selbstbedienung hat.",
+      "hint": "Utilisez « Er möchte wissen », la conjonction « ob » (si) et « dieses Gasthaus » avec le verbe « hat » rejeté à la fin.",
+      "explanation": "Corrigé (Exercice B.5) : « Er möchte wissen, ob dieses Gasthaus Selbstbedienung hat. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment traduit-on au plus-que-parfait du passif : « Ces serviettes de papier avaient été achetées par sa sœur. » ? (Exercice B.6)",
+      "options": [
+        "Diese Papierservietten waren von seiner Schwester gekauft worden.",
+        "Diese Papierservietten sind von seiner Schwester gekauft worden.",
+        "Diese Papierservietten hatten von seiner Schwester gekauft worden.",
+        "Diese Papierservietten wurden von seiner Schwester gekauft worden."
+      ],
+      "answer": "Diese Papierservietten waren von seiner Schwester gekauft worden.",
+      "hint": "Le plus-que-parfait du passif emploie l'auxiliaire « sein » au prétérit (« waren ») + participe passé + « worden ».",
+      "explanation": "Corrigé (Exercice B.6) : « Diese Papierservietten waren von seiner Schwester gekauft worden. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en remettant les mots dans l'ordre : « Nous allions toujours dans cette pâtisserie pour manger du gâteau. » (Exercice B.8)",
+      "words": [
+        "Wir",
+        "gingen",
+        "immer",
+        "in",
+        "diese",
+        "Konditorei,",
+        "um",
+        "Kuchen",
+        "zu",
+        "essen."
+      ],
+      "answer": "Wir gingen immer in diese Konditorei, um Kuchen zu essen.",
+      "hint": "Le but « pour + infinitif » se rend par « um ... zu + infinitif ».",
+      "explanation": "Corrigé (Exercice B.8) : « Wir gingen immer in diese Konditorei, um Kuchen zu essen. »"
+    }
+  ]
+}

@@ -2,54 +2,108 @@
   "id": "64",
   "series": 2,
   "authentic": true,
-  "titleDe": "Beim Schneider (genug vs ziemlich & suffixe -los)",
-  "titleFr": "Chez le tailleur : « assez », privation et verbes forts en e-o-o",
-  "proverbDe": "Kleider machen Leute.",
-  "proverbFr": "Chaque chose en son temps.",
+  "titleDe": "Damenkleidung",
+  "titleFr": "Vêtements de femme",
+  "proverbDe": "Steter Tropfen höhlt den Stein.",
+  "proverbFr": "La goutte creuse la pierre (goutte incessante...)",
   "paragraphs": [
     {
-      "de": "Ich möchte das Halsband hervorheben. Die Brustabnäher sind nicht lang genug. Sie hat ziemlich breite Hüften. Ein ärmelloses Kleid.",
-      "fr": "Je voudrais mettre le collier en valeur. Les pinces ne sont pas assez longues. Elle a des hanches assez larges. Une robe sans manches."
+      "de": "— Ich persönlich habe das klassische Kostüm überhaupt nicht gern. Ich bin zwar nicht dick, aber auch nicht schlank. Außerdem finde ich, daß es männlich wirkt. — Ich bin Ihrer Meinung. Ein gut geschnittenes Kostüm aus schönem Stoff, das läßt sich wohl ab und zu nachmittags tragen. Aber es geht nichts über ein Kleid, nicht wahr? Es gibt viel mehr Variationsmöglichkeiten bei den Kleidern.",
+      "fr": "— Personnellement, je n'aime pas du tout le costume tailleur classique. Sans être forte, je ne suis pas mince (m. à m. : certes, je ne suis pas forte, mais...). Et puis, je trouve que cela fait (m. à m. : agit) masculin. — Je suis de votre avis. Un tailleur bien coupé et de beau drap, cela peut se porter de temps en temps l'après-midi. Mais rien ne vaut (m. à m. : il ne va rien par-dessus...) une robe, n'est-ce pas? Il y a beaucoup plus de fantaisie (de possibilités de variations) dans les robes."
+    },
+    {
+      "de": "(In der Konfektionsabteilung) — Dieses hellgelbe Kleid gefällt mir gut. Kann ich in die Kabine zum Anprobieren? — Bitte schön! — Könnten Sie mir einiges abändern? Die Brustabnäher sind nicht lang genug. Das Kleid scheint mir zu lang zu sein: fünf Zentimeter kürzer, bitte! Die Ärmel dagegen sind mir zu kurz. Können diese Änderungen bis Donnerstag fertig sein? — Warten Sie einen Augenblick, bitte, ich werde nachfragen.",
+      "fr": "(Dans le rayon du prêt-à-porter). — Cette robe jaune clair me plaît bien. Puis-je passer à la cabine pour l'essayage? — Je vous en prie! — Pourriez-vous me faire quelques retouches (m. à m. : me changer certaines choses)? Les pinces de poitrine ne sont pas assez longues. La robe me semble trop longue : 5 cm de moins, s'il vous plaît. Les manches par contre me semblent trop courtes. Est-ce que ces retouches peuvent être faites (m. à m. : prêtes, finies) pour jeudi? — Attendez un instant, je vais demander."
+    },
+    {
+      "de": "(Bei der Näherin) — Gelb wird viel getragen. Hier ein Modell, das nicht zu teuer ist und Sie gut kleiden wird, glaube ich. — Ich hätte gern ein ärmelloses Kleid. Machen Sie mir bitte einen Ausschnitt, der den Hals ziemlich freilegt. Ich habe nämlich ein sehr schönes Halsband, und ich möchte es hervorheben. Ich habe ziemlich breite Hüften: geben Sie acht auf die Abnäher. Betonen Sie die Taille nicht zu stark; machen Sie sie nicht zu eng. — Welches Futter? Ein Taft, im selben Ton? — Ja, bitte sehr.",
+      "fr": "(Chez la couturière). — Le jaune se porte beaucoup (m. à m. : est porté...). Voici un modèle qui ne revient pas trop cher et qui vous ira bien, je crois. — J'aimerais une robe sans manches. Vous me ferez une encolure qui dégage le cou. C'est que j'ai un très beau collier, et je voudrais le mettre en valeur. J'ai les hanches assez fortes; attention aux pinces (de reins). Ne marquez pas trop la taille; laissez-la assez libre (m. à m. : ne la faites pas trop serrée). — Comme doublure? Un taffetas ton sur ton (m. à m. : dans le même ton)? — Oui, je vous en prie."
     }
   ],
-  "pronunciation": "Le suffixe « -los » ajouté à un nom forme un adjectif marquant la privation : farblos (sans couleur), mutlos (sans courage), arbeitslos (sans travail).",
+  "pronunciation": "Points de prononciation de la leçon : « das Kostüm » porte l'accent sur la dernière syllabe (Kos-tüm, avec « ü » long) et « die Taille » (emprunt au français) se prononce [ˈtaljə] avec le « e » final articulé. Dans les composés « die Konfektionsabteilung » et « Variationsmöglichkeiten », l'accent principal porte sur la syllabe « -tions- ». Dans « hervorheben », la particule séparable est accentuée sur « -vor- » (her-vor-he-ben, « e » long dans « heben ») ; dans « abändern », l'accent porte sur « ab- » avec coup de glotte devant « ä » ; dans « ärmellos », « ä » est bref et accentué.",
   "vocab": [
     {
-      "de": "heben → hob, gehoben",
-      "fr": "soulever",
-      "info": "Verbe fort e - o - o"
+      "de": "der Abnäher (-)",
+      "fr": "la pince (couture)",
+      "info": "Masculin"
     },
     {
-      "de": "genug",
-      "fr": "assez (= suffisamment)",
-      "info": "Placé après l'adjectif"
+      "de": "der Ärmel (-)",
+      "fr": "la manche",
+      "info": "Masculin"
     },
     {
-      "de": "ziemlich",
-      "fr": "assez (= passablement)",
-      "info": "Placé avant l'adjectif"
+      "de": "der Ausschnitt",
+      "fr": "la coupe; le décolleté",
+      "info": "Masculin"
     },
     {
-      "de": "ärmellos",
-      "fr": "sans manches",
-      "info": "Suffixe privatif -los"
+      "de": "das Futter (-)",
+      "fr": "la doublure; le fourrage",
+      "info": "Neutre"
     },
     {
-      "de": "das Schaufenster (-)",
-      "fr": "la vitrine",
+      "de": "das Kleid (-er)",
+      "fr": "la robe, le vêtement",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Kostüm (-e)",
+      "fr": "le tailleur",
       "info": "Neutre"
     }
   ],
   "grammar": [
     {
-      "title": "Traduire « assez » : genug vs ziemlich",
-      "body": "• <strong>genug</strong> signifie « suffisamment » et se place <strong>après</strong> l'adjectif (<em>nicht lang genug</em>) ou avant le nom (<em>genug Geld</em>).<br>• <strong>ziemlich</strong> signifie « passablement, plutôt » et se place <strong>avant</strong> l'adjectif (<em>ziemlich altmodisch</em>)."
+      "title": "Ich möchte das Halsband hervorheben.",
+      "body": "Dans <em>hervor-heben</em>, mettre en valeur, souligner, nous trouvons le verbe <em>heben</em> du groupe des verbes irréguliers en <em>e – o – o</em> :<br><em>heben</em>, soulever; <em>er hob</em>, il souleva; <em>er hat gehoben</em>, il a soulevé; <em>er hebt</em>, il soulève.<br><br>Les mêmes voyelles se retrouvent dans : <em>scheren (o, o; e)</em>, tondre; <em>weben (o, o; e)</em>, tisser. Nous remarquons que dans ces verbes-ci, le radical reste inchangé au présent : <em>er hebt, er schert, er webt</em>. Par contre, le radical subit la transformation habituelle en <em>i</em> (voir L. 60 et 62) dans les verbes suivants :<br><em>dreschen</em>, battre le blé, <em>drosch, gedroschen, er drischt</em>; <em>quellen (o, o; i)</em>, jaillir; <em>schmelzen (o, o; i)</em>, fondre; <em>schwellen (o, o; i)</em>, s'enfler.<br><br><strong>Remarques :</strong> <em>weben</em> peut aussi suivre la conjugaison régulière : <em>er wob</em> ou <em>er webte</em>, il tissait; <em>er hat gewoben</em> ou <em>er hat gewebt</em>, il a tissé.<br><em>Schmelzen</em> est régulier au sens de « faire fondre » :<br><em>Das Eis schmolz an der Sonne</em> (v. irrégulier), la glace fondait au soleil;<br>mais :<br><em>Die Sonne schmelzte das Eis</em>, le soleil fit fondre la glace.<br>De même, <em>schwellen</em> est régulier au sens de « faire gonfler »."
+    },
+    {
+      "title": "Die Brustabnäher sind nicht lang genug. Sie hat ziemlich breite Hüften.",
+      "body": "Dans ces deux phrases, notre terme « assez » est rendu tantôt par <em>genug</em>, tantôt par <em>ziemlich</em>.<br><br>• On traduit « assez » par <em>genug</em>, dans le sens de « suffisamment ».<br><em>Ist der Halsausschnitt groß genug?</em> l'encolure est-elle assez grande?<br><br>• Dans le sens de « passablement », on le traduit par <em>ziemlich</em>.<br><em>Ich finde dieses Kleid ziemlich altmodisch</em>, je trouve cette robe assez démodée."
+    },
+    {
+      "title": "Ein ärmelloses Kleid.",
+      "body": "Le suffixe <em>los</em> marque la privation. Exemples :<br><em>farblos</em>, sans couleur; <em>mutlos</em>, sans courage; <em>arbeitslos</em>, sans travail; <em>ein Arbeitsloser</em>, un chômeur."
     }
   ],
   "exercises": [
     {
+      "type": "fill",
+      "prompt": "(Exercice A.1) Mettez au prétérit : « Er hat den Handschuh aufgehoben. » (Il a ramassé le gant.) → « Er ___ den Handschuh auf. »",
+      "answer": "hob",
+      "hint": "Le verbe fort « heben » appartient au groupe e – o – o.",
+      "explanation": "Corrigé A.1 : « Er hob den Handschuh auf. » Le verbe « heben » se conjugue : heben, hob, gehoben."
+    },
+    {
       "type": "choice",
-      "prompt": "Complétez par genug ou ziemlich (Exercice B.6) : « Dieser Mantel ist zwar ___ lang, und trotzdem fand sie ihn nicht lang ___ . »",
+      "prompt": "(Exercice A.4) Mettez au présent : « Das Erdöl ist aus dem Boden gequollen. » (Le pétrole a jailli du sol.)",
+      "options": [
+        "Das Erdöl quillt aus dem Boden.",
+        "Das Erdöl quellt aus dem Boden.",
+        "Das Erdöl quoll aus dem Boden.",
+        "Das Erdöl quällt aus dem Boden."
+      ],
+      "answer": "Das Erdöl quillt aus dem Boden.",
+      "hint": "Dans « quellen (o, o; i) », la voyelle du radical passe de « e » à « i » à la 3e personne du singulier.",
+      "explanation": "Corrigé A.4 : « Das Erdöl quillt aus dem Boden. » Comme « dreschen », « schmelzen » et « schwellen », « quellen » change son « e » en « i » au présent."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.5) Mettez au prétérit : « Seine Backe wird bald anschwellen. » (Sa joue enflera bientôt.)",
+      "options": [
+        "Seine Backe schwoll an.",
+        "Seine Backe schwillt an.",
+        "Seine Backe schwellte an.",
+        "Seine Backe schwall an."
+      ],
+      "answer": "Seine Backe schwoll an.",
+      "hint": "Au sens intransitif (« s'enfler »), « schwellen » est irrégulier en e – o – o.",
+      "explanation": "Corrigé A.5 : « Seine Backe schwoll an. » Le verbe « anschwellen » (s'enfler) est irrégulier (o, o; i), alors qu'il serait régulier au sens transitif de « faire gonfler »."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice B.6) Complétez par « genug » ou « ziemlich » : « Dieser Mantel ist zwar ___ lang, und trotzdem fand sie ihn nicht lang ___. »",
       "options": [
         "ziemlich / genug",
         "genug / ziemlich",
@@ -57,21 +111,56 @@
         "genug / genug"
       ],
       "answer": "ziemlich / genug",
-      "hint": "1er = passablement long (avant l'adjectif) ; 2e = suffisamment long (après l'adjectif).",
-      "explanation": "ziemlich lang ... nicht lang genug."
+      "hint": "« passablement » se traduit par « ziemlich » (avant l'adjectif) et « suffisamment » par « genug » (après l'adjectif).",
+      "explanation": "Corrigé B.6 : « ziemlich; genug. Ce manteau, il est vrai, est assez long, et pourtant, elle ne le trouva pas suffisamment long. »"
     },
     {
-      "type": "choice",
-      "prompt": "Que signifie l'adjectif « arbeitslos » ?",
-      "options": [
-        "Sans travail (chômeur)",
-        "Travailleur",
-        "Difficile",
-        "Fatigué"
+      "type": "fill",
+      "prompt": "(Exercice B.7) Complétez par « genug » ou « ziemlich » : « Hast du ___ Geld bei dir, um das Kostüm gleich zu bezahlen? »",
+      "answer": "genug",
+      "hint": "Ici « assez » signifie « suffisamment ».",
+      "explanation": "Corrigé B.7 : « genug. As-tu assez d'argent sur toi pour payer le tailleur tout de suite? »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.8) Complétez par « genug » ou « ziemlich » : « Dieses Muster ist ___ teuer. » (Ce modèle est assez cher.)",
+      "answer": "ziemlich",
+      "hint": "Ici « assez » signifie « passablement ».",
+      "explanation": "Corrigé B.8 : « ziemlich. Ce modèle est assez cher. » On emploie « ziemlich » devant l'adjectif au sens de « passablement »."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.9) Traduisez : « Montrez-moi vos robes en jersey. »",
+      "words": [
+        "Zeigen",
+        "Sie",
+        "mir",
+        "Ihre",
+        "Kleider",
+        "aus",
+        "Strickjersey."
       ],
-      "answer": "Sans travail (chômeur)",
-      "hint": "die Arbeit (le travail) + suffixe privatif -los.",
-      "explanation": "arbeitslos = sans travail ; ein Arbeitsloser = un chômeur."
+      "answer": "Zeigen Sie mir Ihre Kleider aus Strickjersey.",
+      "hint": "Utilisez l'impératif de politesse « Zeigen Sie mir... » et la préposition « aus » pour la matière.",
+      "explanation": "Corrigé C.9 : « Zeigen Sie mir Ihre Kleider aus Strickjersey. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.11) Traduisez : « Avant de l'essayer, je voudrais connaître son prix. »",
+      "words": [
+        "Bevor",
+        "ich",
+        "sie",
+        "anprobiere,",
+        "möchte",
+        "ich",
+        "ihren",
+        "Preis",
+        "kennen."
+      ],
+      "answer": "Bevor ich sie anprobiere, möchte ich ihren Preis kennen.",
+      "hint": "« Bevor » introduit une subordonnée (verbe conjugué à la fin), suivie de l'inversion dans la principale.",
+      "explanation": "Corrigé C.11 : « Bevor ich sie anprobiere, möchte ich ihren Preis kennen. » Dans la subordonnée, le verbe séparable « anprobieren » reste soudé à la fin."
     }
   ]
 }

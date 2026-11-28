@@ -1,0 +1,156 @@
+{
+  "id": "37",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Wir reservieren ein Zimmer im Hotel",
+  "titleFr": "Nous réservons une chambre à l'hôtel",
+  "proverbDe": "Verschiebe nicht auf morgen, was du heute kannst besorgen.",
+  "proverbFr": "Ne remets pas au lendemain ce que tu peux faire le jour même (ce dont tu peux t'occuper).",
+  "paragraphs": [
+    {
+      "de": "Brieflich : Paris, den 3. Januar\nSehr geehrter Herr Geschäftsführer,\nHiermit bitte ich Sie, mir ein Einzelzimmer mit Bad (ein Doppelzimmer; ein Zimmer mit einem großen Bett; mit einem Kinderbettchen) für den 23. (dreiundzwanzigsten) dieses Monats zu reservieren. Ich möchte ein ruhiges Zimmer, nach der Sonnenseite. Ich werde am Abend gegen sieben Uhr ankommen und bis zum 27. (siebenundzwanzigsten) am Morgen bleiben.\nIn Erwartung Ihrer Bestätigung, grüßt Sie freundlichst.\nPaul Dumont",
+      "fr": "Par lettre : Paris, le 3 Janvier\nMonsieur, (mot à mot : très honoré Monsieur le Directeur)\nVeuillez me retenir une chambre à un lit avec salle de bain (à deux lits, à un grand lit, avec un lit d'enfant) pour le 23 courant. Je voudrais une chambre tranquille, au midi. J'arriverai dans la soirée vers 7 heures et je resterai jusqu'au 27 au matin.\nDans l'attente de votre confirmation, je vous prie d'agréer, Monsieur, l'expression de mes salutations distinguées.\nPaul Dumont"
+    },
+    {
+      "de": "Telefonisch :\n— Hallo! Könnte ich ein Zimmer für den 6. (sechsten) nächsten Monats haben?\n— Ja, mein Herr. Welches ist Ihr Name, bitte?\n— Paul Dumont.\n— Um wieviel Uhr kommen Sie bei uns an?\n— Spät abends. Was kostet das Zimmer, bitte?\n— Zwischen zwanzig und fünfundzwanzig Mark, je nach dem Zimmer.",
+      "fr": "Par téléphone :\n— Allo! Pourrais-je avoir une chambre pour le 6 du mois prochain? — Oui, Monsieur. C'est à quel nom? — Paul Dumont. — À quelle heure arriverez-vous chez nous? — Tard dans la soirée. Quel sera le prix de la chambre, s'il vous plaît? — Entre 20 et 25 marks, selon la chambre."
+    }
+  ],
+  "pronunciation": "Dans Hallo, prononcez le « h » expiré, de même dans hiermit, Herr. Cependant, dans les mots sehr, geehrter, -führer, ruhiges, Uhr, Ihrer, le « h » n'est qu'un signe d'allongement. Repères phonétiques (§ 1) : den 3. Januar [dén' driten' yanouar] ; geehrter [gé-érter] ; Geschäftsführer [géchèftç-furer] ; Einzelzimmer [aen'tçel-tçimer] ; Bestätigung [béchtètigouⁿ].",
+  "vocab": [
+    {
+      "de": "der Geschäftsführer (-)",
+      "fr": "le gérant, le directeur commercial",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Bestätigung (-en)",
+      "fr": "la confirmation",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Bad (¨-er)",
+      "fr": "le bain",
+      "info": "Neutre"
+    },
+    {
+      "de": "ehren",
+      "fr": "honorer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "Sehr geehrter Herr... / Sehr geehrte Herren",
+      "fr": "Monsieur... (très honoré Monsieur...) / Messieurs",
+      "info": "Expression"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Formule de politesse dans une lettre : Sehr geehrter Herr...",
+      "body": "Quand on s'adresse à une personne à qui l'on veut témoigner du respect, ou quand on ne connaît pas le destinataire, la lettre commence souvent par la formule <strong>Sehr geehrter Herr...</strong>, toujours suivie du nom ou d'un titre.<br><em>Sehr geehrter Herr Direktor</em> (mot à mot : Très honoré Monsieur le Directeur)<br><em>Sehr geehrter Herr Meyer</em><br>Cependant, on emploie également le pluriel, sans plus de précision :<br><em>Sehr geehrte Herren, ...</em> Messieurs, ..."
+    },
+    {
+      "title": "Wann kommen Sie an? Quand arriverez-vous?",
+      "body": "• Nous avons vu, dans la leçon 8, que le futur se forme à l'aide de l'auxiliaire <strong>werden</strong> et de l'infinitif du verbe à conjuguer. (Ne pas confondre avec le passif : auxiliaire <em>werden</em> + participe passé.)<br><em>Er wird in diesem Hotel ankommen.</em><br><br>• Cependant, le futur est parfois rendu par le simple présent de l'indicatif, surtout quand un adverbe tel que <strong>bald</strong>, bientôt ; <strong>morgen</strong>, demain, en précise le sens.<br><em>Er kommt bald an</em>, il arrivera bientôt.<br>Le présent à la place du futur s'emploie habituellement pour les auxiliaires de mode.<br><em>Wir werden nach Köln fahren; Hans darf auch mit</em>, nous irons à Cologne; Hans pourra venir également.<br><br>• Notre futur proche « je vais... » se rend en allemand par <strong>wollen</strong>.<br><em>Ich will telefonieren</em>, je vais téléphoner."
+    },
+    {
+      "title": "Wann kommen Sie bei uns an? (zu ou bei)",
+      "body": "• Quand il y a direction, « chez » se traduit par <strong>zu</strong> :<br><em>Er geht zu seinem Freund</em>, il va chez son ami.<br><br>• Quand il y a « état », « chez » se traduit par <strong>bei</strong> :<br><em>Er ist bei seinem Freund</em>, il est chez son ami.<br><br><strong>Remarque :</strong> Pour le verbe <em>ankommen</em>, arriver, on considère le résultat de l'action, donc l'état. (Voir L. 9). Revoir aussi la leçon 31, pour <em>in</em> et <em>nach</em>."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Mettez au pluriel (Exercice A.1) : « Dieser Reisende sucht ein luxuriöses Hotel. »",
+      "answer": "Diese Reisenden suchen luxuriöse Hotels.",
+      "hint": "Le substantif adjectivé Reisende prend -n après diese ; l'article indéfini ein disparaît au pluriel et l'adjectif prend -e.",
+      "explanation": "Corrigé A.1 : « Diese Reisenden suchen luxuriöse Hotels. » (Ces voyageurs cherchent des hôtels luxueux.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Mettez au pluriel (Exercice A.3) : « Ein alter Pförtner gibt ihm den Schlüssel zu seinem Zimmer. »",
+      "words": [
+        "Alte",
+        "Pförtner",
+        "geben",
+        "ihnen",
+        "die",
+        "Schlüssel",
+        "zu",
+        "ihren",
+        "Zimmern."
+      ],
+      "answer": "Alte Pförtner geben ihnen die Schlüssel zu ihren Zimmern.",
+      "hint": "Sans article au pluriel, alter devient Alte ; ihm devient ihnen ; zu est suivi du datif pluriel (ihren Zimmern).",
+      "explanation": "Corrigé A.3 : « Alte Pförtner geben ihnen die Schlüssel zu ihren Zimmern. » (De vieux concierges leur donnent les clés de leurs chambres.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez par la bonne préposition (Exercice B.4) : « Führen Sie mich ___ dem Geschäftsführer. » (Conduisez-moi chez le directeur.)",
+      "options": [
+        "zu",
+        "bei",
+        "nach",
+        "in"
+      ],
+      "answer": "zu",
+      "hint": "Le verbe führen (conduire) indique un déplacement avec direction vers une personne.",
+      "explanation": "Corrigé B.4 : « zu ». Quand il y a direction, « chez » se traduit par zu (Conduisez-moi chez le directeur)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez par la bonne préposition (Exercice B.6) : « Inge wohnt ___ ihrem Onkel. » (Inge habite chez son oncle.)",
+      "options": [
+        "bei",
+        "zu",
+        "nach",
+        "mit"
+      ],
+      "answer": "bei",
+      "hint": "Le verbe wohnen (habiter) exprime un état, sans mouvement de direction.",
+      "explanation": "Corrigé B.6 : « bei ». Quand il y a état, « chez » se traduit par bei (Inge habite chez son oncle)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez par « bei » ou « zu » (Exercice B.8) : « Sie bleibt den ganzen Sonntag ___ ihnen. » (Elle reste chez eux toute la journée du dimanche.)",
+      "answer": "bei",
+      "hint": "Le verbe bleiben (rester) indique un état, une localisation sans déplacement.",
+      "explanation": "Corrigé B.8 : « bei ». Avec bleiben (rester), il y a état : « Sie bleibt den ganzen Sonntag bei ihnen. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand (Exercice C.9) : « Je vais vous montrer votre chambre. »",
+      "words": [
+        "Ich",
+        "will",
+        "Ihnen",
+        "Ihr",
+        "Zimmer",
+        "zeigen."
+      ],
+      "answer": "Ich will Ihnen Ihr Zimmer zeigen.",
+      "hint": "Notre futur proche « je vais... » se rend en allemand par l'auxiliaire wollen + infinitif en fin de proposition.",
+      "explanation": "Corrigé C.9 : « Ich will Ihnen Ihr Zimmer zeigen. » Le futur proche français se rend par wollen."
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez en allemand (Exercice C.11) : « Pourrai-je utiliser (benützen) votre garage ? »",
+      "options": [
+        "Darf ich Ihre Garage benützen?",
+        "Werde ich Ihre Garage benützen?",
+        "Will ich Ihre Garage benützen?",
+        "Muß ich Ihre Garage benützen?"
+      ],
+      "answer": "Darf ich Ihre Garage benützen?",
+      "hint": "Pour les auxiliaires de mode, on emploie habituellement le présent à la place du futur ; la permission s'exprime par dürfen.",
+      "explanation": "Corrigé C.11 : « Darf ich Ihre Garage benützen? » Le présent s'emploie habituellement à la place du futur avec les auxiliaires de mode."
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en allemand (Exercice C.13) : « Pourrai-je prendre un bain ce soir ? (= aujourd'hui soir). »",
+      "answer": "Kann ich heute abend ein Bad nehmen?",
+      "hint": "Utilisez können au présent (à la place du futur), « heute abend » pour ce soir et « ein Bad nehmen » pour prendre un bain.",
+      "explanation": "Corrigé C.13 : « Kann ich heute abend ein Bad nehmen? » Les auxiliaires de mode se mettent habituellement au présent pour exprimer le futur."
+    }
+  ]
+}

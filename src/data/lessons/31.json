@@ -1,0 +1,184 @@
+{
+  "id": "31",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Sie wollen mit der Eisenbahn fahren",
+  "titleFr": "Vous allez prendre le train",
+  "proverbDe": "Aus den Augen, aus dem Sinn.",
+  "proverbFr": "Loin des yeux, loin du cœur (Hors des yeux, hors du cœur)",
+  "paragraphs": [
+    {
+      "de": "— Ich möchte zwei Plätze erster Klasse nach Bonn reservieren. Ich fahre am Donnerstag, am siebenundzwanzigsten Mai, mit dem Zug um zwanzig Uhr ab. — Was für Plätze wollen Sie? — Einen Eckplatz, Fensterseite, in der Fahrtrichtung, und den Platz daneben. — Ich bedauere sehr, mein Herr, wir haben keine Fensterplätze mehr. Ich kann Ihnen nur noch einen Eckplatz, Gangseite, geben und zwar gegen die Fahrtrichtung. — Gut, in Ordnung.",
+      "fr": "— Je voudrais réserver deux places de première classe pour Bonn. Je partirai jeudi, 27 mai, par le train de 20 heures. — Quelles places voulez-vous? — Un coin fenêtre, sens de la marche, et la place à côté. — Je regrette beaucoup, Monsieur, nous n'avons plus de coins fenêtres. Je ne puis vous donner qu'un coin couloir, (et) dos tourné à la machine. — Bon, c'est bien."
+    },
+    {
+      "de": "— Geben Sie mir eine Fahrkarte erster Klasse nach Remscheid. — Eine Rückfahrkarte? — Nein, einfach. — Das bekommen Sie am Schalter sechs. Nach Remscheid gibt es aber keine erste Klasse; der Zug hat nur zweite.",
+      "fr": "— Donnez-moi un billet de première classe pour Remscheid. — Un aller-retour? — Non, (un aller) simple. — Vous aurez cela au guichet six. Mais pour Remscheid, il n'y a pas de première classe: le train n'a que des secondes."
+    },
+    {
+      "de": "— (Zum Gepäckträger) Für den Zug nach Köln; Wagen Nummer 15; Platznummer 32. Was bin ich Ihnen schuldig?",
+      "fr": "— (Au porteur) Train de Cologne, voiture 15, place 32. Combien vous dois-je?"
+    },
+    {
+      "de": "— Wo muß ich nach Remscheid umsteigen? — In Opladen. — Habe ich direkten Anschluß? — Sie müssen zehn Minuten warten.",
+      "fr": "— Pour Remscheid, où dois-je changer? — A Opladen. — Aurai-je la correspondance immédiate? — Il faut attendre 10 minutes."
+    },
+    {
+      "de": "— Um wieviel Uhr kommt der Zug aus Köln an? — Um acht Uhr fünfundfünfzig. Der Eilzug, der auf Bahnsteig 3 ankommen soll, hat eine Stunde Verspätung. — Wir werden in der Bahnhofgaststätte oder im Wartesaal warten.",
+      "fr": "— A quelle heure arrive le train en provenance de Cologne? — A 8 h 55. Le rapide qui doit arriver sur le quai 3, a une heure de retard. — Nous attendrons au buffet de la gare ou à la salle d'attente."
+    }
+  ],
+  "pronunciation": "Points de prononciation de la leçon : « die Eisenbahn » [aï-zen-bân] (accent sur Ei-, h muet allongeant le a) ; « der Gepäckträger » [gué-pèk-trè-guer] (accent sur -päck-, g toujours dur) ; « umsteigen » [oum-chtaï-guen] (verbe séparable accentué sur um-, st initial = cht, ei = aï) ; « der Anschluß » [an-chlouss] (accent sur An-, u bref devant ß) ; « die Bahnhofgaststätte » [bân-hôf-gast-chtè-te] (mot composé accentué sur le premier élément Bahn-, st de Stätte prononcé cht).",
+  "vocab": [
+    {
+      "de": "der Anschluß (¨-sse)",
+      "fr": "la correspondance (ch. de fer)",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Bahnsteig (-e)",
+      "fr": "le quai",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Gang (¨-e)",
+      "fr": "le couloir",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schalter (-)",
+      "fr": "le guichet",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Träger (-)",
+      "fr": "le porteur",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Fahrt (-en)",
+      "fr": "le trajet, le parcours",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Gaststätte (-n)",
+      "fr": "le restaurant, le café",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Verspätung (-en)",
+      "fr": "le retard",
+      "info": "Féminin"
+    },
+    {
+      "de": "umsteigen (ie, ie)",
+      "fr": "changer (de train)",
+      "info": "Verbe fort séparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Der Eilzug, der auf Bahnsteig 3 ankommen soll, hat Verspätung. — La subordonnée relative",
+      "body": "La proposition subordonnée relative est introduite par un pronom relatif ; le verbe est rejeté à la fin de la subordonnée ; celle-ci est séparée de la principale par une virgule.<br><br>Les pronoms relatifs au Nominatif et à l'Accusatif sont :<br><strong>Nom.</strong> (<em>qui</em>) : Masc. <strong>der</strong> — Fém. <strong>die</strong> — Ntre. <strong>das</strong> — Pluriel <strong>die</strong><br><strong>Acc.</strong> (<em>que</em>) : Masc. <strong>den</strong> — Fém. <strong>die</strong> — Ntre. <strong>das</strong> — Pluriel <strong>die</strong><br><br><strong>Exemples :</strong><br><strong>a) Pronoms au nominatif (sujet) :</strong><br><em>Der Schaffner, <strong>der</strong> die Fahrkarten kontrolliert...</em>, le contrôleur qui vérifie les billets...<br><em>Die Dame, <strong>die</strong> erster Klasse reist...</em>, la dame qui voyage en 1re classe...<br><em>Das Gepäckstück, <strong>das</strong> dort liegt...</em>, le colis qui est posé là-bas...<br><br><strong>b) Pronoms relatifs à l'accusatif (complément d'objet direct) :</strong> Ce pronom est suivi du sujet, puis des compléments, enfin du verbe.<br><em>Der Schaffner, <strong>den</strong> ich gestern gerufen hatte...</em>, le contrôleur que j'avais appelé hier...<br><em>Die Dame, <strong>die</strong> wir auf dem Bahnsteig sehen...</em>, la dame que nous voyons sur le quai...<br><em>Das Gepäckstück, <strong>das</strong> ich dorthin gelegt habe...</em>, le colis que j'ai posé là-bas..."
+    },
+    {
+      "title": "Er fährt nach Remscheid. Er muß in Opladen umsteigen. — Emploi de in et de nach",
+      "body": "Devant les noms de villes et de pays, l'allemand distingue entre la direction (le mouvement) et l'état (la position, le lieu où l'on est).<br><br><strong>Quand il y a mouvement, on emploie <em>nach</em> :</strong><br><em>Er fährt nach Bonn</em>, il va à Bonn ; <em>nach England</em>, en Angleterre ; <em>nach Frankreich</em>, en France.<br><br><strong>Quand il y a état, on emploie <em>in</em> :</strong><br><em>Er wohnt in Bonn</em>, il habite à Bonn ; <em>in Deutschland</em>, en Allemagne."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.2) Complétez par le pronom relatif correct : « Der Platz, ___ er reserviert hatte, war ein Eckplatz. »",
+      "options": [
+        "der",
+        "den",
+        "das",
+        "die"
+      ],
+      "answer": "den",
+      "hint": "« Der Platz » est masculin et complément d'objet direct (accusatif) de « reserviert hatte ».",
+      "explanation": "Corrigé A.2 : « den » (« La place qu'il avait réservée était un coin. »). Le pronom relatif masculin à l'accusatif est « den »."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.3) Complétez par le pronom relatif correct : « Kennst du das Reisebüro, ___ in der Mozartstraße liegt? »",
+      "options": [
+        "der",
+        "den",
+        "das",
+        "die"
+      ],
+      "answer": "das",
+      "hint": "L'antécédent « das Reisebüro » est neutre singulier.",
+      "explanation": "Corrigé A.3 : « das » (« Connais-tu l'agence qui se trouve dans la rue Mozart ? »). Au nominatif neutre, le pronom relatif est « das »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.1) Complétez par le pronom relatif approprié : « Die Fahrkarte, ___ ich gekauft habe, ist einfach. »",
+      "answer": "die",
+      "hint": "« Die Fahrkarte » est féminin singulier (accusatif).",
+      "explanation": "Corrigé A.1 : « die » (« Le billet que j'ai acheté est un aller simple. »). Le pronom relatif féminin à l'accusatif est « die »."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice B.8) Complétez par la préposition correcte : « Sie kommt jedes Jahr ___ Deutschland. »",
+      "options": [
+        "nach",
+        "in",
+        "zu",
+        "an"
+      ],
+      "answer": "nach",
+      "hint": "Le verbe « kommen » indique un mouvement vers un pays.",
+      "explanation": "Corrigé B.8 : « nach » (« Elle vient tous les ans en Allemagne. »). Devant un nom de pays sans article, on emploie « nach » lorsqu'il y a mouvement."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.6) Complétez par « in » ou « nach » : « Er arbeitet ___ München. »",
+      "answer": "in",
+      "hint": "Il s'agit d'un lieu où l'on se trouve (état, sans déplacement).",
+      "explanation": "Corrigé B.6 : « in » (« Il travaille à Munich. »). Quand il y a état devant un nom de ville, on emploie « in »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice sur les mots 2) Traduisez en allemand : « Les fenêtres de ce couloir. »",
+      "answer": "Die Fenster dieses Gangs.",
+      "hint": "Utilisez le génitif singulier de « der Gang » précédé de « dieses ».",
+      "explanation": "Corrigé 2 : « Die Fenster dieses Gangs. » (génitif masculin : « dieses Gangs »)."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.12) Remettez dans l'ordre la traduction de : « Les bagages que j'emporte ne sont pas lourds. »",
+      "words": [
+        "Das",
+        "Gepäck,",
+        "das",
+        "ich",
+        "mitnehme,",
+        "ist",
+        "nicht",
+        "schwer."
+      ],
+      "answer": "Das Gepäck, das ich mitnehme, ist nicht schwer.",
+      "hint": "La subordonnée relative est encadrée par deux virgules et le verbe « mitnehme » est rejeté à sa fin.",
+      "explanation": "Corrigé C.12 : « Das Gepäck, das ich mitnehme, ist nicht schwer. » Dans la relative, le verbe conjugué se place tout à la fin."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.15) Remettez dans l'ordre la traduction de : « Il habite depuis un an à Mayence (Mainz). »",
+      "words": [
+        "Er",
+        "wohnt",
+        "seit",
+        "einem",
+        "Jahr",
+        "in",
+        "Mainz."
+      ],
+      "answer": "Er wohnt seit einem Jahr in Mainz.",
+      "hint": "« seit » régit le datif (« einem Jahr ») et l'état devant une ville demande « in ».",
+      "explanation": "Corrigé C.15 : « Er wohnt seit einem Jahr in Mainz. » On emploie « in » car « wohnen » exprime un état."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "id": "36",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Der Gasthof",
+  "titleFr": "L'Hôtel",
+  "proverbDe": "Ein Sperling in der Hand ist besser als zwei auf dem Dach.",
+  "proverbFr": "Un tien vaut mieux que deux tu l'auras (Un moineau dans la main, c'est mieux que deux sur le toit).",
+  "paragraphs": [
+    {
+      "de": "Wenn wir verreist sind und eine Unterkunft suchen, wenden wir uns an den Verkehrsverein. Hier wird uns von einem Angestellten ein Unterkunftsverzeichnis überreicht. Auf diesem Verzeichnis finden wir Hotels, Gasthöfe (oder Gasthäuser) und Gaststätten.",
+      "fr": "Quand nous sommes en voyage et que nous cherchons à nous loger, nous nous adressons au syndicat d'initiative. Là, une liste des hôtels nous est remise par un employé. Sur cette liste, nous trouvons des hôtels, des hôtels-restaurants et des cafés-restaurants."
+    },
+    {
+      "de": "Ein Unternehmen, das in Deutschland als Hotel bezeichnet wird, ist gewöhnlich luxuriöser als ein Gasthof. Der Gasthof ist ein gediegenes, gut geführtes Haus; oft wird hier Vollpension angeboten. Das Gasthaus (oder die Gastwirtschaft) ist ein wenig einfacher; aber man kann auch hier bequeme Zimmer finden und die Küche ist meistens bürgerlich. Die Gaststätte vermietet keine Zimmer.",
+      "fr": "Un établissement désigné en Allemagne comme « hôtel », est en général plus luxueux qu'un « Gasthof ». L'hôtel-restaurant est une maison soignée, bien tenue ; souvent on y offre la pension complète. L'auberge est un peu plus simple ; mais là aussi, on peut trouver des chambres confortables et la cuisine y est le plus souvent bourgeoise. Le café-restaurant ne loue pas de chambres."
+    },
+    {
+      "de": "Die Preise richten sich nach der Zahl der Betten. Hinzu kommt die zehn-, zwölf- oder fünfzehnprozentige Bedienung. In der Urlaubszeit ist es ratsam, sein Zimmer im Voraus zu reservieren. Wenn die Gasthöfe kein freies Zimmer mehr haben, kann man oft ein Privatquartier finden.",
+      "fr": "Les prix sont calculés d'après le nombre de lits. Le service de 10, 12 ou 15 % s'y ajoute. Pendant la période des vacances, il est prudent de réserver sa chambre à l'avance. Si les hôtels n'ont plus de chambre libre, on peut souvent trouver une chambre chez l'habitant."
+    },
+    {
+      "de": "Lecture — Angeber : Wassersüppchen zu Hause — auf der Urlaubsreise dafür nur echten Kaviar : dies ist das Fazit einer « diskret veranstalteten » Umfrage in zehn italienischen und französischen Luxus-Hotels. Wie finanzieren Sie Ihren Urlaub? Die Antwort : Jeder fünfte Besucher hatte sich die Aufenthaltskosten zusammengespart und erklärte sich nicht abgeneigt, eines « gehobenen Urlaubs » wegen auf Anschaffungen im Haus zu verzichten. (Aus der Wochenzeitung « Die Zeit », Hamburg.)",
+      "fr": "Lecture — Les hâbleurs : À la maison, une petite soupe maigre (mot à mot : à l'eau) mais comme touriste, uniquement du caviar, et du vrai : voilà le résultat d'une enquête « menée discrètement » dans dix hôtels de luxe italiens et français. Comment financez-vous vos vacances ? La réponse : Un estivant sur cinq (mot à mot : chaque cinquième visiteur) avait fait des économies pour le coût du séjour et déclarait n'être pas hostile à l'idée de renoncer à des achats pour la maison, s'il obtient par là des vacances d'une certaine classe (m. à m. : à cause de vacances élevées)."
+    }
+  ],
+  "pronunciation": "Repères phonétiques de la leçon : le préfixe ver- (atone, v = [f]) dans Unterkunftsverzeichnis [fèrtçaéchniç], vermietet [fèrmitet] (i long) et verreisen ; les composés de Gast- : Gasthöfe [gaçt-heufe] (ö long), Gasthäuser [gaçt-hoeuzer], Gaststätten [gaçt-chtèten'] ; voyelles longues et consonnes : luxuriöser [loukçourieuzer] (ö long), gediegenes [gédigeneç] (i long), bequeme [békvéme] (qu = [kv], e long) ; composés et mots d'emprunt : fünfzehnprozentige [-protçèn'tige], Urlaubszeit [ourlaobç-tçaét], im Voraus [for-aoç], Privatquartier [privat-kvartir] (a et i longs).",
+  "vocab": [
+    {
+      "de": "der Gasthof (¨-e)",
+      "fr": "l'hôtel-restaurant",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Preis (-e)",
+      "fr": "le prix",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Urlaub (-e)",
+      "fr": "le congé",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Bedienung (-en)",
+      "fr": "le service",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Gaststätte (-n)",
+      "fr": "le café, le restaurant",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Küche (-n)",
+      "fr": "la cuisine",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Unterkunft (¨-e)",
+      "fr": "le logis, l'abri",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Vollpension (-en)",
+      "fr": "la pension complète",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Zahl (-en)",
+      "fr": "le nombre",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Quartier (-e)",
+      "fr": "le logement",
+      "info": "Neutre"
+    },
+    {
+      "de": "berechnen",
+      "fr": "calculer",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "vermieten",
+      "fr": "louer",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "verreisen",
+      "fr": "partir en voyage",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "anbieten (o, o)",
+      "fr": "présenter, offrir",
+      "info": "Verbe fort séparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Ein Unterkunftsverzeichnis wird uns von einem Angestellten überreicht. — Formation du passif",
+      "body": "Cette phrase est au passif. Remarquez l'emploi de <strong>wird</strong> (auxiliaire <strong>werden</strong>), alors qu'en français on prend « être ». Le participe passé du verbe à conjuguer (<em>überreicht</em>) se met à la fin. Autre exemple :<br><br><em>Das Gepäck wird vom Gepäckträger hinaufgetragen</em>, les bagages sont montés par le porteur = le porteur monte les bagages (Présent)."
+    },
+    {
+      "title": "Le complément du passif : von ou durch",
+      "body": "Le complément du passif (<em>par...</em>) est introduit généralement par <strong>von</strong>.<br><em>Von einem Angestellten</em>, par un employé.<br><br>Cependant, quand il ne désigne qu'un instrument, un moyen, ce complément est introduit par <strong>durch</strong>.<br><em>Der Gasthof wurde durch den Krieg zerstört</em>, l'hôtel fut détruit par la guerre."
+    },
+    {
+      "title": "Fréquence du passif allemand (français « on »)",
+      "body": "L'emploi du passif est très fréquent en allemand. Le français préfère la forme active, avec le sujet « on ».<br><br><em>Dieses Hotel wurde mir empfohlen</em>, cet hôtel me fut recommandé = on me recommanda cet hôtel."
+    },
+    {
+      "title": "Exprimer un état avec sein",
+      "body": "Pour exprimer un état, l'allemand emploie le verbe <strong>sein</strong>.<br><br><em>Alle Zimmer sind besetzt</em>, toutes les chambres sont occupées."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "prompt": "Mettez au passif : « Der Dolmetscher zeigte uns das beste Hotel. » (Exercice A.1)",
+      "words": [
+        "Das",
+        "beste",
+        "Hotel",
+        "wurde",
+        "uns",
+        "vom",
+        "Dolmetscher",
+        "gezeigt."
+      ],
+      "answer": "Das beste Hotel wurde uns vom Dolmetscher gezeigt.",
+      "hint": "Le prétérit actif (zeigte) devient passif au prétérit : wurde + participe passé (gezeigt) à la fin.",
+      "explanation": "Corrigé A.1 : « Das beste Hotel wurde uns vom Dolmetscher gezeigt. » (Le meilleur hôtel nous fut montré par l'interprète.) Complément d'agent introduit par von + datif (vom)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au passif : « Frau Anita führt diese Pension gut. » (Exercice A.2)",
+      "options": [
+        "Diese Pension wird von Frau Anita gut geführt.",
+        "Diese Pension ist von Frau Anita gut geführt.",
+        "Diese Pension wurde von Frau Anita gut geführt.",
+        "Diese Pension wird durch Frau Anita gut geführt."
+      ],
+      "answer": "Diese Pension wird von Frau Anita gut geführt.",
+      "hint": "Au présent passif d'action, on emploie l'auxiliaire wird et la préposition von pour une personne.",
+      "explanation": "Corrigé A.2 : « Diese Pension wird von Frau Anita gut geführt. » (Cette pension est bien dirigée par Madame Anita.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au passif : « Die Gäste trinken guten Wein. » — Complétez : « Guter Wein ___ von den Gästen getrunken. » (Exercice A.3)",
+      "answer": "wird",
+      "hint": "Trinken est au présent ; l'auxiliaire du passif à la 3e personne du singulier présent est wird.",
+      "explanation": "Corrigé A.3 : « Guter Wein wird von den Gästen getrunken. » (Les clients boivent du bon vin.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au passif : « Herr Müller bestellte ein Bier. » — Complétez : « Ein Bier ___ von Herrn Müller bestellt. » (Exercice A.4)",
+      "answer": "wurde",
+      "hint": "Bestellte est au prétérit ; utilisez le prétérit de l'auxiliaire werden.",
+      "explanation": "Corrigé A.4 : « Ein Bier wurde von Herrn Müller bestellt. » (Une bière fut commandée par M. Müller.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez à la forme active : « Das Gepäck wird vom Zollbeamten untersucht. » (Exercice B.5)",
+      "options": [
+        "Der Zollbeamte untersucht das Gepäck.",
+        "Der Zollbeamte untersuchte das Gepäck.",
+        "Den Zollbeamten untersucht das Gepäck.",
+        "Der Zollbeamte hat das Gepäck untersucht."
+      ],
+      "answer": "Der Zollbeamte untersucht das Gepäck.",
+      "hint": "Wird untersucht correspond au présent ; le complément d'agent (vom Zollbeamten) devient sujet au nominatif.",
+      "explanation": "Corrigé B.5 : « Der Zollbeamte untersucht das Gepäck. » (Le douanier visite les bagages.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Mettez à la forme active : « Von diesen Reisenden wurde viel Geld gewechselt. » (Exercice B.6)",
+      "words": [
+        "Diese",
+        "Reisenden",
+        "wechselten",
+        "viel",
+        "Geld."
+      ],
+      "answer": "Diese Reisenden wechselten viel Geld.",
+      "hint": "Wurde gewechselt est un passif au prétérit : le verbe actif wechseln se met au prétérit pluriel (wechselten).",
+      "explanation": "Corrigé B.6 : « Diese Reisenden wechselten viel Geld. » (Ces voyageurs changèrent beaucoup d'argent.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez la traduction de : « La liste des hôtels qui nous fut remise par l'employé, nous était très utile. » — « Das Unterkunftsverzeichnis, ___, war uns sehr nützlich. » (Exercice C.7)",
+      "options": [
+        "das uns vom Angestellten überreicht wurde",
+        "das uns vom Angestellten wurde überreicht",
+        "die uns vom Angestellten überreicht wurde",
+        "das uns durch den Angestellten überreicht war"
+      ],
+      "answer": "das uns vom Angestellten überreicht wurde",
+      "hint": "Das Unterkunftsverzeichnis est neutre (pronom relatif das) et dans une subordonnée relative l'auxiliaire conjugué (wurde) est rejeté tout à la fin.",
+      "explanation": "Corrigé C.7 : « Das Unterkunftsverzeichnis, das uns vom Angestellten überreicht wurde, war uns sehr nützlich. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez : « Nous fûmes conduits dans un bon hôtel-restaurant. » — Complétez : « Wir ___ in ein gutes Gasthaus geführt. » (Exercice C.8)",
+      "answer": "wurden",
+      "hint": "Passif au prétérit, 1re personne du pluriel de l'auxiliaire werden.",
+      "explanation": "Corrigé C.8 : « Wir wurden in ein gutes Gasthaus geführt. » Le passif d'action utilise toujours werden (prétérit : wurden)."
+    }
+  ]
+}

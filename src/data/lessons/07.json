@@ -4,113 +4,213 @@
   "authentic": true,
   "titleDe": "Im Kongreßsaal",
   "titleFr": "Dans la salle de congrès",
-  "proverbDe": "Morgenstunde hat Gold im Munde.",
-  "proverbFr": "L'avenir appartient à ceux qui se lèvent tôt.",
+  "proverbDe": "Schönheit vergeht, Tugend besteht.",
+  "proverbFr": "La beauté passe, la vertu demeure.",
   "paragraphs": [
     {
-      "de": "Mein Freund kommt pünktlich in Köln an. Im Kongreßsaal schreibt er einige Adressen ab.",
-      "fr": "Mon ami arrive ponctuellement à Cologne. Dans la salle de congrès, il copie quelques adresses."
+      "de": "Im Kongreßsaal hat Paul Dumont einen modernen Schreibtisch. Auf dem Tisch liegen seine Dokumente, seine Bücher und sein Kugelschreiber. Herr Müller, sein Freund, ist schon da.",
+      "fr": "Dans la salle de congrès, Paul Dumont a un bureau moderne. Sur sa table, il y a (mot à mot : sont posés) ses documents, ses livres et son crayon à bille. Monsieur Müller, son ami, est déjà là."
     },
     {
-      "de": "Paul Dumont hat seinen Schreibblock und seinen Kugelschreiber. Frau Kellen hat ihren Schreibblock.",
-      "fr": "Paul Dumont a son bloc-notes et son stylo à bille. Madame Kellen a son bloc-notes."
+      "de": "Auch Frau Kellen hat ihren Schreibtisch hier. Sie kommt immer pünktlich an. Sie zieht ihren Mantel aus und hört zu. Ihr Mantel ist kariert; ihr Kleid ist sehr schick.",
+      "fr": "Madame Kellen a également, ici, un bureau à elle (mot à mot : son bureau). Elle arrive toujours à l'heure. Elle enlève son manteau et écoute. Son manteau est à carreaux; sa robe est très chic."
     },
     {
-      "de": "— Wo ist mein Kugelschreiber? — Hier liegt er. Hören Sie immer gut zu!",
-      "fr": "— Où est mon stylo à bille ? — Le voici. Écoutez toujours bien !"
+      "de": "— Wo ist denn meine Brille, Herr Müller? — Sie liegt auf Ihrem Tisch, Frau Kellen. — Ach ja! Danke! Und hier ist auch mein Kugelschreiber. Ich schreibe schnell einige Adressen ab.",
+      "fr": "Où donc sont mes lunettes, Monsieur Müller? (mot à mot : est ma lunette). Elles sont (posées) sur votre table, Madame Kellen. — Ah oui! Merci! Et voici (ici est) également mon crayon à bille. Je copie vite quelques adresses."
     }
   ],
-  "pronunciation": "Dans les verbes à particule séparable (ankommen, abschreiben, zuhören), l'accent tonique principal porte toujours sur la particule.",
+  "pronunciation": "Les voyelles suivies de deux consonnes sont brèves. Ainsi dans Müller, Kellen, immer, pünktlich, schick, denn, Brille, Herr, schnell. La diphtongue au se prononce [ao]. Elle est brève et prononcée en une seule émission de voix. Il faut accentuer le a. Lisez à haute voix : Paul, auf, Frau, aus, auch. Repères phonétiques du texte : Im Kongreßsaal [im kon'grèçzal], Schreibtisch [chraéptich], Kugelschreiber [kougelchraéber], pünktlich [punk'tlich], zieht ... aus [tçit ... aoç], hört zu [heurt tçou], kariert [karirt], Kleid [klaét], Adressen [adrèçen'], ab [ap].",
   "vocab": [
     {
-      "de": "ankommen",
-      "fr": "arriver",
-      "info": "Particule séparable : an"
-    },
-    {
-      "de": "abschreiben",
-      "fr": "copier",
-      "info": "Particule séparable : ab"
-    },
-    {
-      "de": "zuhören",
-      "fr": "écouter",
-      "info": "Particule séparable : zu"
-    },
-    {
-      "de": "ausziehen",
-      "fr": "enlever, ôter (un vêtement)",
-      "info": "Particule séparable : aus"
-    },
-    {
-      "de": "der Kugelschreiber",
-      "fr": "le stylo à bille",
+      "de": "der Kugelschreiber (-)",
+      "fr": "le crayon à bille",
       "info": "Masculin"
     },
     {
-      "de": "die Postkarte",
-      "fr": "la carte postale",
+      "de": "der Mantel (¨)",
+      "fr": "le manteau",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Saal (die Säle)",
+      "fr": "la salle",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schreibtisch (-e)",
+      "fr": "le bureau",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Tisch (-e)",
+      "fr": "la table",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Adresse (n)",
+      "fr": "l'adresse",
       "info": "Féminin"
+    },
+    {
+      "de": "die Brille (n)",
+      "fr": "les lunettes",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Frau (en)",
+      "fr": "la femme ; madame",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kugel (n)",
+      "fr": "la bille, la boule",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Buch (¨-er)",
+      "fr": "le livre",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Dokument (e)",
+      "fr": "le document",
+      "info": "Neutre"
+    },
+    {
+      "de": "ab/schreiben",
+      "fr": "copier",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "an/kommen",
+      "fr": "arriver",
+      "info": "Verbe séparable (fort)"
+    },
+    {
+      "de": "aus/ziehen",
+      "fr": "ôter ; déshabiller",
+      "info": "Verbe séparable (fort)"
+    },
+    {
+      "de": "danke",
+      "fr": "merci",
+      "info": "Expression"
+    },
+    {
+      "de": "zu/hören",
+      "fr": "écouter",
+      "info": "Verbe séparable"
     }
   ],
   "grammar": [
     {
-      "title": "1. La particule verbale séparable",
-      "body": "Les particules séparables (<em>ab-, an-, aus-, zu-...</em>) se détachent du verbe conjugué et se rejettent <strong>tout à la fin</strong> de la proposition principale : <em>Sie kommt pünktlich <strong>an</strong>. Jetzt schreiben wir eine Adresse <strong>ab</strong>.</em>"
+      "title": "Er schreibt einige Adressen ab. — La particule verbale séparable",
+      "body": "Avec le verbe <em>schreiben</em> (écrire) et la particule <em>ab</em>, on forme le verbe composé <em>abschreiben</em> (copier). Autres exemples :<br><em>kommen</em> (venir) → <em>ankommen</em> (arriver)<br><em>hören</em> (entendre) → <em>zuhören</em> (écouter)<br><br>De nombreuses particules (une trentaine) peuvent former ainsi des verbes composés, qui tirent leur véritable sens de la particule. Ces particules se séparent du verbe dans la proposition principale, au présent, au prétérit et à l'impératif. Dans la prononciation, les particules séparables portent l'accent principal.<br><br><strong>Exemples :</strong><br><strong>ankommen :</strong> <em>Sie kommt pünktlich an</em>, elle arrive à l'heure.<br><strong>zuhören :</strong> <em>Hört er gut zu?</em> Écoute-t-il bien?<br><strong>abschreiben :</strong> <em>Jetzt schreiben wir eine Adresse ab.</em> Maintenant, nous copions une adresse.<br><br><strong>Remarque très importante :</strong> dans les leçons suivantes, sous la rubrique « Vocabulaire », un verbe écrit avec une particule séparable accentuée (voyelle en caractère gras) sera donc un verbe à particule séparable."
     },
     {
-      "title": "2. L'adjectif possessif (mein, dein, sein, ihr...)",
-      "body": "Il se décline comme <em>ein</em> (accusatif masculin en <em>-en</em> : <em>meinen Freund</em>). À la 3e personne du singulier : <strong>sein</strong> si le possesseur est masculin/neutre (<em>Paul hat seinen Tisch</em>), <strong>ihr</strong> si le possesseur est féminin (<em>Frau Kellen hat ihren Tisch</em>)."
+      "title": "Wo ist mein Kugelschreiber? — L'adjectif possessif",
+      "body": "<strong>Possesseur singulier :</strong><br>1re pers. (mon) : Masc. <em>mein</em> · Fém. <em>meine</em> · Ntre <em>mein</em> · Plur. <em>meine</em><br>2e pers. (ton) : Masc. <em>dein</em> · Fém. <em>deine</em> · Ntre <em>dein</em> · Plur. <em>deine</em><br>3e pers. (son, à lui) : Masc. <em>sein</em> · Fém. <em>seine</em> · Ntre <em>sein</em> · Plur. <em>seine</em><br>3e pers. (son, à elle) : Masc. <em>ihr</em> · Fém. <em>ihre</em> · Ntre <em>ihr</em> · Plur. <em>ihre</em><br><br><strong>Possesseur pluriel :</strong><br>1re pers. (notre) : Masc. <em>unser</em> · Fém. <em>unsere</em> · Ntre <em>unser</em> · Plur. <em>unsere</em><br>2e pers. (votre) : Masc. <em>euer</em> · Fém. <em>eure</em> · Ntre <em>euer</em> · Plur. <em>eure</em><br>3e pers. (leur) : Masc. <em>ihr</em> · Fém. <em>ihre</em> · Ntre <em>ihr</em> · Plur. <em>ihre</em><br>Forme de politesse (votre) : Masc. <em>Ihr</em> · Fém. <em>Ihre</em> · Ntre <em>Ihr</em> · Plur. <em>Ihre</em>"
+    },
+    {
+      "title": "Remarques sur l'adjectif possessif",
+      "body": "<strong>1)</strong> L'adjectif possessif se décline comme l'article indéfini <em>ein</em>. L'accusatif masculin est donc : <em>meinen, deinen</em>, etc.<br>Exemple : <em>Ich höre meinen Freund.</em><br><br><strong>2)</strong> À la 3e personne du singulier, on emploie <em>sein</em> quand le possesseur est masculin ou neutre, <em>ihr</em> quand le possesseur est féminin.<br>Exemple : <em>Paul Dumont hat seinen Schreibtisch. Frau Kellen hat ihren Schreibtisch.</em>"
     }
   ],
   "exercises": [
     {
+      "type": "order",
+      "prompt": "Faites accorder le verbe (ausziehen) et remettez la phrase dans l'ordre : « Nous ôtons notre manteau. » (Exercice A.1)",
+      "words": [
+        "Wir",
+        "ziehen",
+        "unseren",
+        "Mantel",
+        "aus."
+      ],
+      "answer": "Wir ziehen unseren Mantel aus.",
+      "hint": "Au présent, la particule séparable aus se place en fin de proposition principale.",
+      "explanation": "Corrigé A.1 : « Wir ziehen unseren Mantel aus. » (Nous ôtons notre manteau.) Le verbe séparable ausziehen se coupe en ziehen ... aus."
+    },
+    {
+      "type": "choice",
+      "prompt": "Faites accorder le verbe entre parenthèses : Mein Freund (ankommen) in Köln. (Exercice A.2)",
+      "options": [
+        "Mein Freund kommt in Köln an.",
+        "Mein Freund ankommt in Köln.",
+        "Mein Freund kommt an in Köln.",
+        "Mein Freund an kommt in Köln."
+      ],
+      "answer": "Mein Freund kommt in Köln an.",
+      "hint": "an/kommen est un verbe à particule séparable : la particule an va tout à la fin.",
+      "explanation": "Corrigé A.2 : « Mein Freund kommt in Köln an. » (Mon ami arrive à Cologne.)"
+    },
+    {
       "type": "fill",
-      "prompt": "Conjuguez le verbe séparable (Exercice A.1) : « Wir (ausziehen) unseren Mantel. » → Wir ___ unseren Mantel ___.",
-      "answer": "ziehen ... aus",
-      "hint": "Le radical « ziehen » se conjugue en 2e position, la particule « aus » va à la fin.",
-      "explanation": "Wir ziehen unseren Mantel aus. (Nous ôtons notre manteau)."
+      "prompt": "Faites accorder le verbe (abschreiben) et écrivez la phrase complète : Sie (abschreiben) diesen Brief. (Exercice A.3)",
+      "answer": "Sie schreibt diesen Brief ab.",
+      "hint": "Accordez schreiben à la 3e personne du singulier (schreibt) et rejetez la particule ab à la fin.",
+      "explanation": "Corrigé A.3 : « Sie schreibt diesen Brief ab. » (Elle copie cette lettre.)"
     },
     {
       "type": "order",
-      "prompt": "Formez la phrase (Exercice A.2) : « Mon ami arrive à Cologne. » (ankommen)",
+      "prompt": "Reconstituez la question avec le verbe (zuhören) : « Écoutons-nous toujours bien ? » (Exercice A.4)",
       "words": [
-        "Mein",
-        "Freund",
-        "kommt",
-        "in",
-        "Köln",
-        "an."
+        "Hören",
+        "wir",
+        "immer",
+        "gut",
+        "zu?"
       ],
-      "answer": "Mein Freund kommt in Köln an.",
-      "hint": "Rejetez la particule « an » tout à la fin de la proposition.",
-      "explanation": "Mein Freund kommt in Köln an."
+      "answer": "Hören wir immer gut zu?",
+      "hint": "Dans une question totale, le verbe conjugué est en tête et la particule zu reste en fin de phrase.",
+      "explanation": "Corrigé A.4 : « Hören wir immer gut zu? » (Écoutons-nous toujours bien ?)"
     },
     {
       "type": "choice",
-      "prompt": "Complétez par le possessif (Exercice B.6) : « Ich habe ___ Kugelschreiber. » (der Kugelschreiber)",
+      "prompt": "Complétez par l'adjectif possessif qui convient : Ich habe ... Kugelschreiber. (J'ai mon crayon à bille.) (Exercice B.a.6)",
       "options": [
+        "meinen",
         "mein",
         "meine",
-        "meinen",
         "meinem"
       ],
       "answer": "meinen",
-      "hint": "Kugelschreiber est masculin et COD (accusatif masculin → meinen).",
-      "explanation": "Ich habe meinen Kugelschreiber. (J'ai mon crayon à bille)."
+      "hint": "der Kugelschreiber est masculin et complément d'objet direct (accusatif).",
+      "explanation": "Corrigé B.a.6 : « meinen » (Accusatif masculin singulier). L'adjectif possessif se décline comme ein : meinen Kugelschreiber."
     },
     {
       "type": "choice",
-      "prompt": "Complétez (Exercice B.9) : « Sie hat ___ Arbeit. » (possesseur féminin, die Arbeit)",
+      "prompt": "Complétez par l'adjectif possessif qui convient : Es hat ... Postkarte. (Il a sa carte postale.) (Exercice B.a.7)",
       "options": [
-        "sein",
         "seine",
-        "ihr",
-        "ihre"
+        "ihre",
+        "sein",
+        "seinen"
       ],
+      "answer": "seine",
+      "hint": "Le possesseur est neutre (es → sein-) et die Postkarte est féminin à l'accusatif.",
+      "explanation": "Corrigé B.a.7 : « seine » (Accusatif féminin singulier ; possesseur neutre → sein- + -e)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez par l'adjectif possessif qui convient : Sie hat ... Arbeit. (Elle a son travail.) (Exercice B.a.9)",
       "answer": "ihre",
-      "hint": "Possesseur féminin (Sie) = ihr- ; nom féminin (die Arbeit) = terminaison -e.",
-      "explanation": "Sie hat ihre Arbeit. (Elle a son travail)."
+      "hint": "Le possesseur est féminin (sie → ihr-) et die Arbeit est féminin à l'accusatif.",
+      "explanation": "Corrigé B.a.9 : « ihre » (Accusatif féminin singulier ; possesseur féminin). Elle a son travail."
+    },
+    {
+      "type": "order",
+      "prompt": "Mettez au pluriel la phrase « Ich habe meinen Kugelschreiber. » (Exercice B.b.6)",
+      "words": [
+        "Wir",
+        "haben",
+        "unsere",
+        "Kugelschreiber."
+      ],
+      "answer": "Wir haben unsere Kugelschreiber.",
+      "hint": "Ich → Wir, meinen → unsere (accusatif pluriel), et Kugelschreiber reste invariable au pluriel.",
+      "explanation": "Corrigé B.b.6 : « Wir haben unsere Kugelschreiber. » (Accusatif pluriel ; der Kugelschreiber a pour pluriel die Kugelschreiber.)"
     }
   ]
 }

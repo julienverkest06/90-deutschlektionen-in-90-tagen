@@ -2,88 +2,200 @@
   "id": "24",
   "series": 1,
   "authentic": true,
-  "titleDe": "Wieviel Uhr ist es? (L'heure et le verbe wissen)",
-  "titleFr": "Savoir dire l'heure en allemand et subordonnée avec wie",
-  "proverbDe": "Zeit ist Geld.",
-  "proverbFr": "Le temps, c'est de l'argent.",
+  "titleDe": "Kurznachrichten",
+  "titleFr": "Nouvelles brèves",
+  "proverbDe": "Geld verloren, nichts verloren.",
+  "proverbFr": "Plaie d'argent n'est pas mortelle (argent perdu, rien perdu)",
   "paragraphs": [
     {
-      "de": "Man weiß es noch nicht. Man weiß noch nicht, wie sie in die Wohnung dringen konnten. Gegen 23 Uhr drangen sie in die Wohnung.",
-      "fr": "On ne le sait pas encore. On ne sait pas encore comment ils purent pénétrer dans l'appartement. Vers 23 heures, ils pénétrèrent dans l'appartement."
+      "de": "Herr Müller kauft jeden Morgen seine Zeitung bei der Zeitungsfrau. Er erfährt so allerlei Nachrichten über Politik, Sport, usw (und so weiter). Heute morgen las er schnell einige Kurznachrichten.",
+      "fr": "Monsieur Müller achète chaque matin son journal chez la marchande de journaux. Il apprend ainsi toutes sortes d'informations sur la politique, les sports, etc. Ce matin, il lut rapidement quelques nouvelles brèves."
     },
     {
-      "de": "— Wieviel Uhr ist es? — Es ist acht Uhr. Es ist ein Viertel nach acht. Es ist halb neun. Es ist drei Viertel neun.",
-      "fr": "— Quelle heure est-il ? — Il est huit heures. Il est huit heures un quart. Il est huit heures et demie. Il est neuf heures moins le quart."
+      "de": "— Bonn — Der britische Botschafter in der Bundesrepublik hat die Insel Helgoland als ein Symbol der Freundschaft zwischen Großbritannien und Deutschland bezeichnet. Er überreichte dem Bürgermeister zwei Bände mit Kopien von Dokumenten. Diese stammen aus der Zeit, wo die Insel unter britischer Verwaltung stand.",
+      "fr": "— Bonn — L'ambassadeur britannique en République fédérale a désigné l'île d'Héligoland comme un symbole de l'amitié entre la Grande-Bretagne et l'Allemagne. Il a remis au maire deux volumes avec des copies de documents; ceux-ci datent de l'époque où l'île était placée sous administration britannique."
+    },
+    {
+      "de": "Einbruch in der Hauptstraße. — Gestern gegen 23 Uhr drangen Diebe in die Wohnung des Herrn Meyer. Sie entwendeten Kleidungsstücke im Wert von ca 800 DM (circa achthundert Deutsche Mark). Man weiß noch nicht, wie sie in die Wohnung dringen konnten.",
+      "fr": "Cambriolage dans la grand'rue. — Hier, vers 23 heures, des voleurs se sont introduits dans l'appartement de Monsieur Meyer. Ils dérobèrent des effets vestimentaires d'une valeur approximative de 800 DM. On ne sait pas encore comment ils ont pu pénétrer dans l'appartement."
     }
   ],
-  "pronunciation": "Attention à la demi-heure allemande : « halb neun » (littéralement la moitié de la 9e heure) signifie 8 h 30, et non 9 h 30 !",
+  "pronunciation": "Repères phonétiques du texte : Kurznachrichten [kourtç-narrichten'], Zeitung [tçaétoung], erfährt [èrfèrt], Sport [chport], und so weiter [oun't zo vaéter] ; Botschafter [botchafter], Bundesrepublik [boundeçrépoublik], Symbol [zumbol], Freundschaft [froeuntchaft], Großbritannien [groçbritani-en'], Kopien [kopi-en'], Verwaltung [fèrvaltoung] ; Hauptstraße [haopt-chtraçe], Diebe [dibe], Meyer [mayer], Kleidungsstücke [klaédoungç-chtuke], circa [tçirka]. À noter : les groupes initiaux « sp- » et « st- » se prononcent [chp] et [cht] (Sport, Hauptstraße, Kleidungsstücke), « z » et « c » devant « i » se prononcent [ts] (Zeitung, circa), et le « ie » de « Diebe » note un « i » long.",
   "vocab": [
     {
-      "de": "wissen (weiß, wußte, gewußt)",
-      "fr": "savoir",
-      "info": "Conjugaison spéciale au présent"
+      "de": "der Band (¨-e)",
+      "fr": "le volume",
+      "info": "Masculin"
     },
     {
-      "de": "Wieviel Uhr ist es?",
-      "fr": "Quelle heure est-il ?",
-      "info": "Expression clé"
+      "de": "der Botschafter (-)",
+      "fr": "l'ambassadeur",
+      "info": "Masculin"
     },
     {
-      "de": "halb neun",
-      "fr": "8 h 30 (huit heures et demie)",
-      "info": "Piège classique !"
+      "de": "der Bund (¨-e)",
+      "fr": "l'alliance",
+      "info": "Masculin"
     },
     {
-      "de": "Viertel nach / Viertel vor",
-      "fr": "et quart / moins le quart",
-      "info": "Ou drei Viertel"
+      "de": "der Bürgermeister (-)",
+      "fr": "le maire",
+      "info": "Masculin"
     },
     {
-      "de": "gegen 23 Uhr",
-      "fr": "vers 23 heures",
-      "info": "gegen + accusatif"
+      "de": "der Dieb (e)",
+      "fr": "le voleur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Einbruch (¨-e)",
+      "fr": "le cambriolage",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Wert (-e)",
+      "fr": "la valeur",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Freundschaft (en)",
+      "fr": "l'amitié",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Insel (n)",
+      "fr": "l'île",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Republik (en)",
+      "fr": "la république",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kleidung (en)",
+      "fr": "l'habillement",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kopie (n)",
+      "fr": "la copie",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Nachricht (-en)",
+      "fr": "l'information",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Verwaltung (en)",
+      "fr": "l'administration",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Zeit (-en)",
+      "fr": "le temps, l'époque",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Zeitung (-en)",
+      "fr": "le journal",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Symbol (-e)",
+      "fr": "le symbole",
+      "info": "Neutre"
+    },
+    {
+      "de": "bezeichnen",
+      "fr": "désigner",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "entwenden",
+      "fr": "dérober",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "stammen aus",
+      "fr": "provenir de",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "überreichen",
+      "fr": "remettre",
+      "info": "Verbe inséparable"
+    },
+    {
+      "de": "dringen (a, u) in",
+      "fr": "pénétrer dans",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "erfahren (u, a, ä)",
+      "fr": "apprendre",
+      "info": "Verbe fort"
     }
   ],
   "grammar": [
     {
-      "title": "Le verbe wissen (savoir)",
-      "body": "Présent singulier sans terminaison à la 1re et 3e pers. : <em>ich weiß, du weißt, er weiß, wir wissen, ihr wißt, sie wissen</em>. Prétérit : <em>ich wußte</em>. Participe passé : <em>gewußt</em>."
+      "title": "Man weiß es noch nicht. — Le verbe wissen, savoir",
+      "body": "La conjugaison de ce verbe ressemble à celle des auxiliaires de mode (voir L. 18 à 20).<br><br><strong>Présent :</strong><br><em>ich weiß</em>, je sais — <em>wir wissen</em><br><em>du weißt</em> — <em>ihr wißt</em><br><em>er (sie, es) weiß</em> — <em>sie (Sie) wissen</em><br><br><strong>Prétérit :</strong> <em>ich wußte</em>, je sus, je savais<br><strong>Participe passé :</strong> <em>gewußt</em>"
     },
     {
-      "title": "L'heure courante et officielle",
-      "body": "8 h 15 : <em>ein Viertel nach acht</em> (ou <em>acht Uhr fünfzehn</em>).<br>8 h 30 : <em>halb neun</em> (ou <em>acht Uhr dreißig</em>).<br>8 h 45 : <em>drei Viertel neun</em> ou <em>Viertel vor neun</em>."
+      "title": "Man weiß noch nicht, wie sie in die Wohnung dringen konnten.",
+      "body": "Après <em>wie</em>, comme, conjonction de subordination, on fait également le rejet du verbe. Son emploi est plus fréquent qu'en français, surtout après des verbes comme <em>hören</em>, entendre, <em>sehen</em>, voir, <em>fühlen</em>, sentir. Exemples :<br><br><em>Ich höre, wie der Wagen abfährt</em>, j'entends comme la voiture démarre = j'entends la voiture démarrer.<br><em>Ich sehe, wie er ein Paket bringt</em>, je vois comme il apporte un colis = je le vois apporter un colis."
+    },
+    {
+      "title": "Gegen 23 Uhr drangen sie in die Wohnung. — L'heure",
+      "body": "<strong>Questions :</strong> a) <em>Wieviel Uhr ist es?</em> Quelle heure est-il ? b) <em>Um wieviel Uhr kam er?</em> À quelle heure vint-il ?<br><br><strong>I.</strong> <em>es ist acht Uhr</em>, il est huit heures / <em>es ist zwanzig Uhr</em>, il est vingt heures<br><strong>II.</strong> <em>es ist acht Uhr zehn (Minuten)</em>, il est huit heures dix / <em>es ist zehn Minuten nach acht</em><br><strong>III.</strong> <em>es ist ein Viertel nach acht</em>, il est huit heures un quart / <em>es ist acht Uhr fünfzehn</em>, il est 8 heures 15<br><strong>IV.</strong> <em>es ist halb neun</em>, il est huit heures et demie / <em>es ist zwanzig Uhr dreißig</em>, il est 20 heures 30<br><strong>V.</strong> <em>es ist drei Viertel neun</em>, il est neuf heures moins le quart / <em>es ist 20 Uhr 45</em>, il est 20 heures 45<br><strong>VI.</strong> <em>es ist fünf Minuten vor neun</em>, il est neuf heures moins cinq / <em>es ist 20 Uhr 55</em>, il est 20 heures 55<br><br><em>um sechs Uhr</em>, à six heures ; <em>gegen vier Uhr</em>, vers 4 heures."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Quelle heure est-il ? (Exercice A.2) : « 7 h 1/2 »",
+      "prompt": "Wieviel Uhr ist es? — Comment dit-on « 7 h 1/2 » en toutes lettres ? (Exercice A.2)",
       "options": [
         "Es ist halb acht.",
         "Es ist halb sieben.",
         "Es ist sieben Uhr halb.",
-        "Es ist Viertel nach sieben."
+        "Es ist acht Uhr dreißig."
       ],
       "answer": "Es ist halb acht.",
-      "hint": "En allemand, 7 h 30 est la moitié de la 8e heure (halb acht).",
-      "explanation": "Es ist halb acht = 7 h 30."
+      "hint": "En allemand, la demie s'exprime par rapport à l'heure suivante : « halb » + l'heure qui vient.",
+      "explanation": "Corrigé A.2 : Es ist halb acht. (Il est sept heures et demie, littéralement « moitié de huit ».)"
     },
     {
       "type": "choice",
-      "prompt": "Conjuguez « wissen » : « Ich ___ es nicht, aber er ___ es. »",
+      "prompt": "Wieviel Uhr ist es? — Comment dit-on « 9 h 3/4 » en toutes lettres ? (Exercice A.4)",
       "options": [
-        "weiß / weiß",
-        "weiße / weißt",
-        "wisse / wisst",
-        "weiß / weißt"
+        "Es ist drei Viertel zehn.",
+        "Es ist drei Viertel neun.",
+        "Es ist ein Viertel nach zehn.",
+        "Es ist ein Viertel vor neun."
       ],
-      "answer": "weiß / weiß",
-      "hint": "Au présent, ich et er ont la même forme : weiß.",
-      "explanation": "Ich weiß ... er weiß."
+      "answer": "Es ist drei Viertel zehn.",
+      "hint": "9 h 45 représente les trois quarts de la dixième heure.",
+      "explanation": "Corrigé A.4 : Es ist drei Viertel zehn. (Même modèle que « es ist drei Viertel neun » pour 8 h 45 / neuf heures moins le quart.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez en toutes lettres : « à 4 h 1/2 » (Exercice A.7)",
+      "answer": "um halb fünf",
+      "hint": "« à » devant une heure = um ; 4 h 1/2 s'exprime par rapport à cinq heures.",
+      "explanation": "Corrigé A.7 : um halb fünf. (Et pour « vers 10 h 3/4 » : gegen drei Viertel elf.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez avec le prétérit de « wissen » : Fritz ___ nicht, daß Helgoland lange unter britischer Verwaltung stand. (Exercice C.14)",
+      "answer": "wußte",
+      "hint": "Prétérit du verbe « wissen » (orthographe de 1970) : ich / er wußte.",
+      "explanation": "Corrigé C.14 : Fritz wußte nicht, daß Helgoland lange unter britischer Verwaltung stand. (Fritz ne savait pas qu'Héligoland était longtemps placé sous administration britannique.)"
     },
     {
       "type": "order",
-      "prompt": "Reliez par wie (Exercice B.9) : « Sie werden kommen; wir wissen es noch nicht. »",
+      "prompt": "Reliez les deux propositions par « wie » en supprimant « es » : Sie werden kommen; wir wissen es noch nicht. (Exercice B.9)",
       "words": [
         "Wir",
         "wissen",
@@ -95,8 +207,56 @@
         "werden."
       ],
       "answer": "Wir wissen noch nicht, wie sie kommen werden.",
-      "hint": "« wie » rejette l'auxiliaire conjugué « werden » en toute fin de phrase.",
-      "explanation": "Wir wissen noch nicht, wie sie kommen werden."
+      "hint": "Supprimez « es » et rejetez le verbe conjugué « werden » en fin de subordonnée après « wie ».",
+      "explanation": "Corrigé B.9 : Wir wissen noch nicht, wie sie kommen werden. (Nous ne savons pas encore comment ils viendront.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Reliez les deux propositions par « wie » en supprimant « es » : Die Kinder singen im Garten; wir hören es. (Exercice B.12)",
+      "words": [
+        "Wir",
+        "hören,",
+        "wie",
+        "die",
+        "Kinder",
+        "im",
+        "Garten",
+        "singen."
+      ],
+      "answer": "Wir hören, wie die Kinder im Garten singen.",
+      "hint": "Après « hören », l'allemand emploie volontiers « wie » avec le rejet du verbe conjugué à la fin.",
+      "explanation": "Corrigé B.12 : Wir hören, wie die Kinder im Garten singen. (Nous entendons les enfants chanter au jardin.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment relie-t-on « Es wurde kälter; man fühlte es. » par « wie » en supprimant « es » ? (Exercice B.10)",
+      "options": [
+        "Man fühlte, wie es kälter wurde.",
+        "Man fühlte, wie wurde es kälter.",
+        "Man fühlte es, wie es kälter wurde.",
+        "Man fühlte, wie es wurde kälter."
+      ],
+      "answer": "Man fühlte, wie es kälter wurde.",
+      "hint": "Supprimez « es » dans la principale et placez le verbe conjugué « wurde » en fin de subordonnée.",
+      "explanation": "Corrigé B.10 : Man fühlte, wie es kälter wurde. (On sentait qu'il faisait plus froid — mot à mot : comment il devenait plus froid.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez : « Heinz lui explique comment l'Allemagne a acheté cette île. » (Exercice C.15)",
+      "words": [
+        "Heinz",
+        "erklärt",
+        "ihm,",
+        "wie",
+        "Deutschland",
+        "diese",
+        "Insel",
+        "gekauft",
+        "hat."
+      ],
+      "answer": "Heinz erklärt ihm, wie Deutschland diese Insel gekauft hat.",
+      "hint": "« lui » (datif) = ihm ; « l'Allemagne » s'emploie sans article ; rejetez « hat » en fin de proposition après « wie ».",
+      "explanation": "Corrigé C.15 : Heinz erklärt ihm, wie Deutschland diese Insel gekauft hat."
     }
   ]
 }

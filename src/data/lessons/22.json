@@ -2,104 +2,230 @@
   "id": "22",
   "series": 1,
   "authentic": true,
-  "titleDe": "La subordonnée (weil) et les nombres ordinaux",
-  "titleFr": "Rejet du verbe conjugué et expression de la date",
-  "proverbDe": "Ordnung ist das halbe Leben.",
-  "proverbFr": "L'ordre est la moitié de la vie.",
+  "titleDe": "Das große Herbstfest",
+  "titleFr": "La grande fête d'automne",
+  "proverbDe": "Fremde Länder, fremde Sitten.",
+  "proverbFr": "Autres pays, autres mœurs (pays étrangers, mœurs étrangères).",
   "paragraphs": [
     {
-      "de": "Sie fahren in die Vorstadt, weil dort ein Fest stattfindet. Er freut sich, weil er den Pokal gewonnen hat.",
-      "fr": "Ils vont dans la banlieue parce qu'une fête y a lieu. Il se réjouit parce qu'il a remporté la coupe."
+      "de": "— Einen schönen Pokal haben Sie da, Herr Möll! — Ja, unser Verein hat ihn gewonnen. Die Kleingärtner geben jedes Jahr ein großes Herbstfest. Letztes Jahr fand das Fest am 25. (fünfundzwanzigsten) September statt. Unser Verein stellte seine schönsten Produkte aus: Erbsen, Bohnen, Kohl, Kartoffeln. So bekamen wir diesen Pokal.",
+      "fr": "— C'est une belle coupe que vous avez là, Monsieur Möll! — Oui, c'est notre société qui l'a gagnée. Les jardiniers amateurs donnent tous les ans (mot à mot : chaque année) une grande fête d'automne. L'année dernière, la fête eut lieu le 25 septembre. Notre société exposa ses plus beaux produits : des pois, des haricots, des choux, des pommes de terre. C'est ainsi que nous avons reçu (mot à mot : reçûmes) cette coupe."
     },
     {
-      "de": "Das Fest fand am 25. (fünfundzwanzigsten) September statt. Heute haben wir den zehnten Mai.",
-      "fr": "La fête eut lieu le 25 septembre. Nous sommes aujourd'hui le 10 mai."
+      "de": "— Es herrschte wohl eine frohe Stimmung? — Gewiß! Wir haben immer viele Besucher, weil wir Musik, Lieder und Tanz bieten. Die älteren Leute lieben die alten Lieder vom Rhein und vom Wein. Die Jüngeren haben ihre Freude an den modernen Tänzen.",
+      "fr": "— Il régnait sans doute une joyeuse ambiance? — Que oui! (mot à mot : certainement). Nous avons toujours beaucoup de visiteurs, parce que nous offrons de la musique, des chants et des danses. Les gens d'un certain âge (mot à mot : plus âgés) aiment les vieilles chansons sur le Rhin et sur le vin. Les plus jeunes trouvent leur plaisir aux danses modernes."
+    },
+    {
+      "de": "— Warum kommen immer viele Leute? — Weil sie bei uns eine frohe Stimmung finden. — Warum kommen die Älteren so gern? — Weil sie hier ihre alten Lieder hören. — Und warum kommen auch die Jüngeren? — Weil wir für sie auch eine moderne Kapelle haben.",
+      "fr": "— Pourquoi y a-t-il toujours beaucoup de monde? (m. à m. : Pourquoi beaucoup de gens viennent-ils toujours?) — Parce qu'ils trouvent chez nous une joyeuse ambiance. — Pourquoi les personnes d'un certain âge aiment-elles tant venir? (mot à mot : viennent-elles si volontiers?) — Parce qu'elles entendent ici leurs vieilles chansons. — Et pourquoi les plus jeunes viennent-ils aussi? — Parce que nous avons, pour eux, également un orchestre moderne."
     }
   ],
-  "pronunciation": "La subordonnée est toujours séparée de la principale par une virgule. Dans une particule séparable rejetée à la fin (stattfindet), la particule reste soudée au verbe.",
+  "pronunciation": "Repères phonétiques du texte : Herbstfest [hèrbçt-fèçt], Jahr [yar] (a long), Letztes [lètç-teç], September [zèptèm'ber], Verein [fèr-aén'] (accent sur la seconde syllabe), Erbsen [èrbçen'], Musik [mouzik] (accent sur -ik, i long), älteren [èlteren'], Jüngeren [yungeren'] (son ng nasal). Notez que dans les composés comme Herbstfest, le premier élément porte l'accent principal, tandis que Musik et September gardent un accent non initial propre aux mots d'origine étrangère.",
   "vocab": [
     {
-      "de": "weil",
-      "fr": "parce que (subordination)",
-      "info": "Rejet du verbe à la fin"
+      "de": "der Herbst",
+      "fr": "l'automne",
+      "info": "Masculin"
     },
     {
-      "de": "warum?",
-      "fr": "pourquoi ?",
-      "info": "Interrogatif"
+      "de": "der Kohl",
+      "fr": "le chou",
+      "info": "Masculin"
     },
     {
-      "de": "der erste / der dritte",
-      "fr": "le premier / le troisième",
-      "info": "Ordinaux irréguliers"
+      "de": "der Tanz (¨-e)",
+      "fr": "la danse",
+      "info": "Masculin"
     },
     {
-      "de": "der siebte / der achte",
-      "fr": "le septième / le huitième",
-      "info": "Ordinaux irréguliers"
+      "de": "die Bohne (n)",
+      "fr": "le haricot",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Erbse (n)",
+      "fr": "le petit pois",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kartoffel (n)",
+      "fr": "la pomme de terre",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Leute (plur.)",
+      "fr": "les gens",
+      "info": "Pluriel"
+    },
+    {
+      "de": "die Musik",
+      "fr": "la musique",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Fest (-e)",
+      "fr": "la fête",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Lied (er)",
+      "fr": "le chant",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Jahr (-e)",
+      "fr": "l'année",
+      "info": "Neutre"
+    },
+    {
+      "de": "ausstellen",
+      "fr": "exposer",
+      "info": "Verbe séparable (voir leçon 7, 3)"
+    },
+    {
+      "de": "lieben",
+      "fr": "aimer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "bieten (o, o)",
+      "fr": "offrir, présenter",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "gewinnen (a, o)",
+      "fr": "gagner",
+      "info": "Verbe fort"
     },
     {
       "de": "stattfinden (a, u)",
       "fr": "avoir lieu",
-      "info": "Particule séparable : statt"
+      "info": "Verbe séparable fort"
     }
   ],
   "grammar": [
     {
-      "title": "La proposition subordonnée introduite par weil",
-      "body": "Dans toute subordonnée (<em>weil, daß, ob, wenn...</em>), <strong>le verbe conjugué est rejeté tout à la fin</strong>. Si le verbe a une particule séparable, elle reste soudée (<em>weil dort ein Fest stattfindet</em>). Aux temps composés, l'auxiliaire prend la dernière place (<em>weil er gewonnen hat</em>)."
+      "title": "Weil sie hier ihre alten Lieder hören — La proposition subordonnée",
+      "body": "Dans une proposition subordonnée, introduite par exemple par <em>weil</em>, parce que, le verbe conjugué est rejeté à la fin.<br>Si le verbe de la subordonnée a une particule séparable, celle-ci reste soudée au verbe. Exemple :<br><em>Sie fahren in die Vorstadt, weil dort ein Fest stattfindet</em>, ils vont dans la banlieue parce qu'une fête y a lieu (<em>m. à m. : parce que là-bas une fête a lieu</em>).<br>Quand le verbe de la subordonnée est à un temps composé (futur, passé composé, plus-que-parfait), c'est l'auxiliaire qui prend la dernière place. Exemple :<br><em>Er freut sich, weil er den Pokal gewonnen hat</em>, il se réjouit parce qu'il a remporté la coupe.<br>La subordonnée est toujours séparée de la principale par une virgule. <em>Weil</em>, parce que, répond à la question <em>warum?</em>, pourquoi?"
     },
     {
-      "title": "Les nombres ordinaux et la date",
-      "body": "De 2 à 19 : nombre + <strong>-te</strong> (<em>der zweite</em>) ; à partir de 20 : nombre + <strong>-ste</strong> (<em>der zwanzigste</em>). Irréguliers : <em>erste, dritte, siebte, achte</em>. Date : <em>am 25. September</em> (datif) ou <em>Heute haben wir den 10. Mai</em> (accusatif)."
+      "title": "La numération — Le nombre ordinal",
+      "body": "Pour former les nombres ordinaux, on ajoute au nombre simple la terminaison <strong>-te</strong> jusqu'à 19, et <strong>-ste</strong> à partir de 20. Exemple :<br>2. <em>der zweite</em>, le deuxième. 4. <em>der vierte</em>, le quatrième. 19. <em>der neunzehnte</em>, le dix-neuvième. 20. <em>der zwanzigste</em>, le vingtième. 35. <em>der fünfunddreißigste</em>, le trente-cinquième.<br><strong>Sont irréguliers :</strong><br>1. <em>der erste</em>, le premier (contraire : <em>der letzte</em>, le dernier).<br>3. <em>der dritte</em>, le troisième ; <em>der siebte</em> (le 7e) ; <em>der achte</em> (le 8e)."
+    },
+    {
+      "title": "Das Fest fand am 25. (fünfundzwanzigsten) September statt — La date",
+      "body": "Pour indiquer la date, l'allemand emploie le nombre ordinal (le « 25e » septembre, et non le 25), précédé de <em>am</em>, contraction de <em>an dem</em>.<br>Pour préciser le jour du mois, on emploie <em>haben</em> (+ accusatif) :<br><em>Heute haben wir den zehnten Mai.</em> Nous sommes aujourd'hui le 10 mai.<br><strong>Remarque :</strong> Le nombre ordinal est souvent indiqué par un point. Exemple : <em>der 5. (= der fünfte)</em>. Il se décline comme l'adjectif épithète (voir leçon 21)."
     }
   ],
   "exercises": [
     {
+      "type": "choice",
+      "prompt": "(Exercice A.3) Reliez les deux propositions par « weil » : « Sie freuen sich; sie werden bald auf ein Fest gehen. »",
+      "options": [
+        "Sie freuen sich, weil sie bald auf ein Fest gehen werden.",
+        "Sie freuen sich, weil sie werden bald auf ein Fest gehen.",
+        "Sie freuen sich, weil werden sie bald auf ein Fest gehen.",
+        "Sie freuen sich weil sie bald auf ein Fest gehen werden."
+      ],
+      "answer": "Sie freuen sich, weil sie bald auf ein Fest gehen werden.",
+      "hint": "Dans une subordonnée au futur, l'auxiliaire conjugué (werden) passe tout à la fin après l'infinitif, et une virgule sépare la principale de la subordonnée.",
+      "explanation": "Corrigé A.3 : « Sie freuen sich, weil sie bald auf ein Fest gehen werden. » (Ils se réjouissent parce qu'ils iront bientôt à une fête.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.4) Reliez les deux propositions par « weil » : « Er fuhr nach München; seine Firma stellte dort Maschinen aus. »",
+      "options": [
+        "Er fuhr nach München, weil seine Firma dort Maschinen ausstellte.",
+        "Er fuhr nach München, weil seine Firma stellte dort Maschinen aus.",
+        "Er fuhr nach München, weil seine Firma dort Maschinen stellte aus.",
+        "Er fuhr nach München, weil ausstellte seine Firma dort Maschinen."
+      ],
+      "answer": "Er fuhr nach München, weil seine Firma dort Maschinen ausstellte.",
+      "hint": "Dans une subordonnée, la particule séparable (aus-) reste soudée au verbe rejeté à la fin.",
+      "explanation": "Corrigé A.4 : « Er fuhr nach München, weil seine Firma dort Maschinen ausstellte. » (Il se rendit à Munich parce que sa maison y exposait des machines.)"
+    },
+    {
       "type": "order",
-      "prompt": "Reliez par weil (Exercice A.1) : « Er mag diese Tänze nicht; er ist schon ziemlich alt. »",
+      "prompt": "(Exercice B.5) Posez la question avec « Warum » correspondant à : « Diese Fabrik erzeugt billige Artikel, weil sie moderne Maschinen hat. »",
       "words": [
-        "Er",
-        "mag",
+        "Warum",
+        "erzeugt",
         "diese",
-        "Tänze",
-        "nicht,",
+        "Fabrik",
+        "billige",
+        "Artikel?"
+      ],
+      "answer": "Warum erzeugt diese Fabrik billige Artikel?",
+      "hint": "Après le mot interrogatif Warum, le verbe conjugué occupe la deuxième position, suivi du sujet.",
+      "explanation": "Corrigé B.5 : « Warum erzeugt diese Fabrik billige Artikel? » (Pourquoi cette usine produit-elle des articles bon marché ?)"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.7) Traduisez en allemand : « Les gens sont si gais parce que l'orchestre joue très bien. »",
+      "words": [
+        "Die",
+        "Leute",
+        "sind",
+        "so",
+        "froh,",
         "weil",
-        "er",
-        "schon",
-        "ziemlich",
-        "alt",
-        "ist."
+        "die",
+        "Kapelle",
+        "sehr",
+        "gut",
+        "spielt."
       ],
-      "answer": "Er mag diese Tänze nicht, weil er schon ziemlich alt ist.",
-      "hint": "N'oubliez pas la virgule avant weil et le rejet de « ist » à la fin !",
-      "explanation": "Er mag diese Tänze nicht, weil er schon ziemlich alt ist."
+      "answer": "Die Leute sind so froh, weil die Kapelle sehr gut spielt.",
+      "hint": "N'oubliez pas la virgule avant weil et le rejet du verbe spielt à la fin de la subordonnée.",
+      "explanation": "Corrigé C.7 : « Die Leute sind so froh, weil die Kapelle sehr gut spielt. »"
     },
     {
       "type": "choice",
-      "prompt": "Traduisez (Exercice C.9) : « Viendrez-vous le quinze mai ? »",
+      "prompt": "(Exercice C.8) Traduisez : « Ils aiment bien ces chansons parce que leurs pères les ont déjà chantées. »",
       "options": [
-        "Werden Sie am fünfzehnten Mai kommen?",
-        "Werden Sie am fünfzehn Mai kommen?",
-        "Werden Sie am fünfzehnte Mai kommen?",
-        "Werden Sie am fünfzehnsten Mai kommen?"
+        "Sie haben diese Lieder gern, weil ihre Väter sie schon gesungen haben.",
+        "Sie haben diese Lieder gern, weil ihre Väter haben sie schon gesungen.",
+        "Sie haben diese Lieder gern, weil ihre Väter sie schon haben gesungen.",
+        "Sie haben diese Lieder gern, weil ihre Väter sie schon gesungen sind."
       ],
-      "answer": "Werden Sie am fünfzehnten Mai kommen?",
-      "hint": "Jusqu'à 19, l'ordinal se forme en -te, et après « am » (datif) il prend -ten.",
-      "explanation": "am fünfzehnten Mai."
+      "answer": "Sie haben diese Lieder gern, weil ihre Väter sie schon gesungen haben.",
+      "hint": "singen (a, u) est transitif (auxiliaire haben) ; au passé composé dans une subordonnée, l'auxiliaire se place tout à la fin.",
+      "explanation": "Corrigé C.8 : « Sie haben diese Lieder gern, weil ihre Väter sie schon gesungen haben. »"
     },
     {
-      "type": "choice",
-      "prompt": "Quels sont les quatre nombres ordinaux irréguliers en allemand ?",
-      "options": [
-        "erste, dritte, siebte, achte",
-        "zweite, vierte, sechste, zehnte",
-        "erste, zweite, dritte, vierte",
-        "siebte, achte, neunte, zwölfte"
+      "type": "fill",
+      "prompt": "(Exercice C.9) Complétez la date en toutes lettres : « Werden Sie am ___ Mai kommen? » (le quinze mai)",
+      "answer": "fünfzehnten",
+      "hint": "Jusqu'à 19, l'ordinal se forme en -te, et au datif après am (= an dem) il prend la terminaison faible -en.",
+      "explanation": "Corrigé C.9 : « Werden Sie am fünfzehnten Mai kommen? » (Viendrez-vous le quinze mai ?). L'ordinal fünfzehnte se décline en -en après am."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice C.10) Complétez le verbe final : « Diese Blumen sind sehr schön, weil wir Regen und Sonne gehabt ___. »",
+      "answer": "haben",
+      "hint": "C'est le passé composé de haben à la 1re personne du pluriel (wir), rejeté à la fin après weil.",
+      "explanation": "Corrigé C.10 : « Diese Blumen sind sehr schön, weil wir Regen und Sonne gehabt haben. » (Ces fleurs sont très belles parce que nous avons eu de la pluie et du soleil.)"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.11) Traduisez en allemand : « Les garçons se moquent de leur sœur parce qu'elle préfère les roses. »",
+      "words": [
+        "Die",
+        "Jungen",
+        "lachen",
+        "über",
+        "ihre",
+        "Schwester,",
+        "weil",
+        "sie",
+        "die",
+        "Rosen",
+        "lieber",
+        "hat."
       ],
-      "answer": "erste, dritte, siebte, achte",
-      "hint": "1er, 3e, 7e, 8e présentent une modification orthographique.",
-      "explanation": "der erste, der dritte, der siebte, der achte."
+      "answer": "Die Jungen lachen über ihre Schwester, weil sie die Rosen lieber hat.",
+      "hint": "lachen über + accusatif (se moquer de) ; lieber haben (préférer), avec hat rejeté à la fin de la subordonnée.",
+      "explanation": "Corrigé C.11 : « Die Jungen lachen über ihre Schwester, weil sie die Rosen lieber hat. »"
     }
   ]
 }

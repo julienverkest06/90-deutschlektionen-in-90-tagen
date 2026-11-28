@@ -4,25 +4,25 @@
   "authentic": true,
   "isReview": true,
   "titleDe": "Contrôle et révisions (Leçons 21 à 30)",
-  "titleFr": "Subordonnées (weil/denn/ob/daß/wenn) et déclinaisons de l'adjectif",
-  "proverbDe": "Ende gut, alles gut.",
-  "proverbFr": "Tout est bien qui finit bien.",
+  "titleFr": "Révision : weil et denn, déclinaison de l'adjectif, subordonnées (ob, daß, wenn)",
+  "proverbDe": "Ohne Fleiß kein Preis.",
+  "proverbFr": "Nul bien sans peine (On n'a rien sans mal).",
   "paragraphs": [
     {
-      "de": "Diebe drangen in die Wohnung ein, weil die Tür offen stand. (Oder: Diebe drangen in die Wohnung ein, denn die Tür stand offen.)",
-      "fr": "Des voleurs pénétrèrent dans l'appartement parce que la porte était ouverte."
+      "de": "Wir vermieten Ihnen das Zimmer so billig, weil auf demselben Stock eine kinderreiche Familie wohnt, die ziemlich laut ist. — Das macht nichts aus. Ich bin schwerhörig. — Ach so! Dann kostet das Zimmer zwei Mark mehr.",
+      "fr": "— Nous vous louons la chambre si bon marché parce qu'au même étage habite une famille nombreuse qui est assez bruyante. — Ça ne fait rien. Je suis dur d'oreille. — Ah! dans ce cas, la chambre coûte deux marks de plus."
     },
     {
-      "de": "In einer großen Stadt ist der Verkehr ein fast unlösbares Problem.",
-      "fr": "Dans une grande ville, la circulation pose un problème presque insoluble."
+      "de": "— Meine Frau ist eine große Tierfreundin, aber dadurch wird das Leben zu Hause oft ungemütlich. Sie ist ganz verrückt auf Goldfische, Kanarienvögel, Hunde und Katzen. Ihre nicht? — Es ist nicht ganz dasselbe. Sie hat lieber Nerz, Biber und Hermelin.",
+      "fr": "— Ma femme est une grande amie des bêtes, mais de ce fait la vie à la maison est (devient) souvent peu confortable. Elle raffole de poissons rouges, canaris, chiens et chats. La vôtre non? — Ce n'est pas tout à fait pareil. Elle préfère le vison, le castor, l'hermine."
     }
   ],
-  "pronunciation": "Rappel essentiel : « weil » est une conjonction de subordination (verbe à la fin), alors que « denn » (car) est une conjonction de coordination (ordre normal des mots).",
+  "pronunciation": "Attention à l'accentuation et aux consonnes dans les mots composés de cette révision : Freigepäck (accent sur Frei-, g dur), unlösbar (accent sur un-, ö long), schwerhörig (composé schwer + hörig, finale -ig prononcée [-ich]), ungemütlich (ü long, -ch palatal), Kanarienvögel (Ka-na-rien-vö-gel, v prononcé [f]).",
   "vocab": [
     {
-      "de": "denn",
-      "fr": "car (coordination)",
-      "info": "Pas de rejet du verbe"
+      "de": "der Dieb (-e)",
+      "fr": "le voleur",
+      "info": "Masculin"
     },
     {
       "de": "das Freigepäck",
@@ -30,52 +30,117 @@
       "info": "Neutre"
     },
     {
-      "de": "der Verkehr",
-      "fr": "la circulation",
-      "info": "Masculin"
+      "de": "die Dankbarkeit",
+      "fr": "la reconnaissance",
+      "info": "Féminin"
     },
     {
-      "de": "höflich",
-      "fr": "poli, courtois",
+      "de": "unlösbar",
+      "fr": "insoluble",
       "info": "Adjectif"
+    },
+    {
+      "de": "kinderreich",
+      "fr": "nombreux (famille nombreuse)",
+      "info": "Adjectif"
+    },
+    {
+      "de": "schwerhörig",
+      "fr": "dur d'oreille",
+      "info": "Adjectif"
+    },
+    {
+      "de": "die Tierfreundin (-nen)",
+      "fr": "l'amie des bêtes",
+      "info": "Féminin"
+    },
+    {
+      "de": "ungemütlich",
+      "fr": "peu confortable, désagréable",
+      "info": "Adjectif"
+    },
+    {
+      "de": "verrückt auf (+ acc.)",
+      "fr": "fou de, raffoler de",
+      "info": "Expression"
+    },
+    {
+      "de": "der Nerz (-e)",
+      "fr": "le vison",
+      "info": "Masculin"
     }
   ],
   "grammar": [
     {
-      "title": "Différence de construction : weil vs denn",
-      "body": "<em>Wir gehen zu Bett, <strong>weil</strong> die Sendung nicht interessant <strong>ist</strong>.</em> (rejet)<br><em>Wir gehen zu Bett, <strong>denn</strong> die Sendung <strong>ist</strong> nicht interessant.</em> (pas de rejet)."
+      "title": "Exercice A — Construction après weil et denn (Leçons 11 et 22)",
+      "body": "• <strong>weil</strong> (parce que) est une conjonction de subordination : elle rejette le verbe conjugué à la fin de la proposition.<br><em>Diebe drangen in die Wohnung ein, weil die Tür offen stand.</em><br><em>Er verkauft seinen Wagen, weil er einen neuen will.</em><br>• <strong>denn</strong> (car) est une conjonction de coordination : elle ne modifie pas l'ordre normal des mots (le verbe conjugué reste en deuxième position).<br><em>Diebe drangen in die Wohnung ein, denn die Tür stand offen.</em><br><em>Er verkauft seinen Wagen, denn er will einen neuen.</em>"
+    },
+    {
+      "title": "Exercice B — Déclinaison de l'adjectif épithète (Leçon 26,4 ; Mémento nos 24, 25, 26)",
+      "body": "• <strong>Après un déterminant défini</strong> (<em>der, dieser...</em>) — déclinaison faible : terminaisons <em>-e</em> (nom. sing., acc. fém./neutre) ou <em>-en</em> partout ailleurs.<br><em>Dieser nervöse Autofahrer sucht den richtigen Weg.</em><br><em>... an den höflichen Fremden.</em><br>• <strong>Après un article indéfini</strong> (<em>ein, eine...</em>) — déclinaison mixte : l'adjectif porte la marque du genre là où <em>ein</em> ne la porte pas, sinon <em>-en</em>.<br><em>In einer großen Stadt ist der Verkehr ein fast unlösbares Problem.</em><br>• <strong>Sans article</strong> — déclinaison forte : l'adjectif porte la marque de l'article défini.<br><em>Mit großer Dankbarkeit...</em> (datif féminin : <em>-er</em>)."
+    },
+    {
+      "title": "Exercice C — Propositions subordonnées avec ob, daß et wenn (Leçon 30,4 ; Mémento nos 61, 62)",
+      "body": "Les conjonctions de subordination <strong>ob</strong> (si interrogatif), <strong>daß</strong> (que) et <strong>wenn</strong> (si conditionnel / quand) rejettent toutes le verbe conjugué en fin de subordonnée :<br>• <em>Sagen Sie mir, ob warme Menüs vorgesehen sind.</em> (Dites-moi si l'on a prévu des repas chauds.)<br>• <em>Georg glaubt, daß dieser Wagentyp die Reise angenehmer macht.</em> (Georg croit que ce type de wagon rend le voyage plus agréable.)<br>• Quand la subordonnée précède la principale, celle-ci commence immédiatement par le verbe conjugué (inversion) :<br><em>Wenn der Gast ein kaltes Gericht will, kann er in seinem Abteil bleiben.</em>"
     }
   ],
   "exercises": [
     {
-      "type": "choice",
-      "prompt": "Complétez avec denn (Exercice A.2b) : « Wir gehen zu Bett, denn die Sendung ___ nicht interessant. »",
-      "options": [
-        "ist",
-        "sein",
-        "sind",
-        "war"
+      "type": "order",
+      "prompt": "Reliez les deux propositions avec « weil » (Exercice A.1) : Diebe drangen in die Wohnung ein; die Tür stand offen.",
+      "words": [
+        "Diebe",
+        "drangen",
+        "in",
+        "die",
+        "Wohnung",
+        "ein,",
+        "weil",
+        "die",
+        "Tür",
+        "offen",
+        "stand."
       ],
-      "answer": "ist",
-      "hint": "Après « denn », le verbe reste à sa place normale (2e position après le sujet).",
-      "explanation": "denn die Sendung ist nicht interessant."
+      "answer": "Diebe drangen in die Wohnung ein, weil die Tür offen stand.",
+      "hint": "« weil » est une conjonction de subordination qui rejette le verbe conjugué « stand » tout à la fin.",
+      "explanation": "Corrigé A.1 : « Diebe drangen in die Wohnung ein, weil die Tür offen stand. » (Avec « denn », l'ordre reste inchangé : « ..., denn die Tür stand offen. »)"
     },
     {
       "type": "choice",
-      "prompt": "Déclinaison de l'adjectif (Exercice B.5) : « In einer ___ Stadt ist der Verkehr ein fast ___ Problem. »",
+      "prompt": "Choisissez la phrase correcte avec « weil » pour : Er verkauft seinen Wagen; er will einen neuen. (Exercice A.3)",
       "options": [
-        "großen / unlösbares",
-        "große / unlösbare",
-        "großer / unlösbares",
-        "großen / unlösbaren"
+        "Er verkauft seinen Wagen, weil er einen neuen will.",
+        "Er verkauft seinen Wagen, weil er will einen neuen.",
+        "Er verkauft seinen Wagen, denn er einen neuen will.",
+        "Er verkauft seinen Wagen, weil will er einen neuen."
       ],
-      "answer": "großen / unlösbares",
-      "hint": "einer großen Stadt (datif fém. mixte) ; ein unlösbares Problem (nom. neutre mixte).",
-      "explanation": "In einer großen Stadt ... ein fast unlösbares Problem."
+      "answer": "Er verkauft seinen Wagen, weil er einen neuen will.",
+      "hint": "Après « weil », le verbe de modalité « will » est rejeté en fin de proposition, contrairement à « denn ».",
+      "explanation": "Corrigé A.3 : « Er verkauft seinen Wagen, weil er einen neuen will. » (Avec « denn » : « Er verkauft seinen Wagen, denn er will einen neuen. »)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez l'adjectif manquant (Exercice B.5) : In einer ... Stadt ist der Verkehr ein fast unlösbares Problem.",
+      "answer": "großen",
+      "hint": "Datif féminin singulier après l'article indéfini « einer » : terminaison -en.",
+      "explanation": "Corrigé B.5 : « In einer großen Stadt ist der Verkehr ein fast unlösbares Problem. » (Dans une grande ville, la circulation pose un problème presque insoluble.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Choisissez les terminaisons d'adjectifs correctes (Exercice B.7) : Mit ... Dankbarkeit denke ich an den ... Fremden.",
+      "options": [
+        "großer — höflichen",
+        "großen — höflicher",
+        "große — höflichen",
+        "großer — höfliche"
+      ],
+      "answer": "großer — höflichen",
+      "hint": "Sans article au datif féminin, « groß » prend la marque forte (-er) ; après « den » (accusatif masculin), « höflich » prend la marque faible (-en).",
+      "explanation": "Corrigé B.7 : « Mit großer Dankbarkeit denke ich an den höflichen Fremden. » (C'est avec une grande reconnaissance que je pense à l'étranger courtois.)"
     },
     {
       "type": "order",
-      "prompt": "Reliez avec ob (Exercice C.8) : « Sind warme Menüs vorgesehen? Sagen Sie es mir. »",
+      "prompt": "Reliez les propositions à l'aide de « ob » (Exercice C.8) : Sind warme Menüs vorgesehen? sagen Sie es mir.",
       "words": [
         "Sagen",
         "Sie",
@@ -87,8 +152,35 @@
         "sind."
       ],
       "answer": "Sagen Sie mir, ob warme Menüs vorgesehen sind.",
-      "hint": "Rejetez « sind » en fin de subordonnée.",
-      "explanation": "Sagen Sie mir, ob warme Menüs vorgesehen sind."
+      "hint": "Dans la subordonnée interrogative en « ob », le verbe conjugué « sind » est rejeté à la fin.",
+      "explanation": "Corrigé C.8 : « Sagen Sie mir, ob warme Menüs vorgesehen sind. » (Dites-moi si l'on a prévu des repas chauds.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Reliez avec la conjonction « daß » (orthographe 1970) (Exercice C.9) : Dieser Wagentyp macht die Reise angenehmer, Georg glaubt es. → Georg glaubt, ...",
+      "answer": "daß dieser Wagentyp die Reise angenehmer macht.",
+      "hint": "« daß » rejette le verbe conjugué « macht » à la fin de la subordonnée.",
+      "explanation": "Corrigé C.9 : « Georg glaubt, daß dieser Wagentyp die Reise angenehmer macht. » (Georg croit que ce type de wagon rend le voyage plus agréable.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Reliez les propositions en commençant par « wenn » (Exercice C.10) : Der Gast will ein kaltes Gericht; er kann in seinem Abteil bleiben.",
+      "options": [
+        "Wenn der Gast ein kaltes Gericht will, kann er in seinem Abteil bleiben.",
+        "Wenn der Gast will ein kaltes Gericht, kann er in seinem Abteil bleiben.",
+        "Wenn der Gast ein kaltes Gericht will, er kann in seinem Abteil bleiben.",
+        "Ob der Gast ein kaltes Gericht will, kann er in seinem Abteil bleiben."
+      ],
+      "answer": "Wenn der Gast ein kaltes Gericht will, kann er in seinem Abteil bleiben.",
+      "hint": "« wenn » rejette « will » à la fin de la subordonnée, et la principale qui suit commence directement par le verbe conjugué « kann » (inversion).",
+      "explanation": "Corrigé C.10 : « Wenn der Gast ein kaltes Gericht will, kann er in seinem Abteil bleiben. » (Si le client veut un plat froid, il peut rester dans son compartiment.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Traduisez l'adjectif « dur d'oreille » tiré du dialogue de l'Exercice D : Das macht nichts aus. Ich bin ...",
+      "answer": "schwerhörig",
+      "hint": "Mot composé de « schwer » (difficile) et « hörig » (de « hören », entendre).",
+      "explanation": "Corrigé D : « Das macht nichts aus. Ich bin schwerhörig. » (Ça ne fait rien. Je suis dur d'oreille.)"
     }
   ]
 }

@@ -2,41 +2,150 @@
   "id": "43",
   "series": 2,
   "authentic": true,
-  "titleDe": "Für den französischen Autofahrer in der Bundesrepublik",
-  "titleFr": "Le code de la route en Allemagne et l'orthographe de ß / ss",
-  "proverbDe": "Eile mit Weile.",
-  "proverbFr": "Hâte-toi lentement.",
+  "titleDe": "Der Stadtverkehr",
+  "titleFr": "Circulation en ville",
+  "proverbDe": "Vorsicht ist die Mutter der Weisheit.",
+  "proverbFr": "Prudence est mère de (sagesse =) sûreté.",
   "paragraphs": [
     {
-      "de": "Auf der Autobahn darf man nur auf den markierten Parkplätzen anhalten. Nur wer eine Panne hat, darf am Straßenrand parken.",
-      "fr": "Sur l'autoroute, on ne doit s'arrêter qu'aux endroits de stationnement indiqués. En cas de panne seulement, on a le droit de stationner sur le bas-côté."
+      "de": "Die Landstraßen führen in die Stadt hinein und bilden breite Straßen, die man auch Boulevards oder Alleen nennt. An den Kreuzungen mehrerer Straßen sind Plätze. In die Hauptstraßen münden engere Straßen oder Gassen ein. In den alten Vierteln gibt es oft Sackgassen.",
+      "fr": "Les routes pénètrent en ville en formant de larges rues que l'on appelle aussi boulevards ou avenues. Aux croisements de plusieurs rues il y a des places. Sur les rues principales débouchent des rues plus étroites ou des ruelles. Dans les vieux quartiers il y a souvent des impasses."
     },
     {
-      "de": "Ein gelbes Nummernschild oder ein auf der Spitze stehendes Quadrat kennzeichnen eine Hauptstraße. Aber an einer Kreuzung mit einer anderen Hauptstraße geht die Vorfahrt verloren: hier hat Vorfahrtsrecht, wer von rechts kommt.",
-      "fr": "Un numéro sur plaque jaune ou un carré posé sur l'angle indiquent une route à grande circulation. Mais au croisement avec une autre route à grande circulation, la priorité est supprimée : ici, la priorité est à celui qui vient de droite."
+      "de": "Auf manchen Straßen können Fahrzeuge in beiden Fahrtrichtungen verkehren. Andere Straßen dagegen sind Einbahnstraßen. Breite Brücken führen über den Fluß. Um Verkehrstockungen an gewissen Kreuzungen zu vermeiden, muß ein Teil der Fahrzeuge durch einen Tunnel fahren.",
+      "fr": "Dans certaines voies, les véhicules peuvent circuler dans les deux sens. Par contre, d'autres rues sont à sens unique. De larges ponts franchissent la rivière. Pour éviter les encombrements à certains carrefours, une partie des voitures doivent passer par un tunnel."
+    },
+    {
+      "de": "Die Fußgänger gehen auf dem Bürgersteig. Um über die Straße zu gehen, benützen sie die Fußgängerstreifen, (oder : die Zebrastreifen). Der Verkehr wird durch Verkehrsampeln geregelt : grün, gelb, rot. An den gefährlichen Kreuzungen stehen Verkehrspolizisten.",
+      "fr": "Les piétons marchent sur le trottoir. Pour traverser la rue, ils empruntent les passages cloutés. La circulation est réglée par des feux : vert, orange, rouge. Aux carrefours dangereux, il y a des agents."
+    },
+    {
+      "de": "Will man von einem bestimmten Punkt aus zu einem anderen fahren, so kann man die öffentlichen Verkehrsmittel benützen : den Autobus, die Straßenbahn, den Obus, die U-Bahn. Wer es eilig hat, nimmt eine Taxe (eine Droschke). Die Taxen befinden sich besonders auf den Parkplätzen.",
+      "fr": "Si l'on veut aller d'un point à l'autre, on peut utiliser les transports en commun : l'autobus, le tramway, le trolleybus, le métro. Celui qui est pressé, prend un taxi. Les taxis se trouvent particulièrement aux lieux de stationnement."
+    },
+    {
+      "de": "Lecture — Für den französischen Autofahrer in der Bundesrepublik : Die Verkehrszeichen entsprechen im allgemeinen der internationalen Verkehrsordnung. Auf der Autobahn darf man nur auf den markierten Parkplätzen anhalten. Nur wer eine Panne hat, darf am Straßenrand parken.",
+      "fr": "Lecture — A l'intention de l'automobiliste français en Allemagne Fédérale : La signalisation routière est en général conforme au code international. Sur l'autoroute, on ne doit s'arrêter qu'aux endroits de stationnement indiqués. En cas de panne seulement, (m. à m. : celui qui a une panne) on a le droit de stationner sur le bas-côté."
+    },
+    {
+      "de": "Ein gelbes Nummernschild oder ein auf der Spitze stehendes Quadrat kennzeichnen eine Hauptstraße. Auf diesen Straßen hat man Vorfahrt. Aber an einer Kreuzung mit einer anderen Hauptstraße geht die Vorfahrt verloren : hier hat Vorfahrtsrecht, wer von rechts kommt.",
+      "fr": "Un numéro sur plaque jaune, ou bien un carré posé sur l'angle indiquent une route à grande circulation. Sur ces voies, on a la priorité. Mais au croisement avec une autre route à grande circulation, la priorité est supprimée; dans ce cas, la priorité est à celui qui vient de droite."
+    },
+    {
+      "de": "Der Kreisverkehr wird durch drei weiße Pfeile auf blauem Grund angezeigt. Die Vorfahrt gehört hier demjenigen, der sich schon im Kreisverkehr befindet.",
+      "fr": "Le sens giratoire est indiqué par trois flèches blanches sur fond bleu. La priorité appartient à celui qui est déjà engagé dans le sens giratoire."
+    },
+    {
+      "de": "In einer Steigung wird manchmal die äußerste rechte Fahrbahn « Kriechspur » genannt. Langsame Fahrzeuge oder schwere Wohnwagen müssen diese Fahrbahn obligatorisch benutzen.",
+      "fr": "Dans une côte, on appelle parfois la bande à l'extrême droite « voie pour véhicules lents » (m. à m. : piste pour ramper). Les véhicules lents ou les caravanes lourdes doivent obligatoirement utiliser cette piste."
     }
   ],
-  "pronunciation": "Règle traditionnelle d'Alphonse Jenny sur « ß » (s-z) : on écrit « ss » entre deux voyelles dont la première est brève (gewisse, die Flüsse), et « ß » après une voyelle longue (die Straße, die Grüße) ou en fin de mot/syllabe (der Fluß, er läßt).",
+  "pronunciation": "Notes phonétiques du livre (p. 188) : 1. Stadtverkehr [chtat-fèrkér] ; Alleen [alé-en'] (é long) ; Kreuzungen [kroeutçoungen']. 2. Bürgersteig [burger-chtaék]. 3. Obus [o-bouç] (o long) ; U-Bahn [ou-ban] (ou long).",
   "vocab": [
     {
-      "de": "die Autobahn (-en)",
-      "fr": "l'autoroute",
+      "de": "der Bürgersteig (-e)",
+      "fr": "le trottoir",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Fluß (¨-sse)",
+      "fr": "la rivière",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Fußgänger (-)",
+      "fr": "le piéton",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Mund (-e)",
+      "fr": "la bouche",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Obus (se)",
+      "fr": "le trolley",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Polizist (-en)",
+      "fr": "l'agent",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Punkt (-e)",
+      "fr": "le point",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Streifen (-)",
+      "fr": "la bande, la raie",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Droschke (n)",
+      "fr": "le fiacre, le taxi",
       "info": "Féminin"
     },
     {
-      "de": "die Hauptstraße (-n)",
-      "fr": "la route prioritaire",
+      "de": "die Gasse (n)",
+      "fr": "la ruelle",
       "info": "Féminin"
     },
     {
-      "de": "das Vorfahrtsrecht",
-      "fr": "la priorité (routière)",
+      "de": "die Landstraße (n)",
+      "fr": "la grand'route",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Sackgasse (n)",
+      "fr": "l'impasse",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Stockung (-en)",
+      "fr": "l'embouteillage",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Taxe (n)",
+      "fr": "le taxi ; la taxe",
+      "info": "Féminin"
+    },
+    {
+      "de": "die U-Bahn (en)",
+      "fr": "le chemin de fer souterrain",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Viertel (-)",
+      "fr": "le quartier",
       "info": "Neutre"
     },
     {
-      "de": "der Kreisverkehr",
-      "fr": "le sens giratoire, rond-point",
+      "de": "der Tunnel (-)",
+      "fr": "le tunnel",
       "info": "Masculin"
+    },
+    {
+      "de": "die Allee (n)",
+      "fr": "l'allée",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Ampel (n)",
+      "fr": "la lampe",
+      "info": "Féminin"
+    },
+    {
+      "de": "(ein)münden",
+      "fr": "déboucher, se jeter dans",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "regeln",
+      "fr": "régler",
+      "info": "Verbe faible"
     },
     {
       "de": "vermeiden (ie, ie)",
@@ -46,36 +155,107 @@
   ],
   "grammar": [
     {
-      "title": "Prépositions renforcées par une postposition",
-      "body": "<em>Von Montag <strong>ab</strong></em> (à partir de lundi) • <em>Von Kindheit <strong>an</strong></em> (dès l'enfance) • <em>Von Köln <strong>aus</strong></em> (au départ de Cologne) • <em>Auf den Berg <strong>zu</strong></em> (en direction de la montagne)."
+      "title": "Von einem bestimmten Punkt aus.",
+      "body": "Quelques prépositions sont précisées par l'emploi d'une particule placée après le complément. Exemples :<br><em>Von Montag ab</em>, à partir de lundi.<br><em>Von Kindheit an</em>, dès l'enfance.<br><em>Von Köln aus</em>, au départ de Cologne.<br><em>Auf den Berg zu</em>, en direction de la montagne."
+    },
+    {
+      "title": "Die Straße, die Straßen — der Fluß, die Flüsse.",
+      "body": "L's dur [ç] ne s'écrit « ss » qu'entre deux voyelles, si la première de celles-ci est brève : <em>gewisse</em>, <em>die Gasse</em>. A la fin d'un mot ou d'une syllabe, on écrit toujours <strong>ß</strong> : <em>der Fluß</em> — <em>er läßt</em> — <em>das Eßzimmer</em>. Entre deux voyelles dont la première est longue, on écrit <strong>ß</strong> : <em>die Grüße</em>, les salutations — <em>heißen</em>, s'appeler — <em>die Maße</em>, les mesures. (La lettre <strong>ß</strong> s'appelle « s-z ».)"
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Traduisez (Exercice A.1) : « Von jetzt ab vermeiden wir diese Kreuzung. »",
+      "prompt": "Traduisez en français (Exercice A.1) : « Von jetzt ab vermeiden wir diese Kreuzung. »",
       "options": [
         "À partir de maintenant nous éviterons ce carrefour.",
-        "Jusqu'à maintenant nous évitions ce carrefour.",
-        "Au départ de ce carrefour nous allons tout droit.",
-        "Sur ce carrefour nous avons la priorité."
+        "Depuis ce carrefour nous irons tout droit.",
+        "En direction de ce carrefour nous attendrons ici.",
+        "Jusqu'à maintenant nous avons évité ce carrefour."
       ],
       "answer": "À partir de maintenant nous éviterons ce carrefour.",
-      "hint": "von jetzt ab = à partir de maintenant ; die Kreuzung = le carrefour.",
-      "explanation": "À partir de maintenant nous éviterons ce carrefour."
+      "hint": "« Von ... ab » signifie « à partir de », et « vermeiden » veut dire « éviter ».",
+      "explanation": "Corrigé A.1 : « A partir de maintenant nous éviterons ce carrefour. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez la phrase allemande correspondant à : « Depuis ce pont, ce n'est plus loin. » (Exercice A.2)",
+      "words": [
+        "Von",
+        "dieser",
+        "Brücke",
+        "aus",
+        "ist",
+        "es",
+        "nicht",
+        "mehr",
+        "weit."
+      ],
+      "answer": "Von dieser Brücke aus ist es nicht mehr weit.",
+      "hint": "La préposition « von » est précisée par la particule « aus » placée après le complément « dieser Brücke ».",
+      "explanation": "Corrigé A.2 : « Von dieser Brücke aus ist es nicht mehr weit. » (Depuis ce pont, ce n'est plus loin.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez avec la particule postposée qui précise « auf » (Exercice A.3) : « Fahren Sie immer geradeaus auf diesen Kirchturm ___! » (Allez toujours tout droit en direction de ce clocher.)",
+      "answer": "zu",
+      "hint": "Comparez avec l'exemple de grammaire : « Auf den Berg zu, en direction de la montagne. »",
+      "explanation": "Corrigé A.3 : « Fahren Sie immer geradeaus auf diesen Kirchturm zu! » (Allez toujours tout droit en direction de ce clocher.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez la phrase allemande correspondant à : « Nous resterons ici jusqu'à dimanche. » (Exercice A.4)",
+      "words": [
+        "Wir",
+        "werden",
+        "bis",
+        "Sonntag",
+        "hier",
+        "bleiben."
+      ],
+      "answer": "Wir werden bis Sonntag hier bleiben.",
+      "hint": "Le futur se forme avec « werden » en 2e position et l'infinitif « bleiben » à la fin.",
+      "explanation": "Corrigé A.4 : « Wir werden bis Sonntag hier bleiben. » (Nous resterons ici jusqu'à dimanche.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au pluriel selon la règle « ss / ß » après voyelle brève (Exercice B.5a) : « ich muß » → « wir ___ » (nous devons)",
+      "answer": "müssen",
+      "hint": "Entre deux voyelles dont la première est brève, l's dur s'écrit « ss ».",
+      "explanation": "Corrigé B.5a : « wir müssen, nous devons » (voyelle brève entre deux voyelles → ss)."
     },
     {
       "type": "choice",
-      "prompt": "Dans un rond-point (Kreisverkehr) en Allemagne, à qui appartient la priorité ?",
+      "prompt": "Mettez au pluriel (voyelles brèves, Exercice B.5a) : « er ißt ; der Bus »",
       "options": [
-        "À celui qui est déjà engagé dans le sens giratoire.",
-        "À celui qui vient de droite.",
-        "Aux véhicules lents uniquement.",
-        "Aux poids lourds."
+        "sie essen ; die Busse",
+        "sie eßen ; die Buße",
+        "sie aßen ; die Büsse",
+        "sie essen ; die Buse"
       ],
-      "answer": "À celui qui est déjà engagé dans le sens giratoire.",
-      "hint": "Texte : « Die Vorfahrt gehört hier demjenigen, der sich schon im Kreisverkehr befindet. »",
-      "explanation": "Priorité à ceux qui sont déjà dans le rond-point."
+      "answer": "sie essen ; die Busse",
+      "hint": "Entre deux voyelles dont la première est brève, on écrit « ss ».",
+      "explanation": "Corrigé B.5a : « sie essen, ils mangent ; die Busse, les cars. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mettez au pluriel selon la règle « ß » après voyelle longue (Exercice B.5b) : « der Fuß » → « die ___ » (les pieds)",
+      "answer": "Füße",
+      "hint": "Entre deux voyelles dont la première est longue, on conserve toujours « ß » (et « u » prend l'inflexion « ü »).",
+      "explanation": "Corrigé B.5b : « die Füße, les pieds » (voyelle longue → ß)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au pluriel (voyelles longues, Exercice B.5b) : « er aß ; der Zusammenstoß »",
+      "options": [
+        "sie aßen ; die Zusammenstöße",
+        "sie assen ; die Zusammenstösse",
+        "sie äßen ; die Zusammenstoße",
+        "sie aßen ; die Zusammenstoßen"
+      ],
+      "answer": "sie aßen ; die Zusammenstöße",
+      "hint": "Après une voyelle longue (a long dans « aßen », ö long dans « Zusammenstöße »), on écrit toujours « ß ».",
+      "explanation": "Corrigé B.5b : « sie aßen, ils mangeaient ; die Zusammenstöße, les chocs. »"
     }
   ]
 }

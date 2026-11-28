@@ -1,0 +1,188 @@
+{
+  "id": "50 bis",
+  "series": 2,
+  "authentic": true,
+  "isReview": true,
+  "titleDe": "Contrôle et révisions (Leçons 41 à 50)",
+  "titleFr": "« Il y a » (es stehen / es gibt / es sind), conditionnel avec wenn, comparatif, lecture et humour",
+  "proverbDe": "Vorbeugen ist besser als heilen.",
+  "proverbFr": "Mieux vaut prévenir que guérir.",
+  "paragraphs": [
+    {
+      "de": "Lecture — Forschung und Medizin. Kupfer besitzt, wie sich bei westdeutschen Versuchen zeigte, eine starke bakterientötende Wirkung, insbesondere gegen Staphylokokken. Deshalb empfehlen die Mediziner der Industrie, Haltegriffe in öffentlichen Verkehrsmitteln sowie Treppengeländer, Türklinken usw. in Krankenhäusern und Schulen nicht mehr aus den rostfreien Metallen – wie Chromnickelstahl, Aluminium und Chrom – herzustellen, sondern wie früher die als Messing bezeichnete Kupfer-Zink-Legierung zu verwenden. (Aus der Wochenzeitung DIE WELTWOCHE, Zürich)",
+      "fr": "Lecture — La recherche et la médecine. Le cuivre, ainsi que des expériences effectuées en République Fédérale d'Allemagne l'ont démontré, possède un fort pouvoir bactéricide, en particulier contre les staphylocoques. C'est pourquoi les médecins recommandent à l'industrie de ne plus fabriquer en métaux inoxydables – tels que l'acier chromé au nickel, l'aluminium, le chrome – les poignées d'appui dans les véhicules des transports publics, de même que les mains-courantes, les poignées de porte dans les hôpitaux et dans les écoles, mais d'utiliser comme autrefois l'alliage de cuivre et de zinc, appelé laiton."
+    },
+    {
+      "de": "Humor — Der Arzt zu seinem Patienten : – Warum haben Sie mir meinen Brief mit der Rechnung ungeöffnet zurückgeschickt? – Weil ich doch jede Aufregung vermeiden soll!",
+      "fr": "Humour — Le médecin à son client : – Pourquoi m'avez-vous retourné, sans l'avoir ouverte, ma lettre contenant la facture? – Mais (c'est) parce que je dois éviter toute émotion!"
+    }
+  ],
+  "pronunciation": "Points de prononciation de la révision : dans « Chrom » et « Chromnickelstahl », le « Ch- » initial d'origine grecque se prononce [k] (Krom). Dans « Staphylokokken », « ph » vaut [f], « y » vaut [y] et l'accent porte sur « -kok- ». Dans « Kupfer-Zink-Legierung », le « g » de « Legierung » est dur ([ɡ]) et l'accent tombe sur « -gie- ». Dans les longs composés (« bakterientötende », « Verkehrsmitteln », « Treppengeländer », « Türklinken ») ainsi que dans « ungeöffnet » et « Aufregung », l'accent principal reste placé sur le premier élément.",
+  "vocab": [
+    {
+      "de": "der Parkplatz (¨-e)",
+      "fr": "le terrain de stationnement, le parking",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Kreisverkehr",
+      "fr": "le sens giratoire",
+      "info": "Masculin"
+    },
+    {
+      "de": "davonlaufen (ie, a, äu)",
+      "fr": "détaler, s'enfuir en courant",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "flüchten",
+      "fr": "s'enfuir, prendre la fuite",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "das Kupfer",
+      "fr": "le cuivre",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Wirkung (-en)",
+      "fr": "l'effet, le pouvoir",
+      "info": "Féminin"
+    },
+    {
+      "de": "der Haltegriff (-e)",
+      "fr": "la poignée d'appui",
+      "info": "Masculin"
+    },
+    {
+      "de": "das Treppengeländer (-)",
+      "fr": "la main-courante, la rampe d'escalier",
+      "info": "Neutre"
+    },
+    {
+      "de": "die Türklinke (-n)",
+      "fr": "la poignée de porte",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Messing",
+      "fr": "le laiton (alliage de cuivre et de zinc)",
+      "info": "Neutre"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Traduire « il y a » : es gibt, es sind, es stehen (Exercice A — L. 41, 3 ; L. 43, 4)",
+      "body": "L'exercice A révise les différentes façons de rendre « il y a » en allemand :<br>– <strong>es gibt</strong> (+ accusatif) pour une existence générale ou historique : <em>Einst gab es keine Autobahnen.</em> (Autrefois il n'y avait pas d'autoroutes.)<br>– <strong>es stehen</strong> (+ nominatif) pour un lieu précis où les objets « se tiennent debout / sont garés » : <em>Es stehen viele Wagen auf diesem Parkplatz.</em> (Il y a beaucoup de voitures sur ce terrain de stationnement.)<br>– <strong>es sind</strong> (+ nominatif pluriel) pour constater la présence : <em>Es sind drei weiße Pfeiler auf diesem Schild.</em> (Il y a trois flèches blanches sur ce panneau ; forme imprimée dans le corrigé pour <em>Pfeile</em>.)<br>– Révision de <em>seit langem</em> : <em>Sie zeigen den Kreisverkehr an; wußten Sie es seit langem?</em> (Elles indiquent le sens giratoire ; y a-t-il longtemps que vous le saviez ?)"
+    },
+    {
+      "title": "Phrases conditionnelles avec « wenn » et subjonctif II (Exercice B — L. 45, 3–4)",
+      "body": "L'exercice B révise l'irréel du présent et du passé dans les phrases conditionnelles introduites par <strong>wenn</strong> (si) :<br>– <strong>Irréel du présent</strong> : <em>wenn</em> + subjonctif II (ou prétérit faible), suivi dans la principale de <em>würde</em> + infinitif ou du subjonctif II synthétique :<br><em>Wenn er eine Bewegung machte, würde der Räuber schießen (= schösse der Räuber).</em> (S'il faisait un geste, le bandit tirerait.)<br><em>Wenn er keine Sonnenbrille trüge, würde ich ihn erkennen.</em> (S'il ne portait pas de lunettes de soleil, je le reconnaîtrais.)<br><em>Wenn die Sirene heulte, liefe der Räuber davon (würde ... davon laufen).</em> (Si la sirène mugissait, le bandit détalerait.)<br>– <strong>Irréel du passé</strong> : <em>wenn ... hätte</em> + participe II, suivi dans la principale du subjonctif II :<br><em>Wenn er keinen Wagen gestohlen hätte, könnte er nicht flüchten.</em> (S'il n'avait pas volé de voiture, il ne pourrait pas s'enfuir.)"
+    },
+    {
+      "title": "Le comparatif des adjectifs et des adverbes (Exercice C — L. 41, 4 ; L. 49, 3)",
+      "body": "L'exercice C révise la formation du comparatif :<br>– <strong>Formation régulière en -er</strong> : <em>schnell → schneller</em> (<em>Nun läuft der Kellner schneller</em>), <em>freundlich → freundlicher</em> (<em>Zum Schluß wird er freundlicher</em>).<br>– <strong>Infléchissement (Umlaut)</strong> sur les adjectifs courts : <em>klug → klüger</em> (<em>Der Geschäftsführer spricht klüger</em> — Le gérant parle avec plus de finesse).<br>– <strong>Comparatifs irréguliers indispensables</strong> : <em>gern → lieber</em> (<em>Er ißt lieber Hummer</em> — Il aime mieux manger du homard), <em>viel → mehr</em> (<em>Dieses Restaurant hat mehr Gäste</em> — Ce restaurant a plus de clients), <em>gut → besser</em> (<em>Aber der Komponist antwortet besser</em> — Mais le compositeur répond mieux)."
+    },
+    {
+      "title": "Infinitif avec « zu » et propositions subordonnées (Exercices D & E)",
+      "body": "Les textes de lecture et d'humour illustrent trois structures clés de la deuxième série :<br>– <strong>Infinitif avec zu</strong> après <em>empfehlen</em> : avec un verbe à particule séparable, <em>zu</em> s'intercale entre le préverbe et le radical (<em>herzustellen</em>), tandis qu'avec un verbe inséparable il reste devant (<em>zu verwenden</em>).<br>– <strong>Participe épithète développé</strong> devant le nom : <em>die als Messing bezeichnete Kupfer-Zink-Legierung</em> (l'alliage de cuivre et de zinc appelé laiton).<br>– <strong>Subordonnée causale avec weil</strong> : le verbe conjugué est rejeté en toute fin de proposition : <em>Weil ich doch jede Aufregung vermeiden soll!</em>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Il y a beaucoup de voitures sur ce terrain de stationnement. » (Exercice A.1)",
+      "words": [
+        "Es",
+        "stehen",
+        "viele",
+        "Wagen",
+        "auf",
+        "diesem",
+        "Parkplatz."
+      ],
+      "answer": "Es stehen viele Wagen auf diesem Parkplatz.",
+      "hint": "Utilisez « Es stehen » (+ nominatif pluriel) pour des véhicules garés sur un parking, et le datif « auf diesem Parkplatz ».",
+      "explanation": "Corrigé A.1 : « Es stehen viele Wagen auf diesem Parkplatz. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Comment traduit-on : « Autrefois (einst) il n'y avait pas d'autoroutes. » ? (Exercice A.2)",
+      "options": [
+        "Einst gab es keine Autobahnen.",
+        "Einst waren es keine Autobahnen.",
+        "Einst standen es keine Autobahnen.",
+        "Einst gab es nicht Autobahnen."
+      ],
+      "answer": "Einst gab es keine Autobahnen.",
+      "hint": "Pour l'existence générale dans le passé, on emploie « es gab » suivi de la négation « keine » devant un nom sans article.",
+      "explanation": "Corrigé A.2 : « Einst gab es keine Autobahnen. » (Inversion du sujet « es » après l'adverbe en tête de phrase « Einst ».)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Faites une phrase conditionnelle avec « wenn » : « Er trägt keine Sonnenbrille; ich erkenne ihn. » (Exercice B.6)",
+      "options": [
+        "Wenn er keine Sonnenbrille trüge, würde ich ihn erkennen.",
+        "Wenn er keine Sonnenbrille trägt, würde ich ihn erkennen.",
+        "Wenn er keine Sonnenbrille trug, erkannte ich ihn.",
+        "Wenn er keine Sonnenbrille getragen hätte, würde ich ihn erkennen."
+      ],
+      "answer": "Wenn er keine Sonnenbrille trüge, würde ich ihn erkennen.",
+      "hint": "Le subjonctif II de « tragen » (prétérit trug) prend un Umlaut : « trüge ».",
+      "explanation": "Corrigé B.6 : « Wenn er keine Sonnenbrille trüge, würde ich ihn erkennen. S'il ne portait pas de lunettes de soleil, je le reconnaîtrais. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Faites une phrase conditionnelle avec « wenn » : « Er hat keinen Wagen gestohlen; er kann nicht flüchten. » (Exercice B.8)",
+      "words": [
+        "Wenn",
+        "er",
+        "keinen",
+        "Wagen",
+        "gestohlen",
+        "hätte,",
+        "könnte",
+        "er",
+        "nicht",
+        "flüchten."
+      ],
+      "answer": "Wenn er keinen Wagen gestohlen hätte, könnte er nicht flüchten.",
+      "hint": "Irréel du passé dans la subordonnée (« gestohlen hätte ») et subjonctif II de « können » (« könnte ») dans la principale.",
+      "explanation": "Corrigé B.8 : « Wenn er keinen Wagen gestohlen hätte, könnte er nicht flüchten. S'il n'avait pas volé de voiture, il ne pourrait pas s'enfuir. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Remplacez le mot entre parenthèses par son comparatif : « Er ißt (gern) Hummer. » (Exercice C.9)",
+      "answer": "lieber",
+      "hint": "« gern » a un comparatif irrégulier.",
+      "explanation": "Corrigé C.9 : « lieber. Il aime mieux manger du homard. » (gern → lieber → am liebsten)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Remplacez l'adjectif entre parenthèses par son comparatif : « Der Geschäftsführer spricht (klug). » (Exercice C.12)",
+      "answer": "klüger",
+      "hint": "Cet adjectif monosyllabique en « u » prend un Umlaut au comparatif.",
+      "explanation": "Corrigé C.12 : « klüger. Le gérant parle avec plus de finesse. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Quels sont les comparatifs irréguliers de « viel » et « gut » employés dans l'exercice C ? (Exercices C.10 et C.13)",
+      "options": [
+        "mehr / besser",
+        "vieler / guter",
+        "meist / best",
+        "mehrer / besserer"
+      ],
+      "answer": "mehr / besser",
+      "hint": "Ce sont deux des trois grands comparatifs irréguliers allemands avec « gern → lieber ».",
+      "explanation": "Corrigé C.10 et C.13 : « mehr » (Ce restaurant a plus de clients) et « besser » (Mais le compositeur répond mieux)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la chute de l'histoire drôle : « Weil ich doch jede ___ vermeiden soll! » (toute émotion) (Exercice E)",
+      "answer": "Aufregung",
+      "hint": "Mot féminin formé sur le verbe « aufregen » (émouvoir, exciter).",
+      "explanation": "Corrigé E : « Weil ich doch jede Aufregung vermeiden soll! — Mais (c'est) parce que je dois éviter toute émotion! »"
+    }
+  ]
+}

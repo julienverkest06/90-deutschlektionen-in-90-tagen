@@ -1,0 +1,192 @@
+{
+  "id": "70 bis",
+  "series": 2,
+  "authentic": true,
+  "isReview": true,
+  "titleDe": "Contrôle et révisions (Leçons 61 à 70)",
+  "titleFr": "Révision : verbes forts (passé composé et prétérit), « ziemlich » et « genug », style indirect",
+  "proverbDe": "Wiederholung ist die Mutter der Weisheit.",
+  "proverbFr": "La répétition est la mère de la sagesse.",
+  "paragraphs": [
+    {
+      "de": "Mein Freund schrieb uns : « Ich habe einen Bauplatz gekauft. Er liegt am Wiesenrand. Dort gibt es viel Weite. Wir werden sehr glücklich sein und kein Nachbar wird uns stören. »",
+      "fr": "Mon ami nous a écrit : « J'ai acheté un terrain de construction. Il se trouve en bordure des prés. Là-bas, il y a beaucoup d'espace. Nous serons très heureux et aucun voisin ne nous dérangera. »"
+    },
+    {
+      "de": "Schule und Fortschritt — Man hat festgestellt, daß der Leistungsdurchschnitt bei Schulprüfungen in den heißen Gegenden des australischen Bundeslandes Victoria wesentlich niedriger ist als in seinen kühleren Gebieten. Deswegen will man die Prüfungsräume in 47 Schulen mit fahrbaren Klimaanlagen ausstatten. (Die Weltwoche)",
+      "fr": "École et progrès — On a constaté que la moyenne des réussites aux examens scolaires est sensiblement plus basse dans les contrées chaudes de Victoria, État fédéral d'Australie, que dans ses régions plus fraîches. Aussi, on a l'intention d'équiper les salles d'examen dans 47 écoles d'appareils de climatisation mobiles."
+    },
+    {
+      "de": "Humor — Herr Zechbeck prahlt gern. Indem er mit seinem Freund an einem Schloß vorbeifährt, sagt er : « Dieses Schloß ist von meinen Ahnen erbaut worden. » — « So, waren sie Maurer? » fragt der Freund, schlagfertig.",
+      "fr": "Humour — Monsieur Zechbeck aime bien se vanter. En passant avec son ami près d'un château, il dit : « Ce château a été construit par mes ancêtres. » — « Tiens! Est-ce qu'ils étaient maçons? » demande son ami, du tac au tac."
+    }
+  ],
+  "pronunciation": "Attention à l'accentuation et à la diction des mots composés et dérivés de cette révision : « Leistungsdurchschnitt » (accent principal sur « Lei- », « ch » guttural dans « durch- » suivi de « sch » [ʃ]), « Prüfungsräume » (« ü » long et diphtongue « äu » prononcée [ɔɪ]), « Klimaanlagen » (accent sur « Kli- » avec séparation nette entre « Klima » et « anlagen »), « Segelboote » (« oo » long), « prahlt » (« h » muet allongeant le « a ») et « schlagfertig » (finale « -ig » prononcée [-iç]).",
+  "vocab": [
+    {
+      "de": "die Anzeige (n)",
+      "fr": "l'annonce",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Werbung (en)",
+      "fr": "la publicité (= die Publizität)",
+      "info": "Féminin"
+    },
+    {
+      "de": "entsprechen (a, o; i) (+ dat.)",
+      "fr": "correspondre à",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "das Segelboot (e)",
+      "fr": "le voilier",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Bauplatz (¨-e)",
+      "fr": "le terrain de construction",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Wiesenrand (¨-er)",
+      "fr": "la bordure des prés",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Leistungsdurchschnitt",
+      "fr": "la moyenne des réussites (du rendement)",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Klimaanlage (n)",
+      "fr": "l'appareil de climatisation",
+      "info": "Féminin"
+    },
+    {
+      "de": "prahlen",
+      "fr": "se vanter",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "schlagfertig",
+      "fr": "du tac au tac, qui a la répartie vive",
+      "info": "Adjectif"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Exercice A — Verbes forts au passé composé et au prétérit (Leçon 63,4)",
+      "body": "Révision des temps principaux des verbes forts testés dans l'exercice A :<br>• <strong>helfen</strong> (aider) : <em>hat geholfen</em> / <em>half</em><br>• <strong>vergessen</strong> (oublier) : <em>hat vergessen</em> / <em>vergaß</em> (pas de <em>ge-</em> avec le préfixe inséparable <em>ver-</em>)<br>• <strong>lesen</strong> (lire) : <em>hat gelesen</em> / <em>las</em><br>• <strong>finden</strong> (trouver) : <em>hat gefunden</em> / <em>fand</em><br>• <strong>entsprechen</strong> (+ dat., correspondre à) : <em>hat entsprochen</em> / <em>entsprach</em> (pas de <em>ge-</em> avec <em>ent-</em>)"
+    },
+    {
+      "title": "Exercice B — Emploi de « ziemlich » et « genug » (Leçons 64,3 et 66,4)",
+      "body": "• <strong>ziemlich</strong> (<em>assez, passablement</em>) se place toujours <strong>avant</strong> l'adjectif ou l'adverbe qu'il nuance.<br>Ex. : <em>Das Wetter war ziemlich warm. Die Prognose war ziemlich optimistisch.</em><br>• <strong>genug</strong> (<em>assez, suffisamment</em>) se place toujours <strong>après</strong> l'adjectif ou l'adverbe.<br>Ex. : <em>... aber nicht warm genug, um zu baden. Der Wind war stark genug.</em>"
+    },
+    {
+      "title": "Exercice C — Transposition au style indirect (Leçons 68,4 et 69,3)",
+      "body": "Pour rapporter les paroles d'autrui sans <em>daß</em>, on emploie le <strong>subjonctif I</strong> (ou le <strong>subjonctif II</strong> en variante) et l'on adapte les pronoms personnels :<br>• <em>Ich habe gekauft</em> → <em>er habe (hätte) gekauft</em><br>• <em>Er liegt</em> → <em>dieser liege (läge)</em><br>• <em>Dort gibt es</em> → <em>dort gebe (gäbe) es</em><br>• Lorsque le subjonctif I coïncide avec l'indicatif (<em>sie werden</em>), on emploie obligatoirement le subjonctif II : <em>Sie würden sehr glücklich sein und kein Nachbar würde sie stören.</em>"
+    },
+    {
+      "title": "Exercices D et E — Passif accompli et subordination",
+      "body": "• <strong>Passif au passé composé</strong> : auxiliaire <em>sein</em> + participe passé du verbe + <strong>worden</strong> (et non <em>geworden</em>). Ex. : <em>Dieses Schloß ist von meinen Ahnen erbaut worden.</em><br>• <strong>Indem</strong> (<em>en + participe présent</em>) est une conjonction de subordination qui rejette le verbe conjugué en fin de proposition : <em>Indem er mit seinem Freund an einem Schloß vorbeifährt, sagt er...</em><br>• <strong>Comparatif de supériorité / infériorité</strong> avec <em>als</em> : <em>wesentlich niedriger ... als in seinen kühleren Gebieten.</em>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Mettez au prétérit (Exercice A.2) : « Er wird es nie mehr vergessen. » → « Er ___ es nie mehr. »",
+      "answer": "vergaß",
+      "hint": "« vergessen » suit la série e - a - e ; attention à l'orthographe avec « ß ».",
+      "explanation": "Corrigé A.2 : Il ne l'oubliera plus jamais. a) Passé composé : « Er hat es nie mehr vergessen. » b) Prétérit : « Er vergaß es nie mehr. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Mettez au passé composé (Exercice A.5) : « Entspricht er dem Stil unserer Werbung? »",
+      "options": [
+        "Hat er dem Stil unserer Werbung entsprochen?",
+        "Hat er dem Stil unserer Werbung geentsprochen?",
+        "Ist er dem Stil unserer Werbung entsprochen?",
+        "Hat er dem Stil unserer Werbung entsprach?"
+      ],
+      "answer": "Hat er dem Stil unserer Werbung entsprochen?",
+      "hint": "Le préfixe « ent- » est inséparable (donc pas de « ge- ») et « entsprechen » se conjugue avec « haben ».",
+      "explanation": "Corrigé A.5 : Est-ce qu'il correspond au style de notre publicité? a) « Hat er dem Stil unserer Werbung entsprochen? » b) « Entsprach er dem Stil unserer Werbung? »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez par « ziemlich » ou « genug » (Exercice B.6) : « Das Wetter war ___ warm, aber nicht warm ___, um zu baden. »",
+      "options": [
+        "ziemlich / genug",
+        "genug / ziemlich",
+        "ziemlich / ziemlich",
+        "genug / genug"
+      ],
+      "answer": "ziemlich / genug",
+      "hint": "« ziemlich » précède toujours l'adjectif, tandis que « genug » le suit toujours.",
+      "explanation": "Corrigé B.6 : « ziemlich; genug. » Le temps était assez chaud, mais pas assez pour se baigner."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez par « ziemlich » ou « genug » (Exercice B.8) : « Der Wind war stark ___ und die Segelboote konnten ausfahren. »",
+      "answer": "genug",
+      "hint": "Le mot manquant se trouve après l'adjectif « stark » et signifie « suffisamment ».",
+      "explanation": "Corrigé B.8 : « genug. » Le vent était assez fort et les voiliers ont pu sortir (du port)."
+    },
+    {
+      "type": "order",
+      "prompt": "Mettez dans l'ordre le début de la transposition au style indirect (Exercice C.9) : « Mein Freund schrieb uns : ‹ Ich habe einen Bauplatz gekauft. › »",
+      "words": [
+        "Mein",
+        "Freund",
+        "schrieb",
+        "uns,",
+        "er",
+        "habe",
+        "einen",
+        "Bauplatz",
+        "gekauft."
+      ],
+      "answer": "Mein Freund schrieb uns, er habe einen Bauplatz gekauft.",
+      "hint": "Sans « daß », la proposition rapportée garde l'ordre sujet + verbe au subjonctif I (« er habe ... gekauft »).",
+      "explanation": "Corrigé C.9 : « Mein Freund schrieb uns, er habe (hätte) einen Bauplatz gekauft; dieser liege (läge) am Wiesenrand; dort gebe (gäbe) es viel Weite. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Transposez au style indirect la fin de la lettre (Exercice C.9) : « Wir werden sehr glücklich sein und kein Nachbar wird uns stören. »",
+      "options": [
+        "Sie würden sehr glücklich sein und kein Nachbar würde sie stören.",
+        "Sie werden sehr glücklich sein und kein Nachbar wird sie stören.",
+        "Wir würden sehr glücklich sein und kein Nachbar würde uns stören.",
+        "Sie wären sehr glücklich sein und kein Nachbar werde uns stören."
+      ],
+      "answer": "Sie würden sehr glücklich sein und kein Nachbar würde sie stören.",
+      "hint": "Adaptez « wir / uns » en « sie / sie » et employez le subjonctif II « würden / würde » pour éviter l'ambiguïté avec l'indicatif.",
+      "explanation": "Corrigé C.9 : « Sie würden sehr glücklich sein und kein Nachbar würde sie stören. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez d'après le texte « Schule und Fortschritt » (Exercice D) : « Deswegen will man die Prüfungsräume in 47 Schulen mit fahrbaren ___ ausstatten. »",
+      "answer": "Klimaanlagen",
+      "hint": "Mot composé féminin pluriel désignant les « appareils de climatisation ».",
+      "explanation": "Exercice D (Die Weltwoche) : « Deswegen will man die Prüfungsräume in 47 Schulen mit fahrbaren Klimaanlagen ausstatten. » (Aussi, on a l'intention d'équiper les salles d'examen dans 47 écoles d'appareils de climatisation mobiles.)"
+    },
+    {
+      "type": "order",
+      "prompt": "Reconstituez la réplique de M. Zechbeck (Exercice E) : « Ce château a été construit par mes ancêtres. »",
+      "words": [
+        "Dieses",
+        "Schloß",
+        "ist",
+        "von",
+        "meinen",
+        "Ahnen",
+        "erbaut",
+        "worden."
+      ],
+      "answer": "Dieses Schloß ist von meinen Ahnen erbaut worden.",
+      "hint": "Au passé composé passif, on place « ist » en 2e position et « erbaut worden » tout à la fin.",
+      "explanation": "Exercice E (Humor) : « Dieses Schloß ist von meinen Ahnen erbaut worden. » (Ce château a été construit par mes ancêtres.)"
+    }
+  ]
+}

@@ -5,37 +5,32 @@
   "titleDe": "Das Hotel",
   "titleFr": "L'Hôtel",
   "proverbDe": "Übung macht den Meister.",
-  "proverbFr": "C'est en forgeant qu'on devient forgeron.",
+  "proverbFr": "C'est en forgeant qu'on devient forgeron (mot à mot : l'exercice fait le maître).",
   "paragraphs": [
     {
       "de": "Paul Dumont hat ein ruhiges Zimmer. Das Hotel liegt nicht in der Stadt; es liegt in der Vorstadt. Es hat einen Garten, aber keine Garage. Es hat auch eine schöne Aussicht auf den Rhein.",
-      "fr": "Paul Dumont a une chambre calme. L'hôtel ne se trouve pas dans la ville, il se trouve dans le faubourg. Il a un jardin, mais pas de garage. Il a aussi une belle vue sur le Rhin."
+      "fr": "Paul Dumont a une chambre calme. L'hôtel ne se trouve pas dans la ville, il se trouve dans le faubourg. Il a un jardin, mais pas de garage. Il a également une belle vue sur le Rhin."
     },
     {
-      "de": "— Wo liegt das Hotel? — Es liegt in der Vorstadt. — Hat es eine Garage? — Nein, es hat keine Garage. — Wie ist das Zimmer? — Es ist ruhig.",
-      "fr": "— Où l'hôtel se trouve-t-il ? — Il se trouve dans la banlieue. — A-t-il un garage ? — Non, il n'a pas de garage. — Comment la chambre est-elle ? — Elle est calme."
+      "de": "— Wo liegt das Hotel? — Es liegt in der Vorstadt. — Hat es eine Garage? — Nein, es hat keine Garage. — Wie ist das Zimmer? — Es ist ruhig. — Haben Sie eine schöne Aussicht? — O ja!",
+      "fr": "— Où l'hôtel se trouve-t-il ? — Il se trouve dans la banlieue. — A-t-il un garage ? — Non, il n'a pas de garage. — Comment la chambre est-elle ? — Elle est calme. — Avez-vous une belle vue ? — Ah ! oui !"
     },
     {
-      "de": "— Ich habe kein Auto in Köln; es ist in Paris. Ich bin ja nur für eine Woche hier. Aber ich habe keinen Garten in Paris, und der Garten hier ist sehr schön!",
-      "fr": "— Je n'ai pas de voiture à Cologne ; elle est à Paris. Je suis seulement pour une semaine ici. Mais je n'ai pas de jardin à Paris, et ce jardin-ci est très beau !"
+      "de": "— Ich habe kein Auto in Köln; es ist in Paris. — Ich bin ja nur für eine Woche hier. — Aber ich habe keinen Garten in Paris, und der Garten hier ist sehr schön! Man ist so ruhig hier!",
+      "fr": "Je n'ai pas de voiture à Cologne ; elle est à Paris. Je suis (en effet) seulement pour une semaine ici. Mais à Paris, je n'ai pas de jardin ; et ce jardin-ci (mot à mot : le jardin ici) est très beau ! On est si tranquille ici !"
     }
   ],
-  "pronunciation": "Le « ch » après i/e (nicht, ich, ruhig) est chuinté [ç] comme un « si » soufflé. Le « z » dans « Zimmer » se prononce toujours [ts].",
+  "pronunciation": "1. Nous trouvons dans cette leçon les mots nicht, Aussicht, ich, dans lesquels le « ch » ne se prononce pas comme dans auch, mais d'une façon plus chuintée (prononcez « si », laissez les lèvres, les dents et la langue dans cette position, puis soufflez doucement). Nous représentons ce son par [ch]. On prononce de même la terminaison -ig, par exemple dans ruhig [rou-ich]. 2. Dans ruhiges, le « h » ne se prononce pas ; il indique la longueur de la voyelle qui le précède. Articulez bien le « g » comme dans « gare », car il ne s'agit plus, maintenant, d'une terminaison. 3. Le « z », comme dans Zimmer, équivaut toujours à un t-s (la mouche « tsé-tsé »). Dans ce mot, le double « m » indique que le « i » est bref ; prononcez très faiblement la dernière syllabe : [tçimer]. Repères phonétiques : das Hotel [daç hotèl], Aussicht [aoç/zicht], Auto [aoto], Köln [keuln'], schön [cheun'].",
   "vocab": [
     {
       "de": "der Garten",
       "fr": "le jardin",
-      "info": "Accusatif : einen Garten"
+      "info": "Masculin"
     },
     {
-      "de": "das Zimmer",
-      "fr": "la chambre",
-      "info": "Neutre"
-    },
-    {
-      "de": "das Auto",
-      "fr": "la voiture",
-      "info": "Neutre"
+      "de": "der Rhein",
+      "fr": "le Rhin",
+      "info": "Masculin"
     },
     {
       "de": "die Aussicht",
@@ -43,71 +38,142 @@
       "info": "Féminin"
     },
     {
-      "de": "die Vorstadt",
-      "fr": "le faubourg, la banlieue",
+      "de": "die Garage",
+      "fr": "le garage",
       "info": "Féminin"
     },
     {
-      "de": "haben / liegen",
-      "fr": "avoir / être situé",
-      "info": "Verbes"
+      "de": "die Vorstadt",
+      "fr": "le faubourg",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Auto",
+      "fr": "la voiture",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Zimmer",
+      "fr": "la chambre",
+      "info": "Neutre"
+    },
+    {
+      "de": "haben",
+      "fr": "avoir",
+      "info": "Verbe irrégulier"
+    },
+    {
+      "de": "liegen",
+      "fr": "être couché",
+      "info": "Verbe fort"
     }
   ],
   "grammar": [
     {
-      "title": "L'accusatif masculin (einen, keinen) et la négation kein",
-      "body": "Le complément d'objet direct (COD) se met à l'accusatif. Seul le masculin change : <em>der → den</em>, <em>ein → einen</em>, <em>kein → keinen</em> (<em>Es hat einen Garten, aber keinen Keller</em>). Pour nier un nom sans article ou avec article indéfini, on emploie <strong>kein / keine / kein</strong>."
+      "title": "Das Hotel liegt nicht in der Stadt.",
+      "body": "La négation verbale est <em>nicht</em>. Elle correspond à notre « ne... pas »."
+    },
+    {
+      "title": "Das Hotel hat keine Garage.",
+      "body": "L'article négatif <em>kein</em> est la négation de <em>ein</em>. Cet article signifie « ne pas ... un, ne pas ... une, ne pas ... de ». Il prend les mêmes formes que l'article indéfini <em>ein</em>, mais il existe aussi au pluriel.<br><br><strong>Masculin :</strong><br><em>Das ist ein Garten</em>, c'est un jardin<br><em>Das ist kein Garten</em>, ce n'est pas un jardin<br><strong>Féminin :</strong><br><em>Köln ist eine Stadt</em>, Cologne est une ville<br><em>Mudau ist keine Stadt</em>, Mudau n'est pas une ville<br><strong>Neutre :</strong><br><em>Hier ist ein Hotel</em>, ici, il y a un hôtel<br><em>Hier ist kein Hotel</em>, ici, il n'y a pas d'hôtel<br><strong>Pluriel :</strong><br><em>Das sind Tannen</em>, ce sont des sapins<br><em>Das sind keine Tannen</em>, ce ne sont pas des sapins."
+    },
+    {
+      "title": "Das Hotel hat einen Garten.",
+      "body": "<em>Einen Garten</em> est le complément d'objet direct du verbe. Ce complément prend une forme qu'on appelle l'accusatif. Peu de noms ont une forme particulière à l'accusatif. Pour les articles, seul l'accusatif masculin diffère du nominatif (cas du sujet, habituellement indiqué).<br><br><strong>L'article défini :</strong><br>• Masculin : Nominatif <em>der Garten</em> → Accusatif <strong>den Garten</strong><br>• Féminin : Nominatif <em>die Tanne</em> → Accusatif <em>die Tanne</em><br>• Neutre : Nominatif <em>das Gras</em> → Accusatif <em>das Gras</em><br>• Pluriel : Nominatif <em>die Zimmer</em> → Accusatif <em>die Zimmer</em><br><br><strong>L'article indéfini (Accusatif) :</strong><br>• Masculin : <strong>einen Garten</strong><br>• Féminin : <em>eine Tanne</em><br>• Neutre : <em>ein Gras</em><br>• Pluriel : <em>Zimmer</em> (sans article)"
+    },
+    {
+      "title": "Ich habe kein Auto hier.",
+      "body": "Le verbe <em>haben</em> (avoir) est suivi de l'accusatif :<br><em>ich habe einen Freund</em> — <em>wir haben eine Garage</em><br><em>er (sie, es) hat ein Auto</em> — <em>sie (Sie) haben den Park</em><br><br><strong>Notez la forme irrégulière :</strong> <em>er hat</em>. Prononcez le « h » !"
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Complétez à l'accusatif : « Das Hotel hat ___ Garten, aber ___ Garage. »",
+      "prompt": "Remplacez l'article par l'article négatif : « der Kongreß » (Exercice A.4)",
       "options": [
-        "einen / keine",
-        "ein / kein",
-        "einen / keinen",
-        "der / die"
+        "kein Kongreß",
+        "keine Kongreß",
+        "keinen Kongreß",
+        "nicht Kongreß"
       ],
-      "answer": "einen / keine",
-      "hint": "der Garten (masculin COD → einen), die Garage (féminin COD → keine).",
-      "explanation": "einen Garten (acc. masc.) et keine Garage (acc. fém.)."
+      "answer": "kein Kongreß",
+      "hint": "Kongreß est un nom masculin au nominatif.",
+      "explanation": "Corrigé A.4 : « kein Kongreß ». L'article négatif prend les mêmes formes que l'article indéfini ein (masculin nominatif : kein)."
     },
     {
       "type": "fill",
-      "prompt": "Complétez la négation : « Ich habe ___ Auto in Köln. » (das Auto)",
-      "answer": "kein",
-      "hint": "Auto est neutre (das Auto). À l'accusatif neutre, l'article négatif est « kein ».",
-      "explanation": "Ich habe kein Auto in Köln."
-    },
-    {
-      "type": "order",
-      "prompt": "Reconstituez la phrase du texte :",
-      "words": [
-        "Das",
-        "Hotel",
-        "liegt",
-        "nicht",
-        "in",
-        "der",
-        "Stadt."
-      ],
-      "answer": "Das Hotel liegt nicht in der Stadt.",
-      "hint": "Sujet + verbe + négation « nicht » + complément de lieu.",
-      "explanation": "Das Hotel liegt nicht in der Stadt."
+      "prompt": "Remplacez l'article par l'article négatif : « eine Vorstadt » (Exercice A.5)",
+      "answer": "keine Vorstadt",
+      "hint": "Vorstadt est féminin (die Vorstadt).",
+      "explanation": "Corrigé A.5 : « keine Vorstadt ». Au féminin, l'article négatif prend la terminaison -e (comme eine)."
     },
     {
       "type": "choice",
-      "prompt": "Comment prononce-t-on le « z » dans « Zimmer » ?",
+      "prompt": "Complétez à l'accusatif : « Kauft er ___ Artikel? » (Exercice B.8)",
       "options": [
-        "[ts] comme dans tsé-tsé",
-        "[z] comme dans zéro",
-        "[s] comme dans tasse",
-        "[ch] comme dans chat"
+        "den",
+        "der",
+        "das",
+        "die"
       ],
-      "answer": "[ts] comme dans tsé-tsé",
-      "hint": "En allemand, la lettre z équivaut toujours à un t suivi d'un s.",
-      "explanation": "Exact ! [tsimer]."
+      "answer": "den",
+      "hint": "Artikel est masculin (der Artikel) et complément d'objet direct de kauft.",
+      "explanation": "Corrigé B.8 : « den Artikel. Achète-t-il l'article ? » Seul l'accusatif masculin diffère du nominatif : der devient den."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez à l'accusatif : « Die Stadt hat ___ Park. » (Exercice B.9)",
+      "answer": "einen",
+      "hint": "Le verbe haben est suivi de l'accusatif, et Park est masculin.",
+      "explanation": "Corrigé B.9 : « einen Park. La ville a un parc. » À l'accusatif masculin, l'article indéfini ein devient einen."
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez à l'accusatif : « Haben Sie ___ Garten? » (Exercice B.11)",
+      "options": [
+        "keinen",
+        "kein",
+        "keine",
+        "nicht"
+      ],
+      "answer": "keinen",
+      "hint": "Garten est masculin et complément d'objet direct de haben.",
+      "explanation": "Corrigé B.11 : « keinen Garten. N'avez-vous pas de jardin ? » Comme ein → einen, kein devient keinen à l'accusatif masculin."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Nous avons un jardin. » (Exercice C.12)",
+      "words": [
+        "Wir",
+        "haben",
+        "einen",
+        "Garten."
+      ],
+      "answer": "Wir haben einen Garten.",
+      "hint": "haben + accusatif masculin (einen Garten).",
+      "explanation": "Corrigé C.12 : « Wir haben einen Garten. » Le verbe haben régit l'accusatif."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Monsieur Müller n'a-t-il pas d'ami ici ? » (Exercice C.16)",
+      "words": [
+        "Hat",
+        "Herr",
+        "Müller",
+        "keinen",
+        "Freund",
+        "hier?"
+      ],
+      "answer": "Hat Herr Müller keinen Freund hier?",
+      "hint": "Forme interrogative (verbe en tête) + accusatif masculin négatif (keinen Freund).",
+      "explanation": "Corrigé C.16 : « Hat Herr Müller keinen Freund hier? » Notez la forme irrégulière hat et l'accusatif masculin keinen Freund."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la réponse négative à « Kauft er ein Auto? » : « Nein, er kauft ___ Auto. » (Exercice D.20)",
+      "answer": "kein",
+      "hint": "On nie un nom accompagné de l'article indéfini (ein Auto) avec kein.",
+      "explanation": "Corrigé D.20 : « Kauft er ein Auto? — Nein, er kauft kein Auto. » Auto est neutre, son accusatif est donc identique au nominatif (kein Auto)."
     }
   ]
 }

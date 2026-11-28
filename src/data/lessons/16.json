@@ -1,0 +1,228 @@
+{
+  "id": "16",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Ein Verkehrsunfall",
+  "titleFr": "Un accident de la circulation",
+  "proverbDe": "Durch Schaden wird man klug.",
+  "proverbFr": "On apprend à ses dépens (Par le dommage, on devient avisé)",
+  "paragraphs": [
+    {
+      "de": "Heute morgen hatte Herr Müller einen Verkehrsunfall mit seinem Auto. Er fuhr über den Barbarossaplatz. Da kam ein Lastkraftwagen in schnellem Tempo heran.",
+      "fr": "Ce matin (mot à mot : aujourd'hui matin) Monsieur Müller eut un accident de la circulation avec sa voiture. Il traversait la place Barbarossa. Voilà qu'un camion s'approcha à grande vitesse."
+    },
+    {
+      "de": "— Mein Wagen fährt schneller als dieser LKW, sagte sich Herr Müller. Ich komme noch hinüber. Und er gab noch ein wenig Gas. Aber schon war ein Zusammenstoß unvermeidlich.",
+      "fr": "— Ma voiture est plus rapide que ce poids lourd, se dit Monsieur Müller. J'arriverai encore à traverser (mot à mot : je traverse encore). Et il accéléra un peu encore (mot à mot : donna encore un peu de gaz). Mais déjà, un choc était inévitable."
+    },
+    {
+      "de": "Beide Wagen bremsten heftig, doch zu spät. Der PKW wurde stark beschädigt. Zum Glück gab es nur Sachschaden. — Der Klügste gibt nach, sagte sich Herr Müller. Leider denkt man immer zu spät daran.",
+      "fr": "Les deux véhicules freinèrent violemment, mais trop tard. La voiture de tourisme fut (mot à mot devint) fortement endommagée. Par bonheur, il n'y eut que des dégâts matériels. — Le plus sage cède, se dit Monsieur Müller (proverbe allemand). Malheureusement, on y pense toujours trop tard."
+    },
+    {
+      "de": "Bald kam auch ein Verkehrspolizist. — Wer ist der Fahrer des Lastkraftwagens? — Wie schnell fuhren Sie? Er machte sich allerlei Notizen. Dann regelte er den Verkehr.",
+      "fr": "Bientôt arriva également un agent de la circulation. — Qui est le chauffeur du camion? — À quelle vitesse alliez-vous? (mot à mot : combien rapidement rouliez-vous?) Il prit (se fit) toutes sortes de notes. Puis il régla la circulation."
+    }
+  ],
+  "pronunciation": "Remarquez l'emploi usuel des abréviations PKW [pékavé] et LKW [èlkavé]. La voyelle accentuée suivie d'une seule consonne est longue : « Wagen - wenig - Schaden - regeln. » Repères phonétiques du texte : Verkehrsunfall [fèrkérçoun'fal], schnellem [chnèlem'], Tempo [tèm'po], Zusammenstoß [tçouzamen'chtoç], unvermeidlich [oun'fèrmaètlich], heftig [hèftich], beschädigt [béchèdicht], Sachschaden [zarchaden'], Verkehrspolizist [fèrkérçpolitçict], regelte [régelte].",
+  "vocab": [
+    {
+      "de": "der Personenkraftwagen (der PKW)",
+      "fr": "la voiture de tourisme",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Platz (¨-e)",
+      "fr": "la place",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Polizist (-en)",
+      "fr": "l'agent",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Schaden (¨-)",
+      "fr": "le dommage",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Unfall (¨-e)",
+      "fr": "l'accident",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Verkehr",
+      "fr": "la circulation",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Zusammenstoß (¨-e)",
+      "fr": "le choc",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Kraft (¨-e)",
+      "fr": "la force, l'énergie",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Last (-en)",
+      "fr": "la charge",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Glück",
+      "fr": "le bonheur, la chance",
+      "info": "Neutre"
+    },
+    {
+      "de": "beschädigen",
+      "fr": "endommager",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "bremsen",
+      "fr": "freiner",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "Gas geben",
+      "fr": "accélérer",
+      "info": "Expression"
+    },
+    {
+      "de": "nachgeben",
+      "fr": "céder",
+      "info": "Verbe fort séparable"
+    },
+    {
+      "de": "regeln",
+      "fr": "régler",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "vermeiden",
+      "fr": "éviter",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Er hatte einen Unfall.",
+      "body": "Le prétérit des auxiliaires de temps.<br><strong>haben</strong> : <em>ich hatte</em> (j'avais, j'eus), <em>du hattest</em>, <em>er (sie, es) hatte</em>, <em>wir hatten</em>, <em>ihr hattet</em>, <em>sie (Sie) hatten</em>.<br><strong>sein</strong> : <em>ich war</em> (j'étais, je fus), <em>du warst</em>, <em>er war</em>, <em>wir waren</em>, <em>ihr wart</em>, <em>sie waren</em>.<br><strong>werden</strong> : <em>ich wurde</em> (je devenais, je devins), <em>du wurdest</em>, <em>er wurde</em>, <em>wir wurden</em>, <em>ihr wurdet</em>, <em>sie wurden</em>."
+    },
+    {
+      "title": "Mein Wagen fährt schneller als dieser LKW.",
+      "body": "Le comparatif de supériorité se forme en ajoutant <strong>er</strong> à l'adjectif ou à l'adverbe ; « que » se traduit par <strong>als</strong>. Exemple :<br><em>Dieses Hotel ist moderner als unser Haus</em>, cet Hôtel est plus moderne que notre maison."
+    },
+    {
+      "title": "Der Klügste gibt nach.",
+      "body": "Le superlatif se forme à l'aide de la terminaison <em>-ste</em>. Exemple :<br><em>Die schönste Stadt</em>, la plus belle ville.<br>Pour l'adverbe, on emploie <em>am -sten</em>. Exemple :<br><em>Dieses Auto fährt am schnellsten</em>, cette voiture roule le plus rapidement.<br>• La plupart des adjectifs d'une seule syllabe prennent l'inflexion au comparatif et au superlatif. Exemple :<br><em>jung, jünger (als), der jüngste</em>, jeune, plus jeune (que), le plus jeune<br><em>alt, älter (als), der älteste</em>, âgé, plus âgé (que), le plus âgé.<br>• Nous étudierons par la suite quelques comparatifs et superlatifs irréguliers. Par exemple :<br><em>gut, besser, der beste</em>, bon, meilleur, le meilleur."
+    },
+    {
+      "title": "La numération.",
+      "body": "<strong>13</strong> dreizehn · <strong>14</strong> vierzehn · <strong>15</strong> fünfzehn<br><strong>16</strong> sechzehn · <strong>17</strong> siebzehn · <strong>18</strong> achtzehn<br><strong>19</strong> neunzehn · <strong>20</strong> zwanzig"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "Mettez au prétérit : « Pierre ist ein Franzose; er hat eine Wohnung in Paris; er fährt nach Deutschland. » (Exercice A.1)",
+      "options": [
+        "Pierre war ein Franzose; er hatte eine Wohnung in Paris; er fuhr nach Deutschland.",
+        "Pierre wurde ein Franzose; er hat eine Wohnung in Paris; er fährt nach Deutschland.",
+        "Pierre wart ein Franzose; er hattet eine Wohnung in Paris; er fahrt nach Deutschland.",
+        "Pierre war ein Franzose; er hattest eine Wohnung in Paris; er fuhrte nach Deutschland."
+      ],
+      "answer": "Pierre war ein Franzose; er hatte eine Wohnung in Paris; er fuhr nach Deutschland.",
+      "hint": "Auxiliaires au prétérit (3e pers. sg.) : sein → war, haben → hatte ; verbe fort fahren → fuhr.",
+      "explanation": "Corrigé A.1 : « Pierre war...; er hatte...; er fuhr... » (Pierre était un Français ; il avait un appartement à Paris ; il se rendit en Allemagne)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez au prétérit (verbe werden) : « Wir waren in Köln; wir hatten einen Kongreß; unsere Arbeit ___ interessant. » (Exercice A.2)",
+      "answer": "wurde",
+      "hint": "Prétérit de werden à la 3e personne du singulier (er/sie/es).",
+      "explanation": "Corrigé A.2 : « Wir waren...; wir hatten...; ...wurde. » (Nous étions à Cologne ; nous avions un congrès ; notre travail devint intéressant)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Formez le comparatif de supériorité : « Der Roman war (interessant) als der Film. » (Exercice B.3)",
+      "answer": "interessanter",
+      "hint": "Le comparatif se forme en ajoutant -er à l'adjectif.",
+      "explanation": "Corrigé B.3 : « interessanter. » (Le roman était plus intéressant que le film)."
+    },
+    {
+      "type": "choice",
+      "prompt": "Formez le comparatif de « groß » et « schön » : « Die Tanne wurde (groß) und (schön). » (Exercice B.4)",
+      "options": [
+        "größer und schöner",
+        "großer und schönder",
+        "größer und schoner",
+        "am größten und am schönsten"
+      ],
+      "answer": "größer und schöner",
+      "hint": "L'adjectif monosyllabique groß prend l'inflexion (¨) au comparatif.",
+      "explanation": "Corrigé B.4 : « größer; schöner. » (Le sapin devenait plus grand et plus beau)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez avec le superlatif : « Der Neckar ist lang; der Main ist länger; der Rhein ist ___. » (Exercice C.7)",
+      "answer": "am längsten",
+      "hint": "Employez am + -sten avec l'inflexion sur l'adjectif monosyllabique lang.",
+      "explanation": "Corrigé C.7 : « Der Neckar ist lang; der Main ist länger; der Rhein ist am längsten. » (Le Neckar est long ; le Main est plus long ; le Rhin est le plus long)."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « Le camion roulait très vite et l'accident était inévitable. » (Exercice D.8)",
+      "words": [
+        "Der",
+        "LKW",
+        "fuhr",
+        "sehr",
+        "schnell",
+        "und",
+        "der",
+        "Unfall",
+        "war",
+        "unvermeidlich."
+      ],
+      "answer": "Der LKW fuhr sehr schnell und der Unfall war unvermeidlich.",
+      "hint": "Utilisez l'abréviation der LKW et le prétérit de fahren (fuhr) et sein (war).",
+      "explanation": "Corrigé D.8 : « Der LKW fuhr sehr schnell und der Unfall war unvermeidlich. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "Traduisez en allemand : « Qui roulait le plus vite ? » (Exercice D.10)",
+      "options": [
+        "Wer fuhr am schnellsten?",
+        "Wer fuhr der schnellste?",
+        "Wer fährt schneller?",
+        "Wer fuhr am schneller?"
+      ],
+      "answer": "Wer fuhr am schnellsten?",
+      "hint": "Pour l'adverbe au superlatif, on emploie am -sten.",
+      "explanation": "Corrigé D.10 : « Wer fuhr am schnellsten? » Le superlatif adverbial se forme avec am + -sten."
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand : « M. Müller n'était pas plus sage que le conducteur du camion. » (Exercice D.11)",
+      "words": [
+        "Herr",
+        "Müller",
+        "war",
+        "nicht",
+        "klüger",
+        "als",
+        "der",
+        "Fahrer",
+        "des",
+        "Lastwagens."
+      ],
+      "answer": "Herr Müller war nicht klüger als der Fahrer des Lastwagens.",
+      "hint": "Comparatif de klug : klüger ; « que » après un comparatif se traduit par als.",
+      "explanation": "Corrigé D.11 : « Herr Müller war nicht klüger als der Fahrer des Lastwagens. »"
+    }
+  ]
+}

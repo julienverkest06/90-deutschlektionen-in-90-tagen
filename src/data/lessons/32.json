@@ -1,0 +1,251 @@
+{
+  "id": "32",
+  "series": 2,
+  "authentic": true,
+  "titleDe": "Das Schiff",
+  "titleFr": "Le bateau",
+  "proverbDe": "Stille Wasser gründen tief.",
+  "proverbFr": "Il n'est pire eau que l'eau qui dort (Les eaux calmes sont profondes)",
+  "paragraphs": [
+    {
+      "de": "Die Schiffe, wie z.B. (zum Beispiel) die Überseedampfer, erlauben uns, angenehme Überfahrten oder Seereisen zu machen. Dies aber unter der Bedingung, daß man nicht leicht seekrank wird. Doch gibt es heutzutage spezielle Pillen gegen die Seekrankheit.",
+      "fr": "Les bateaux tels que par exemple les transatlantiques nous permettent de faire d'agréables traversées ou voyages en mer. Mais ceci à condition de ne pas être sujet au mal de mer (m. à m. : qu'on ne devienne pas facilement « malade de la mer »). Cependant, il existe de nos jours des pilules spéciales contre le mal de mer."
+    },
+    {
+      "de": "Wenn ein Schiff drei Klassen hat, nimmt die erste Klasse den mittleren Teil ein. Hier findet man die Salons, eine Bar, ein Lesezimmer, einen geräumigen Speisesaal. Die zweite Klasse oder Touristenklasse liegt hinten, gegen das Heck. Die dritte Klasse liegt vorn, gegen den Bug. Die besten Kabinen sind diejenigen, die zum Deck hin liegen.",
+      "fr": "Lorsqu'un bateau a trois classes, la première occupe le centre. On y trouve les salons, un bar, une bibliothèque, une vaste salle à manger. La seconde classe ou classe touriste est à l'arrière vers la poupe. La troisième se trouve à l'avant vers la proue. Les meilleures cabines sont celles qui donnent sur le pont."
+    },
+    {
+      "de": "Das Leben an Bord ist angenehm. Einige Fahrgäste (oder Passagiere) gehen auf dem Deck spazieren. Andere ruhen sich auf einem Liegestuhl aus. Man braucht keine Langweile zu befürchten, denn es gibt allerlei Veranstaltungen : Konzerte, Vorträge, Spielfilme. Am letzten Abend einer Kreuzfahrt veranstaltet der Schiffskapitän, dem die Tanzliebhaber sehr dankbar dafür sind, einen Ball.",
+      "fr": "La vie à bord est agréable. Quelques passagers se promènent sur le pont. D'autres se reposent sur un (fauteuil) transatlantique. On n'a pas à craindre l'ennui, car il y a toutes sortes de manifestations : des concerts, des conférences, des films. La dernière soirée d'une croisière, le commandant (m. à m. : capitaine) — à qui les amateurs de danse sont très reconnaissants (m. à m. : de cela) — organise un bal."
+    },
+    {
+      "de": "Lecture — Kleine Tips für Studienreisen : Kreuzfahrten sind in den letzten Jahren stark in Mode gekommen. Das Angebot ist riesig. Kreuzfahrten bieten ideale Möglichkeiten, Bildung und Erholung zu verbinden.",
+      "fr": "Lecture — Petits conseils pour les voyages d'études : Les croisières sont très à la mode, ces dernières années. L'offre (en) est énorme. Les croisières présentent des possibilités idéales pour combiner la culture et la détente."
+    },
+    {
+      "de": "Seekrankheit befällt Sie nicht nur auf dem Schiff. Auch im Auto, Flugzeug und in der Eisenbahn. Möglichst nicht bewegten Gegenständen (vorbeifahrenden Zügen oder fahrenden Autos) mit den Augen folgen.",
+      "fr": "Le mal de mer ne vous prend pas seulement sur le bateau. Également en voiture, en avion et dans le train. Autant que possible, ne pas suivre du regard des objets mobiles (des trains qui passent ou des voitures en marche)."
+    },
+    {
+      "de": "Steuern. Kombinieren Sie Ihre Studienreise mit einer berufsbildenden Reise (Fleischer zu den Schlachthöfen von Chicago, Ärzte zu einem Kongreß in Sydney). Dann können Sie einiges von der Steuer absetzen. Verschiedene Unternehmen sind auf solche Reisen spezialisiert. (Aus der Illustrierten « Kristall »)",
+      "fr": "Impôts. Combinez votre voyage d'études avec un voyage de formation professionnelle (les bouchers iront aux abattoirs de Chicago, les médecins à un congrès à Sydney). Il vous sera alors possible d'obtenir une réduction de vos impôts. Différentes agences sont spécialisées dans ce genre de voyages."
+    }
+  ],
+  "pronunciation": "Indications phonétiques du texte : 1. zum Beispiel [tçoum baéchpil] ; Überseedampfer [uberzé-dam'pfer] (é long) ; spezielle [chpétçyèle]. 2. geräumigen [géroeumigen'] ; diejenigen [di-yénigen'] (i long). 3. Bord [bort] ; Passagiere [paçajire] (i long) ; Liegestuhl [lige-chtoul] (i et ou longs) ; Veranstaltungen [fèran'chtaltoungen] (ng nasal) ; Konzerte [kontçèrte].",
+  "vocab": [
+    {
+      "de": "der Ball (¨-e)",
+      "fr": "le bal ; la balle",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Bord (-e)",
+      "fr": "le bord",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Bug (¨-e)",
+      "fr": "la proue",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Dampfer (-)",
+      "fr": "le paquebot",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Fahrgast (¨-e)",
+      "fr": "le passager",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Liebhaber (-)",
+      "fr": "l'amateur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Liegestuhl (¨-e)",
+      "fr": "la chaise longue",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Teil (-e)",
+      "fr": "la partie",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Bar (-s)",
+      "fr": "le bar",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Brücke (-n)",
+      "fr": "le pont (rivière)",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kreuzfahrt (-en)",
+      "fr": "la croisière",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Langweile",
+      "fr": "l'ennui",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Pille (-n)",
+      "fr": "la pilule",
+      "info": "Féminin"
+    },
+    {
+      "de": "die See (-n)",
+      "fr": "la mer (mais : der See (s, n), le lac)",
+      "info": "Féminin / Masculin"
+    },
+    {
+      "de": "die Überfahrt (-en)",
+      "fr": "la traversée",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Beispiel (-e)",
+      "fr": "l'exemple",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Deck (-e)",
+      "fr": "le pont (bateau)",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Heck (-e)",
+      "fr": "la poupe",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Konzert (-e)",
+      "fr": "le concert",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Schiff (-e)",
+      "fr": "le bateau",
+      "info": "Neutre"
+    },
+    {
+      "de": "befürchten",
+      "fr": "craindre",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "erlauben",
+      "fr": "permettre",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "veranstalten",
+      "fr": "organiser",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "einnehmen (a, o; i)",
+      "fr": "occuper (espace)",
+      "info": "Verbe fort séparable"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Der Kapitän, dem die Tanzliebhaber sehr dankbar sind,... — Le pronom relatif au datif",
+      "body": "Les pronoms relatifs au datif (= <em>à qui</em>) sont :<br>Masc. <strong>dem</strong> — Fém. <strong>der</strong> — Ntre. <strong>dem</strong> — Pluriel <strong>denen</strong> (<em>à qui</em>)<br><br><strong>Exemple :</strong><br><em>Der Mann, <strong>dem</strong> dieses Schiff gehört, ist sehr reich</em>, l'homme à qui appartient ce bateau, est très riche."
+    },
+    {
+      "title": "Man braucht keine Langweile zu befürchten. — Emploi particulier de brauchen",
+      "body": "Le verbe <em>brauchen</em> signifie : avoir besoin de ; utiliser. La tournure <strong>nicht brauchen zu</strong> correspond à la négation du verbe <em>müssen</em>.<br><br><em>Er muß einen Brief schreiben</em>, il faut qu'il écrive une lettre.<br><strong>Négation :</strong><br><em>Er braucht keinen Brief zu schreiben</em>, il n'a pas besoin d'écrire une lettre."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.1) Complétez la subordonnée relative au datif : « Die Dame, ___ wir einen Liegestuhl gebracht haben, dankt uns herzlich. »",
+      "options": [
+        "der",
+        "dem",
+        "die",
+        "denen"
+      ],
+      "answer": "der",
+      "hint": "L'antécédent « die Dame » est féminin singulier ; le pronom remplace « ihr » (datif).",
+      "explanation": "Corrigé A.1 : « Die Dame, der wir einen Liegestuhl gebracht haben, dankt uns herzlich. » (« La dame à qui nous avons apporté une chaise-longue, nous remercie cordialement. ») Au datif féminin, le pronom relatif est « der »."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.2) Complétez la subordonnée relative au datif : « Das Kind, ___ wir die Maschinen zeigen wollten, saß im Lesezimmer. »",
+      "options": [
+        "der",
+        "dem",
+        "das",
+        "denen"
+      ],
+      "answer": "dem",
+      "hint": "« Das Kind » est neutre singulier et le pronom remplace « ihm » (datif).",
+      "explanation": "Corrigé A.2 : « Das Kind, dem wir die Maschinen zeigen wollten, saß im Lesezimmer. » (« L'enfant à qui nous voulions montrer les machines, était assis dans le salon de lecture. ») Au datif neutre, le pronom relatif est « dem »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.3) Complétez la subordonnée relative (préposition + pronom relatif au datif, 2 mots) : « Der Saal, ___ wir essen, ist sehr groß. »",
+      "answer": "in dem",
+      "hint": "Remplacez « in dem Saal » : « der Saal » est masculin au datif après « in ».",
+      "explanation": "Corrigé A.3 : « Der Saal, in dem wir essen, ist sehr groß. » (« La salle, dans laquelle nous mangeons, est très grande. »)"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.4) Mettez « Wir müssen abfahren. » à la forme négative avec « brauchen » :",
+      "words": [
+        "Wir",
+        "brauchen",
+        "nicht",
+        "abzufahren."
+      ],
+      "answer": "Wir brauchen nicht abzufahren.",
+      "hint": "La négation de « müssen » est « nicht brauchen zu », et avec le verbe séparable « abfahren », « zu » s'insère entre la particule et le radical.",
+      "explanation": "Corrigé B.4 : « Wir brauchen nicht abzufahren. » (« Nous n'avons pas besoin de partir. »)"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.5) Mettez « Ich muß lange warten. » à la forme négative avec « brauchen » :",
+      "words": [
+        "Ich",
+        "brauche",
+        "nicht",
+        "lange",
+        "zu",
+        "warten."
+      ],
+      "answer": "Ich brauche nicht lange zu warten.",
+      "hint": "Utilisez la tournure « nicht brauchen zu » devant l'infinitif « warten ».",
+      "explanation": "Corrigé B.5 : « Ich brauche nicht lange zu warten. » (« Je n'ai pas besoin d'attendre longtemps. »)"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Grammaire — Datif pluriel) Complétez par le pronom relatif au datif pluriel : « Die Fahrgäste, ___ wir die Kabinen zeigen, sind zufrieden. »",
+      "options": [
+        "denen",
+        "dem",
+        "der",
+        "die"
+      ],
+      "answer": "denen",
+      "hint": "« Die Fahrgäste » est au pluriel et le verbe « zeigen » demande le datif pour la personne.",
+      "explanation": "D'après le tableau de grammaire, le pronom relatif au datif pluriel (« à qui ») est « denen »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Grammaire — Emploi de brauchen) Complétez la négation de « Er muß einen Brief schreiben » (un seul mot) : « Er braucht keinen Brief ___ schreiben. »",
+      "answer": "zu",
+      "hint": "La tournure négative de « müssen » est « nicht/kein... brauchen ... + infinitif ».",
+      "explanation": "Règle de grammaire : « Er braucht keinen Brief zu schreiben » (« il n'a pas besoin d'écrire une lettre »). « brauchen » est suivi de « zu » + infinitif."
+    }
+  ]
+}

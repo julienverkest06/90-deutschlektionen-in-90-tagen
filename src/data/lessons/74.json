@@ -2,80 +2,149 @@
   "id": "74",
   "series": 2,
   "authentic": true,
-  "titleDe": "Presse und Literatur (Verbes gouvernant le Génitif)",
-  "titleFr": "La presse et les verbes construits avec le génitif",
-  "proverbDe": "Bücher sind die besten Freunde.",
-  "proverbFr": "Les livres sont les meilleurs amis.",
+  "titleDe": "Was lesen Sie gerne?",
+  "titleFr": "Qu'aimez-vous lire?",
+  "proverbDe": "Jedem Narren gefällt seine Kappe.",
+  "proverbFr": "Chaque fou a sa marotte (m. à m. : A chaque fou plaît sa coiffe).",
   "paragraphs": [
     {
-      "de": "Wie oft bemächtigen sie sich meiner! Er erbarmt sich des Bettlers. Sie erfreut sich einer guten Gesundheit.",
-      "fr": "Comme ils s'emparent souvent de moi ! Il a pitié du mendiant. Elle jouit d'une bonne santé."
+      "de": "Mein Beruf erlaubt es mir nicht, der Lektüre so viel Zeit zu widmen, wie ich es gerne täte. Wenn ich einen freien Augenblick habe, blättere ich in einer Zeitschrift oder in einer Illustrierten. Genau wie die Kinder schaue ich mir zuerst die Bilder an. Manche Reportagen sind recht gut abgefaßt. Manche Zeitungsartikel sind sogar ziemlich objektiv. Aber die Presse befaßt sich fast ausschließlich mit dem Zeitgeschehen.",
+      "fr": "— Mon métier ne me permet pas de consacrer à la lecture autant de temps que je le voudrais. Lorsque j'ai une minute (m. à m. : un moment libre), je feuillette une revue ou un illustré. Tout comme les enfants, je regarde d'abord les images. Certains reportages sont fort bien rédigés. Certains articles de journaux sont même assez objectifs. Mais la presse ne s'intéresse (m. à m. : ne s'occupe... de) guère qu'à l'actualité."
     },
     {
-      "de": "In Deutschland lese ich oft «Die Zeit» und den «Rheinischen Merkur»; in der Schweiz, «Die Weltwoche».",
-      "fr": "En Allemagne je lis souvent « Die Zeit » et le « Rheinischer Merkur » ; en Suisse, « Die Weltwoche »."
+      "de": "Was die Romane und die Erzählungen anbetrifft, so lasse ich mich gerne vom Leitfaden einer Geschichte führen, auch wenn die Charaktere konventionell und willkürlich sind. Ich stelle mir nämlich vor, daß das Zuspitzen der Handlung und die Lösung des Knotens, die vom Verfasser ersonnen wurden, anders sein könnten. Jedoch lasse ich mich gerne vom Dichter und seinem Stil verleiten. Wie oft bemächtigen sie sich meiner!",
+      "fr": "Pour ce qui est des romans et des récits, j'aime me laisser guider par le fil (conducteur) d'une histoire, même si les caractères sont conventionnels ou arbitraires. Je me représente, en effet, que l'action et le dénouement imaginés par leur auteur pourraient être différents. Mais je me laisse volontiers séduire par l'auteur (m. à m. : poète) et par son style. Que de fois ils me captivent (m. à m. : s'emparent de moi)!"
+    },
+    {
+      "de": "Ich habe die Klassiker lieber als die Romantiker. Ich bin eher klassisch als romantisch veranlagt. Viele neuere und sogar moderne Werke scheinen mir überholt zu sein. Es kommt auch vor, daß ich meine Ansicht ändere, daß ich das, was ich gestern anbetete, gleichsam verbrenne.",
+      "fr": "— Je préfère les classiques aux romantiques. Je suis (m. à m. : de don) classique plutôt que romantique. Beaucoup d'œuvres plus récentes et même modernes me semblent dépassées. Il m'arrive aussi de changer d'idée, pour ainsi dire de brûler ce que j'ai adoré hier."
+    },
+    {
+      "de": "Dagegen bin ich ein immer größerer Liebhaber der Geschichte. Es ist schwierig, die Ereignisse aus dem Altertum und aus dem Mittelalter wieder vor die Augen zu führen. Doch ist es ein spannendes Studium. Die namhaftesten Helden bleiben uns vielleicht fremd. Ich habe auch eine kleine Schwäche für Reiseberichte. Ich kann mehrere Sprachen lesen, brauche aber ein Wörterbuch dazu.",
+      "fr": "Par contre j'aime de plus en plus l'histoire (m. à m. : je suis un amateur toujours plus grand...). Il est difficile de retracer les événements de l'Antiquité et du Moyen âge. Pourtant, c'est là une étude passionnante. Les héros les plus considérables nous restent peut-être inconnus. J'ai un faible pour les récits de voyages. Je peux lire dans plusieurs langues, mais il me faut un dictionnaire (m. à m. : pour cela)."
     }
   ],
-  "pronunciation": "Les pronoms personnels au génitif (meiner, deiner, seiner, ihrer, unser, euer, ihrer/Ihrer) s'emploient surtout dans le style soutenu et littéraire.",
+  "pronunciation": "Mots d'origine étrangère accentués sur une syllabe non initiale : Lektüre (sur -tü-), Illustrierte (sur -trier-), Reportage (sur -ta-, avec g doux [ʒ] comme en français), konventionell, objektiv, Aktualität. Dans Charaktere, le Ch initial se prononce dur [k] ; dans Stil, le St initial se prononce [ʃt]. Les noms composés portent l'accent sur le premier élément : Zeitgeschehen, Leitfaden, Mittelalter, Reiseberichte, Wörterbuch. Les particules séparables sont accentuées (abfassen, anbeten, vorkommen), à l'inverse des préfixes inséparables (befassen, überholen, verleiten, ersinnen).",
   "vocab": [
-    {
-      "de": "das Wörterbuch (¨-er)",
-      "fr": "le dictionnaire",
-      "info": "Neutre"
-    },
-    {
-      "de": "die Erzählung (-en)",
-      "fr": "le récit",
-      "info": "Féminin"
-    },
-    {
-      "de": "das Märchen (-)",
-      "fr": "le conte",
-      "info": "Neutre"
-    },
-    {
-      "de": "bedürfen + Génitif",
-      "fr": "avoir besoin de",
-      "info": "Courant : brauchen + acc."
-    },
-    {
-      "de": "sich bedienen + Génitif",
-      "fr": "se servir de",
-      "info": "Courant : benutzen + acc."
-    }
+    { "de": "der Bericht (e)", "fr": "le rapport", "info": "Masculin" },
+    { "de": "der Charakter (e)", "fr": "le caractère", "info": "Masculin" },
+    { "de": "der Held (en)", "fr": "le héros", "info": "Masculin" },
+    { "de": "die Aktualität (en)", "fr": "l'actualité", "info": "Féminin" },
+    { "de": "das Altertum (¨er)", "fr": "l'antiquité", "info": "Neutre" },
+    { "de": "das Bild (-er)", "fr": "l'image", "info": "Neutre" },
+    { "de": "das Ereignis (se)", "fr": "l'événement", "info": "Neutre" },
+    { "de": "das Märchen (-)", "fr": "le conte", "info": "Neutre" },
+    { "de": "der Klassiker (-)", "fr": "le classique", "info": "Masculin" },
+    { "de": "der Leitfaden (¨)", "fr": "le fil conducteur", "info": "Masculin" },
+    { "de": "der Romantiker (-)", "fr": "le romantique", "info": "Masculin" },
+    { "de": "der Stil (e)", "fr": "le style", "info": "Masculin" },
+    { "de": "der Verfasser (-)", "fr": "l'auteur", "info": "Masculin" },
+    { "de": "die Erzählung (-en)", "fr": "le récit", "info": "Féminin" },
+    { "de": "die Handlung (-en)", "fr": "l'action", "info": "Féminin" },
+    { "de": "die Illustrierte (n)", "fr": "l'illustré", "info": "Féminin" },
+    { "de": "die Presse", "fr": "la presse", "info": "Féminin" },
+    { "de": "die Reportage (n)", "fr": "le reportage", "info": "Féminin" },
+    { "de": "die Schwäche (n)", "fr": "la faiblesse, le faible", "info": "Féminin" },
+    { "de": "das Mittelalter", "fr": "le Moyen âge", "info": "Neutre" },
+    { "de": "das Werk (e)", "fr": "l'œuvre", "info": "Neutre" },
+    { "de": "das Wörterbuch (¨er)", "fr": "le dictionnaire", "info": "Neutre" },
+    { "de": "abfassen", "fr": "rédiger", "info": "Verbe séparable" },
+    { "de": "anbelangen", "fr": "concerner", "info": "Verbe séparable" },
+    { "de": "anbeten", "fr": "adorer", "info": "Verbe séparable" },
+    { "de": "sich befassen mit", "fr": "s'occuper de", "info": "Verbe pronominal" },
+    { "de": "überholen", "fr": "dépasser", "info": "Verbe inséparable" },
+    { "de": "veranlagen", "fr": "douer", "info": "Verbe inséparable" },
+    { "de": "verleiten", "fr": "séduire", "info": "Verbe inséparable" },
+    { "de": "ersinnen (a, o)", "fr": "imaginer", "info": "Verbe fort" },
+    { "de": "verbrennen (mixte)", "fr": "brûler", "info": "Verbe mixte" },
+    { "de": "vorkommen (a, o)", "fr": "arriver, se passer", "info": "Verbe fort séparable" }
   ],
   "grammar": [
     {
-      "title": "Verbes gouvernant le génitif",
-      "body": "Quelques verbes de la langue soutenue régissent le génitif : <em>bedürfen</em> (avoir besoin de), <em>sich bedienen</em> (se servir de), <em>sich erinnern</em> (se souvenir de), <em>sich erfreuen</em> (jouir de), <em>sich schämen</em> (avoir honte de). Ex. : <em>Es bedarf nur eines Wortes.</em>"
+      "title": "Wie oft bemächtigen sie sich meiner! — Verbes gouvernant le génitif",
+      "body": "Le verbe <em>sich bemächtigen</em> se construit avec le génitif (<em>meiner</em>, de moi). Les verbes gouvernant le génitif ne sont guère nombreux et s'emploient peu dans la langue parlée. En voici quelques-uns :<br><br>• <strong>bedürfen</strong>, avoir besoin de (a)<br>• <strong>berauben</strong>, dépouiller de<br>• <strong>sich bedienen</strong>, se servir de (b)<br>• <strong>sich erbarmen</strong>, avoir pitié de (c)<br>• <strong>sich erinnern</strong>, se souvenir de (d)<br>• <strong>sich erfreuen</strong>, jouir de<br>• <strong>gedenken</strong>, se souvenir (e)<br>• <strong>sich rühmen</strong>, se vanter de<br>• <strong>sich schämen</strong>, avoir honte de<br><br><em>Er erbarmt sich des Bettlers</em>, il a pitié du mendiant.<br><em>Sie erfreut sich einer guten Gesundheit</em>, elle jouit d'une bonne santé.<br><br><strong>Remarques :</strong> On emploie plus couramment a) <em>brauchen</em> (+ accus.), b) <em>benutzen</em> (+ accus.), c) <em>Mitleid haben (mit)</em>, d) et e) <em>sich erinnern an</em> (+ accus.)."
+    },
+    {
+      "title": "Le pronom personnel au génitif",
+      "body": "<em>Er bedarf <strong>meiner</strong></em>, il a besoin de moi.<br><em>Er erinnert sich <strong>deiner</strong></em>, il se souvient de toi.<br><em>Ich gedenke <strong>seiner</strong></em>, je me souviens de lui.<br><em>Ich gedenke <strong>ihrer</strong></em>, je me souviens d'elle.<br><em>Ich gedenke <strong>seiner</strong></em> (neutre), je me souviens de lui.<br><em>Bedarf er <strong>unser</strong>?</em> A-t-il besoin de nous?<br><em>Wir erbarmen uns <strong>euer</strong></em>, nous avons pitié de vous.<br><em>Ich gedenke <strong>ihrer (Ihrer)</strong></em>, je me souviens d'eux (de vous) (3e pers. du plur. et forme de politesse)."
     }
   ],
   "exercises": [
     {
-      "type": "choice",
-      "prompt": "Complétez au génitif (Exercice A.1) : « Es bedarf nur ___ Wort___ . » (das Wort)",
-      "options": [
-        "eines Wortes",
-        "einem Wort",
-        "ein Wort",
-        "einer Worte"
-      ],
+      "type": "fill",
+      "prompt": "Complétez au génitif (Exercice A.1 — « Il suffit de (dire) un mot ») : « Es bedarf nur ___. » (à partir de : ein Wort)",
       "answer": "eines Wortes",
-      "hint": "das Wort est neutre → génitif singulier en -es : eines Wortes.",
-      "explanation": "Es bedarf nur eines Wortes. (Il suffit d'un mot)."
+      "hint": "Le verbe bedürfen régit le génitif ; Wort est neutre (das Wort).",
+      "explanation": "Corrigé (Exercice A.1) : « Es bedarf nur eines Wortes. » (Il suffit de dire un mot.)"
     },
     {
       "type": "choice",
-      "prompt": "Complétez au génitif (Exercice A.5) : « Das Geschäft erfreut sich ___ gut___ Ruf___ . » (der Ruf)",
+      "prompt": "Complétez au génitif (Exercice A.2 — « Qui s'est servi de ma voiture neuve? ») : « Wer bediente sich ___? »",
       "options": [
-        "eines guten Rufes",
-        "einem guten Ruf",
-        "einen guten Ruf",
-        "einer guten Rufe"
+        "meines neuen Wagens",
+        "meinem neuen Wagen",
+        "meinen neuen Wagen",
+        "meiner neuen Wagens"
       ],
-      "answer": "eines guten Rufes",
-      "hint": "der Ruf (masculin) au génitif singulier → eines guten Rufes.",
-      "explanation": "Das Geschäft erfreut sich eines guten Rufes."
+      "answer": "meines neuen Wagens",
+      "hint": "sich bedienen régit le génitif ; der Wagen est masculin.",
+      "explanation": "Corrigé (Exercice A.2) : « Wer bediente sich meines neuen Wagens? » (Qui s'est servi de ma voiture neuve?)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez au génitif pluriel (Exercice A.3 — « Elle aime à se souvenir de ces heures paisibles ») : « Sie gedenkt gern ___. » (à partir de : jene stillen Stunden)",
+      "answer": "jener stillen Stunden",
+      "hint": "gedenken régit le génitif ; au pluriel, jene devient jener et l'adjectif prend -en.",
+      "explanation": "Corrigé (Exercice A.3) : « Sie gedenkt gern jener stillen Stunden. » (Elle aime à se souvenir de ces heures paisibles.)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez au génitif (Exercice A.4 — « Souvent, il tire vanité de sa fortune ») : « Oft rühmt er sich ___. » (à partir de : sein Reichtum)",
+      "answer": "seines Reichtums",
+      "hint": "sich rühmen régit le génitif ; der Reichtum est masculin.",
+      "explanation": "Corrigé (Exercice A.4) : « Oft rühmt er sich seines Reichtums. » (Souvent, il tire vanité de sa fortune.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Complétez au génitif féminin (Exercice A.6 — « Il n'a même pas honte de sa mauvaise action ») : « Er schämt sich nicht einmal ___. »",
+      "options": [
+        "seiner bösen Handlung",
+        "seines bösen Handlung",
+        "seine böse Handlung",
+        "seiner böse Handlung"
+      ],
+      "answer": "seiner bösen Handlung",
+      "hint": "sich schämen régit le génitif ; die Handlung est féminin (génitif : seiner + adjectif en -en).",
+      "explanation": "Corrigé (Exercice A.6) : « Er schämt sich nicht einmal seiner bösen Handlung. » (Il n'a même pas honte de sa mauvaise action.)"
+    },
+    {
+      "type": "choice",
+      "prompt": "Choisissez le pronom personnel au génitif qui complète : « Bedarf er ___? » (« A-t-il besoin de nous? ») (Grammaire)",
+      "options": [
+        "unser",
+        "uns",
+        "unserer",
+        "unsere"
+      ],
+      "answer": "unser",
+      "hint": "Le pronom personnel wir au génitif a une forme courte particulière.",
+      "explanation": "Grammaire : Le génitif de wir est unser : « Bedarf er unser? » (A-t-il besoin de nous?)"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand (Exercice B.7) : « Je voudrais un dictionnaire allemand-français. »",
+      "words": ["Ich", "möchte", "ein", "deutsch-französisches", "Wörterbuch."],
+      "answer": "Ich möchte ein deutsch-französisches Wörterbuch.",
+      "hint": "das Wörterbuch est neutre : l'adjectif après ein prend la terminaison -es.",
+      "explanation": "Corrigé (Exercice B.7) : « Ich möchte ein deutsch-französisches Wörterbuch. »"
+    },
+    {
+      "type": "order",
+      "prompt": "Traduisez en allemand (Exercice B.10) : « Quels hebdomadaires pourriez-vous me recommander? »",
+      "words": ["Was", "für", "Wochenzeitungen", "könnten", "Sie", "mir", "empfehlen?"],
+      "answer": "Was für Wochenzeitungen könnten Sie mir empfehlen?",
+      "hint": "Utilisez « Was für » (quels) et « könnten Sie mir empfehlen ».",
+      "explanation": "Corrigé (Exercice B.10) : « Was für Wochenzeitungen könnten Sie mir empfehlen? »"
     }
   ]
 }

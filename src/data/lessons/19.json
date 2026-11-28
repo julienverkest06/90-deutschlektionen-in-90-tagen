@@ -1,0 +1,232 @@
+{
+  "id": "19",
+  "series": 1,
+  "authentic": true,
+  "titleDe": "Besichtigung einer Spinnerei",
+  "titleFr": "La visite d'une filature",
+  "proverbDe": "Handel ist die Mutter des Reichtums.",
+  "proverbFr": "Le commerce est source (m. à m. : la mère) de richesse.",
+  "paragraphs": [
+    {
+      "de": "Die IMEX ist eine internationale Import-Export-Gesellschaft. Sie liefert allerlei Maschinen, auch für die Textilindustrie. Am Freitag nachmittag haben die Kongreßteilnehmer eine Spinnerei besichtigt. Sie sind mit dem Bus hingefahren.",
+      "fr": "L'IMEX est une société internationale d'importation et d'exportation. Elle fournit toutes sortes de machines, également pour l'industrie textile. Vendredi après-midi, les congressistes (mot à mot : les participants au congrès) ont visité une filature. Ils s'y sont rendus en autocar."
+    },
+    {
+      "de": "Ein Ingenieur hat ihnen die Arbeit vom Rohstoff bis zum Faden erklärt. Er hat sie durch die vielen Räume geführt. Dort haben sie die modernsten Maschinen gesehen. Sie haben sich für alles sehr interessiert.",
+      "fr": "Un ingénieur leur a expliqué le travail, depuis la matière première jusqu'au fil. Il les a conduits à travers les nombreuses salles. Là, ils ont vu les machines les plus modernes. Ils se sont beaucoup intéressés à tout cela."
+    },
+    {
+      "de": "— Unsere Fabrik beschäftigt 125 (hundertfünfundzwanzig) Arbeiter, Arbeiterinnen und Angestellte. Wir sollten mehr Platz haben, denn die Maschinen werden immer größer. Natürlich muß hier die größte Sauberkeit herrschen.",
+      "fr": "— Notre usine occupe 125 ouvriers, ouvrières et employés. Nous devrions avoir plus d'espace, car les machines sont de plus en (mot à mot : deviennent toujours) plus grandes. Naturellement, la plus grande propreté doit régner ici."
+    },
+    {
+      "de": "— Wohin verkaufen Sie Ihre Produkte? — Wir verkaufen sie in Deutschland, aber auch in ganz Europa. — Und woher bekommen Sie die Rohstoffe? — Sie kommen aus Afrika und Amerika.",
+      "fr": "— Où écoulez-vous (mot à mot : vendez-vous) vos produits? — Nous les vendons en Allemagne, mais aussi dans toute l'Europe. — Et d'où recevez-vous les matières premières? — Elles (nous) arrivent d'Afrique et d'Amérique."
+    }
+  ],
+  "pronunciation": "Repères phonétiques du texte : 1. Besichtigung [bézichtigoung], Spinnerei [chpineraé], Gesellschaft [gézèlchaft], liefert [lifert], Textilindustrie [tèkçtilindouçtri]. 2. Ingenieur [in'jénieur], Rohstoff [rochtof], erklärt [èrklèrt]. 3. beschäftigt [béchéfticht], Angestellte [an'géchtèlte], Sauberkeit [zaoberkaét]. 4. Afrika [afrika], Amerika [amérika]. Notez sp- initial prononcé [chp] (Spinnerei), -ig devant consonne prononcé comme un ch doux (beschäftigt) et l'accentuation particulière des mots d'origine étrangère (Textilindustrie, Ingenieur, Amerika).",
+  "vocab": [
+    {
+      "de": "der Angestellte (n)",
+      "fr": "l'employé",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Arbeiter (-)",
+      "fr": "l'ouvrier",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Faden (¨)",
+      "fr": "le fil",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Ingenieur (-e)",
+      "fr": "l'ingénieur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Raum (¨-e)",
+      "fr": "l'espace, la salle",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Rohstoffe (plur.)",
+      "fr": "les matières premières",
+      "info": "Pluriel"
+    },
+    {
+      "de": "die Gesellschaft (-en)",
+      "fr": "la société",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Sauberkeit",
+      "fr": "la propreté",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Spinnerei (en)",
+      "fr": "la filature",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Produkt (e)",
+      "fr": "la production, le produit",
+      "info": "Neutre"
+    },
+    {
+      "de": "beschäftigen",
+      "fr": "employer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "besichtigen",
+      "fr": "visiter (ville, usine)",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "erklären",
+      "fr": "expliquer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "sich interessieren für",
+      "fr": "s'intéresser à",
+      "info": "Verbe pronominal"
+    },
+    {
+      "de": "liefern",
+      "fr": "livrer",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "teilnehmen an (+ datif)",
+      "fr": "participer",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "verkaufen",
+      "fr": "vendre",
+      "info": "Verbe faible"
+    },
+    {
+      "de": "nehmen (er nimmt)",
+      "fr": "prendre",
+      "info": "Verbe fort"
+    }
+  ],
+  "grammar": [
+    {
+      "title": "Er hat sie durch die Räume geführt. — Le passé composé",
+      "body": "De même qu'en français, le passé composé se forme à l'aide de l'auxiliaire <em>haben</em> (parfois <em>sein</em>) et du participe passé.<br>• Le verbe faible prend au participe passé le préfixe <em>ge-</em> et la terminaison <em>-t</em>.<br><em>Kaufen &gt; gekauft</em>, acheté.<br>• Le verbe fort (irrégulier) prend le préfixe <em>ge-</em> et la terminaison <em>-en</em>, mais subit souvent des modifications dans le radical.<br><em>Sprechen &gt; gesprochen</em>, parlé ; <em>nehmen &gt; genommen</em>, pris.<br>• Le préfixe <em>ge-</em> s'intercale entre le verbe et la particule séparable.<br><em>Zuhören &gt; zugehört</em>, écouté ; <em>abschreiben &gt; abgeschrieben</em>, copié.<br>• Certains verbes ont une particule inséparable : ils ne prennent pas le préfixe <em>ge-</em>.<br><em>Erklären &gt; erklärt</em>, expliqué.<br>Il en est de même des verbes en <em>-ieren</em>.<br><em>Interessieren &gt; interessiert</em>, intéressé.<br>• L'auxiliaire du passé composé, <em>haben</em> ou <em>sein</em>, se met à la deuxième place, tandis que le participe passé se place à la fin de la proposition principale."
+    },
+    {
+      "title": "Hier muß Sauberkeit herrschen. Wir sollten mehr Platz haben.",
+      "body": "Les verbes <em>müssen</em> et <em>sollen</em> sont des auxiliaires de mode. Ils ont le sens de « devoir ».<br>• <strong><em>müssen</em></strong>, devoir, être forcé de.<br><em>Alle Menschen müssen sterben</em>, tous les hommes doivent mourir.<br>• <strong><em>sollen</em></strong>, devoir (obligation morale).<br><em>Ich soll ihm helfen</em>, je dois l'aider.<br><strong>Müssen :</strong> Présent : <em>ich muß</em> (je dois, il faut que je...) — Prétérit : <em>ich mußte</em> (je devais, je dus).<br><strong>Sollen :</strong> Présent : <em>ich soll</em> (je dois) — Prétérit : <em>ich sollte</em> (je devais, je dus).<br><em>Voir Mémento, § 50.</em>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.5) Quel est le participe passé du verbe à particule séparable « hinstellen » (disposer) ?",
+      "options": [
+        "hingestellt",
+        "gehinstellt",
+        "hinstellt",
+        "hingestellen"
+      ],
+      "answer": "hingestellt",
+      "hint": "Dans un verbe à particule séparable, ge- s'intercale entre la particule et le radical.",
+      "explanation": "Corrigé A.5 : « hingestellt, disposé. » Le préfixe ge- se place entre hin- et le verbe faible stellen (→ gestellt)."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.3) Formez le participe passé du verbe fort « trinken » (bu ; radical en u) :",
+      "answer": "getrunken",
+      "hint": "Les verbes forts prennent le préfixe ge- et la terminaison -en avec changement de voyelle du radical.",
+      "explanation": "Corrigé A.3 : « getrunken, bu. » (trinken → ge- + trunk + -en)."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.9) Quel est le participe passé du verbe en -ieren « transportieren » (transporté) ?",
+      "options": [
+        "transportiert",
+        "getransportiert",
+        "transportieren",
+        "transgeportiert"
+      ],
+      "answer": "transportiert",
+      "hint": "Les verbes terminés en -ieren ne prennent pas le préfixe ge- au participe passé.",
+      "explanation": "Corrigé A.9 : « transportiert, transporté. » Comme les verbes à particule inséparable, les verbes en -ieren ne prennent pas ge-."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.11) Mettez au passé composé : « Diese Gesellschaft liefert uns Maschinen. » (Cette société nous a fourni des machines.)",
+      "words": [
+        "Diese",
+        "Gesellschaft",
+        "hat",
+        "uns",
+        "Maschinen",
+        "geliefert."
+      ],
+      "answer": "Diese Gesellschaft hat uns Maschinen geliefert.",
+      "hint": "L'auxiliaire hat se met en 2e position et le participe passé geliefert à la fin de la proposition principale.",
+      "explanation": "Corrigé B.11 : « Diese Gesellschaft hat uns Maschinen geliefert. Cette société nous a fourni des machines. »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice C.14) Complétez au présent avec « sollen » : « Emil, du ___ ans Telefon kommen. » (Émile, tu dois venir au téléphone.)",
+      "answer": "sollst",
+      "hint": "Conjuguez sollen à la 2e personne du singulier du présent.",
+      "explanation": "Corrigé C.14 : « sollst. Émile, tu dois venir au téléphone. » (ich soll, du sollst, er soll)."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice C.15) Complétez au prétérit avec « müssen » : « Er ___ diese Maschine noch heute reparieren. »",
+      "options": [
+        "mußte",
+        "müßte",
+        "muß",
+        "sollte"
+      ],
+      "answer": "mußte",
+      "hint": "Au prétérit de l'indicatif, müssen perd l'inflexion (Umlaut) et prend la terminaison -te.",
+      "explanation": "Corrigé C.15 (prétérit) : « mußte ». (Présent : er muß ; prétérit : er mußte)."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice D.16) Traduisez : « Cette filature a acheté ses machines chez (bei) IMEX. »",
+      "words": [
+        "Diese",
+        "Spinnerei",
+        "hat",
+        "ihre",
+        "Maschinen",
+        "bei",
+        "IMEX",
+        "gekauft."
+      ],
+      "answer": "Diese Spinnerei hat ihre Maschinen bei IMEX gekauft.",
+      "hint": "Spinnerei est féminin (ihre Maschinen) ; placez l'auxiliaire hat en 2e position et gekauft à la fin.",
+      "explanation": "Corrigé D.16 : « Diese Spinnerei hat ihre Maschinen bei IMEX gekauft. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice D.18) Traduisez : « Il faut que nous arrivions vers 3 heures (= nous devons arriver). »",
+      "words": [
+        "Wir",
+        "müssen",
+        "gegen",
+        "drei",
+        "Uhr",
+        "ankommen."
+      ],
+      "answer": "Wir müssen gegen drei Uhr ankommen.",
+      "hint": "Employez l'auxiliaire de mode müssen en 2e position et l'infinitif ankommen en fin de phrase.",
+      "explanation": "Corrigé D.18 : « Wir müssen gegen drei Uhr ankommen. »"
+    }
+  ]
+}

@@ -3,83 +3,283 @@
   "series": 2,
   "authentic": true,
   "titleDe": "Was sehen Sie gerne? Was hören Sie gerne?",
-  "titleFr": "Les arts, l'architecture et la musique (Fin de la Série 2)",
+  "titleFr": "Qu'aimez-vous voir ? Qu'aimez-vous entendre ?",
   "proverbDe": "Was lange währt, wird gut.",
-  "proverbFr": "Tout vient à point pour qui sait attendre.",
+  "proverbFr": "Tout vient à point pour qui sait attendre. (Ce qui dure longtemps, réussit).",
   "paragraphs": [
     {
-      "de": "— Ich bewundere die mittelalterliche Baukunst, sei es die romanische oder die gotische. Haben Sie den Stephansdom zu Wien bei schönem Wetter gesehen? Seine Fenster und Bildsäulen, sein wunderbares Hauptschiff und sein himmelstrebender Turm verbinden mehrere Stile zu einer harmonischen Einheit.",
-      "fr": "— J'admire l'architecture médiévale, qu'elle soit romane ou gothique. Avez-vous vu par beau temps la cathédrale Saint-Étienne, à Vienne ? Ses vitraux et statues, sa merveilleuse nef principale et sa tour qui s'élance vers les cieux combinent plusieurs styles pour en faire une unité harmonieuse."
+      "de": "— Ich bewundere die mittelalterliche Baukunst, sei es die romanische oder die gotische. Ich kann mich nicht satt sehen an den Kirchen und Domen in Europa, die Gottes Größe verherrlichen. Haben Sie den Stephansdom zu Wien bei schönem Wetter gesehen? Seine Fenster und Bildsäulen, seine Portale und Bildwerke, sein wunderbares Hauptschiff und sein himmelstrebender Turm verbinden mehrere Stile zu einer harmonischen Einheit.",
+      "fr": "— J'admire l'architecture médiévale, qu'elle soit romane ou gothique. Je ne me lasse pas (m. à m. : je ne peux pas me rassasier) de voir les églises et les cathédrales d'Europe qui illustrent la grandeur de Dieu. Avez-vous vu par beau temps la cathédrale Saint-Étienne, à Vienne ? Ses vitraux et statues, ses portails et sculptures, sa merveilleuse nef principale et sa tour qui s'élance vers les cieux, combinent plusieurs styles pour en faire une unité harmonieuse."
     },
     {
-      "de": "— In der Malerei schwärme ich für die Werke aus dem XV. Jh. Verstehen Sie etwas von abstrakter Kunst? — Aber, mein Lieber, warum soll denn der Maler die Wirklichkeit nachbilden? Der Photograph, der über eine gute Kamera verfügt, ist viel genauer.",
-      "fr": "— En peinture, j'ai un fort penchant pour les œuvres du XVe siècle. Vous comprenez quelque chose à l'art abstrait ? — Mais, mon cher, pourquoi voulez-vous que le peintre imite le réel ? Le photographe, disposant d'un bon appareil, est beaucoup plus exact."
+      "de": "— In der Malerei schwärme ich für die Werke aus dem XV. Jh. Die Primitiven verlocken mich durch ihre Freimütigkeit und ihre Verfeinerung. — Verstehen Sie etwas von abstrakter Kunst? Ich werde nicht klug daraus. — Aber, mein Lieber, warum soll denn der Maler die Wirklichkeit nachbilden? Der Photograph, der über eine gute Kamera, einen guten Film verfügt, ist viel genauer.",
+      "fr": "— En peinture, j'ai un fort penchant pour le XVe siècle. Les primitifs me séduisent par leur sincérité et leur raffinement. — Vous comprenez quelque chose à l'art abstrait, vous ? Moi, je n'y comprends rien. — Mais, mon cher, pourquoi voulez-vous que le peintre imite le réel ? Le photographe, disposant d'un bon appareil, d'une bonne pellicule, est beaucoup plus exact."
     },
     {
-      "de": "— Seitdem ich einen Fernsehapparat habe, gehe ich weder ins Kino, noch ins Konzert. — Gestern haben Sie den Liederabend der Wiener Sängerknaben versäumt. Und außerdem werden alle Ihre Apparate niemals das Vergnügen ersetzen, Musik selbst zu spielen.",
-      "fr": "— Depuis que j'ai la télévision, je ne vais ni au cinéma, ni au concert. — Hier vous avez manqué le récital des Petits Chanteurs de Vienne. Et d'ailleurs tous vos appareils ne remplaceront jamais le plaisir de faire soi-même de la musique."
+      "de": "— Seitdem ich einen Fernsehapparat habe, gehe ich weder ins Kino, noch ins Konzert. Es werden ausgezeichnete Filme gegeben und viele Sinfoniekonzerte übertragen. Zudem habe ich einen Plattenspieler, um mir die Musik anzuhören, die mir gefällt. — Vielleicht haben Sie doch nicht recht. Gestern z. B. (zum Beispiel) haben Sie den Liederabend der Wiener Sängerknaben versäumt. Es war einfach großartig. Und außerdem, meine Liebe, werden alle Ihre Apparate niemals das Vergnügen ersetzen, Musik selbst zu spielen.",
+      "fr": "— Depuis que j'ai la télévision, je ne vais ni au cinéma, ni au concert. On donne d'excellents films et beaucoup de concerts symphoniques sont retransmis. Et puis, j'ai un électrophone pour écouter la musique qui me plaît. — Vous n'avez peut-être pas raison. Hier par exemple, vous avez manqué le récital (m. à m. : soirée de chants) des Petits Chanteurs de Vienne. C'était tout simplement magnifique. Et d'ailleurs, ma chère, tous vos appareils ne remplaceront jamais le plaisir de faire soi-même de la musique."
     }
   ],
-  "pronunciation": "Cette 75e leçon clôture la Série 2 (Situations pratiques) et ouvre la porte à la Série 3 consacrée aux grands textes littéraires allemands.",
+  "pronunciation": "Points d'accentuation et de prononciation de la leçon : dans les noms composés, l'accent tonique porte sur le premier élément (Baukunst, Hauptschiff, Stephansdom, Fernsehapparat, Plattenspieler, Liederabend). Les particules verbales inséparables be-, ver-, er- et über- (ici inséparable) sont toujours inaccentuées (bewundern, verherrlichen, verlocken, versäumen, ersetzen, übertragen), alors que les particules séparables portent l'accent tonique (anhören, nachbilden). Dans les mots d'origine étrangère ou en -ei, l'accent porte sur la dernière syllabe (Malerei, Musik, Portal, Porträt, Konzert, Apparat, Photograph où ph se prononce [f]). Enfin, äu se prononce [ɔʏ] dans Bildsäulen et versäumen.",
   "vocab": [
     {
-      "de": "die Baukunst",
-      "fr": "l'architecture",
-      "info": "Féminin"
+      "de": "der Bau (e)",
+      "fr": "la construction",
+      "info": "Masculin"
     },
     {
-      "de": "das Hauptschiff (-e)",
+      "de": "(der) Gott (¨er)",
+      "fr": "Dieu",
+      "info": "Masculin"
+    },
+    {
+      "de": "das Hauptschiff (e)",
       "fr": "la nef principale",
       "info": "Neutre"
     },
     {
-      "de": "das Jahrhundert (-e)",
+      "de": "das Jahrhundert (e)",
       "fr": "le siècle",
-      "info": "Neutre (abrégé Jh.)"
+      "info": "Neutre"
     },
     {
-      "de": "weder ... noch",
-      "fr": "ni ... ni",
-      "info": "Double négation"
+      "de": "das Leiden (-)",
+      "fr": "la souffrance",
+      "info": "Neutre"
+    },
+    {
+      "de": "der Maler (-)",
+      "fr": "le peintre",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Plattenspieler (-)",
+      "fr": "l'électrophone",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Sänger (-)",
+      "fr": "le chanteur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Turm (¨e)",
+      "fr": "la tour",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Bildsäule (n)",
+      "fr": "la statue",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Einheit (en)",
+      "fr": "l'unité",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kamera (s)",
+      "fr": "l'appareil photographique",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Kunst (¨e)",
+      "fr": "l'art",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Malerei",
+      "fr": "la peinture",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Musik",
+      "fr": "la musique",
+      "info": "Féminin"
+    },
+    {
+      "de": "die (Schall)platte (n)",
+      "fr": "le disque",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Seele (n)",
+      "fr": "l'âme",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Portal (e)",
+      "fr": "le portail",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Porträt (e)",
+      "fr": "le portrait",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Werk (e)",
+      "fr": "l'œuvre",
+      "info": "Neutre"
+    },
+    {
+      "de": "anhören",
+      "fr": "écouter",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "beschwören",
+      "fr": "évoquer",
+      "info": "Verbe fort"
+    },
+    {
+      "de": "ersetzen",
+      "fr": "remplacer",
+      "info": "Verbe"
+    },
+    {
+      "de": "nachbilden",
+      "fr": "imiter",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "streben (nach)",
+      "fr": "tendre (vers)",
+      "info": "Verbe"
+    },
+    {
+      "de": "verherrlichen",
+      "fr": "magnifier",
+      "info": "Verbe"
+    },
+    {
+      "de": "verlocken",
+      "fr": "séduire",
+      "info": "Verbe"
     },
     {
       "de": "versäumen",
-      "fr": "manquer, rater (un événement)",
-      "info": "Verbe inséparable"
+      "fr": "manquer, perdre",
+      "info": "Verbe"
+    },
+    {
+      "de": "vorführen",
+      "fr": "représenter",
+      "info": "Verbe séparable"
+    },
+    {
+      "de": "übertragen (u, a)",
+      "fr": "(re)transmettre",
+      "info": "Verbe fort"
     }
   ],
   "grammar": [
     {
-      "title": "La double négation weder ... noch (ni ... ni)",
-      "body": "<em>Ich gehe <strong>weder</strong> ins Kino, <strong>noch</strong> ins Konzert.</em> Comme en français, cette tournure n'exige pas d'autre négation (<em>nicht/kein</em>)."
+      "title": "Ich kann mich nicht satt sehen...",
+      "body": "Dans cette tournure particulière à la langue allemande (germanisme), nous trouvons le verbe <em>sehen</em> à la forme réfléchie (<em>mich</em>), accompagné d'un adjectif (<em>satt</em>), qui indique le résultat vers lequel tend l'action.<br><br><em>Ich lache mich tot</em>, je meurs de rire.<br><em>Du lachtest dich krumm</em>, tu te tordais de rire.<br><em>Er aß sich nie satt</em>, il ne mangeait jamais à satiété.<br><em>Sie hat sich fast blind geweint</em>, elle a pleuré à en être presque aveugle."
+    },
+    {
+      "title": "...die Gottes Größe verherrlichen.",
+      "body": "(m. à m. : ...qui de Dieu (la) grandeur illustrent).<br>Remarquez ce <strong>génitif saxon</strong> (leçon 10), qui est d'un emploi courant avec les noms propres, les prénoms ou les proverbes.<br>Autre construction : <em>...die die Größe Gottes verherrlichen</em> (m. à m. : ...qui la grandeur de Dieu illustrent)."
+    },
+    {
+      "title": "Ich bewundere... Ich betrachte...",
+      "body": "La particule <strong>be-</strong>, inséparable, entre dans la formation de nombreux verbes, presque tous transitifs.<br><br>• Parfois, elle marque un <strong>renforcement du sens</strong> du verbe simple :<br>Ex. : <em>decken</em>, <em>bedecken</em>, couvrir ; <em>grüßen</em>, <em>begrüßen</em>, saluer.<br><br>• Elle sert surtout à <strong>former des verbes transitifs</strong> :<br><em>ruhig</em>, calme : <em>beruhigen</em>, calmer<br><em>das Wasser</em>, l'eau : <em>bewässern</em>, arroser<br><em>das Wunder</em>, la merveille : <em>bewundern</em>, admirer<br><em>antworten + auf (+ accus.) = beantworten (+ acc.)</em>, répondre à<br><em>Ich antworte auf seinen Brief</em> ou : <em>Ich beantworte seinen Brief</em>, je réponds à sa lettre.<br>De même : <em>wohnen in (einem Haus) = bewohnen</em>, habiter.<br><br>• Elle peut aussi <strong>modifier le sens</strong> d'un verbe : <em>schwören</em>, jurer, prêter serment ; <em>beschwören</em>, évoquer."
     }
   ],
   "exercises": [
     {
-      "type": "choice",
-      "prompt": "Comment dit-on « ni au cinéma, ni au concert » d'après le texte ?",
-      "options": [
-        "weder ins Kino, noch ins Konzert",
-        "nicht ins Kino, und nicht ins Konzert",
-        "entweder ins Kino, oder ins Konzert",
-        "kein Kino, noch Konzert"
-      ],
-      "answer": "weder ins Kino, noch ins Konzert",
-      "hint": "weder ... noch = ni ... ni.",
-      "explanation": "weder ins Kino, noch ins Konzert."
+      "type": "fill",
+      "prompt": "(Exercice A.1) Employez un verbe avec be- pour reformuler « Die Eltern machen ihren Kindern Geschenke. » : Die Eltern ___ ihre Kinder.",
+      "answer": "beschenken",
+      "hint": "Formez un verbe transitif à partir de « Geschenke » / « schenken » avec la particule inséparable be-.",
+      "explanation": "Corrigé A.1 : « Die Eltern beschenken ihre Kinder. » (Les parents font des cadeaux à leurs enfants.) La particule inséparable be- forme un verbe transitif direct."
     },
     {
       "type": "choice",
-      "prompt": "Traduisez le proverbe de la leçon 75 : « Was lange währt, wird gut. »",
+      "prompt": "(Exercice A.3) Comment reformuler « Der Schnee bildet eine Decke auf dem Land. » à l'aide d'un verbe avec be- ?",
       "options": [
-        "Ce qui dure longtemps réussit (Tout vient à point pour qui sait attendre).",
-        "Le temps passe trop vite.",
-        "L'art est éternel.",
-        "Mieux vaut tard que jamais."
+        "Der Schnee deckt das Land be.",
+        "Der Schnee bedeckt das Land.",
+        "Der Schnee bewässert das Land.",
+        "Der Schnee begrenzt das Land."
       ],
-      "answer": "Ce qui dure longtemps réussit (Tout vient à point pour qui sait attendre).",
-      "hint": "währen = durer.",
-      "explanation": "Was lange währt, wird gut."
+      "answer": "Der Schnee bedeckt das Land.",
+      "hint": "La particule be- est toujours inséparable et renforce ici le sens de « decken » (couvrir).",
+      "explanation": "Corrigé A.3 : « Der Schnee bedeckt das Land. » (La neige recouvre la campagne.) Comme be- est inséparable, le préfixe reste soudé au verbe."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.4) Transformez avec un verbe transitif en be- : « Sie weint um ihr verstorbenes Kind. » -> Sie ___ ihr verstorbenes Kind.",
+      "answer": "beweint",
+      "hint": "Ajoutez la particule inséparable be- au verbe « weinen » conjugué à la 3e personne du singulier.",
+      "explanation": "Corrigé A.4 : « Sie beweint ihr verstorbenes Kind. » (Elle pleure son enfant mort.) Le préfixe be- rend le verbe transitif et supprime la préposition « um »."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.5) Quelle phrase reformule « Der Arzt kämpft gegen die Krankheiten. » avec un verbe en be- ?",
+      "options": [
+        "Der Arzt bekämpft gegen die Krankheiten.",
+        "Der Arzt belustigt die Krankheiten.",
+        "Der Arzt bekämpft die Krankheiten.",
+        "Der Arzt beschwört die Krankheiten."
+      ],
+      "answer": "Der Arzt bekämpft die Krankheiten.",
+      "hint": "Avec le préfixe transitif be-, le complément devient un complément d'objet direct à l'accusatif (sans préposition).",
+      "explanation": "Corrigé A.5 : « Der Arzt bekämpft die Krankheiten. » (Le médecin combat les maladies.) Le verbe transitif « bekämpfen » se construit directement avec l'accusatif."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice A.6) Transformez avec un verbe en be- : « Ein Wald bildet die Grenze unseres Gartens. » -> Ein Wald ___ unseren Garten.",
+      "answer": "begrenzt",
+      "hint": "Verbe formé sur « die Grenze » (la limite) avec le préfixe inséparable be-, à la 3e personne du singulier.",
+      "explanation": "Corrigé A.6 : « Ein Wald begrenzt unseren Garten. » (Une forêt borne notre jardin.)"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.7) Traduisez en allemand : « Irez-vous au cinéma, ce soir ? »",
+      "words": [
+        "Gehen",
+        "Sie",
+        "heute",
+        "abend",
+        "ins",
+        "Kino?"
+      ],
+      "answer": "Gehen Sie heute abend ins Kino?",
+      "hint": "Dans une question sans mot interrogatif, le verbe conjugué est en tête, suivi du sujet « Sie » et du complément de temps.",
+      "explanation": "Corrigé B.7 : « Gehen Sie heute abend ins Kino? » (Avec l'orthographe du livre de 1970 : « heute abend ».)"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice B.9) Traduisez en allemand : « Après le dîner, j'écouterai quelques disques. »",
+      "words": [
+        "Nach",
+        "dem",
+        "Abendessen",
+        "werde",
+        "ich",
+        "mir",
+        "einige",
+        "Schallplatten",
+        "anhören."
+      ],
+      "answer": "Nach dem Abendessen werde ich mir einige Schallplatten anhören.",
+      "hint": "Inversion sujet-verbe après « Nach dem Abendessen », futur avec « werde ... anhören », et pronom réfléchi au datif « mir ».",
+      "explanation": "Corrigé B.9 : « Nach dem Abendessen werde ich mir einige Schallplatten anhören. » L'infinitif « anhören » se place en fin de proposition."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice B.10) Comment traduire « Si nous avions la télévision, nous irions moins souvent au concert. » ?",
+      "options": [
+        "Wenn wir das Fernsehen haben, gehen wir weniger oft ins Konzert.",
+        "Wenn wir das Fernsehen hätten, gingen wir weniger oft ins Konzert.",
+        "Obwohl wir das Fernsehen hätten, wir gingen weniger oft ins Konzert.",
+        "Wenn wir hätten das Fernsehen, gingen wir weniger oft ins Konzert."
+      ],
+      "answer": "Wenn wir das Fernsehen hätten, gingen wir weniger oft ins Konzert.",
+      "hint": "Dans la subordonnée introduite par « Wenn », le verbe au subjonctif II (« hätten ») est rejeté à la fin, et la principale commence directement par le verbe (« gingen »).",
+      "explanation": "Corrigé B.10 : « Wenn wir das Fernsehen hätten, gingen wir weniger oft ins Konzert. » On emploie le subjonctif II (« hätten », « gingen ») pour exprimer l'irréel du présent."
     }
   ]
 }

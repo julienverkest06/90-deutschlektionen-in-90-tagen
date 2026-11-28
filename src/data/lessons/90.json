@@ -3,102 +3,183 @@
   "series": 3,
   "authentic": true,
   "titleDe": "Eine neue Welt bringst du uns... (Ernst Wiechert)",
-  "titleFr": "Tu nous apportes un monde nouveau... (Leçon finale !)",
-  "proverbDe": "Ende des Weges, Anfang der Meisterschaft.",
-  "proverbFr": "Fin du parcours, début de la maîtrise !",
+  "titleFr": "Tu nous apportes un monde nouveau... (Ernst Wiechert)",
+  "proverbDe": "Ende gut, alles gut.",
+  "proverbFr": "Tout est bien qui finit bien.",
   "paragraphs": [
     {
-      "de": "— Wir haben einen Neuen, Herr Oberlehrer, sagte der Primus und lächelte vertraulich, einen aus dem Walde. — So? Aus was für einem Walde? Wie heißt er? — Josua Ehrwürden Jeromin, Herr Oberlehrer. — Nun, keine Dummheiten, bitte. Wo ist er?",
-      "fr": "— Monsieur le professeur, il y a un nouveau, dit le premier de la classe avec un sourire familier, un gars de la forêt. — Ah ! de quelle forêt ? Comment s'appelle-t-il ? — Josué Ehrwürden Jeromin, monsieur le Professeur. — Allons, pas de bêtises, je vous prie. Où est-il ?"
+      "de": "– Wir haben einen Neuen, Herr Oberlehrer, sagte der Primus und lächelte vertraulich, einen aus dem Walde. – So? Aus was für einem Walde? Wie heißt er? – Josua Ehrwürden Jeromin, Herr Oberlehrer. – Nun, keine Dummheiten, bitte. Wo ist er?",
+      "fr": "– Monsieur le professeur, il y a un nouveau, dit le premier de la classe avec un sourire familier, un gars de la forêt. – Ah! de quelle forêt? Comment s'appelle-t-il? – Josué Ehrwürden Jeromin, monsieur le Professeur. – Allons, pas de bêtises, je vous prie. Où est-il?"
     },
     {
-      "de": "Jons stand auf. Er trug den selbstgewebten Anzug und das Haar über der breiten Stirn sauber gescheitelt. Seine Augen waren verstört, aber er hatte die Lippen fest geschlossen wie seine Mutter, wenn sie den Steuerbescheid in der Hand hielt.",
-      "fr": "Jons se leva. Il portait son costume tissé à la maison et sur son front large, une raie soigneusement tirée partageait ses cheveux. Ses yeux étaient inquiets, mais il fermait les lèvres aussi étroitement que sa mère tenait en ses mains la feuille des contributions."
+      "de": "Jons stand auf. Er trug den selbstgewebten Anzug und das Haar über der breiten Stirn sauber gescheitelt. Seine Augen waren verstört, aber er hatte die Lippen fest geschlossen wie seine Mutter, wenn sie den Steuerbescheid in der Hand hielt. – Ah, mein Lieber, da bist du ja, sagte der Ordinarius. Laßt eure Witze unterwegs. Dieser kleine Mann aus dem Walde wird euch alle schlagen. Und wie heißt du, mein Sohn? – Jons Ehrenreich Jeromin.",
+      "fr": "Jons se leva. Il portait son costume tissé à la maison et sur son front large, une raie soigneusement tirée partageait ses cheveux. Ses yeux étaient inquiets, mais il fermait les lèvres aussi étroitement que sa mère quand elle tenait en ses mains la feuille des contributions. – Ah, mon cher ami, te voilà donc! dit le professeur principal; Retenez vos plaisanteries : ce petit bonhomme de la forêt vous damera le pion à tous. Et comment t'appelles-tu, mon garçon? – Jons Ehrenreich Jéromine."
     },
     {
-      "de": "— Und wie heißt du, mein Sohn? — Jons Ehrenreich Jeromin. — Richtig, ich erinnere mich. Ein litauischer Vorname und ein Wunschvorname. Und bist du nun auch an Ehren reich, Jeromin? — Nein, Herr Oberlehrer. Mein Vater sagt, vielleicht ist man bei seinem Tode an Ehren reich.",
-      "fr": "— Et comment t'appelles-tu, mon garçon ? — Jons Ehrenreich Jéromine. — Parfaitement, je me souviens : un prénom lituanien et un prénom porte-chance. Et es-tu déjà riche en honneurs, Jéromine ? — Non, monsieur le professeur. Mon père dit que peut-être à l'heure de la mort on est riche en honneurs."
+      "de": "– Richtig, ich erinnere mich. Ein litauischer Vorname und ein Wunschvorname. Und bist du nun auch an Ehren reich, Jeromin? – Nein, Herr Oberlehrer. Mein Vater sagt, vielleicht ist man bei seinem Tode an Ehren reich. – So... das ist recht von deinem Vater. Und was ist dein Vater? – Mein Vater ist Fischer und hat einen Meiler für den Herrn von Balk. – Einen Meiler, sieh mal an! Und wer ist der Herr von Balk? – Der Herr von Balk hat ein Schloß hinter dem Walde, und ihm gehört alles, was wir haben, der See und der Wald und das ganze Dorf.",
+      "fr": "– Parfaitement, je me souviens; un prénom lituanien et un prénom porte-chance. Et es-tu déjà riche en honneurs, Jéromine? – Non, monsieur le professeur. Mon père dit que peut-être à l'heure de la mort on est riche en honneurs. – Tiens! C'est très bien de la part de ton père. Et que fait-il, ton papa? – Mon papa est pêcheur et il entretient une meule à charbon pour le seigneur de Balk. – Une meule! voyez-moi cela. Et qui est le seigneur de Balk? – Le seigneur de Balk a un château au-delà de la forêt et tout ce que nous avons lui appartient, le lac et la forêt, et le village tout entier."
     },
     {
-      "de": "— Und was ist dein Vater? — Mein Vater ist Fischer und hat einen Meiler für den Herrn von Balk. — Der Herr von Balk hat ein Schloß hinter dem Walde, und ihm gehört alles, was wir haben, der See und der Wald und das ganze Dorf.",
-      "fr": "— Et que fait-il, ton père ? — Mon papa est pêcheur et il entretient une meule à charbon pour le seigneur de Balk. — Le seigneur de Balk a un château au-delà de la forêt et tout ce que nous avons lui appartient, le lac et la forêt, et le village tout entier."
+      "de": "– So, und ist er ein guter Herr, der Herr von Balk? – Ja, er ist ein guter Herr, aber er ist traurig, und er hat einen Affen, der Pferdeäpfel wirft, und einen Papagei, der sprechen kann. Otto, sei doch nicht komisch, sagt er.",
+      "fr": "– Ah! Et est-ce un bon maître, le seigneur de Balk? – Oui, c'est un bon maître, mais il est triste, et il a un singe qui vous lance du crottin de cheval et un perroquet qui sait parler. Otto, ne fais donc pas de blagues, dit-il."
+    },
+    {
+      "de": "Die Klasse wand sich vor Vergnügen, aber Oberlehrer Carl, genannt « Charlemagne », sah ihn nachdenklich an. – Eine neue Welt bringst du uns, Jons, sagte er, und wir können sie brauchen... wir sind ein bißchen versteinert hier...",
+      "fr": "La classe se tordait de plaisir, mais le professeur Carl, surnommé « Charlemagne », regardait Jons d'un air pensif. – Tu nous apportes un monde nouveau, Jons, dit-il, et nous en avons besoin; nous sommes un peu sclérosés, ici."
+    },
+    {
+      "de": "So begann der erste Tag in der Schule für Jons, aber nur in der Schule, denn das andre hatte lange vorher begonnen. In der Dämmerung schon, als er erwacht war und die graue Mauer vor seinem Kammerfenster gestanden hatte. Er hatte die Vorhänge nicht zugezogen, weil er Vorhänge nicht kannte und an den Seiten des Fensters so viele Schnüre herunterhingen, daß er Angst hatte, sie anzufassen.",
+      "fr": "C'est ainsi que commença, pour Jons, le premier jour de classe, en classe seulement, car le reste avait commencé depuis longtemps : dès l'aube, lorsqu'il s'était réveillé et avait vu le mur gris devant la fenêtre de sa chambrette. Il n'avait pas tiré les rideaux parce qu'il ne savait pas ce que c'était, et parce que des deux côtés de la fenêtre il pendait tant de cordons qu'il n'osait pas les saisir."
+    },
+    {
+      "de": "Zuerst glaubte er, daß er träume und daß Nebel über dem Walde liege, so daß die Fichten wie eine graue Mauer aussähen. Aber dann erinnerte er sich, und die Erinnerung stürzte wie ein Stein auf seine Brust. Herr Stilling hatte ihn hierher gebracht und war wieder abgefahren, und nun war er allein, so allein wie der Vogel über einem fremden Wald. Nur daß er keine Flügel hatte. Sein Herz brannte ihm, aber immer wenn die Tränen kommen wollten, dachte er an seinen Vater, wie er am Meiler zu ihm gesprochen hatte. — Ernst Wiechert (Die Jeromin-Kinder), Verlag Kurt Desch, München.",
+      "fr": "Tout d'abord il crut qu'il rêvait, et qu'un brouillard couvrait la forêt, de sorte que les pins avaient l'air de former une muraille grise. Mais ensuite il se souvint et ce souvenir tomba comme une peine sur son cœur. M. Stilling l'avait amené ici, et il était reparti, et maintenant il était seul, aussi seul que l'oiseau au-dessus d'une forêt étrangère. Avec cette différence qu'il n'avait pas d'ailes. Son cœur le faisait souffrir, mais lorsque les larmes voulaient lui monter aux yeux, il pensait à son père, lui parlant auprès de la meule. — Ernst Wiechert (Les enfants Jéromine), Calmann-Lévy, Traduction F. Bertaux et E. Lepointe."
     }
   ],
-  "pronunciation": "Félicitations ! Vous avez atteint la 90e et dernière leçon de la Méthode 90 d'Alphonse Jenny, un extrait littéraire du roman « Die Jeromin-Kinder » d'Ernst Wiechert.",
+  "pronunciation": "Extrait de « Die Jeromin-Kinder » d'Ernst Wiechert (dernière leçon de la Méthode 90). Soignez l'accent tonique sur le premier élément des composés : Oberlehrer, Wunschvorname, Steuerbescheid, Pferdeäpfel, Kammerfenster. Notez le « ß » après voyelle brève dans « ein bißchen » et « Schloß » (orthographe de 1970) ainsi que la prononciation de « Dämmerung » et « versteinert ».",
   "vocab": [
     {
-      "de": "der Oberlehrer (-)",
-      "fr": "le professeur principal",
+      "de": "Ehrwürden",
+      "fr": "Votre Révérence (jeu de mots ironique sur « Ehrenreich »)",
+      "info": "Note 1 du texte"
+    },
+    {
+      "de": "das Haar (-e) / das Haar scheiteln",
+      "fr": "le cheveu, la chevelure / faire la raie",
+      "info": "Note 2 du texte"
+    },
+    {
+      "de": "Laßt eure Witze unterwegs",
+      "fr": "Retenez vos plaisanteries (m. à m. : laissez vos traits d'esprit en cours de route)",
+      "info": "Note 3 — Expression"
+    },
+    {
+      "de": "an Ehren reich",
+      "fr": "riche en honneurs",
+      "info": "Note 4 — reich an + Datif"
+    },
+    {
+      "de": "der Pferdeapfel (¨)",
+      "fr": "le crottin de cheval (m. à m. : la pomme de cheval)",
+      "info": "Note 6 — Masculin"
+    },
+    {
+      "de": "ein bißchen",
+      "fr": "un peu (= ein wenig)",
+      "info": "Note 7 — Locution"
+    },
+    {
+      "de": "versteinert",
+      "fr": "pétrifié, sclérosé (de der Stein, la pierre : versteinern, pétrifier)",
+      "info": "Note 8 — Participe"
+    },
+    {
+      "de": "die Dämmerung",
+      "fr": "a) le crépuscule ; b) l'aube",
+      "info": "Note 9 — Féminin"
+    },
+    {
+      "de": "der Meiler (-)",
+      "fr": "la meule à charbon",
       "info": "Masculin"
     },
     {
-      "de": "das Haar (-e)",
-      "fr": "le cheveu, la chevelure",
-      "info": "Neutre"
-    },
-    {
-      "de": "an Ehren reich sein",
-      "fr": "être riche en honneurs",
-      "info": "reich an + Datif"
-    },
-    {
-      "de": "der Fischer (-)",
-      "fr": "le pêcheur",
+      "de": "der Vorhang (¨-e)",
+      "fr": "le rideau",
       "info": "Masculin"
-    },
-    {
-      "de": "das Schloß (¨-er)",
-      "fr": "le château",
-      "info": "Neutre"
     }
   ],
   "grammar": [
     {
-      "title": "Bilan littéraire de la Méthode 90",
-      "body": "• <strong>reich an + Datif</strong> : <em>an Erfahrung reich</em> (riche en expérience).<br>• <strong>Suppression de daß</strong> dans le style parlé/littéraire : <em>Mein Vater sagt, vielleicht ist man...</em> (verbe en 2e position).<br>• Vous maîtrisez désormais l'ensemble des structures essentielles de la langue allemande !"
+      "title": "Note 4 — L'adjectif « reich » gouverne la préposition « an »",
+      "body": "L'adjectif <strong>reich</strong> (riche) se construit avec <strong>an + datif</strong> :<br>• <em>an Ehren reich</em> — riche en honneurs.<br>• <em>Er ist reich an Erfahrung</em> — il est riche en expérience."
+    },
+    {
+      "title": "Note 5 — Suppression de la conjonction « daß »",
+      "body": "Dans <em>Mein Vater sagt, vielleicht ist man...</em>, la conjonction <strong>daß</strong> (que) est supprimée : en l'absence de <em>daß</em>, la subordonnée retrouve l'ordre d'une proposition principale avec le <strong>verbe conjugué en 2e place</strong>."
+    },
+    {
+      "title": "Note 10 — Les verbes mixtes : brennen, denken (Mémento n° 53)",
+      "body": "Ces verbes combinent les terminaisons des verbes faibles et un changement de voyelle au radical :<br>• <strong>brennen, brannte, gebrannt</strong> (brûler) : <em>Sein Herz brannte ihm.</em><br>• <strong>denken, dachte, gedacht</strong> (penser) : <em>dachte er an seinen Vater.</em>"
+    },
+    {
+      "title": "Note 11 — « wollen » auxiliaire du futur proche (Mémento n° 51)",
+      "body": "Dans <em>Wenn die Tränen kommen wollten</em> (« lorsque les larmes voulaient / allaient lui monter aux yeux »), le verbe <strong>wollen</strong> joue le rôle d'un auxiliaire du futur immédiat : « aller + infinitif »."
+    },
+    {
+      "title": "Style indirect et subjonctif dans le récit littéraire",
+      "body": "Dans <em>Zuerst glaubte er, daß er <strong>träume</strong> und daß Nebel über dem Walde <strong>liege</strong>, so daß die Fichten wie eine graue Mauer <strong>aussähen</strong></em>, Wiechert emploie le <strong>Subjonctif 1</strong> (<em>träume, liege</em>) et le <strong>Subjonctif 2</strong> (<em>aussähen</em>, pour éviter la confusion avec l'indicatif présent <em>aussehen</em>) afin de rapporter les pensées intérieures de Jons."
     }
   ],
   "exercises": [
     {
       "type": "choice",
-      "prompt": "Quelle préposition gouverne l'adjectif « reich » (riche en...) ?",
+      "prompt": "Quelle préposition et quel cas gouverne l'adjectif « reich » (Note 4 : « an Ehren reich ») ?",
       "options": [
-        "an + Datif (an Ehren reich)",
-        "von + Datif",
-        "mit + Datif",
-        "für + Accusatif"
+        "an + datif",
+        "von + datif",
+        "mit + datif",
+        "für + accusatif"
       ],
-      "answer": "an + Datif (an Ehren reich)",
-      "hint": "Note 4 du texte : « L'adjectif reich gouverne la préposition an. »",
-      "explanation": "an Ehren reich / reich an Erfahrung."
+      "answer": "an + datif",
+      "hint": "Regardez l'exemple de la Note 4 : « Er ist reich an Erfahrung ».",
+      "explanation": "L'adjectif « reich » gouverne « an + datif » : « an Ehren reich » (riche en honneurs), « reich an Erfahrung » (riche en expérience)."
     },
     {
       "type": "choice",
-      "prompt": "Quel est le métier du père de Jons Ehrenreich Jeromin ?",
+      "prompt": "Pourquoi le verbe « ist » occupe-t-il la 2e place dans « Mein Vater sagt, vielleicht ist man bei seinem Tode an Ehren reich » ? (Note 5)",
       "options": [
-        "Pêcheur et charbonnier (Fischer und Köhler)",
-        "Ébéniste (Tischler)",
-        "Douanier (Zöllner)",
-        "Médecin (Arzt)"
+        "Parce que la conjonction « daß » a été supprimée.",
+        "Parce que « vielleicht » est une conjonction de coordination.",
+        "Parce qu'il s'agit d'une phrase interrogative.",
+        "Parce que le verbe « sein » ne va jamais à la fin."
       ],
-      "answer": "Pêcheur et charbonnier (Fischer und Köhler)",
-      "hint": "« Mein Vater ist Fischer und hat einen Meiler... »",
-      "explanation": "Il est pêcheur et entretient une meule à charbon."
+      "answer": "Parce que la conjonction « daß » a été supprimée.",
+      "hint": "Sans conjonction de subordination, la proposition adopte l'ordre de la principale.",
+      "explanation": "Note 5 : lorsqu'on supprime « daß », le verbe conjugué revient en 2e position (après « vielleicht ») au lieu d'être rejeté à la fin."
+    },
+    {
+      "type": "fill",
+      "prompt": "Donnez le prétérit de « denken » (verbe mixte, Note 10) : « ... ___ er an seinen Vater. »",
+      "answer": "dachte",
+      "hint": "Les temps primitifs de denken sont : denken, ..., gedacht.",
+      "explanation": "Note 10 : « denken, dachte, gedacht » (penser) est un verbe mixte, tout comme « brennen, brannte, gebrannt »."
+    },
+    {
+      "type": "choice",
+      "prompt": "Que signifie « die Dämmerung » selon la Note 9 du texte ?",
+      "options": [
+        "Le crépuscule ou l'aube",
+        "La muraille grise",
+        "La forêt étrangère",
+        "Le brouillard épais"
+      ],
+      "answer": "Le crépuscule ou l'aube",
+      "hint": "Le mot désigne les deux moments de faible lumière du jour (ici traduit par « dès l'aube »).",
+      "explanation": "Note 9 : « die Dämmerung » signifie a) le crépuscule ; b) l'aube."
+    },
+    {
+      "type": "fill",
+      "prompt": "Complétez la locution équivalente à « ein wenig » (Note 7) : « wir sind ein ___ versteinert hier... » (orthographe de 1970)",
+      "answer": "bißchen",
+      "hint": "En orthographe de 1970, on écrit ce mot avec « ß ».",
+      "explanation": "Note 7 : « ein bißchen = ein wenig, un peu ». « versteinert » vient de « der Stein » (la pierre) → « versteinern » (pétrifier)."
     },
     {
       "type": "order",
-      "prompt": "Phrase finale de la Méthode 90 :",
+      "prompt": "Reconstituez la phrase titre de la Leçon 90 prononcée par le professeur Carl :",
       "words": [
         "Eine",
         "neue",
         "Welt",
         "bringst",
         "du",
-        "uns!"
+        "uns,",
+        "Jons."
       ],
-      "answer": "Eine neue Welt bringst du uns!",
-      "hint": "Titre même de la Leçon 90 !",
-      "explanation": "Eine neue Welt bringst du uns! Bravo pour avoir achevé les 90 leçons !"
+      "answer": "Eine neue Welt bringst du uns, Jons.",
+      "hint": "Le complément d'objet « Eine neue Welt » est mis en relief en tête, suivi du verbe en 2e position.",
+      "explanation": "« Eine neue Welt bringst du uns, Jons. » (Tu nous apportes un monde nouveau, Jons.)"
     }
   ]
 }

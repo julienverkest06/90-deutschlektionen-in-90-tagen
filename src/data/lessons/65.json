@@ -2,76 +2,201 @@
   "id": "65",
   "series": 2,
   "authentic": true,
-  "titleDe": "Beim Schuhmacher (sehr vs viel & noms composés)",
-  "titleFr": "Chez le cordonnier : « beaucoup » et ordre des noms composés",
-  "proverbDe": "Schuster, bleib bei deinem Leisten.",
-  "proverbFr": "Cordonnier, pas plus haut que la chaussure (chacun son métier).",
+  "titleDe": "Im Schuhgeschäft und beim Schuster",
+  "titleFr": "Dans le magasin de chaussures et chez le cordonnier",
+  "proverbDe": "Schuster, bleib' bei deinem Leisten.",
+  "proverbFr": "A chacun son métier (Savetier, reste près de ta forme).",
   "paragraphs": [
     {
-      "de": "Er leiht mir seine Schuhbürste. Es tut mir sehr leid. Ich danke Ihnen sehr für Ihre Aufnahme. Er hat viel gelesen.",
-      "fr": "Il me prête sa brosse à chaussures. Je suis vraiment désolé. Je vous remercie beaucoup de votre accueil. Il a beaucoup lu."
+      "de": "— Womit kann ich Ihnen dienen? — Ich möchte ein Paar schwarze Halbschuhe. — Haben Sie sich ein Modell im Schaufenster gemerkt? — Ja. Am besten zeige ich es Ihnen.",
+      "fr": "— Qu'y a-t-il pour votre service? (m. à m. : avec quoi puis-je vous servir?) — Je voudrais une paire de chaussures basses, noires. — Avez-vous remarqué un modèle en devanture? — Oui. Le mieux est que je vous le montre."
+    },
+    {
+      "de": "— Was für eine Schuhgröße haben Sie? — Einundvierzig; ich habe einen ziemlich breiten Fuß. (Der Kunde hat den linken Schuh gleich ausgezogen, um Zeit zu gewinnen. Indessen kommt der Verkäufer zurück, mit Pappschachteln beladen). — Dieser Schuh drückt mich. — Leider ist es die größte Nummer, die mir von diesem Modell übrigbleibt. Ich will jedoch im Vorrat nachsehen. — Es tut mir sehr leid, aber ich verfüge nicht mehr über die größere Nummer. — Nun, probieren wir also dieses andere Modell an! — O! Es ist mir viel zu weit! — Dieser Schuh paßt mir besser; ich bin bequem darin.",
+      "fr": "— Quelle est votre pointure? — Du 41; j'ai le pied assez large. (Le client a tout de suite ôté sa chaussure de gauche pour gagner du temps. Sur ces entrefaites, le vendeur revient chargé de cartons.) — Cette chaussure me serre. — Malheureusement c'est la taille la plus grande qui me reste dans ce modèle. Je vais cependant m'en assurer dans la réserve. — Je regrette beaucoup, mais je ne dispose plus de la taille au-dessus. — Eh bien, essayons donc cet autre modèle! Ah! C'est bien trop grand. — Cette chaussure va mieux; j'y suis à l'aise."
+    },
+    {
+      "de": "Brauchen Sie sonst noch etwas? Vielleicht ein Schuhpflegemittel: Schuhwichse, Schuhcreme, eine Sprühflasche, eine Schuhbürste? Wir haben auch Socken und Kniestrümpfe in einem ganz neuen Muster. Darf ich sie Ihnen zeigen? — Nein, danke; ich bin damit versorgt.",
+      "fr": "— Avez-vous besoin d'autre chose? Peut-être un produit d'entretien : cirage, crème, un vaporisateur, une brosse? Nous avons également des chaussettes et des demi-bas d'un modèle très récent. Puis-je vous les montrer? — Non, merci; j'en suis pourvu."
+    },
+    {
+      "de": "(Beim Schuster) — Bitte, besohlen Sie mir diese Schuhe : Absatz und Sohle. — Wann werden sie fertig sein? — Freitag abends, gegen sieben Uhr; ist es Ihnen so recht? — Möchten Sie Leder- oder Gummisohlen?",
+      "fr": "(Chez le cordonnier) — Voulez-vous me ressemeler ces chaussures : talon et semelle. — Quand est-ce qu'elles seront prêtes? — Vendredi soir, vers 7 heures; cela irait? — Voudriez-vous des semelles de cuir ou de caoutchouc?"
     }
   ],
-  "pronunciation": "Dans les noms composés (das Schuhpflegemittel), le genre et le pluriel sont toujours déterminés par le dernier mot (das Mittel).",
+  "pronunciation": "Points de prononciation de la leçon : les verbes irréguliers en « ei – ie – ie » (bleiben, blieb, geblieben ; steigen, stieg, gestiegen) ont un [i] long, écrit « ie », au prétérit et au participe passé, alors que ceux de la leçon 63 ont un [i] bref. Dans les mots composés (« das Schuhpflegemittel », « die Pappschachteln », « die Schuhgröße »), l'accent principal porte sur le premier élément. Notez aussi « das Knie » (le « k » se prononce devant « n », « ie » long), « die Schuhwichse » (« chs » se prononce [ks]) et « bequem » (« qu » prononcé [kv], « e » long accentué).",
   "vocab": [
     {
-      "de": "bleiben → blieb, geblieben",
-      "fr": "rester (+ sein)",
-      "info": "Groupe ei - ie - ie"
+      "de": "der Absatz (¨-e)",
+      "fr": "le talon",
+      "info": "Masculin"
     },
     {
-      "de": "leihen → lieh, geliehen",
-      "fr": "prêter",
-      "info": "Groupe ei - ie - ie"
+      "de": "der Halbschuh (-e)",
+      "fr": "la chaussure basse",
+      "info": "Masculin"
     },
     {
-      "de": "sehr",
-      "fr": "beaucoup, très (intensité)",
-      "info": "Avec verbes de sentiment/adjectifs"
+      "de": "der Schuh (-e)",
+      "fr": "la chaussure",
+      "info": "Masculin"
     },
     {
-      "de": "viel",
-      "fr": "beaucoup (quantité)",
-      "info": "Avec verbes d'action/noms"
+      "de": "der Schuster (-)",
+      "fr": "le cordonnier",
+      "info": "Masculin"
     },
     {
-      "de": "vorziehen (o, o)",
-      "fr": "préférer",
-      "info": "Particule séparable : vor"
+      "de": "der Strumpf (¨-e)",
+      "fr": "le bas",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Verkäufer (-)",
+      "fr": "le vendeur",
+      "info": "Masculin"
+    },
+    {
+      "de": "der Vorrat (¨-e)",
+      "fr": "la réserve",
+      "info": "Masculin"
+    },
+    {
+      "de": "die Bürste (n)",
+      "fr": "la brosse",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Sohle (n)",
+      "fr": "la semelle",
+      "info": "Féminin"
+    },
+    {
+      "de": "die Wichse (n)",
+      "fr": "le cirage",
+      "info": "Féminin"
+    },
+    {
+      "de": "das Leder (-)",
+      "fr": "le cuir",
+      "info": "Neutre"
+    },
+    {
+      "de": "das Knie (-)",
+      "fr": "le genou",
+      "info": "Neutre"
     }
   ],
   "grammar": [
     {
-      "title": "Traduire « beaucoup » : sehr vs viel",
-      "body": "• <strong>sehr</strong> exprime l'intensité (devant un adjectif ou avec un verbe de sentiment) : <em>Ich danke Ihnen <strong>sehr</strong>. Sie liebt das Reisen <strong>sehr</strong>.</em><br>• <strong>viel</strong> exprime la quantité : <em>Sie haben <strong>viel</strong> gegessen und <strong>viel</strong> getrunken.</em>"
+      "title": "Die größte Nummer, die mir übrigbleibt.",
+      "body": "<em>Übrig/bleiben</em>, être de reste, rester, est un verbe irrégulier du groupe <em>ei – ie – ie</em>. Exemple :<br><em>bleiben</em>, rester : <em>er blieb</em>, il resta; <em>er ist geblieben</em>, il est resté.<br><br>Appartiennent à ce groupe :<br>• <em>*gedeihen (ie, ie)</em>, prospérer<br>• <em>leihen (ie, ie)</em>, prêter<br>• <em>meiden (ie, ie)</em>, éviter<br>• <em>preisen (ie, ie)</em>, louer, vanter<br>• <em>reiben (ie, ie)</em>, frotter<br>• <em>*scheiden (ie, ie)</em>, se séparer<br>• <em>scheinen (ie, ie)</em>, luire, sembler<br>• <em>schreiben (ie, ie)</em>, écrire<br>• <em>schreien (ie, ie)</em>, crier<br>• <em>schweigen (ie, ie)</em>, se taire<br>• <em>*steigen (ie, ie)</em>, monter<br>• <em>treiben (ie, ie)</em>, pousser<br>• <em>verzeihen (ie, ie)</em>, pardonner<br>• <em>weisen (ie, ie)</em>, indiquer<br><br><strong>Remarques :</strong><br>• Ces verbes ont un [i] long, écrit <em>ie</em>, au prétérit et au participe passé, alors que ceux étudiés dans la leçon 63 ont un [i] bref.<br>• Le verbe <em>steigen</em> est souvent accompagné d'une préposition ou d'une particule qui en précise ou modifie le sens.<br><em>Ich steige auf den Turm</em>, je monte sur la tour.<br><em>Ich steige den Berg hinab</em>, je descends la montagne."
+    },
+    {
+      "title": "Es tut mir sehr leid.",
+      "body": "<strong>Traduction de « beaucoup »</strong><br><br>• <em>sehr</em>, beaucoup, très, grandement, exprime l'intensité.<br><em>Ich danke Ihnen sehr für Ihre Aufnahme</em>, je vous remercie beaucoup de votre accueil.<br><br>• <em>viel</em>, beaucoup, nombre de..., exprime la quantité.<br><em>Er hat viel gelesen</em>, il a beaucoup lu."
+    },
+    {
+      "title": "Das Schuhpflegemittel (-) : le produit d'entretien pour chaussures.",
+      "body": "Notez l'ordre des termes dans les noms composés : nous traduisons en commençant par le dernier : <em>das Mittel (-)</em>, le moyen, le produit; <em>die Pflege (n)</em>, les soins (donnés), l'entretien; <em>der Schuh (e)</em>, la chaussure. Genre et pluriel sont ceux du dernier terme (leçon 13)."
     }
   ],
   "exercises": [
     {
-      "type": "choice",
-      "prompt": "sehr ou viel ? (Exercice B.6) : « Wir freuen uns ___, Sie kennen zu lernen. »",
-      "options": [
-        "sehr",
-        "viel",
-        "viele",
-        "genug"
-      ],
-      "answer": "sehr",
-      "hint": "« sich freuen » exprime un sentiment (intensité) → sehr.",
-      "explanation": "Wir freuen uns sehr..."
+      "type": "fill",
+      "prompt": "(Exercice A.1) Mettez au passé composé : « Er leiht mir seine Schuhbürste. » (Il me prête sa brosse à chaussures.) → « Er hat mir seine Schuhbürste ___. »",
+      "answer": "geliehen",
+      "hint": "Le verbe « leihen » appartient au groupe ei – ie – ie.",
+      "explanation": "Corrigé A.1 : « Er hat mir seine Schuhbürste geliehen. » Les temps primitifs sont : leihen, lieh, geliehen."
     },
     {
       "type": "choice",
-      "prompt": "sehr ou viel ? (Exercice B.7) : « Sie haben ___ gegessen und ___ getrunken. »",
+      "prompt": "(Exercice A.4) Mettez au prétérit : « Sie weist mir den Weg. » (Elle m'indique le chemin.)",
       "options": [
-        "viel / viel",
-        "sehr / sehr",
-        "sehr / viel",
-        "viel / sehr"
+        "Sie wies mir den Weg.",
+        "Sie wiß mir den Weg.",
+        "Sie weiste mir den Weg.",
+        "Sie gewiesen mir den Weg."
       ],
-      "answer": "viel / viel",
-      "hint": "Manger et boire expriment une quantité → viel.",
-      "explanation": "Sie haben viel gegessen und viel getrunken."
+      "answer": "Sie wies mir den Weg.",
+      "hint": "« weisen » suit le modèle ei – ie – ie avec un [i] long écrit « ie ».",
+      "explanation": "Corrigé A.4 : « Sie wies mir den Weg. » Le verbe « weisen » fait « wies » au prétérit et « gewiesen » au participe passé."
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice A.5) Mettez au passé composé : « Die Jungen steigen über den Zaun. » (Les garçons passent par-dessus la clôture.)",
+      "options": [
+        "Die Jungen sind über den Zaun gestiegen.",
+        "Die Jungen haben über den Zaun gestiegen.",
+        "Die Jungen sind über den Zaun gesteigt.",
+        "Die Jungen waren über den Zaun gestiegen."
+      ],
+      "answer": "Die Jungen sind über den Zaun gestiegen.",
+      "hint": "« steigen » est un verbe de mouvement qui se conjugue avec l'auxiliaire « sein ».",
+      "explanation": "Corrigé A.5 : « Die Jungen sind über den Zaun gestiegen. » Comme indiqué par l'astérisque dans la grammaire (*steigen), il se conjugue avec « sein »."
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.6) Complétez par « sehr » ou « viel » : « Wir freuen uns ___, Sie kennen zu lernen. »",
+      "answer": "sehr",
+      "hint": "Il s'agit ici d'intensité (un sentiment) et non de quantité.",
+      "explanation": "Corrigé B.6 : « sehr. Nous sommes très heureux de faire votre connaissance (m. à m. : nous nous réjouissons beaucoup d'apprendre à vous connaître). »"
+    },
+    {
+      "type": "fill",
+      "prompt": "(Exercice B.8) Complétez par « sehr » ou « viel » : « Zwar weiß er ___, doch möcht'er alles wissen. »",
+      "answer": "viel",
+      "hint": "On exprime ici une quantité de connaissances (nombre de choses).",
+      "explanation": "Corrigé B.8 : « viel. Il sait beaucoup sans doute, mais il voudrait tout savoir. »"
+    },
+    {
+      "type": "choice",
+      "prompt": "(Exercice B.9) Complétez par « sehr » ou « viel » : « Sie liebt das Reisen ___. » (Elle aime beaucoup les voyages.)",
+      "options": [
+        "sehr",
+        "viel",
+        "ziemlich",
+        "genug"
+      ],
+      "answer": "sehr",
+      "hint": "Avec le verbe « lieben », « beaucoup » exprime l'intensité.",
+      "explanation": "Corrigé B.9 : « sehr. Elle aime beaucoup les voyages. » On emploie « sehr » pour traduire l'intensité."
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.12) Traduisez : « Mon ami préfère (vorziehen) les semelles en caoutchouc. »",
+      "words": [
+        "Mein",
+        "Freund",
+        "zieht",
+        "die",
+        "Gummisohlen",
+        "vor."
+      ],
+      "answer": "Mein Freund zieht die Gummisohlen vor.",
+      "hint": "« vorziehen » est un verbe à particule séparable : « vor » se place à la fin de la proposition principale.",
+      "explanation": "Corrigé C.12 : « Mein Freund zieht die Gummisohlen vor. »"
+    },
+    {
+      "type": "order",
+      "prompt": "(Exercice C.10) Traduisez : « Ce modèle me plaît beaucoup parce qu'il a un talon assez haut. »",
+      "words": [
+        "Dieses",
+        "Modell",
+        "gefällt",
+        "mir",
+        "sehr,",
+        "weil",
+        "es",
+        "einen",
+        "ziemlich",
+        "hohen",
+        "Absatz",
+        "hat."
+      ],
+      "answer": "Dieses Modell gefällt mir sehr, weil es einen ziemlich hohen Absatz hat.",
+      "hint": "Utilisez « sehr » pour l'intensité et « ziemlich » pour « assez » (passablement) ; « weil » rejette le verbe à la fin.",
+      "explanation": "Corrigé C.10 : « Dieses Modell gefällt mir sehr, weil es einen ziemlich hohen Absatz hat. »"
     }
   ]
 }
